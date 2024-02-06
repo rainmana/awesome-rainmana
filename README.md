@@ -69,6 +69,7 @@
 
 ## C 
 
+- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
 - [eeriedusk/nysm](https://github.com/eeriedusk/nysm) - nysm is a stealth post-exploitation container.
 - [samhocevar/rinetd](https://github.com/samhocevar/rinetd) - 📡 TCP/UDP port redirector
 - [samhocevar/zzuf](https://github.com/samhocevar/zzuf) - 🌪️ Application fuzzer
