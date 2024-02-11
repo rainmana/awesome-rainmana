@@ -184,7 +184,7 @@
 - [binspector/binspector](https://github.com/binspector/binspector) - A binary format analysis tool
 - [JonathanSalwan/PinTools](https://github.com/JonathanSalwan/PinTools) - Pintool example and PoC for dynamic binary analysis
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
-- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: open-source LLM chatbots that you can run anywhere
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: run open-source LLMs anywhere
 - [nlitsme/extfstools](https://github.com/nlitsme/extfstools) - Tools for extracting files from ext2,3,4 filesystem images
 - [codilime/veles](https://github.com/codilime/veles) - Binary data analysis and visualization tool
 - [wapiflapi/veles](https://github.com/wapiflapi/veles) - Visual reverse engineering tool.
@@ -865,7 +865,7 @@
 - [wapiflapi/villoc](https://github.com/wapiflapi/villoc) - Visualization of heap operations.
 - [wapiflapi/binglide](https://github.com/wapiflapi/binglide) - Visual reverse engineering tool. Veles is better, use it. Don't use this.
 - [iOSForensics/pyimg4](https://github.com/iOSForensics/pyimg4) - A python lib for manipulating IMG4, IM4M and IM4P files
-- [jsharkey13/iphone_backup_decrypt](https://github.com/jsharkey13/iphone_backup_decrypt) - Decrypt an encrypted iOS 13+ backup created by iTunes on Windows
+- [jsharkey13/iphone_backup_decrypt](https://github.com/jsharkey13/iphone_backup_decrypt) - Decrypt an encrypted iOS backup created by iTunes on Windows or MacOS
 - [axi0mX/ipwndfu](https://github.com/axi0mX/ipwndfu) - open-source jailbreaking tool for many iOS devices
 - [GuardianFirewall/grandmaster](https://github.com/GuardianFirewall/grandmaster) - A simplistic python tool that assists in automating iOS firmware decryption.
 - [Glastis/Flipper-Zero-music-converter](https://github.com/Glastis/Flipper-Zero-music-converter) - Convert midi into fmf
