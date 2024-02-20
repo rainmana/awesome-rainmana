@@ -752,7 +752,7 @@
 - [defparam/smuggler](https://github.com/defparam/smuggler) - Smuggler - An HTTP Request Smuggling / Desync testing tool written in Python 3
 - [helviojunior/knowsmore](https://github.com/helviojunior/knowsmore) - KnowsMore is a swiss army knife tool for pentesting Microsoft Active Directory (NTLM Hashes, BloodHound, NTDS and DCSync).
 - [HalilDeniz/NetProbe](https://github.com/HalilDeniz/NetProbe) - NetProbe: Network Probe
-- [ugorsahin/TalkingHeads](https://github.com/ugorsahin/TalkingHeads) - A lıbrary to communicate with Bard, HuggingChat, ChatGPT, Claude, Copilot and Pi
+- [ugorsahin/TalkingHeads](https://github.com/ugorsahin/TalkingHeads) - A library to communicate with ChatGPT, Claude, Copilot, Gemini, HuggingChat, and Pi
 - [dsdanielpark/Bard-API](https://github.com/dsdanielpark/Bard-API) - The unofficial python package that returns response of Google Bard through cookie value.
 - [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models) - Generative Models by Stability AI
 - [fortra/impacket](https://github.com/fortra/impacket) - Impacket is a collection of Python classes for working with network protocols.
