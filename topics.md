@@ -2034,7 +2034,6 @@
 - [vergl4s/pentesting-dump](https://github.com/vergl4s/pentesting-dump) - Scripts, tools, and proof-of-concepts to aid in a penetration test.
 - [S3cur3Th1sSh1t/Creds](https://github.com/S3cur3Th1sSh1t/Creds) - Some usefull Scripts and Executables for Pentest & Forensics
 - [killswitch-GUI/PenTesting-Scripts](https://github.com/killswitch-GUI/PenTesting-Scripts) - A ton of helpful tools
-- [NayamAmarshe/Cyberpunk-GRUB-Theme](https://github.com/NayamAmarshe/Cyberpunk-GRUB-Theme) - Cyberpunk 2077 Grub Theme
 - [olssonm/google-wifi-api](https://github.com/olssonm/google-wifi-api) - Discovered API-endpoints for the Google Wifi Router and OnHub
 - [NetworkDeviceTaxonomy/wifi_taxonomy](https://github.com/NetworkDeviceTaxonomy/wifi_taxonomy) - Database of known signatures identified using the mechanism in "Passive Taxonomy of Wifi Clients using MLME Frame Contents" from research.google.com/pubs/pub45429.html
 - [Ekultek/Zeus-Scanner](https://github.com/Ekultek/Zeus-Scanner) - Advanced reconnaissance utility
