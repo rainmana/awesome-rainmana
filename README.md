@@ -739,6 +739,7 @@
 
 ## Python 
 
+- [0xNslabs/CanaryTokenScanner](https://github.com/0xNslabs/CanaryTokenScanner) - Script designed to identify Canary Tokens within Microsoft Office documents and Acrobat Reader PDF (docx, xlsx, pptx, pdf).
 - [xaitax/SploitScan](https://github.com/xaitax/SploitScan) - SploitScan is a sophisticated cybersecurity utility designed to provide detailed information on vulnerabilities and associated proof-of-concept (PoC) exploits.
 - [dhishan/UPnP-Hack](https://github.com/dhishan/UPnP-Hack) - 
 - [cowrie/cowrie](https://github.com/cowrie/cowrie) - Cowrie SSH/Telnet Honeypot https://cowrie.readthedocs.io
