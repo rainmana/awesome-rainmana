@@ -2215,6 +2215,7 @@
 
 ## pentesting 
 
+- [JoelGMSec/AutoRDPwn](https://github.com/JoelGMSec/AutoRDPwn) - The Shadow Attack Framework
 - [spyboy-productions/r4ven](https://github.com/spyboy-productions/r4ven) - Track the IP address and GPS location of the user's smartphone or PC and capture a picture of the target, along with device information.
 - [OJ/gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go
 - [Brum3ns/firefly](https://github.com/Brum3ns/firefly) - Black box fuzzer for web applications
@@ -2271,6 +2272,7 @@
 
 ## powershell 
 
+- [JoelGMSec/AutoRDPwn](https://github.com/JoelGMSec/AutoRDPwn) - The Shadow Attack Framework
 - [UNC0V3R3D/Flipper_Zero-BadUsb](https://github.com/UNC0V3R3D/Flipper_Zero-BadUsb) - Over 70 advanced BadUSB scripts for the Flipper Zero! By downloading the files, you automatically agree to the license and the terms outlined in the ReadMe. If you have any questions, please don't hes
 - [rsteube/carapace-bin](https://github.com/rsteube/carapace-bin) - multi-shell multi-command argument completer
 - [nyabkun/bash-to-powershell-converter](https://github.com/nyabkun/bash-to-powershell-converter) - Converts bash script to powershell script.
@@ -2948,6 +2950,7 @@
 
 ## windows 
 
+- [JoelGMSec/AutoRDPwn](https://github.com/JoelGMSec/AutoRDPwn) - The Shadow Attack Framework
 - [carlospolop/PEASS-ng](https://github.com/carlospolop/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
 - [calebstewart/pwncat](https://github.com/calebstewart/pwncat) - Fancy reverse and bind shell handler
 - [ergrelet/windiff](https://github.com/ergrelet/windiff) - Web-based tool that allows comparing symbol, type and syscall information of Microsoft Windows binaries across different versions of the OS.
