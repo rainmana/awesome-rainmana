@@ -415,6 +415,7 @@
 
 ## JavaScript 
 
+- [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) - Community curated list of templates for the nuclei engine to find security vulnerabilities.
 - [Promptly-Technologies-LLC/rss-fetch-action](https://github.com/Promptly-Technologies-LLC/rss-fetch-action) - Github Action to scrape an RSS feed to display on a Github Pages website
 - [samhocevar/no-fucking-thanks](https://github.com/samhocevar/no-fucking-thanks) - Expose NFTs
 - [atsepkov/RapydScript](https://github.com/atsepkov/RapydScript) - Python-inspired, decluttered JavaScript
@@ -587,6 +588,7 @@
 
 ## Others 
 
+- [projectdiscovery/fuzzing-templates](https://github.com/projectdiscovery/fuzzing-templates) - Community curated list of nuclei templates for finding "unknown" security vulnerabilities.
 - [plenaryapp/awesome-rss-feeds](https://github.com/plenaryapp/awesome-rss-feeds) - Awesome RSS feeds - A curated list of RSS feeds (and OPML files) used in Recommended Feeds and local news sections of Plenary - an RSS reader, article downloader and a podcast player app for android
 - [PyHAT-stack/awesome-python-htmx](https://github.com/PyHAT-stack/awesome-python-htmx) - A curated list of things related to python-based web development using htmx
 - [0x90n/InfoSec-Black-Friday](https://github.com/0x90n/InfoSec-Black-Friday) - All the deals for InfoSec related software/tools this Black Friday
@@ -1174,6 +1176,7 @@
 
 ## Shell 
 
+- [U53RW4R3/RKS](https://github.com/U53RW4R3/RKS) - A script to automate keystrokes through a graphical desktop program.
 - [Trevohack/DynastyPersist](https://github.com/Trevohack/DynastyPersist) - A Linux persistence tool!
 - [Shuffle/Shuffle](https://github.com/Shuffle/Shuffle) - Shuffle: A general purpose security automation platform. Our focus is on collaboration and resource sharing.
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
