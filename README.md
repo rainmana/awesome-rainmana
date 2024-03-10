@@ -824,7 +824,7 @@
 - [Syslifters/sysreptor](https://github.com/Syslifters/sysreptor) - Fully customisable, offensive security reporting solution designed for pentesters, red teamers and other security-related people alike.
 - [reddelexc/hackerone-reports](https://github.com/reddelexc/hackerone-reports) - Top disclosed reports from HackerOne
 - [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://h2oai.github.io/h2o-llmstudio/
-- [Sinaptik-AI/pandas-ai](https://github.com/Sinaptik-AI/pandas-ai) - 🤖 Chat with your database (SQL, CSV, pandas, polars, mongodb, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.
+- [Sinaptik-AI/pandas-ai](https://github.com/Sinaptik-AI/pandas-ai) - Chat with your database (SQL, CSV, pandas, polars, mongodb, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.
 - [JeffLIrion/adb_shell](https://github.com/JeffLIrion/adb_shell) - A Python implementation of ADB with shell and FileSync functionality.
 - [google/python-adb](https://github.com/google/python-adb) - Python ADB + Fastboot implementation
 - [google/enjarify](https://github.com/google/enjarify) - 
@@ -896,7 +896,7 @@
 - [julzerinos/python-scraping-tools](https://github.com/julzerinos/python-scraping-tools) - A collection of repeatable methods and concepts appearing in python web scraping with the use of Scrapy and Selenium
 - [Conso1eCowb0y/Deepminer](https://github.com/Conso1eCowb0y/Deepminer) - Deep web crawler and search engine
 - [Rolstenhouse/py-iMessage](https://github.com/Rolstenhouse/py-iMessage) - python library to send iMessages
-- [codelucas/newspaper](https://github.com/codelucas/newspaper) - News, full-text, and article metadata extraction in Python 3. Advanced docs:
+- [codelucas/newspaper](https://github.com/codelucas/newspaper) - newspaper3k is a news, full-text, and article metadata extraction in Python 3. Advanced docs:
 - [mohamed17717/scraper-helper](https://github.com/mohamed17717/scraper-helper) - some classes i used most when i try to scrape
 - [ydkhatri/mac_apt](https://github.com/ydkhatri/mac_apt) - macOS (& ios) Artifact Parsing Tool
 - [richardpenman/browsercookie](https://github.com/richardpenman/browsercookie) - 
