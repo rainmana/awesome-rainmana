@@ -271,6 +271,7 @@
 
 ## api 
 
+- [nasa/api-docs](https://github.com/nasa/api-docs) - api.nasa.gov
 - [projectdiscovery/fuzzing-templates](https://github.com/projectdiscovery/fuzzing-templates) - Community curated list of nuclei templates for finding "unknown" security vulnerabilities.
 - [davidesantangelo/api.rss](https://github.com/davidesantangelo/api.rss) - RSS as RESTful. This service allows you to transform RSS feed into an awesome API.
 - [dsdanielpark/Bard-API](https://github.com/dsdanielpark/Bard-API) - The unofficial python package that returns response of Google Bard through cookie value.
@@ -713,6 +714,7 @@
 
 ## deep-learning 
 
+- [nasa/delta](https://github.com/nasa/delta) - Deep Learning for Satellite Imagery
 - [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - YOLOv5 🚀 in PyTorch &gt; ONNX &gt; CoreML &gt; TFLite
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [nerfstudio-project/nerfstudio](https://github.com/nerfstudio-project/nerfstudio) - A collaboration friendly studio for NeRFs
@@ -735,6 +737,7 @@
 
 ## deployment 
 
+- [nasa-jpl/launchbox](https://github.com/nasa-jpl/launchbox) - A runtime environment for web applications.
 - [StackStorm/st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 160 i
 
 ## design 
@@ -790,6 +793,7 @@
 
 ## documentation 
 
+- [nasa/nasa-latex-docs](https://github.com/nasa/nasa-latex-docs) - An easy and convenient package to create technical LaTeX documents.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 
@@ -1103,6 +1107,8 @@
 
 ## hacktoberfest 
 
+- [nasa-jpl/launchbox](https://github.com/nasa-jpl/launchbox) - A runtime environment for web applications.
+- [nasa/earthdata-search](https://github.com/nasa/earthdata-search) - Earthdata Search is a web application developed by NASA EOSDIS to enable data discovery, search, comparison, visualization, and access across EOSDIS' Earth Science data holdings.
 - [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) - Community curated list of templates for the nuclei engine to find security vulnerabilities.
 - [WerWolv/ImHex-Patterns](https://github.com/WerWolv/ImHex-Patterns) - Hex patterns, include patterns and magic files for the use with the ImHex Hex Editor
 - [Shuffle/Shuffle](https://github.com/Shuffle/Shuffle) - Shuffle: A general purpose security automation platform. Our focus is on collaboration and resource sharing.
@@ -1255,6 +1261,7 @@
 
 ## javascript 
 
+- [nasa/api-docs](https://github.com/nasa/api-docs) - api.nasa.gov
 - [atsepkov/RapydScript](https://github.com/atsepkov/RapydScript) - Python-inspired, decluttered JavaScript
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. 
 - [theIYD/HrefScraper](https://github.com/theIYD/HrefScraper) - A tiny chrome extension which scraps all the hrefs from a particular page and downloads them as a text document.
@@ -1353,6 +1360,7 @@
 
 ## latex 
 
+- [nasa/nasa-latex-docs](https://github.com/nasa/nasa-latex-docs) - An easy and convenient package to create technical LaTeX documents.
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 
 ## learning 
@@ -1431,6 +1439,7 @@
 
 ## machine-learning 
 
+- [nasa/delta](https://github.com/nasa/delta) - Deep Learning for Satellite Imagery
 - [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
 - [davidesantangelo/dato.rss](https://github.com/davidesantangelo/dato.rss) - The best RSS Search experience you can find
 - [davidesantangelo/api.rss](https://github.com/davidesantangelo/api.rss) - RSS as RESTful. This service allows you to transform RSS feed into an awesome API.
@@ -1638,6 +1647,7 @@
 
 ## open-source 
 
+- [nasa-jpl/open-source-rover](https://github.com/nasa-jpl/open-source-rover) - A build-it-yourself, 6-wheel rover based on the rovers on Mars!
 - [blst-security/cherrybomb](https://github.com/blst-security/cherrybomb) - Stop half-done APIs! Cherrybomb is a CLI tool that helps you avoid undefined user behaviour by auditing your API specifications, validating them and running API security tests.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for building business apps and workflows in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀
@@ -1689,6 +1699,28 @@
 
 ## others 
 
+- [nasa-jpl/autoRIFT](https://github.com/nasa-jpl/autoRIFT) - A Python module of a fast and intelligent algorithm for finding the pixel displacement between two images
+- [nasa-jpl/osr-rover-code](https://github.com/nasa-jpl/osr-rover-code) - Code that runs on the Open Source Rover
+- [nasa/bingo](https://github.com/nasa/bingo) - 
+- [nasa/EADINLite](https://github.com/nasa/EADINLite) - EADIN_Lite Network Protocol
+- [nasa/dictionaries](https://github.com/nasa/dictionaries) - A collection of NASA "dictionaries", including thesauri, taxonomies and ontologies.
+- [nasa/HDTN](https://github.com/nasa/HDTN) - High-rate Delay Tolerant Network (HDTN) Software
+- [nasa/pretrained-microscopy-models](https://github.com/nasa/pretrained-microscopy-models) - 
+- [nasa/NASA-Acronyms](https://github.com/nasa/NASA-Acronyms) - 
+- [nasa/OpenSPIFe](https://github.com/nasa/OpenSPIFe) - The Open Scheduling and Planning Interface for Exploration (OpenSPIFe) is an integrated planning and scheduling toolkit based on hundreds of hours of expert observation, use, and refinement of state-o
+- [nasa/autodoc](https://github.com/nasa/autodoc) - Create Microsoft Documents automatically using Text and Template files
+- [nasa/QuIP](https://github.com/nasa/QuIP) - QuIP provides an interactive environment for computing and presenting images and image sequences, manipulating and storing arbitrary data, and general scientific computing and plotting.  The current r
+- [nasa/prog_models](https://github.com/nasa/prog_models) - The NASA Prognostic Model Package is a Python framework focused on defining and building models for prognostics (computation of remaining useful life) of engineering systems, and provides a set of pro
+- [nasa/meshNetwork](https://github.com/nasa/meshNetwork) - 
+- [nasa/icarous](https://github.com/nasa/icarous) - ICAROUS  is a software architecture for the development of UAS applications
+- [nasa/CrisisMappingToolkit](https://github.com/nasa/CrisisMappingToolkit) - NASA Ames Crisis Mapping Toolkit
+- [nasa/europa](https://github.com/nasa/europa) - 
+- [nasa/isle](https://github.com/nasa/isle) - 
+- [nasa/T-MATS](https://github.com/nasa/T-MATS) - An open source thermodynamic modeling package completed on behalf of NASA. The Toolbox for the Modeling and Analysis of Thermodynamic Systems (T-MATS) package offers a MATLAB/Simulink toolbox that giv
+- [nasa/eefs](https://github.com/nasa/eefs) - EEPROM File System
+- [nasa/spaceapps](https://github.com/nasa/spaceapps) - 
+- [nasa/openmct](https://github.com/nasa/openmct) - A web based mission control framework.
+- [chrismaltby/gb-studio](https://github.com/chrismaltby/gb-studio) - A quick and easy to use drag and drop retro game creator for your favourite handheld video game system
 - [U53RW4R3/RKS](https://github.com/U53RW4R3/RKS) - A script to automate keystrokes through a graphical desktop program.
 - [0xNslabs/CanaryTokenScanner](https://github.com/0xNslabs/CanaryTokenScanner) - Script designed to identify Canary Tokens within Microsoft Office documents and Acrobat Reader PDF (docx, xlsx, pptx, pdf).
 - [tdurieux/anonymous_github](https://github.com/tdurieux/anonymous_github) - Anonymous Github is a proxy server to support anonymous browsing of Github repositories for open-science code and data.
@@ -2315,6 +2347,8 @@
 
 ## python 
 
+- [nasa-jpl/launchbox](https://github.com/nasa-jpl/launchbox) - A runtime environment for web applications.
+- [nasa/api-docs](https://github.com/nasa/api-docs) - api.nasa.gov
 - [go-python/gopy](https://github.com/go-python/gopy) - gopy generates a CPython extension module from a go package.
 - [tiangolo/full-stack-fastapi-template](https://github.com/tiangolo/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [pyodide/pyodide](https://github.com/pyodide/pyodide) - Pyodide is a Python distribution for the browser and Node.js based on WebAssembly
@@ -2603,6 +2637,7 @@
 
 ## robotics 
 
+- [nasa-jpl/open-source-rover](https://github.com/nasa-jpl/open-source-rover) - A build-it-yourself, 6-wheel rover based on the rovers on Mars!
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 
 ## ruby 
