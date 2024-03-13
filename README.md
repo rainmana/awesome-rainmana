@@ -40,6 +40,7 @@
 - [Perl](#perl)
 - [PowerShell](#powershell)
 - [Processing](#processing)
+- [Prolog](#prolog)
 - [Python](#python)
 - [R](#r)
 - [Ruby](#ruby)
@@ -48,6 +49,7 @@
 - [Scala](#scala)
 - [Shell](#shell)
 - [Swift](#swift)
+- [TeX](#tex)
 - [TypeScript](#typescript)
 - [VBScript](#vbscript)
 - [Verilog](#verilog)
@@ -69,6 +71,10 @@
 
 ## C 
 
+- [nasa/QuIP](https://github.com/nasa/QuIP) - QuIP provides an interactive environment for computing and presenting images and image sequences, manipulating and storing arbitrary data, and general scientific computing and plotting.  The current r
+- [nasa/icarous](https://github.com/nasa/icarous) - ICAROUS  is a software architecture for the development of UAS applications
+- [nasa/eefs](https://github.com/nasa/eefs) - EEPROM File System
+- [chrismaltby/gb-studio](https://github.com/chrismaltby/gb-studio) - A quick and easy to use drag and drop retro game creator for your favourite handheld video game system
 - [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
 - [eeriedusk/nysm](https://github.com/eeriedusk/nysm) - nysm is a stealth post-exploitation container.
 - [samhocevar/rinetd](https://github.com/samhocevar/rinetd) - 📡 TCP/UDP port redirector
@@ -178,6 +184,10 @@
 
 ## C++ 
 
+- [nasa/EADINLite](https://github.com/nasa/EADINLite) - EADIN_Lite Network Protocol
+- [nasa/HDTN](https://github.com/nasa/HDTN) - High-rate Delay Tolerant Network (HDTN) Software
+- [nasa/meshNetwork](https://github.com/nasa/meshNetwork) - 
+- [nasa/europa](https://github.com/nasa/europa) - 
 - [MandConsultingGroup/ring3-kit](https://github.com/MandConsultingGroup/ring3-kit) - Hides Process From Task Manager Using NT API Hooking (NtQuerySystemInformation)
 - [SysSec-KAIST/LTESniffer](https://github.com/SysSec-KAIST/LTESniffer) - An Open-source LTE Downlink/Uplink Eavesdropper
 - [ByteWelder/Decktility](https://github.com/ByteWelder/Decktility) - A handheld PC
@@ -361,6 +371,8 @@
 
 ## HTML 
 
+- [nasa/dictionaries](https://github.com/nasa/dictionaries) - A collection of NASA "dictionaries", including thesauri, taxonomies and ontologies.
+- [nasa/T-MATS](https://github.com/nasa/T-MATS) - An open source thermodynamic modeling package completed on behalf of NASA. The Toolbox for the Modeling and Analysis of Thermodynamic Systems (T-MATS) package offers a MATLAB/Simulink toolbox that giv
 - [tdurieux/anonymous_github](https://github.com/tdurieux/anonymous_github) - Anonymous Github is a proxy server to support anonymous browsing of Github repositories for open-science code and data.
 - [minhhungit/github-action-rss-crawler](https://github.com/minhhungit/github-action-rss-crawler) - Auto crawl RSS feeds using Github Action
 - [spyboy-productions/r4ven](https://github.com/spyboy-productions/r4ven) - Track the IP address and GPS location of the user's smartphone or PC and capture a picture of the target, along with device information.
@@ -389,6 +401,7 @@
 
 ## Java 
 
+- [nasa/OpenSPIFe](https://github.com/nasa/OpenSPIFe) - The Open Scheduling and Planning Interface for Exploration (OpenSPIFe) is an integrated planning and scheduling toolkit based on hundreds of hours of expert observation, use, and refinement of state-o
 - [d-millar/ghidra_pcode_scripts](https://github.com/d-millar/ghidra_pcode_scripts) - a few Ghidra scripts for dumping PCode data
 - [digital-preservation/droid](https://github.com/digital-preservation/droid) - DROID (Digital Record and Object Identification)
 - [google/binnavi](https://github.com/google/binnavi) - BinNavi is a binary analysis IDE that allows to inspect, navigate, edit and annotate control flow graphs and call graphs of disassembled code.
@@ -415,6 +428,10 @@
 
 ## JavaScript 
 
+- [nasa/NASA-Acronyms](https://github.com/nasa/NASA-Acronyms) - 
+- [nasa/isle](https://github.com/nasa/isle) - 
+- [nasa/earthdata-search](https://github.com/nasa/earthdata-search) - Earthdata Search is a web application developed by NASA EOSDIS to enable data discovery, search, comparison, visualization, and access across EOSDIS' Earth Science data holdings.
+- [nasa/openmct](https://github.com/nasa/openmct) - A web based mission control framework.
 - [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) - Community curated list of templates for the nuclei engine to find security vulnerabilities.
 - [Promptly-Technologies-LLC/rss-fetch-action](https://github.com/Promptly-Technologies-LLC/rss-fetch-action) - Github Action to scrape an RSS feed to display on a Github Pages website
 - [samhocevar/no-fucking-thanks](https://github.com/samhocevar/no-fucking-thanks) - Expose NFTs
@@ -588,6 +605,9 @@
 
 ## Others 
 
+- [nasa/autodoc](https://github.com/nasa/autodoc) - Create Microsoft Documents automatically using Text and Template files
+- [nasa/prog_models](https://github.com/nasa/prog_models) - The NASA Prognostic Model Package is a Python framework focused on defining and building models for prognostics (computation of remaining useful life) of engineering systems, and provides a set of pro
+- [nasa/spaceapps](https://github.com/nasa/spaceapps) - 
 - [projectdiscovery/fuzzing-templates](https://github.com/projectdiscovery/fuzzing-templates) - Community curated list of nuclei templates for finding "unknown" security vulnerabilities.
 - [plenaryapp/awesome-rss-feeds](https://github.com/plenaryapp/awesome-rss-feeds) - Awesome RSS feeds - A curated list of RSS feeds (and OPML files) used in Recommended Feeds and local news sections of Plenary - an RSS reader, article downloader and a podcast player app for android
 - [PyHAT-stack/awesome-python-htmx](https://github.com/PyHAT-stack/awesome-python-htmx) - A curated list of things related to python-based web development using htmx
@@ -740,8 +760,19 @@
 
 - [pavels/spektrum](https://github.com/pavels/spektrum) - rtl-sdr spectrum analyzer
 
+## Prolog 
+
+- [nasa-jpl/open-source-rover](https://github.com/nasa-jpl/open-source-rover) - A build-it-yourself, 6-wheel rover based on the rovers on Mars!
+
 ## Python 
 
+- [nasa-jpl/launchbox](https://github.com/nasa-jpl/launchbox) - A runtime environment for web applications.
+- [nasa-jpl/autoRIFT](https://github.com/nasa-jpl/autoRIFT) - A Python module of a fast and intelligent algorithm for finding the pixel displacement between two images
+- [nasa-jpl/osr-rover-code](https://github.com/nasa-jpl/osr-rover-code) - Code that runs on the Open Source Rover
+- [nasa/bingo](https://github.com/nasa/bingo) - 
+- [nasa/pretrained-microscopy-models](https://github.com/nasa/pretrained-microscopy-models) - 
+- [nasa/CrisisMappingToolkit](https://github.com/nasa/CrisisMappingToolkit) - NASA Ames Crisis Mapping Toolkit
+- [nasa/delta](https://github.com/nasa/delta) - Deep Learning for Satellite Imagery
 - [0xNslabs/CanaryTokenScanner](https://github.com/0xNslabs/CanaryTokenScanner) - Script designed to identify Canary Tokens within Microsoft Office documents and Acrobat Reader PDF (docx, xlsx, pptx, pdf).
 - [xaitax/SploitScan](https://github.com/xaitax/SploitScan) - SploitScan is a sophisticated cybersecurity utility designed to provide detailed information on vulnerabilities and associated proof-of-concept (PoC) exploits.
 - [dhishan/UPnP-Hack](https://github.com/dhishan/UPnP-Hack) - 
@@ -1167,6 +1198,7 @@
 
 ## SCSS 
 
+- [nasa/api-docs](https://github.com/nasa/api-docs) - api.nasa.gov
 - [sujaykundu777/devlopr-jekyll](https://github.com/sujaykundu777/devlopr-jekyll) - (FREE SITE GENERATOR) - A Customizable/Hackable portfolio jekyll theme where you can blog using Markdown or CMS :rocket: in minutes built for developers. (with CMS)
 
 ## Scala 
@@ -1227,6 +1259,10 @@
 - [wsmaragh/dAte](https://github.com/wsmaragh/dAte) - A dating app that creates meaningful connections through food (Push notifications, Firebase, Chat, Schedule Calendar, Onboarding, Social media Login)
 - [bekzodrakhmatof/Tinder-Clone](https://github.com/bekzodrakhmatof/Tinder-Clone) - 
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
+
+## TeX 
+
+- [nasa/nasa-latex-docs](https://github.com/nasa/nasa-latex-docs) - An easy and convenient package to create technical LaTeX documents.
 
 ## TypeScript 
 
