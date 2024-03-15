@@ -830,7 +830,7 @@
 - [zero-to-mastery/start-here-guidelines](https://github.com/zero-to-mastery/start-here-guidelines) - Lets Git started in the world of opensource, starting in the Zero To Mastery's opensource playground. Especially designed for education and practical experience purposes.
 - [bokeh/bokeh](https://github.com/bokeh/bokeh) - Interactive Data Visualization in the browser, from  Python
 - [nerfstudio-project/nerfstudio](https://github.com/nerfstudio-project/nerfstudio) - A collaboration friendly studio for NeRFs
-- [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - Dev tool that writes scalable apps from scratch while the developer oversees the implementation
+- [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
 - [microsoft/promptflow](https://github.com/microsoft/promptflow) - Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
 - [llm-attacks/llm-attacks](https://github.com/llm-attacks/llm-attacks) - Universal and Transferable Attacks on Aligned Language Models
 - [jakecreps/poastal](https://github.com/jakecreps/poastal) - Poastal - the Email OSINT tool
@@ -843,7 +843,7 @@
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Low-code framework for building custom LLMs, neural networks, and other AI models
-- [emrekybs/Bryobio](https://github.com/emrekybs/Bryobio) - It was developed to speed up the processes of SOC Analysts during analysis
+- [bloodbane0/Bryobio](https://github.com/bloodbane0/Bryobio) - It was developed to speed up the processes of SOC Analysts during analysis
 - [redaelli/imago-forensics](https://github.com/redaelli/imago-forensics) - Imago is a python tool that extract digital evidences from images.
 - [ondyari/FaceForensics](https://github.com/ondyari/FaceForensics) - Github of the FaceForensics dataset
 - [Ghirensics/ghiro](https://github.com/Ghirensics/ghiro) - Automated image forensics tool
