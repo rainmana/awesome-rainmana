@@ -57,6 +57,7 @@
 - [Vue](#vue)
 - [XSLT](#xslt)
 - [YARA](#yara)
+- [Zig](#zig)
 
 ## Assembly 
 
@@ -1328,6 +1329,10 @@
 
 - [eset/malware-ioc](https://github.com/eset/malware-ioc) - Indicators of Compromises (IOC) of our various investigations
 - [StrangerealIntel/DailyIOC](https://github.com/StrangerealIntel/DailyIOC) - IOC from articles, tweets for archives
+
+## Zig 
+
+- [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
 
 ## License
