@@ -2286,7 +2286,7 @@
 - [RogueMaster/flipperzero-firmware-wPlugins](https://github.com/RogueMaster/flipperzero-firmware-wPlugins) - RogueMaster Flipper Zero Firmware
 - [m0nad/Diamorphine](https://github.com/m0nad/Diamorphine) - LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x/6.x (x86/x86_64 and ARM64)
 - [ffuf/ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go
-- [ThreatUnkown/jsubfinder](https://github.com/ThreatUnkown/jsubfinder) - jsubfinder searches webpages for javascript & analyzes them for hidden subdomains and secrets (wip).
+- [ThreatUnknown/jsubfinder](https://github.com/ThreatUnknown/jsubfinder) - jsubfinder searches webpages for javascript & analyzes them for hidden subdomains and secrets (wip).
 - [gsmith257-cyber/GraphCrawler](https://github.com/gsmith257-cyber/GraphCrawler) - GraphQL automated security testing toolkit
 - [The-Viper-One/Pentest-Everything](https://github.com/The-Viper-One/Pentest-Everything) - A collection of CTF write-ups, pentesting topics, guides and notes. Notes compiled from multiple sources and my own lab research. Topics also support OSCP, Active Directory, CRTE, eJPT and eCPPT.
 - [noraj/haiti](https://github.com/noraj/haiti) - :key: Hash type identifier (CLI & lib)
@@ -2716,7 +2716,7 @@
 - [noraj/miniss](https://github.com/noraj/miniss) - Displays a list of open listening sockets. It is a minimal alternative to ss or netstat.
 - [BinaryAnalysisPlatform/bap](https://github.com/BinaryAnalysisPlatform/bap) - Binary Analysis Platform
 - [m0nad/Diamorphine](https://github.com/m0nad/Diamorphine) - LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x/6.x (x86/x86_64 and ARM64)
-- [ThreatUnkown/jsubfinder](https://github.com/ThreatUnkown/jsubfinder) - jsubfinder searches webpages for javascript & analyzes them for hidden subdomains and secrets (wip).
+- [ThreatUnknown/jsubfinder](https://github.com/ThreatUnknown/jsubfinder) - jsubfinder searches webpages for javascript & analyzes them for hidden subdomains and secrets (wip).
 - [Conso1eCowb0y/Deepminer](https://github.com/Conso1eCowb0y/Deepminer) - Deep web crawler and search engine
 - [dheerajydv19/Google-Dorks-Simplified](https://github.com/dheerajydv19/Google-Dorks-Simplified) - Best Resource for learning Google Dorks
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
