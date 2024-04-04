@@ -144,7 +144,7 @@
 
 ## C# # 
 
-- [carlospolop/PEASS-ng](https://github.com/carlospolop/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
+- [peass-ng/PEASS-ng](https://github.com/peass-ng/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
 - [nettitude/Aladdin](https://github.com/nettitude/Aladdin) - 
 - [malwareinfosec/EKFiddle](https://github.com/malwareinfosec/EKFiddle) - Your Swiss Army knife to analyze malicious web traffic based on the popular Fiddler web debugger.
 - [pwntester/ysoserial.net](https://github.com/pwntester/ysoserial.net) - Deserialization payload generator for a variety of .NET formatters
