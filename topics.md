@@ -128,6 +128,7 @@
 - [music](#music)
 - [mysql](#mysql)
 - [natural-language-processing](#natural-language-processing)
+- [nestjs](#nestjs)
 - [neural-network](#neural-network)
 - [nextjs](#nextjs)
 - [nim](#nim)
@@ -1575,6 +1576,11 @@
 - [tirthajyoti/Web-Database-Analytics](https://github.com/tirthajyoti/Web-Database-Analytics) - Web scrapping and related analytics using Python tools
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
+
+## nestjs 
+
+- [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
 
 ## neural-network 
 
