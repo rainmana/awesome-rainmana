@@ -428,6 +428,7 @@
 
 ## JavaScript 
 
+- [binvis/binvis.io](https://github.com/binvis/binvis.io) - The binvis.io site
 - [nasa/NASA-Acronyms](https://github.com/nasa/NASA-Acronyms) - 
 - [nasa/isle](https://github.com/nasa/isle) - 
 - [nasa/earthdata-search](https://github.com/nasa/earthdata-search) - Earthdata Search is a web application developed by NASA EOSDIS to enable data discovery, search, comparison, visualization, and access across EOSDIS' Earth Science data holdings.
