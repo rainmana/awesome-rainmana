@@ -1724,6 +1724,7 @@
 
 ## others 
 
+- [binvis/binvis.io](https://github.com/binvis/binvis.io) - The binvis.io site
 - [nasa-jpl/autoRIFT](https://github.com/nasa-jpl/autoRIFT) - A Python module of a fast and intelligent algorithm for finding the pixel displacement between two images
 - [nasa-jpl/osr-rover-code](https://github.com/nasa-jpl/osr-rover-code) - Code that runs on the Open Source Rover
 - [nasa/bingo](https://github.com/nasa/bingo) - 
