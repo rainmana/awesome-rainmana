@@ -2079,8 +2079,6 @@
 - [dlgroupuoft/PScout](https://github.com/dlgroupuoft/PScout) - This hosts the original version of the PScout Android permission mapping tool
 - [honeynet/apkinspector](https://github.com/honeynet/apkinspector) - APKinspector is a powerful GUI tool for analysts to analyze the Android applications.
 - [sonyxperiadev/ApkAnalyser](https://github.com/sonyxperiadev/ApkAnalyser) - 
-- [automatingosint/python-docs-samples](https://github.com/automatingosint/python-docs-samples) - Code samples used on cloud.google.com
-- [automatingosint/osint_public](https://github.com/automatingosint/osint_public) - 
 - [DataSploit/datasploit](https://github.com/DataSploit/datasploit) - An #OSINT Framework to perform various recon techniques on Companies, People, Phone Number, Bitcoin Addresses, etc.,  aggregate all the raw data, and give data in multiple formats.
 - [altjx/ipwn](https://github.com/altjx/ipwn) - 
 - [maxhumber/gazpacho](https://github.com/maxhumber/gazpacho) - 🥫 The simple, fast, and modern web scraping library
