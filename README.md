@@ -1032,8 +1032,6 @@
 - [dorneanu/smalisca](https://github.com/dorneanu/smalisca) - Static Code Analysis for Smali files
 - [bhavsec/reconspider](https://github.com/bhavsec/reconspider) - 🔎 Most Advanced Open Source Intelligence (OSINT) Framework for scanning IP Address, Emails, Websites, Organizations.
 - [secynic/ipwhois](https://github.com/secynic/ipwhois) - Retrieve and parse whois data for IPv4 and IPv6 addresses
-- [automatingosint/python-docs-samples](https://github.com/automatingosint/python-docs-samples) - Code samples used on cloud.google.com
-- [automatingosint/osint_public](https://github.com/automatingosint/osint_public) - 
 - [DataSploit/datasploit](https://github.com/DataSploit/datasploit) - An #OSINT Framework to perform various recon techniques on Companies, People, Phone Number, Bitcoin Addresses, etc.,  aggregate all the raw data, and give data in multiple formats.
 - [altjx/ipwn](https://github.com/altjx/ipwn) - 
 - [adbar/trafilatura](https://github.com/adbar/trafilatura) - Python & command-line tool to gather text on the Web: web crawling/scraping, extraction of text, metadata, comments
