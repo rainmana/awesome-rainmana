@@ -1726,6 +1726,7 @@
 
 ## others 
 
+- [MatthewKuKanich/FindMyFlipper](https://github.com/MatthewKuKanich/FindMyFlipper) - The FindMy Flipper app turns your FlipperZero into an AirTag or other tracking device, compatible with Apple AirTags and Samsung SmartTag and Tile Trackers. It uses the BLE beacon to broadcast, allowi
 - [cryptax/droidlysis](https://github.com/cryptax/droidlysis) - Property extractor for Android apps
 - [nowsecure/r2frida](https://github.com/nowsecure/r2frida) - Radare2 and Frida better together.
 - [binvis/binvis.io](https://github.com/binvis/binvis.io) - The binvis.io site
