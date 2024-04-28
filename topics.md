@@ -1742,6 +1742,8 @@
 
 ## others 
 
+- [kuleshov/audio-super-res](https://github.com/kuleshov/audio-super-res) - Audio super resolution using neural networks
+- [metavoiceio/MetaVoiceLive](https://github.com/metavoiceio/MetaVoiceLive) - 
 - [bufferhead-code/opencraft](https://github.com/bufferhead-code/opencraft) - An open-source clone of infinite-craft
 - [MatthewKuKanich/FindMyFlipper](https://github.com/MatthewKuKanich/FindMyFlipper) - The FindMy Flipper app turns your FlipperZero into an AirTag or other tracking device, compatible with Apple AirTags and Samsung SmartTag and Tile Trackers. It uses the BLE beacon to broadcast, allowi
 - [cryptax/droidlysis](https://github.com/cryptax/droidlysis) - Property extractor for Android apps
