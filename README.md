@@ -507,7 +507,7 @@
 - [MobSF/Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and 
 - [StrangerealIntel/CyberThreatIntel](https://github.com/StrangerealIntel/CyberThreatIntel) - Analysis of malware and Cyber Threat Intel of APT and cybercriminals groups
 - [its-a-feature/Mythic](https://github.com/its-a-feature/Mythic) - A collaborative, multi-platform, red teaming framework
-- [appium/appium](https://github.com/appium/appium) - Cross-platform automation framework for all kinds of your apps built on top of W3C WebDriver protocol
+- [appium/appium](https://github.com/appium/appium) - Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol
 - [MagicMirrorOrg/MagicMirror](https://github.com/MagicMirrorOrg/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assi
 - [frida/aurora](https://github.com/frida/aurora) - Proof-of-concept web app built on top of Frida
 - [vincentcox/StaCoAn](https://github.com/vincentcox/StaCoAn) - StaCoAn is a crossplatform tool which aids developers, bugbounty hunters and ethical hackers performing static code analysis on mobile applications.
@@ -530,6 +530,7 @@
 
 ## Jupyter Notebook 
 
+- [nasa/pretrained-microscopy-models](https://github.com/nasa/pretrained-microscopy-models) - 
 - [spyboy-productions/WebSecProbe](https://github.com/spyboy-productions/WebSecProbe) - Bypass 403
 - [dsdanielpark/co-coder](https://github.com/dsdanielpark/co-coder) - Co-Coder is a Python package that streamlines error debugging from Open AI chat GPT and Google Bard by providing hints, example code, and relevant Stack Overflow links.
 - [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking, bug bounties, digital forensics and incident response (DFIR), artif
@@ -785,7 +786,6 @@
 - [nasa-jpl/autoRIFT](https://github.com/nasa-jpl/autoRIFT) - A Python module of a fast and intelligent algorithm for finding the pixel displacement between two images
 - [nasa-jpl/osr-rover-code](https://github.com/nasa-jpl/osr-rover-code) - Code that runs on the Open Source Rover
 - [nasa/bingo](https://github.com/nasa/bingo) - 
-- [nasa/pretrained-microscopy-models](https://github.com/nasa/pretrained-microscopy-models) - 
 - [nasa/CrisisMappingToolkit](https://github.com/nasa/CrisisMappingToolkit) - NASA Ames Crisis Mapping Toolkit
 - [nasa/delta](https://github.com/nasa/delta) - Deep Learning for Satellite Imagery
 - [0xNslabs/CanaryTokenScanner](https://github.com/0xNslabs/CanaryTokenScanner) - Script designed to identify Canary Tokens within Microsoft Office documents and Acrobat Reader PDF (docx, xlsx, pptx, pdf).
