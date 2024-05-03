@@ -371,6 +371,8 @@
 
 ## HTML 
 
+- [aleff-github/my-flipper-shits](https://github.com/aleff-github/my-flipper-shits) - Free and open source BadUSB payloads for Flipper Zero. [Windows, GNU/Linux, iOS]
+- [mitre-attack/attack-website](https://github.com/mitre-attack/attack-website) - MITRE ATT&CK Website
 - [nasa/dictionaries](https://github.com/nasa/dictionaries) - A collection of NASA "dictionaries", including thesauri, taxonomies and ontologies.
 - [nasa/T-MATS](https://github.com/nasa/T-MATS) - An open source thermodynamic modeling package completed on behalf of NASA. The Toolbox for the Modeling and Analysis of Thermodynamic Systems (T-MATS) package offers a MATLAB/Simulink toolbox that giv
 - [minhhungit/github-action-rss-crawler](https://github.com/minhhungit/github-action-rss-crawler) - Auto crawl RSS feeds using Github Action
@@ -741,6 +743,8 @@
 
 ## PowerShell 
 
+- [FalsePhilosopher/BadUSB-Playground](https://github.com/FalsePhilosopher/BadUSB-Playground) - Flipper Zero geared badusb playground
+- [rsmudge/ElevateKit](https://github.com/rsmudge/ElevateKit) - The Elevate Kit demonstrates how to use third-party privilege escalation attacks with Cobalt Strike's Beacon payload.
 - [securityjoes/MasterParser](https://github.com/securityjoes/MasterParser) - MasterParser is a powerful DFIR tool designed for analyzing and parsing Linux logs
 - [JoelGMSec/AutoRDPwn](https://github.com/JoelGMSec/AutoRDPwn) - The Shadow Attack Framework
 - [beigeworm/Powershell-Tools-and-Toys](https://github.com/beigeworm/Powershell-Tools-and-Toys) - 50+ Powershell Scripts, Ranging from Pranks to Red-Team Tools
@@ -775,6 +779,8 @@
 
 ## Python 
 
+- [blindfuzzy/LHF](https://github.com/blindfuzzy/LHF) - A modular recon tool for pentesting
+- [OTRF/ATTACK-Python-Client](https://github.com/OTRF/ATTACK-Python-Client) - Python Script to access ATT&CK content available in STIX via a public TAXII server
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monito
 - [truefoundry/cognita](https://github.com/truefoundry/cognita) - RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for production by TrueFoundry
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
@@ -1220,6 +1226,7 @@
 
 ## Shell 
 
+- [umeshshinde19/instainsane](https://github.com/umeshshinde19/instainsane) - Multi-threaded Instagram Brute Forcer (100 attemps at once)
 - [U53RW4R3/RemoteKeyStrokes](https://github.com/U53RW4R3/RemoteKeyStrokes) - A script to automate keystrokes through a graphical desktop program.
 - [Trevohack/DynastyPersist](https://github.com/Trevohack/DynastyPersist) - A Linux persistence tool!
 - [Shuffle/Shuffle](https://github.com/Shuffle/Shuffle) - Shuffle: A general purpose security automation platform. Our focus is on collaboration and resource sharing.
