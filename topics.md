@@ -282,7 +282,6 @@
 ## api 
 
 - [nasa/api-docs](https://github.com/nasa/api-docs) - api.nasa.gov
-- [projectdiscovery/fuzzing-templates](https://github.com/projectdiscovery/fuzzing-templates) - Community curated list of nuclei templates for finding "unknown" security vulnerabilities.
 - [davidesantangelo/api.rss](https://github.com/davidesantangelo/api.rss) - RSS as RESTful. This service allows you to transform RSS feed into an awesome API.
 - [dsdanielpark/Bard-API](https://github.com/dsdanielpark/Bard-API) - The unofficial python package that returns response of Google Bard through cookie value.
 - [blst-security/cherrybomb](https://github.com/blst-security/cherrybomb) - Stop half-done APIs! Cherrybomb is a CLI tool that helps you avoid undefined user behaviour by auditing your API specifications, validating them and running API security tests.
@@ -2765,7 +2764,6 @@
 - [securityjoes/MasterParser](https://github.com/securityjoes/MasterParser) - MasterParser is a powerful DFIR tool designed for analyzing and parsing Linux logs
 - [0x742/noia](https://github.com/0x742/noia) - [WIP] Simple mobile applications sandbox file browser tool. Powered with [frida.re](https://www.frida.re).
 - [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) - Community curated list of templates for the nuclei engine to find security vulnerabilities.
-- [projectdiscovery/fuzzing-templates](https://github.com/projectdiscovery/fuzzing-templates) - Community curated list of nuclei templates for finding "unknown" security vulnerabilities.
 - [cowrie/cowrie](https://github.com/cowrie/cowrie) - Cowrie SSH/Telnet Honeypot https://cowrie.readthedocs.io
 - [Shuffle/Shuffle](https://github.com/Shuffle/Shuffle) - Shuffle: A general purpose security automation platform. Our focus is on collaboration and resource sharing.
 - [MandConsultingGroup/porch-pirate](https://github.com/MandConsultingGroup/porch-pirate) - Porch Pirate is the most comprehensive Postman recon / OSINT client and framework that facilitates the automated discovery and exploitation of API endpoints and secrets committed to workspaces, collec
