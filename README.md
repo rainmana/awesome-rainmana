@@ -533,6 +533,7 @@
 ## Jupyter Notebook 
 
 - [nasa/pretrained-microscopy-models](https://github.com/nasa/pretrained-microscopy-models) - 
+- [spyboy-productions/omnisci3nt](https://github.com/spyboy-productions/omnisci3nt) - Unveiling the Hidden Layers of the Web – A Comprehensive Web Reconnaissance Tool
 - [spyboy-productions/WebSecProbe](https://github.com/spyboy-productions/WebSecProbe) - Bypass 403
 - [dsdanielpark/co-coder](https://github.com/dsdanielpark/co-coder) - Co-Coder is a Python package that streamlines error debugging from Open AI chat GPT and Google Bard by providing hints, example code, and relevant Stack Overflow links.
 - [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking, bug bounties, digital forensics and incident response (DFIR), artif
@@ -800,7 +801,6 @@
 - [catsploit/catsploit](https://github.com/catsploit/catsploit) - 
 - [spyboy-productions/Valid8Proxy](https://github.com/spyboy-productions/Valid8Proxy) - Tool designed for fetching, validating, and storing working proxies.
 - [spyboy-productions/unve1ler](https://github.com/spyboy-productions/unve1ler) - A social engineering tool designed to seamlessly locate profiles using usernames while offering convenient reverse image search functionality.
-- [spyboy-productions/omnisci3nt](https://github.com/spyboy-productions/omnisci3nt) - Unveiling the Hidden Layers of the Web – A Comprehensive Web Reconnaissance Tool
 - [spyboy-productions/PhantomCrawler](https://github.com/spyboy-productions/PhantomCrawler) - Boost website hits by generating requests from multiple proxy IPs.
 - [tataraba/simplesite](https://github.com/tataraba/simplesite) - 
 - [pyodide/pyodide](https://github.com/pyodide/pyodide) - Pyodide is a Python distribution for the browser and Node.js based on WebAssembly
@@ -863,7 +863,7 @@
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Low-code framework for building custom LLMs, neural networks, and other AI models
-- [emrekybs/Bryobio](https://github.com/emrekybs/Bryobio) - It was developed to speed up the processes of SOC Analysts during analysis
+- [mesela12/Bryobio](https://github.com/mesela12/Bryobio) - It was developed to speed up the processes of SOC Analysts during analysis
 - [redaelli/imago-forensics](https://github.com/redaelli/imago-forensics) - Imago is a python tool that extract digital evidences from images.
 - [ondyari/FaceForensics](https://github.com/ondyari/FaceForensics) - Github of the FaceForensics dataset
 - [Ghirensics/ghiro](https://github.com/Ghirensics/ghiro) - Automated image forensics tool
