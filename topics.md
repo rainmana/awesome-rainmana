@@ -1968,7 +1968,7 @@
 - [jesusprubio/awesome-nodejs-pentest](https://github.com/jesusprubio/awesome-nodejs-pentest) - :skull_and_crossbones: Delightful Node.js packages useful for penetration testing, exploiting, reverse engineer, cryptography ...
 - [logankilpatrick/ChatGPT-Plugins-Collection](https://github.com/logankilpatrick/ChatGPT-Plugins-Collection) - An unofficial collection of Plugins for ChatGPT, in any programming language!
 - [vigov5/nodium](https://github.com/vigov5/nodium) - An extension for bypassing Medium paywall.
-- [nathan-149/hover-paywalls-browser-extension](https://github.com/nathan-149/hover-paywalls-browser-extension) - Hover is an open-sourced browser extension that bypasses paywalls and blocks ads.
+- [nang-dev/hover-paywalls-browser-extension](https://github.com/nang-dev/hover-paywalls-browser-extension) - Hover is an open-sourced browser extension that bypasses paywalls and blocks ads.
 - [andresriancho/enumerate-iam](https://github.com/andresriancho/enumerate-iam) - Enumerate the permissions associated with AWS credential set
 - [streaak/keyhacks](https://github.com/streaak/keyhacks) - Keyhacks is a repository which shows quick ways in which API keys leaked by a bug bounty program can be checked to see if they're valid.
 - [nccgroup/BurpSuiteHTTPSmuggler](https://github.com/nccgroup/BurpSuiteHTTPSmuggler) - A Burp Suite extension to help pentesters to bypass WAFs or test their effectiveness using a number of techniques
