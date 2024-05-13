@@ -60,6 +60,7 @@
 - [django](#django)
 - [docker](#docker)
 - [documentation](#documentation)
+- [dotfiles](#dotfiles)
 - [dotnet](#dotnet)
 - [education](#education)
 - [electron](#electron)
@@ -623,6 +624,7 @@
 - [minhhungit/github-action-rss-crawler](https://github.com/minhhungit/github-action-rss-crawler) - Auto crawl RSS feeds using Github Action
 - [peass-ng/PEASS-ng](https://github.com/peass-ng/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
 - [Sarah-Hesham-2022/Unity-Protein-Visualization](https://github.com/Sarah-Hesham-2022/Unity-Protein-Visualization) - Protein Visualization using Unity and C# analysis on PDB Files.
+- [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
 - [ViRb3/de4dot-cex](https://github.com/ViRb3/de4dot-cex) - 📦 de4dot deobfuscator with full support for vanilla ConfuserEx
 - [kaitai-io/kaitai_struct](https://github.com/kaitai-io/kaitai_struct) - Kaitai Struct: declarative language to generate binary data parsers in C++ / C# / Go / Java / JavaScript / Lua / Nim / Perl / PHP / Python / Ruby
 - [mvelazc0/defcon27_csharp_workshop](https://github.com/mvelazc0/defcon27_csharp_workshop) - Writing custom backdoor payloads with C# - Defcon 27 Workshop
@@ -826,8 +828,14 @@
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 
+## dotfiles 
+
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
+- [freshshell/fresh](https://github.com/freshshell/fresh) - Keep your dotfiles fresh.
+
 ## dotnet 
 
+- [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
 - [Tyrrrz/YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode) - Abstraction layer over YouTube's internal API
 - [ViRb3/de4dot-cex](https://github.com/ViRb3/de4dot-cex) - 📦 de4dot deobfuscator with full support for vanilla ConfuserEx
 - [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) - .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
@@ -1075,7 +1083,6 @@
 
 ## graphql 
 
-- [edgedb/edgedb](https://github.com/edgedb/edgedb) - A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
 - [bradleyboy/tuql](https://github.com/bradleyboy/tuql) - Automatically create a GraphQL server from a SQLite database or a SQL file
 - [marmelab/json-graphql-server](https://github.com/marmelab/json-graphql-server) - Get a full fake GraphQL API with zero coding in less than 30 seconds.
 - [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
@@ -2314,7 +2321,6 @@
 - [beefproject/beef](https://github.com/beefproject/beef) - The Browser Exploitation Framework Project
 - [ItsDeidara/DNSwitch](https://github.com/ItsDeidara/DNSwitch) - A utitily for the Nintendo Switch to hijack the web browser
 - [mirror/firmware-mod-kit](https://github.com/mirror/firmware-mod-kit) - http://firmware-mod-kit.googlecode.com/svn/trunk
-- [freshshell/fresh](https://github.com/freshshell/fresh) - Keep your dotfiles fresh.
 - [johnboiles/BaofengUV5R-TRRS](https://github.com/johnboiles/BaofengUV5R-TRRS) - Tiny board that allows you to connect the Baofeng UV5R radio to a smartphone or other device that uses a TRRS connector for audio.
 - [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
