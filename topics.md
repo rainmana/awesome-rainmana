@@ -1908,7 +1908,7 @@
 - [hackappcom/Clutch](https://github.com/hackappcom/Clutch) - Fast iOS executable dumper
 - [Greenwolf/social_mapper](https://github.com/Greenwolf/social_mapper) - A Social Media Enumeration & Correlation Tool by Jacob Wilkin(Greenwolf)
 - [papusingh2sms/mysms](https://github.com/papusingh2sms/mysms) - Script that generates an Android App to hack SMS through WAN
-- [mesela12/Bryobio](https://github.com/mesela12/Bryobio) - It was developed to speed up the processes of SOC Analysts during analysis
+- [emrekybs/Bryobio](https://github.com/emrekybs/Bryobio) - It was developed to speed up the processes of SOC Analysts during analysis
 - [IAmStoxe/urlgrab](https://github.com/IAmStoxe/urlgrab) - A golang utility to spider through a website searching for additional links.
 - [elmasy-com/elmasy](https://github.com/elmasy-com/elmasy) - Open Source External Attack Surface Management
 - [elmasy-com/columbus-server](https://github.com/elmasy-com/columbus-server) - 
