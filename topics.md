@@ -1802,6 +1802,7 @@
 
 ## others 
 
+- [0015/ESP32Berry](https://github.com/0015/ESP32Berry) - ESP32Berry Project
 - [blindfuzzy/LHF](https://github.com/blindfuzzy/LHF) - A modular recon tool for pentesting
 - [FalsePhilosopher/BadUSB-Playground](https://github.com/FalsePhilosopher/BadUSB-Playground) - Flipper Zero geared badusb playground
 - [OTRF/ATTACK-Python-Client](https://github.com/OTRF/ATTACK-Python-Client) - Python Script to access ATT&CK content available in STIX via a public TAXII server
