@@ -31,6 +31,7 @@
 - [Lua](#lua)
 - [MDX](#mdx)
 - [Makefile](#makefile)
+- [Meson](#meson)
 - [Nim](#nim)
 - [Nix](#nix)
 - [OCaml](#ocaml)
@@ -73,6 +74,10 @@
 
 ## C 
 
+- [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
+- [djkaty/Il2CppInspector](https://github.com/djkaty/Il2CppInspector) - Powerful automated tool for reverse engineering Unity IL2CPP binaries
+- [frida/frida-python](https://github.com/frida/frida-python) - Frida Python bindings
+- [sciencemanx/ctf_import](https://github.com/sciencemanx/ctf_import) - Run basic functions from stripped binaries cross platform
 - [0015/ESP32Berry](https://github.com/0015/ESP32Berry) - ESP32Berry Project
 - [nasa/QuIP](https://github.com/nasa/QuIP) - QuIP provides an interactive environment for computing and presenting images and image sequences, manipulating and storing arbitrary data, and general scientific computing and plotting.  The current r
 - [nasa/icarous](https://github.com/nasa/icarous) - ICAROUS  is a software architecture for the development of UAS applications
@@ -145,6 +150,15 @@
 
 ## C# # 
 
+- [ribthegreat99OrN0P/BytePressDecompressor](https://github.com/ribthegreat99OrN0P/BytePressDecompressor) - 
+- [ioncodes/beeless](https://github.com/ioncodes/beeless) - BeeByte Deobfuscator. Used it to deobfuscate an Unity3D Game. Alternatively, de4dot works aswell.
+- [JenildoHaxhiraj/Babel-Deobfuscator](https://github.com/JenildoHaxhiraj/Babel-Deobfuscator) - Babel-Deobfuscator is an open-source deobfuscator for Babel Obfuscator.
+- [n017/BabelDeobfuscator](https://github.com/n017/BabelDeobfuscator) - BabelDeobfuscator is an open-source deobfuscator for BabelObfuscator
+- [TobitoFatitoRE/ArchangelUnCloaker](https://github.com/TobitoFatitoRE/ArchangelUnCloaker) - Public ArchangelCloak Deobfuscator
+- [CursedSheep/Atomic-Deobfuscator](https://github.com/CursedSheep/Atomic-Deobfuscator) - A deobfuscator for Atomic obfuscator
+- [NotPrab/AgileStringDecryptor](https://github.com/NotPrab/AgileStringDecryptor) - a dynamic Agile.NET string decryptor that relies on invoke by wwh1004 | Version : 6.X
+- [wickyhu/simple-assembly-explorer](https://github.com/wickyhu/simple-assembly-explorer) - Automatically exported from code.google.com/p/simple-assembly-exploror
+- [Washi1337/JavaResolver](https://github.com/Washi1337/JavaResolver) - Java class file inspection library for .NET.
 - [peass-ng/PEASS-ng](https://github.com/peass-ng/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
 - [nettitude/Aladdin](https://github.com/nettitude/Aladdin) - 
 - [malwareinfosec/EKFiddle](https://github.com/malwareinfosec/EKFiddle) - Your Swiss Army knife to analyze malicious web traffic based on the popular Fiddler web debugger.
@@ -185,6 +199,7 @@
 
 ## C++ 
 
+- [x64dbg/ScyllaHide](https://github.com/x64dbg/ScyllaHide) - Advanced usermode anti-anti-debugger. Forked from https://bitbucket.org/NtQuery/scyllahide
 - [nasa/EADINLite](https://github.com/nasa/EADINLite) - EADIN_Lite Network Protocol
 - [nasa/HDTN](https://github.com/nasa/HDTN) - High-rate Delay Tolerant Network (HDTN) Software
 - [nasa/meshNetwork](https://github.com/nasa/meshNetwork) - 
@@ -243,6 +258,7 @@
 
 ## CSS 
 
+- [tobychui/zoraxy](https://github.com/tobychui/zoraxy) - A general purpose HTTP reverse proxy and forwarding tool. Now written in Go!
 - [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2024
 - [joernweissenborn/lcars](https://github.com/joernweissenborn/lcars) - CSS Framework to style web pages like the fictional computer operating system of a popular sci-fi franchise.
 - [sharu725/online-cv](https://github.com/sharu725/online-cv) - A minimal Jekyll Theme to host your resume (CV) on GitHub with a few clicks.
@@ -403,6 +419,11 @@
 
 ## Java 
 
+- [java-decompiler/jd-gui](https://github.com/java-decompiler/jd-gui) - A standalone Java Decompiler GUI
+- [java-decompiler/jd-eclipse](https://github.com/java-decompiler/jd-eclipse) - A Java Decompiler Eclipse plugin
+- [java-decompiler/jd-core](https://github.com/java-decompiler/jd-core) - JD-Core is a JAVA decompiler written in JAVA.
+- [google/android-classyshark](https://github.com/google/android-classyshark) - Android and Java bytecode viewer
+- [LucasBaizer/apkSpy](https://github.com/LucasBaizer/apkSpy) - Fork of jadx with support for editing and recompiling Java source
 - [nasa/OpenSPIFe](https://github.com/nasa/OpenSPIFe) - The Open Scheduling and Planning Interface for Exploration (OpenSPIFe) is an integrated planning and scheduling toolkit based on hundreds of hours of expert observation, use, and refinement of state-o
 - [d-millar/ghidra_pcode_scripts](https://github.com/d-millar/ghidra_pcode_scripts) - a few Ghidra scripts for dumping PCode data
 - [digital-preservation/droid](https://github.com/digital-preservation/droid) - DROID (Digital Record and Object Identification)
@@ -430,6 +451,7 @@
 
 ## JavaScript 
 
+- [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
 - [metavoiceio/MetaVoiceLive](https://github.com/metavoiceio/MetaVoiceLive) - 
 - [0x742/noia](https://github.com/0x742/noia) - [WIP] Simple mobile applications sandbox file browser tool. Powered with [frida.re](https://www.frida.re).
 - [binvis/binvis.io](https://github.com/binvis/binvis.io) - The binvis.io site
@@ -575,6 +597,10 @@
 
 - [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
 
+## Meson 
+
+- [frida/frida](https://github.com/frida/frida) - Clone this repo to build Frida
+
 ## Nim 
 
 - [frkngksl/NimExec](https://github.com/frkngksl/NimExec) - Fileless Command Execution for Lateral Movement in Nim
@@ -616,6 +642,8 @@
 
 ## Others 
 
+- [ribthegreat99OrN0P/Agile.NET-Deobfuscator-MOVED](https://github.com/ribthegreat99OrN0P/Agile.NET-Deobfuscator-MOVED) - 
+- [ret42/RE-Thing](https://github.com/ret42/RE-Thing) - Reverse Engineering Tools (deobf, decompiler etc..)
 - [nasa/autodoc](https://github.com/nasa/autodoc) - Create Microsoft Documents automatically using Text and Template files
 - [nasa/prog_models](https://github.com/nasa/prog_models) - The NASA Prognostic Model Package is a Python framework focused on defining and building models for prognostics (computation of remaining useful life) of engineering systems, and provides a set of pro
 - [nasa/spaceapps](https://github.com/nasa/spaceapps) - 
@@ -781,6 +809,12 @@
 
 ## Python 
 
+- [longld/peda](https://github.com/longld/peda) - PEDA - Python Exploit Development Assistance for GDB
+- [angr/angr](https://github.com/angr/angr) - A powerful and user-friendly binary analysis platform!
+- [bkerler/mtkclient](https://github.com/bkerler/mtkclient) - MTK reverse engineering and flash tool
+- [rscloura/Doldrums](https://github.com/rscloura/Doldrums) - A Flutter/Dart reverse engineering tool
+- [SulimanHacker1/ig.osi](https://github.com/SulimanHacker1/ig.osi) - Information Gathering Instagram Tool.
+- [Shuffle/Shuffle-docs](https://github.com/Shuffle/Shuffle-docs) - Documentation used for Shuffle
 - [blindfuzzy/LHF](https://github.com/blindfuzzy/LHF) - A modular recon tool for pentesting
 - [OTRF/ATTACK-Python-Client](https://github.com/OTRF/ATTACK-Python-Client) - Python Script to access ATT&CK content available in STIX via a public TAXII server
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monito
@@ -1227,6 +1261,7 @@
 
 ## Shell 
 
+- [lxdvs/apk2gold](https://github.com/lxdvs/apk2gold) - CLI tool for decompiling Android apps to Java. It does resources! It does Java! Its real easy!
 - [umeshshinde19/instainsane](https://github.com/umeshshinde19/instainsane) - Multi-threaded Instagram Brute Forcer (100 attemps at once)
 - [U53RW4R3/RemoteKeyStrokes](https://github.com/U53RW4R3/RemoteKeyStrokes) - A script to automate keystrokes through a graphical desktop program.
 - [Trevohack/DynastyPersist](https://github.com/Trevohack/DynastyPersist) - A Linux persistence tool!
