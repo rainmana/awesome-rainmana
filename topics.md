@@ -1128,6 +1128,7 @@
 
 ## hacking 
 
+- [Kl0ibi/esp32_hackingtool](https://github.com/Kl0ibi/esp32_hackingtool) - 
 - [Trevohack/DynastyPersist](https://github.com/Trevohack/DynastyPersist) - A Linux persistence tool!
 - [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking, bug bounties, digital forensics and incident response (DFIR), artif
 - [hahwul/WebHackersWeapons](https://github.com/hahwul/WebHackersWeapons) - ⚔️ Web Hacker's Weapons / A collection of cool tools used by Web hackers. Happy hacking , Happy bug-hunting
@@ -1195,6 +1196,7 @@
 
 ## hacktoberfest 
 
+- [BlackVS/ESP32-reversing](https://github.com/BlackVS/ESP32-reversing) - A curated list of ESP32 related reversing resources
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
@@ -1859,6 +1861,14 @@
 
 ## others 
 
+- [sqfmi/bbqX0kbd_driver](https://github.com/sqfmi/bbqX0kbd_driver) - BBQX0KBD is a Keyboard Device Driver for the Beepy Keyboard
+- [sqfmi/beepy-hardware](https://github.com/sqfmi/beepy-hardware) - Beepy Hardware
+- [SymbianRevive/SDL2-symbianrevive](https://github.com/SymbianRevive/SDL2-symbianrevive) - [WIP] A port of SDL2 for Symbian^3 (e.g. Nokia E7)
+- [seeschwein/e75lifeline](https://github.com/seeschwein/e75lifeline) - Nokia E75 S60v3 fp2 support
+- [Llixuma/Nokia-6300-4G-root-2024](https://github.com/Llixuma/Nokia-6300-4G-root-2024) - this is a manual arch linux approach to getting root on the Nokia 6300 4G
+- [gschorcht/esp32-elf-rom](https://github.com/gschorcht/esp32-elf-rom) - ESP32 ROM blob to ELF convertor
+- [BlackVS/esp32knife](https://github.com/BlackVS/esp32knife) - Tools for ESP32 firmware dissection
+- [nonik0/CardputerLoRaChat](https://github.com/nonik0/CardputerLoRaChat) - 
 - [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
 - [github/codeql](https://github.com/github/codeql) - CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security
 - [TAK-Product-Center/Server](https://github.com/TAK-Product-Center/Server) - TAK Server
@@ -2546,6 +2556,7 @@
 
 ## python 
 
+- [cyrus-and/gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB in Python
 - [amazon-braket/amazon-braket-examples](https://github.com/amazon-braket/amazon-braket-examples) - Example notebooks that show how to apply quantum computing with Amazon Braket.
 - [truefoundry/cognita](https://github.com/truefoundry/cognita) - RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for production by TrueFoundry
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
@@ -2801,6 +2812,7 @@
 
 ## reverse-engineering 
 
+- [BlackVS/ESP32-reversing](https://github.com/BlackVS/ESP32-reversing) - A curated list of ESP32 related reversing resources
 - [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
 - [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
 - [djkaty/Il2CppInspector](https://github.com/djkaty/Il2CppInspector) - Powerful automated tool for reverse engineering Unity IL2CPP binaries
@@ -3114,6 +3126,7 @@
 
 ## terminal 
 
+- [cyrus-and/gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB in Python
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [anki-code/xonsh-cheatsheet](https://github.com/anki-code/xonsh-cheatsheet) - Cheat sheet for xonsh shell with copy-pastable examples. The best doc for the new users.
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
