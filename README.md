@@ -664,6 +664,7 @@
 
 ## Others 
 
+- [OlivierLaflamme/Cheatsheet-God](https://github.com/OlivierLaflamme/Cheatsheet-God) - Penetration Testing Reference Bank - OSCP / PTP & PTX  Cheatsheet
 - [sqfmi/beepy-hardware](https://github.com/sqfmi/beepy-hardware) - Beepy Hardware
 - [seeschwein/e75lifeline](https://github.com/seeschwein/e75lifeline) - Nokia E75 S60v3 fp2 support
 - [Llixuma/Nokia-6300-4G-root-2024](https://github.com/Llixuma/Nokia-6300-4G-root-2024) - this is a manual arch linux approach to getting root on the Nokia 6300 4G
