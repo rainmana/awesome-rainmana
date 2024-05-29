@@ -843,6 +843,7 @@
 
 ## Python 
 
+- [lavague-ai/LaVague](https://github.com/lavague-ai/LaVague) - Large Action Model framework to develop AI Web Agents
 - [msaelices/py2mojo](https://github.com/msaelices/py2mojo) - Automated Python to Mojo code translation
 - [ego/awesome-mojo](https://github.com/ego/awesome-mojo) - Awesome Mojo🔥
 - [cyrus-and/gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB in Python
