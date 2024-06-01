@@ -815,7 +815,7 @@
 ## django 
 
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
-- [swirlai/swirl-search](https://github.com/swirlai/swirl-search) - Swirl is open-source software that uses AI to simultaneously search multiple content and data sources, finds the best results using a reader LLM, then prompts Generative AI, enabling you to get answer
+- [swirlai/swirl-search](https://github.com/swirlai/swirl-search) - SWIRL AI Connect: AI infrastructure software that powers your Search & Retrieval Augmented Generation (RAG) applications. Simplify and enhance your AI pipelines with seamless integration of large lang
 - [uzh/ddm](https://github.com/uzh/ddm) - Data Donation Module: A Django application to setup and manage data donation projects.
 - [wagtail/wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience
 - [KTZgraph/sarenka](https://github.com/KTZgraph/sarenka) - OSINT tool - gets data from services like shodan, censys etc. in one app
@@ -2590,7 +2590,7 @@
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [ytisf/PyExfil](https://github.com/ytisf/PyExfil) - A Python Package for Data Exfiltration
 - [mkrd/DictDataBase](https://github.com/mkrd/DictDataBase) - A python NoSQL dictionary database, with concurrent access and ACID compliance
-- [swirlai/swirl-search](https://github.com/swirlai/swirl-search) - Swirl is open-source software that uses AI to simultaneously search multiple content and data sources, finds the best results using a reader LLM, then prompts Generative AI, enabling you to get answer
+- [swirlai/swirl-search](https://github.com/swirlai/swirl-search) - SWIRL AI Connect: AI infrastructure software that powers your Search & Retrieval Augmented Generation (RAG) applications. Simplify and enhance your AI pipelines with seamless integration of large lang
 - [PyCQA/isort](https://github.com/PyCQA/isort) - A Python utility / library to sort imports.
 - [bokeh/bokeh](https://github.com/bokeh/bokeh) - Interactive Data Visualization in the browser, from  Python
 - [jakecreps/poastal](https://github.com/jakecreps/poastal) - Poastal - the Email OSINT tool
