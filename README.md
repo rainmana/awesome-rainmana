@@ -156,6 +156,8 @@
 
 ## C# # 
 
+- [LazoCoder/WinAPI-Wrapper](https://github.com/LazoCoder/WinAPI-Wrapper) - Windows API wrapper class for simulating mouse movement, clicking, and more.
+- [LazoCoder/Windows-Hacks](https://github.com/LazoCoder/Windows-Hacks) - Creative and unusual things that can be done with the Windows API.
 - [ribthegreat99OrN0P/BytePressDecompressor](https://github.com/ribthegreat99OrN0P/BytePressDecompressor) - 
 - [ioncodes/beeless](https://github.com/ioncodes/beeless) - BeeByte Deobfuscator. Used it to deobfuscate an Unity3D Game. Alternatively, de4dot works aswell.
 - [JenildoHaxhiraj/Babel-Deobfuscator](https://github.com/JenildoHaxhiraj/Babel-Deobfuscator) - Babel-Deobfuscator is an open-source deobfuscator for Babel Obfuscator.
@@ -206,6 +208,7 @@
 
 ## C++ 
 
+- [ossimlabs/ossim](https://github.com/ossimlabs/ossim) - Core OSSIM (Open Source Software Image Map) package including C++ code for OSSIM library, command-line applications, tests, and build system
 - [nonik0/CardputerLoRaChat](https://github.com/nonik0/CardputerLoRaChat) - 
 - [x64dbg/ScyllaHide](https://github.com/x64dbg/ScyllaHide) - Advanced usermode anti-anti-debugger. Forked from https://bitbucket.org/NtQuery/scyllahide
 - [nasa/EADINLite](https://github.com/nasa/EADINLite) - EADIN_Lite Network Protocol
@@ -406,6 +409,7 @@
 
 ## HTML 
 
+- [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection) - A collection of several hundred online tools for OSINT
 - [aleff-github/my-flipper-shits](https://github.com/aleff-github/my-flipper-shits) - Free and open source BadUSB payloads for Flipper Zero. [Windows, GNU/Linux, iOS]
 - [mitre-attack/attack-website](https://github.com/mitre-attack/attack-website) - MITRE ATT&CK Website
 - [nasa/dictionaries](https://github.com/nasa/dictionaries) - A collection of NASA "dictionaries", including thesauri, taxonomies and ontologies.
@@ -437,6 +441,7 @@
 
 ## Java 
 
+- [ngageoint/mrgeo](https://github.com/ngageoint/mrgeo) - MrGeo is a geospatial toolkit designed to provide raster-based geospatial capabilities that can be performed at scale. MrGeo is built upon Apache Spark and the Hadoop ecosystem to leverage the storage
 - [java-decompiler/jd-gui](https://github.com/java-decompiler/jd-gui) - A standalone Java Decompiler GUI
 - [java-decompiler/jd-eclipse](https://github.com/java-decompiler/jd-eclipse) - A Java Decompiler Eclipse plugin
 - [java-decompiler/jd-core](https://github.com/java-decompiler/jd-core) - JD-Core is a JAVA decompiler written in JAVA.
@@ -564,6 +569,7 @@
 - [lapwat/reCatchable](https://github.com/lapwat/reCatchable) - Turn a site into a book. Download a whole website and upload it to your reMarkable.
 - [sheltermanager/asm3](https://github.com/sheltermanager/asm3) - Animal Shelter Manager
 - [beefproject/beef](https://github.com/beefproject/beef) - The Browser Exploitation Framework Project
+- [OpenCTI-Platform/opencti](https://github.com/OpenCTI-Platform/opencti) - Open Cyber Threat Intelligence Platform
 
 ## Jinja 
 
@@ -575,6 +581,7 @@
 
 ## Jupyter Notebook 
 
+- [PWhiddy/PokemonRedExperiments](https://github.com/PWhiddy/PokemonRedExperiments) - Playing Pokemon Red with Reinforcement Learning
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
 - [nasa/pretrained-microscopy-models](https://github.com/nasa/pretrained-microscopy-models) - 
 - [spyboy-productions/omnisci3nt](https://github.com/spyboy-productions/omnisci3nt) - Unveiling the Hidden Layers of the Web – A Comprehensive Web Reconnaissance Tool
@@ -669,6 +676,8 @@
 
 ## Others 
 
+- [OffcierCia/non-typical-OSINT-guide](https://github.com/OffcierCia/non-typical-OSINT-guide) - The most unusual OSINT guide you've ever seen. The repository is intended for bored professionals only. PRs are welcome!
+- [LucaBongiorni/Amateur-SIGINT](https://github.com/LucaBongiorni/Amateur-SIGINT) - Blind Reverse Engineering a Wireless Protocol - or - Amateur Signals Intelligence
 - [tjtanaa/awesome-large-action-model](https://github.com/tjtanaa/awesome-large-action-model) - Awesome Large Action Model (LAM): Models that could help gets things done.
 - [mojicians/awesome-mojo](https://github.com/mojicians/awesome-mojo) - A curated list of awesome Mojo 🔥 frameworks, libraries, software and resources
 - [OlivierLaflamme/Cheatsheet-God](https://github.com/OlivierLaflamme/Cheatsheet-God) - Penetration Testing Reference Bank - OSCP / PTP & PTX  Cheatsheet
@@ -788,6 +797,7 @@
 
 ## PHP 
 
+- [arall/sigint](https://github.com/arall/sigint) - Signals intelligence (SIGINT) gathering by interception of WiFi, Bluetooth and GSM
 - [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted, drag-and-drop & nosql file conversion server & share tool that supports 88 file formats in 13 languages.
 - [iagox86/dnscat2](https://github.com/iagox86/dnscat2) - 
 - [oscarotero/Embed](https://github.com/oscarotero/Embed) - Get info from any web service or page
@@ -843,6 +853,12 @@
 
 ## Python 
 
+- [ngageoint/sarpy](https://github.com/ngageoint/sarpy) - A basic Python library to demonstrate reading, writing, display, and simple processing of complex SAR data using the NGA SICD standard.
+- [iamredshift/RedzSIGINT](https://github.com/iamredshift/RedzSIGINT) - Software framework for your own SIGINT platform
+- [LazoCoder/Image-To-ASCII](https://github.com/LazoCoder/Image-To-ASCII) - Convert images to ASCII art.
+- [LazoCoder/Article-Summarizer](https://github.com/LazoCoder/Article-Summarizer) - Uses frequency analysis to summarize text.
+- [LazoCoder/Pokemon-Terminal](https://github.com/LazoCoder/Pokemon-Terminal) - Pokemon terminal themes.
+- [PokemonGoF/PokemonGo-Bot](https://github.com/PokemonGoF/PokemonGo-Bot) - The Pokemon Go Bot, baking with community.
 - [deezer/spleeter](https://github.com/deezer/spleeter) - Deezer source separation library including pretrained models.
 - [lavague-ai/LaVague](https://github.com/lavague-ai/LaVague) - Large Action Model framework to develop AI Web Agents
 - [msaelices/py2mojo](https://github.com/msaelices/py2mojo) - Automated Python to Mojo code translation
@@ -1305,6 +1321,7 @@
 
 ## Shell 
 
+- [joecupano/SIGpi](https://github.com/joecupano/SIGpi) - A SIGINT Go-kit of sorts
 - [lxdvs/apk2gold](https://github.com/lxdvs/apk2gold) - CLI tool for decompiling Android apps to Java. It does resources! It does Java! Its real easy!
 - [umeshshinde19/instainsane](https://github.com/umeshshinde19/instainsane) - Multi-threaded Instagram Brute Forcer (100 attemps at once)
 - [U53RW4R3/RemoteKeyStrokes](https://github.com/U53RW4R3/RemoteKeyStrokes) - A script to automate keystrokes through a graphical desktop program.
@@ -1405,7 +1422,6 @@
 - [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
 - [oceanprotocol/market](https://github.com/oceanprotocol/market) - 🧜‍♀️ THE Data Market
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
-- [OpenCTI-Platform/opencti](https://github.com/OpenCTI-Platform/opencti) - Open Cyber Threat Intelligence Platform
 
 ## VBScript 
 
