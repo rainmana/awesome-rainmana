@@ -1892,6 +1892,7 @@
 
 ## others 
 
+- [R-s0n/ars0n-framework](https://github.com/R-s0n/ars0n-framework) - A Modern Framework for Bug Bounty Hunting
 - [ngageoint/mrgeo](https://github.com/ngageoint/mrgeo) - MrGeo is a geospatial toolkit designed to provide raster-based geospatial capabilities that can be performed at scale. MrGeo is built upon Apache Spark and the Hadoop ecosystem to leverage the storage
 - [ngageoint/sarpy](https://github.com/ngageoint/sarpy) - A basic Python library to demonstrate reading, writing, display, and simple processing of complex SAR data using the NGA SICD standard.
 - [LucaBongiorni/Amateur-SIGINT](https://github.com/LucaBongiorni/Amateur-SIGINT) - Blind Reverse Engineering a Wireless Protocol - or - Amateur Signals Intelligence
