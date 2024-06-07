@@ -255,6 +255,7 @@
 
 ## android 
 
+- [corellium/corellium-android-unpacking](https://github.com/corellium/corellium-android-unpacking) - Android Unpacking Automation using Corellium Devices
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [google/android-classyshark](https://github.com/google/android-classyshark) - Android and Java bytecode viewer
 - [0x742/noia](https://github.com/0x742/noia) - [WIP] Simple mobile applications sandbox file browser tool. Powered with [frida.re](https://www.frida.re).
@@ -1898,6 +1899,22 @@
 
 ## others 
 
+- [corellium/vscode-extension](https://github.com/corellium/vscode-extension) - Visual Studio Code Extension for Corellium
+- [corellium/ios_persistence_mapping](https://github.com/corellium/ios_persistence_mapping) - Accompanying code for blog post "Mapping iOS Persistence Attack Surface using Corellium"
+- [corellium/usbfluxd](https://github.com/corellium/usbfluxd) - Redirects the standard usbmuxd socket to allow connections to local and remote usbmuxd instances so remote devices appear connected locally.
+- [corellium/linux-m1](https://github.com/corellium/linux-m1) - Linux kernel source tree
+- [corellium/linux-sandcastle](https://github.com/corellium/linux-sandcastle) - Project Sandcastle kernel
+- [corellium/projectsandcastle](https://github.com/corellium/projectsandcastle) - Supporting tools for Android/Linux on the iPhone
+- [LaurieWired/beautifying_android_native_code](https://github.com/LaurieWired/beautifying_android_native_code) - This repo contains the APK to follow along with my "Beautifying Android Native Code" Video on Youtube
+- [LaurieWired/ReverseEngineeringAndroidMalware](https://github.com/LaurieWired/ReverseEngineeringAndroidMalware) - This contains notes and slides for my talk on Reverse Engineering Android Malware
+- [LaurieWired/BinaryBeats](https://github.com/LaurieWired/BinaryBeats) - Turn binaries into music
+- [LaurieWired/linux_malware_analysis_container](https://github.com/LaurieWired/linux_malware_analysis_container) - Docker container for quickly analyzing Linux malware
+- [LaurieWired/android_emulators_for_reverse_engineers](https://github.com/LaurieWired/android_emulators_for_reverse_engineers) - A guide to choosing between different Android Emulator options for Reverse Engineers
+- [LaurieWired/ObjectiveByTheSea2023](https://github.com/LaurieWired/ObjectiveByTheSea2023) - This contains notes and slides for my Objective by the Sea talk
+- [LaurieWired/Assembly-Algorithms](https://github.com/LaurieWired/Assembly-Algorithms) - Repository of algorithms implemented in pure assembly
+- [LaurieWired/iOS_Reverse_Engineering](https://github.com/LaurieWired/iOS_Reverse_Engineering) - The iOS IPA file Reverse Engineering reference
+- [LaurieWired/JADXecute](https://github.com/LaurieWired/JADXecute) - JADX-gui scripting plugin for dynamic decompiler manipulation
+- [LaurieWired/ARTful](https://github.com/LaurieWired/ARTful) - The ARTful library for dynamically modifying the Android Runtime
 - [DanMcInerney/xsscrapy](https://github.com/DanMcInerney/xsscrapy) - XSS spider - 66/66 wavsep XSS detected
 - [TheRealJoelmatic/RemoveAdblockThing](https://github.com/TheRealJoelmatic/RemoveAdblockThing) - The intrusive "Ad blocker are not allowed on YouTube"  message is annoying. This open-source project aims to address this issue by providing a solution to bypass YouTube's ad blocker detection
 - [R-s0n/ars0n-framework](https://github.com/R-s0n/ars0n-framework) - A Modern Framework for Bug Bounty Hunting
@@ -2871,6 +2888,7 @@
 
 ## reverse-engineering 
 
+- [corellium/corellium-android-unpacking](https://github.com/corellium/corellium-android-unpacking) - Android Unpacking Automation using Corellium Devices
 - [BlackVS/ESP32-reversing](https://github.com/BlackVS/ESP32-reversing) - A curated list of ESP32 related reversing resources
 - [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
 - [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
