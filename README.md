@@ -77,6 +77,10 @@
 
 ## C 
 
+- [corellium/usbfluxd](https://github.com/corellium/usbfluxd) - Redirects the standard usbmuxd socket to allow connections to local and remote usbmuxd instances so remote devices appear connected locally.
+- [corellium/linux-m1](https://github.com/corellium/linux-m1) - Linux kernel source tree
+- [corellium/linux-sandcastle](https://github.com/corellium/linux-sandcastle) - Project Sandcastle kernel
+- [corellium/projectsandcastle](https://github.com/corellium/projectsandcastle) - Supporting tools for Android/Linux on the iPhone
 - [sqfmi/bbqX0kbd_driver](https://github.com/sqfmi/bbqX0kbd_driver) - BBQX0KBD is a Keyboard Device Driver for the Beepy Keyboard
 - [SymbianRevive/SDL2-symbianrevive](https://github.com/SymbianRevive/SDL2-symbianrevive) - [WIP] A port of SDL2 for Symbian^3 (e.g. Nokia E7)
 - [Kl0ibi/esp32_hackingtool](https://github.com/Kl0ibi/esp32_hackingtool) - 
@@ -208,6 +212,7 @@
 
 ## C++ 
 
+- [LaurieWired/ARTful](https://github.com/LaurieWired/ARTful) - The ARTful library for dynamically modifying the Android Runtime
 - [ossimlabs/ossim](https://github.com/ossimlabs/ossim) - Core OSSIM (Open Source Software Image Map) package including C++ code for OSSIM library, command-line applications, tests, and build system
 - [nonik0/CardputerLoRaChat](https://github.com/nonik0/CardputerLoRaChat) - 
 - [x64dbg/ScyllaHide](https://github.com/x64dbg/ScyllaHide) - Advanced usermode anti-anti-debugger. Forked from https://bitbucket.org/NtQuery/scyllahide
@@ -310,6 +315,7 @@
 
 ## Go 
 
+- [corellium/corellium-android-unpacking](https://github.com/corellium/corellium-android-unpacking) - Android Unpacking Automation using Corellium Devices
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://www.pingcap.com/tidb-serverless/
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
@@ -441,6 +447,7 @@
 
 ## Java 
 
+- [LaurieWired/JADXecute](https://github.com/LaurieWired/JADXecute) - JADX-gui scripting plugin for dynamic decompiler manipulation
 - [ngageoint/mrgeo](https://github.com/ngageoint/mrgeo) - MrGeo is a geospatial toolkit designed to provide raster-based geospatial capabilities that can be performed at scale. MrGeo is built upon Apache Spark and the Hadoop ecosystem to leverage the storage
 - [java-decompiler/jd-gui](https://github.com/java-decompiler/jd-gui) - A standalone Java Decompiler GUI
 - [java-decompiler/jd-eclipse](https://github.com/java-decompiler/jd-eclipse) - A Java Decompiler Eclipse plugin
@@ -679,6 +686,10 @@
 
 ## Others 
 
+- [LaurieWired/beautifying_android_native_code](https://github.com/LaurieWired/beautifying_android_native_code) - This repo contains the APK to follow along with my "Beautifying Android Native Code" Video on Youtube
+- [LaurieWired/ReverseEngineeringAndroidMalware](https://github.com/LaurieWired/ReverseEngineeringAndroidMalware) - This contains notes and slides for my talk on Reverse Engineering Android Malware
+- [LaurieWired/android_emulators_for_reverse_engineers](https://github.com/LaurieWired/android_emulators_for_reverse_engineers) - A guide to choosing between different Android Emulator options for Reverse Engineers
+- [LaurieWired/ObjectiveByTheSea2023](https://github.com/LaurieWired/ObjectiveByTheSea2023) - This contains notes and slides for my Objective by the Sea talk
 - [OffcierCia/non-typical-OSINT-guide](https://github.com/OffcierCia/non-typical-OSINT-guide) - The most unusual OSINT guide you've ever seen. The repository is intended for bored professionals only. PRs are welcome!
 - [LucaBongiorni/Amateur-SIGINT](https://github.com/LucaBongiorni/Amateur-SIGINT) - Blind Reverse Engineering a Wireless Protocol - or - Amateur Signals Intelligence
 - [tjtanaa/awesome-large-action-model](https://github.com/tjtanaa/awesome-large-action-model) - Awesome Large Action Model (LAM): Models that could help gets things done.
@@ -856,6 +867,10 @@
 
 ## Python 
 
+- [corellium/ios_persistence_mapping](https://github.com/corellium/ios_persistence_mapping) - Accompanying code for blog post "Mapping iOS Persistence Attack Surface using Corellium"
+- [LaurieWired/BinaryBeats](https://github.com/LaurieWired/BinaryBeats) - Turn binaries into music
+- [LaurieWired/Assembly-Algorithms](https://github.com/LaurieWired/Assembly-Algorithms) - Repository of algorithms implemented in pure assembly
+- [LaurieWired/iOS_Reverse_Engineering](https://github.com/LaurieWired/iOS_Reverse_Engineering) - The iOS IPA file Reverse Engineering reference
 - [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner
 - [DanMcInerney/xsscrapy](https://github.com/DanMcInerney/xsscrapy) - XSS spider - 66/66 wavsep XSS detected
 - [VinciGit00/Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai) - Python scraper based on AI
@@ -1327,6 +1342,7 @@
 
 ## Shell 
 
+- [LaurieWired/linux_malware_analysis_container](https://github.com/LaurieWired/linux_malware_analysis_container) - Docker container for quickly analyzing Linux malware
 - [joecupano/SIGpi](https://github.com/joecupano/SIGpi) - A SIGINT Go-kit of sorts
 - [lxdvs/apk2gold](https://github.com/lxdvs/apk2gold) - CLI tool for decompiling Android apps to Java. It does resources! It does Java! Its real easy!
 - [umeshshinde19/instainsane](https://github.com/umeshshinde19/instainsane) - Multi-threaded Instagram Brute Forcer (100 attemps at once)
@@ -1387,6 +1403,7 @@
 
 ## TypeScript 
 
+- [corellium/vscode-extension](https://github.com/corellium/vscode-extension) - Visual Studio Code Extension for Corellium
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 100+ integration / Enterprise automation tool / Zapier Alternative
