@@ -686,6 +686,7 @@
 
 ## Others 
 
+- [coollabsio/safetyper](https://github.com/coollabsio/safetyper) - A Grammarly alternative where you own what you type on your keyboard.
 - [LaurieWired/beautifying_android_native_code](https://github.com/LaurieWired/beautifying_android_native_code) - This repo contains the APK to follow along with my "Beautifying Android Native Code" Video on Youtube
 - [LaurieWired/ReverseEngineeringAndroidMalware](https://github.com/LaurieWired/ReverseEngineeringAndroidMalware) - This contains notes and slides for my talk on Reverse Engineering Android Malware
 - [LaurieWired/android_emulators_for_reverse_engineers](https://github.com/LaurieWired/android_emulators_for_reverse_engineers) - A guide to choosing between different Android Emulator options for Reverse Engineers
@@ -811,6 +812,7 @@
 
 ## PHP 
 
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [arall/sigint](https://github.com/arall/sigint) - Signals intelligence (SIGINT) gathering by interception of WiFi, Bluetooth and GSM
 - [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted, drag-and-drop & nosql file conversion server & share tool that supports 88 file formats in 13 languages.
 - [iagox86/dnscat2](https://github.com/iagox86/dnscat2) - 
