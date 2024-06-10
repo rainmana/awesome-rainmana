@@ -815,7 +815,7 @@
 
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [arall/sigint](https://github.com/arall/sigint) - Signals intelligence (SIGINT) gathering by interception of WiFi, Bluetooth and GSM
-- [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted, drag-and-drop & nosql file conversion server & share tool that supports 88 file formats in 13 languages.
+- [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted, drag-and-drop & nosql file conversion server & share tool that supports 445 file formats in 13 languages.
 - [iagox86/dnscat2](https://github.com/iagox86/dnscat2) - 
 - [oscarotero/Embed](https://github.com/oscarotero/Embed) - Get info from any web service or page
 - [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony
@@ -870,6 +870,7 @@
 
 ## Python 
 
+- [alexplaskett/QNXSecurity](https://github.com/alexplaskett/QNXSecurity) - QNX and BB10 Security Tools
 - [corellium/ios_persistence_mapping](https://github.com/corellium/ios_persistence_mapping) - Accompanying code for blog post "Mapping iOS Persistence Attack Surface using Corellium"
 - [LaurieWired/BinaryBeats](https://github.com/LaurieWired/BinaryBeats) - Turn binaries into music
 - [LaurieWired/Assembly-Algorithms](https://github.com/LaurieWired/Assembly-Algorithms) - Repository of algorithms implemented in pure assembly
@@ -1345,6 +1346,7 @@
 
 ## Shell 
 
+- [RabbitHoleEscapeR1/r1_escape](https://github.com/RabbitHoleEscapeR1/r1_escape) - 
 - [LaurieWired/linux_malware_analysis_container](https://github.com/LaurieWired/linux_malware_analysis_container) - Docker container for quickly analyzing Linux malware
 - [joecupano/SIGpi](https://github.com/joecupano/SIGpi) - A SIGINT Go-kit of sorts
 - [lxdvs/apk2gold](https://github.com/lxdvs/apk2gold) - CLI tool for decompiling Android apps to Java. It does resources! It does Java! Its real easy!
