@@ -315,6 +315,8 @@
 
 ## Go 
 
+- [glitchedgitz/cook](https://github.com/glitchedgitz/cook) - A wordlist framework to fullfill your kinks with your wordlists. For security researchers, bug bounty and hackers.
+- [devpwn/xmlrpc-scan](https://github.com/devpwn/xmlrpc-scan) - golang tool to scan domains or single domains with know security issues against xmlrpc
 - [corellium/corellium-android-unpacking](https://github.com/corellium/corellium-android-unpacking) - Android Unpacking Automation using Corellium Devices
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://www.pingcap.com/tidb-serverless/
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
@@ -687,6 +689,9 @@
 
 ## Others 
 
+- [danielmiessler/Source2URL](https://github.com/danielmiessler/Source2URL) - Parse source code directories and output list of URLs that are then sent through a proxy.
+- [the-xentropy/samlists](https://github.com/the-xentropy/samlists) - Free, libre, effective, and data-driven wordlists for all!
+- [Bo0oM/fuzz.txt](https://github.com/Bo0oM/fuzz.txt) - Potentially dangerous files
 - [coollabsio/safetyper](https://github.com/coollabsio/safetyper) - A Grammarly alternative where you own what you type on your keyboard.
 - [LaurieWired/beautifying_android_native_code](https://github.com/LaurieWired/beautifying_android_native_code) - This repo contains the APK to follow along with my "Beautifying Android Native Code" Video on Youtube
 - [LaurieWired/ReverseEngineeringAndroidMalware](https://github.com/LaurieWired/ReverseEngineeringAndroidMalware) - This contains notes and slides for my talk on Reverse Engineering Android Malware
@@ -813,6 +818,7 @@
 
 ## PHP 
 
+- [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [arall/sigint](https://github.com/arall/sigint) - Signals intelligence (SIGINT) gathering by interception of WiFi, Bluetooth and GSM
 - [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted, drag-and-drop & nosql file conversion server & share tool that supports 445 file formats in 13 languages.
@@ -870,6 +876,8 @@
 
 ## Python 
 
+- [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) - PraisonAI application combines AutoGen and CrewAI or similar frameworks into a low-code solution for building and managing multi-agent LLM systems, focusing on simplicity, customisation, and efficient
+- [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [alexplaskett/QNXSecurity](https://github.com/alexplaskett/QNXSecurity) - QNX and BB10 Security Tools
 - [corellium/ios_persistence_mapping](https://github.com/corellium/ios_persistence_mapping) - Accompanying code for blog post "Mapping iOS Persistence Attack Surface using Corellium"
 - [LaurieWired/BinaryBeats](https://github.com/LaurieWired/BinaryBeats) - Turn binaries into music
@@ -1288,6 +1296,7 @@
 
 ## Ruby 
 
+- [danielmiessler/Caparser](https://github.com/danielmiessler/Caparser) - A quick and dirty PCAP parser that helps you identify who your applications are sending sensitive data to without encryption.
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [davidesantangelo/dato.rss](https://github.com/davidesantangelo/dato.rss) - The best RSS Search experience you can find
 - [davidesantangelo/api.rss](https://github.com/davidesantangelo/api.rss) - RSS as RESTful. This service allows you to transform RSS feed into an awesome API.
@@ -1346,6 +1355,8 @@
 
 ## Shell 
 
+- [danielmiessler/egression](https://github.com/danielmiessler/egression) - Test a network's egress controls with various levels of success and failure.
+- [danielmiessler/RobotsDisallowed](https://github.com/danielmiessler/RobotsDisallowed) - A curated list of the most common and most interesting robots.txt disallowed directories.
 - [RabbitHoleEscapeR1/r1_escape](https://github.com/RabbitHoleEscapeR1/r1_escape) - 
 - [LaurieWired/linux_malware_analysis_container](https://github.com/LaurieWired/linux_malware_analysis_container) - Docker container for quickly analyzing Linux malware
 - [joecupano/SIGpi](https://github.com/joecupano/SIGpi) - A SIGINT Go-kit of sorts
