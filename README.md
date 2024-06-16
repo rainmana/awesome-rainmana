@@ -614,6 +614,7 @@
 
 ## Kaitai Struct 
 
+- [Antonin-Deniau/cave_miner](https://github.com/Antonin-Deniau/cave_miner) - Search for code cave in all binaries
 - [kaitai-io/kaitai_struct_formats](https://github.com/kaitai-io/kaitai_struct_formats) - Kaitai Struct: library of binary file formats (.ksy)
 
 ## Kotlin 
@@ -1122,7 +1123,6 @@
 - [xpirt/img2sdat](https://github.com/xpirt/img2sdat) - Convert sparse EXT4 image to sparse Android data image
 - [xpirt/sdat2img](https://github.com/xpirt/sdat2img) - Convert sparse Android data image to filesystem ext4 image
 - [ViRb3/apk-utilities](https://github.com/ViRb3/apk-utilities) - 🛠 Tools and scripts to manipulate Android APKs
-- [Antonin-Deniau/cave_miner](https://github.com/Antonin-Deniau/cave_miner) - Search for code cave in all binaries
 - [passivetotal/python_api](https://github.com/passivetotal/python_api) - Python abstract API for PassiveTotal services in the form of libraries and command line utilities.
 - [moonpyk/dtrx](https://github.com/moonpyk/dtrx) - Intelligent archive extraction
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
