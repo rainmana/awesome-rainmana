@@ -276,7 +276,6 @@
 ## CSS 
 
 - [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data. &lt;personal.management.system.pms@gmail.com&gt;
-- [tobychui/zoraxy](https://github.com/tobychui/zoraxy) - A general purpose HTTP reverse proxy and forwarding tool. Now written in Go!
 - [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2024
 - [joernweissenborn/lcars](https://github.com/joernweissenborn/lcars) - CSS Framework to style web pages like the fictional computer operating system of a popular sci-fi franchise.
 - [sharu725/online-cv](https://github.com/sharu725/online-cv) - A minimal Jekyll Theme to host your resume (CV) on GitHub with a few clicks.
@@ -418,6 +417,7 @@
 ## HTML 
 
 - [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection) - A collection of several hundred online tools for OSINT
+- [tobychui/zoraxy](https://github.com/tobychui/zoraxy) - A general purpose HTTP reverse proxy and forwarding tool. Now written in Go!
 - [aleff-github/my-flipper-shits](https://github.com/aleff-github/my-flipper-shits) - Free and libre source BadUSB payloads for Flipper Zero. [Windows, GNU/Linux, iOS]
 - [mitre-attack/attack-website](https://github.com/mitre-attack/attack-website) - MITRE ATT&CK Website
 - [nasa/dictionaries](https://github.com/nasa/dictionaries) - A collection of NASA "dictionaries", including thesauri, taxonomies and ontologies.
@@ -1283,7 +1283,6 @@
 - [c3rb3ru5d3d53c/mwcfg](https://github.com/c3rb3ru5d3d53c/mwcfg) - A Feature Rich Modular Malware Configuration Extraction Utility for MalDuck
 - [naclander/Calibre-Remarkable-Device-Driver-Plugin](https://github.com/naclander/Calibre-Remarkable-Device-Driver-Plugin) - Work in progress Calibre plugin to send files to a Remarkable Tablet
 - [kootenpv/gittyleaks](https://github.com/kootenpv/gittyleaks) - :droplet: Find sensitive information for a git repo
-- [MikimotoH/DLink_Harvester](https://github.com/MikimotoH/DLink_Harvester) - D-Link Firmware Image Files Scraper and Harvester
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
 - [Police-Data-Accessibility-Project/scrapers](https://github.com/Police-Data-Accessibility-Project/scrapers) - Code relating to scraping public police data.
 - [ItsDeidara/DNSwitch](https://github.com/ItsDeidara/DNSwitch) - A utitily for the Nintendo Switch to hijack the web browser
