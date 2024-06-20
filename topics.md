@@ -2507,7 +2507,6 @@
 - [naclander/Calibre-Remarkable-Device-Driver-Plugin](https://github.com/naclander/Calibre-Remarkable-Device-Driver-Plugin) - Work in progress Calibre plugin to send files to a Remarkable Tablet
 - [lapwat/reCatchable](https://github.com/lapwat/reCatchable) - Turn a site into a book. Download a whole website and upload it to your reMarkable.
 - [kootenpv/gittyleaks](https://github.com/kootenpv/gittyleaks) - :droplet: Find sensitive information for a git repo
-- [MikimotoH/DLink_Harvester](https://github.com/MikimotoH/DLink_Harvester) - D-Link Firmware Image Files Scraper and Harvester
 - [justinbeatz/Stockpile](https://github.com/justinbeatz/Stockpile) - The router hacking repo.
 - [Manawyrm/fxIP](https://github.com/Manawyrm/fxIP) - TCP/IP for Casio fx-9860 graphical calculators (with SLIP support, uIP stack)
 - [RangeNetworks/openbts](https://github.com/RangeNetworks/openbts) - GSM+GPRS Radio Access Network Node
