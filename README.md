@@ -104,7 +104,7 @@
 - [AFLplusplus/AFLplusplus](https://github.com/AFLplusplus/AFLplusplus) - The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!
 - [PAGalaxyLab/uniFuzzer](https://github.com/PAGalaxyLab/uniFuzzer) - A fuzzing tool for closed-source binaries based on Unicorn and LibFuzzer
 - [nmap/nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository.
-- [capstone-engine/capstone](https://github.com/capstone-engine/capstone) - Capstone disassembly/disassembler framework for ARM, ARM64 (ARMv8), Alpha, BPF, Ethereum VM, HPPA, M68K, M680X, Mips, MOS65XX, PPC, RISC-V(rv32G/rv64G), SH, Sparc, SystemZ, TMS320C64X, TriCore, Webass
+- [capstone-engine/capstone](https://github.com/capstone-engine/capstone) - Capstone disassembly/disassembler framework for ARM, ARM64 (ARMv8), Alpha, BPF, Ethereum VM, HPPA, LoongArch, M68K, M680X, Mips, MOS65XX, PPC, RISC-V(rv32G/rv64G), SH, Sparc, SystemZ, TMS320C64X, TriC
 - [seastorm/PuttyRider](https://github.com/seastorm/PuttyRider) - Hijack Putty sessions in order to sniff conversation and inject Linux commands.
 - [PacktPublishing/Learning-Linux-Binary-Analysis](https://github.com/PacktPublishing/Learning-Linux-Binary-Analysis) - Learning Linux Binary Analysis, published by Packt
 - [dyninst/dyninst](https://github.com/dyninst/dyninst) - DyninstAPI: Tools for binary instrumentation, analysis, and modification.
