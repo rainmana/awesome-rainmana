@@ -2283,7 +2283,7 @@
 - [brianwarehime/munk](https://github.com/brianwarehime/munk) - Munk - Visualize Splunk Architecture in Maltego
 - [glennzw/Malty](https://github.com/glennzw/Malty) - Malty: Combine two Maltego .mtz files into one.
 - [phhusson/super-bootimg](https://github.com/phhusson/super-bootimg) - Tools to edit Android boot.img. NDK buildable, to be usable in an update.zip
-- [cfig/Android_boot_image_editor](https://github.com/cfig/Android_boot_image_editor) - Parsing and re-packing Android boot.img/vbmeta.img/payload.bin, supporting Android 14
+- [cfig/Android_boot_image_editor](https://github.com/cfig/Android_boot_image_editor) - Parsing and re-packing Android boot.img/vbmeta.img/payload.bin, supporting Android 15
 - [anestisb/android-simg2img](https://github.com/anestisb/android-simg2img) - Tool to convert Android sparse images to raw images
 - [giuspen/cherrytree](https://github.com/giuspen/cherrytree) - cherrytree
 - [elvirbrk/NoteHighlight2016](https://github.com/elvirbrk/NoteHighlight2016) - Source code syntax highlighting for OneNote 2016 and OneNote for O365 . NoteHighlight 2013 port for OneNote 2016 (32-bit and 64-bit)
