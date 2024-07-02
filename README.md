@@ -212,6 +212,7 @@
 
 ## C++ 
 
+- [SatDump/SatDump](https://github.com/SatDump/SatDump) - A generic satellite data processing software.
 - [LaurieWired/ARTful](https://github.com/LaurieWired/ARTful) - The ARTful library for dynamically modifying the Android Runtime
 - [ossimlabs/ossim](https://github.com/ossimlabs/ossim) - Core OSSIM (Open Source Software Image Map) package including C++ code for OSSIM library, command-line applications, tests, and build system
 - [nonik0/CardputerLoRaChat](https://github.com/nonik0/CardputerLoRaChat) - 
