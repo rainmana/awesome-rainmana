@@ -175,7 +175,7 @@
 - [nettitude/Aladdin](https://github.com/nettitude/Aladdin) - 
 - [malwareinfosec/EKFiddle](https://github.com/malwareinfosec/EKFiddle) - Your Swiss Army knife to analyze malicious web traffic based on the popular Fiddler web debugger.
 - [pwntester/ysoserial.net](https://github.com/pwntester/ysoserial.net) - Deserialization payload generator for a variety of .NET formatters
-- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
+- [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [cjm00n/EvilSln](https://github.com/cjm00n/EvilSln) - A New Exploitation Technique for Visual Studio Projects
 - [Sarah-Hesham-2022/Unity-Protein-Visualization](https://github.com/Sarah-Hesham-2022/Unity-Protein-Visualization) - Protein Visualization using Unity and C# analysis on PDB Files.
 - [microsoft/binskim](https://github.com/microsoft/binskim) - A binary static analysis tool that provides security and correctness results for Windows Portable Executable and *nix ELF binary formats
@@ -891,7 +891,7 @@
 - [LaurieWired/iOS_Reverse_Engineering](https://github.com/LaurieWired/iOS_Reverse_Engineering) - The iOS IPA file Reverse Engineering reference
 - [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner
 - [DanMcInerney/xsscrapy](https://github.com/DanMcInerney/xsscrapy) - XSS spider - 66/66 wavsep XSS detected
-- [VinciGit00/Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai) - Python scraper based on AI
+- [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 - [ngageoint/sarpy](https://github.com/ngageoint/sarpy) - A basic Python library to demonstrate reading, writing, display, and simple processing of complex SAR data using the NGA SICD standard.
 - [iamredshift/RedzSIGINT](https://github.com/iamredshift/RedzSIGINT) - Software framework for your own SIGINT platform
 - [LazoCoder/Image-To-ASCII](https://github.com/LazoCoder/Image-To-ASCII) - Convert images to ASCII art.
