@@ -249,6 +249,7 @@
 - [krinql/vscode](https://github.com/krinql/vscode) - AI powered Suite of developer tools and integrations to help developers with mundane tasks
 - [automagica/automagica](https://github.com/automagica/automagica) - AI-powered Smart Robotic Process Automation 🤖
 - [alirezamika/autoscraper](https://github.com/alirezamika/autoscraper) - A Smart, Automatic, Fast and Lightweight Web Scraper for Python
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 
 ## algorithm 
 
@@ -792,6 +793,7 @@
 - [tirthajyoti/Web-Database-Analytics](https://github.com/tirthajyoti/Web-Database-Analytics) - Web scrapping and related analytics using Python tools
 - [D4Vinci/One-Lin3r](https://github.com/D4Vinci/One-Lin3r) - Gives you one-liners that aids in penetration testing operations, privilege escalation and more
 - [jeffknupp/sandman2](https://github.com/jeffknupp/sandman2) - Automatically generate a RESTful API service for your legacy database. No code required!
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 
 ## deep-learning 
 
@@ -818,7 +820,7 @@
 ## deno 
 
 - [gildas-lormeau/single-file-cli](https://github.com/gildas-lormeau/single-file-cli) - CLI tool for saving a faithful copy of a complete web page in a single HTML file (based on SingleFile)
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 
 ## deployment 
 
@@ -968,7 +970,7 @@
 - [rowyio/rowy](https://github.com/rowyio/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
 - [wsmaragh/dAte](https://github.com/wsmaragh/dAte) - A dating app that creates meaningful connections through food (Push notifications, Firebase, Chat, Schedule Calendar, Onboarding, Social media Login)
 - [sujaykundu777/devlopr-jekyll](https://github.com/sujaykundu777/devlopr-jekyll) - (FREE SITE GENERATOR) - A Customizable/Hackable portfolio jekyll theme where you can blog using Markdown or CMS :rocket: in minutes built for developers. (with CMS) - All you have to do is fork this r
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 
 ## firefox 
 
@@ -1163,7 +1165,6 @@
 - [graphql-kit/graphql-apis](https://github.com/graphql-kit/graphql-apis) - 📜 A collective list of public GraphQL APIs
 - [graphql-kit/graphql-voyager](https://github.com/graphql-kit/graphql-voyager) - 🛰️ Represent any GraphQL API as an interactive graph
 - [swisskyrepo/GraphQLmap](https://github.com/swisskyrepo/GraphQLmap) - GraphQLmap is a scripting engine to interact with a graphql endpoint for pentesting purposes. - Do not use for illegal testing ;)
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
 
 ## hacking 
 
@@ -1788,6 +1789,7 @@
 - [ergrelet/windiff](https://github.com/ergrelet/windiff) - Web-based tool that allows comparing symbol, type and syscall information of Microsoft Windows binaries across different versions of the OS.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [lowdefy/lowdefy](https://github.com/lowdefy/lowdefy) - The config web stack for business apps - build internal tools, client portals, web apps, admin panels, dashboards, web sites, and CRUD apps with YAML or JSON.
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 
 ## nim 
 
@@ -2638,7 +2640,7 @@
 - [cube2222/octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [upper/db](https://github.com/upper/db) - Data Access Layer (DAL) for PostgreSQL, CockroachDB, MySQL, SQLite and MongoDB with ORM-like features.
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 
 ## powershell 
 
