@@ -315,6 +315,7 @@
 
 ## Go 
 
+- [liamg/extrude](https://github.com/liamg/extrude) - :detective: Analyse binaries for missing security features, information disclosure and more...
 - [glitchedgitz/cook](https://github.com/glitchedgitz/cook) - A wordlist framework to fullfill your kinks with your wordlists. For security researchers, bug bounty and hackers.
 - [devpwn/xmlrpc-scan](https://github.com/devpwn/xmlrpc-scan) - golang tool to scan domains or single domains with know security issues against xmlrpc
 - [corellium/corellium-android-unpacking](https://github.com/corellium/corellium-android-unpacking) - Android Unpacking Automation using Corellium Devices
@@ -484,6 +485,7 @@
 
 ## JavaScript 
 
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [TheRealJoelmatic/RemoveAdblockThing](https://github.com/TheRealJoelmatic/RemoveAdblockThing) - The intrusive "Ad blocker are not allowed on YouTube"  message is annoying. This open-source project aims to address this issue by providing a solution to bypass YouTube's ad blocker detection
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
@@ -693,6 +695,7 @@
 
 ## Others 
 
+- [JStumpp/awesome-cloud](https://github.com/JStumpp/awesome-cloud) - A curated list of delightful cloud services.
 - [danielmiessler/Source2URL](https://github.com/danielmiessler/Source2URL) - Parse source code directories and output list of URLs that are then sent through a proxy.
 - [the-xentropy/samlists](https://github.com/the-xentropy/samlists) - Free, libre, effective, and data-driven wordlists for all!
 - [Bo0oM/fuzz.txt](https://github.com/Bo0oM/fuzz.txt) - Potentially dangerous files
