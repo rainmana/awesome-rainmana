@@ -463,6 +463,7 @@
 
 ## bash 
 
+- [emrekybs/Pip-Intel](https://github.com/emrekybs/Pip-Intel) - PIP-INTEL is an OSINT (Open Source Intelligence) tool designed using various open-source tools and pip packages.
 - [LazoCoder/Pokemon-Terminal](https://github.com/LazoCoder/Pokemon-Terminal) - Pokemon terminal themes.
 - [peass-ng/PEASS-ng](https://github.com/peass-ng/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
 - [Trevohack/DynastyPersist](https://github.com/Trevohack/DynastyPersist) - A Linux persistence tool!
@@ -1927,6 +1928,7 @@
 
 ## osint 
 
+- [emrekybs/Pip-Intel](https://github.com/emrekybs/Pip-Intel) - PIP-INTEL is an OSINT (Open Source Intelligence) tool designed using various open-source tools and pip packages.
 - [OffcierCia/non-typical-OSINT-guide](https://github.com/OffcierCia/non-typical-OSINT-guide) - The most unusual OSINT guide you've ever seen. The repository is intended for bored professionals only. PRs are welcome!
 - [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection) - A collection of several hundred online tools for OSINT
 - [spyboy-productions/omnisci3nt](https://github.com/spyboy-productions/omnisci3nt) - Unveiling the Hidden Layers of the Web – A Comprehensive Web Reconnaissance Tool
@@ -1967,6 +1969,9 @@
 
 ## others 
 
+- [citizenlab/web-censorship](https://github.com/citizenlab/web-censorship) - Collection of data about URL filtering in various countries
+- [citizenlab/malware-indicators](https://github.com/citizenlab/malware-indicators) - Citizen Lab Malware Reports
+- [citizenlab/test-lists](https://github.com/citizenlab/test-lists) - URL testing lists intended for discovering website censorship
 - [JStumpp/awesome-cloud](https://github.com/JStumpp/awesome-cloud) - A curated list of delightful cloud services.
 - [Chainlit/cookbook](https://github.com/Chainlit/cookbook) - Chainlit's cookbook repo
 - [SatDump/SatDump](https://github.com/SatDump/SatDump) - A generic satellite data processing software.
