@@ -1283,6 +1283,7 @@
 
 ## hacktoberfest 
 
+- [Gallopsled/pwntools](https://github.com/Gallopsled/pwntools) - CTF framework and exploit development library
 - [ego/awesome-mojo](https://github.com/ego/awesome-mojo) - Awesome Mojo🔥
 - [BlackVS/ESP32-reversing](https://github.com/BlackVS/ESP32-reversing) - A curated list of ESP32 related reversing resources
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://www.pingcap.com/tidb-serverless/
@@ -1584,6 +1585,7 @@
 
 ## linux 
 
+- [Gallopsled/pwntools](https://github.com/Gallopsled/pwntools) - CTF framework and exploit development library
 - [LazoCoder/Pokemon-Terminal](https://github.com/LazoCoder/Pokemon-Terminal) - Pokemon terminal themes.
 - [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
 - [paxo-phone/PaxOS-8](https://github.com/paxo-phone/PaxOS-8) - Code source du système d'exploitation du PaxoPhone
@@ -1976,6 +1978,7 @@
 
 ## others 
 
+- [0vercl0k/rp](https://github.com/0vercl0k/rp) - rp++ is a fast C++ ROP gadget finder for PE/ELF/Mach-O x86/x64/ARM/ARM64 binaries.
 - [openstack/swift](https://github.com/openstack/swift) - OpenStack Storage (Swift). Mirror of code maintained at opendev.org.
 - [uber/h3](https://github.com/uber/h3) - Hexagonal hierarchical geospatial indexing system
 - [Drew-Sec/EvilSlackbot](https://github.com/Drew-Sec/EvilSlackbot) - A Slack bot phishing framework for Red Teaming exercises
@@ -2731,6 +2734,7 @@
 
 ## python 
 
+- [Gallopsled/pwntools](https://github.com/Gallopsled/pwntools) - CTF framework and exploit development library
 - [uber/orbit](https://github.com/uber/orbit) - A Python package for Bayesian forecasting with object-oriented design and probabilistic models under the hood.
 - [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
@@ -2883,6 +2887,7 @@
 
 ## python3 
 
+- [Gallopsled/pwntools](https://github.com/Gallopsled/pwntools) - CTF framework and exploit development library
 - [HalilDeniz/NetProbe](https://github.com/HalilDeniz/NetProbe) - NetProbe: Network Probe
 - [PyCQA/isort](https://github.com/PyCQA/isort) - A Python utility / library to sort imports.
 - [RoseSecurity/ScrapPY](https://github.com/RoseSecurity/ScrapPY) - ScrapPY is a Python utility for scraping manuals, documents, and other sensitive PDFs to generate wordlists that can be utilized by offensive security tools to perform brute force, forced browsing, an
