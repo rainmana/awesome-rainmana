@@ -213,6 +213,7 @@
 
 ## C++ 
 
+- [0vercl0k/rp](https://github.com/0vercl0k/rp) - rp++ is a fast C++ ROP gadget finder for PE/ELF/Mach-O x86/x64/ARM/ARM64 binaries.
 - [SatDump/SatDump](https://github.com/SatDump/SatDump) - A generic satellite data processing software.
 - [LaurieWired/ARTful](https://github.com/LaurieWired/ARTful) - The ARTful library for dynamically modifying the Android Runtime
 - [ossimlabs/ossim](https://github.com/ossimlabs/ossim) - Core OSSIM (Open Source Software Image Map) package including C++ code for OSSIM library, command-line applications, tests, and build system
@@ -888,6 +889,7 @@
 
 ## Python 
 
+- [Gallopsled/pwntools](https://github.com/Gallopsled/pwntools) - CTF framework and exploit development library
 - [uber/orbit](https://github.com/uber/orbit) - A Python package for Bayesian forecasting with object-oriented design and probabilistic models under the hood.
 - [openstack/swift](https://github.com/openstack/swift) - OpenStack Storage (Swift). Mirror of code maintained at opendev.org.
 - [Drew-Sec/EvilSlackbot](https://github.com/Drew-Sec/EvilSlackbot) - A Slack bot phishing framework for Red Teaming exercises
