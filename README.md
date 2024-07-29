@@ -77,6 +77,7 @@
 
 ## C 
 
+- [hmgle/graftcp](https://github.com/hmgle/graftcp) - A flexible tool for redirecting a given program's TCP traffic to SOCKS5 or HTTP proxy.
 - [uber/h3](https://github.com/uber/h3) - Hexagonal hierarchical geospatial indexing system
 - [corellium/usbfluxd](https://github.com/corellium/usbfluxd) - Redirects the standard usbmuxd socket to allow connections to local and remote usbmuxd instances so remote devices appear connected locally.
 - [corellium/linux-m1](https://github.com/corellium/linux-m1) - Linux kernel source tree
@@ -161,6 +162,7 @@
 
 ## C# # 
 
+- [nccgroup/UPnP-Pentest-Toolkit](https://github.com/nccgroup/UPnP-Pentest-Toolkit) - UPnP Pentest Toolkit for Windows
 - [LazoCoder/WinAPI-Wrapper](https://github.com/LazoCoder/WinAPI-Wrapper) - Windows API wrapper class for simulating mouse movement, clicking, and more.
 - [LazoCoder/Windows-Hacks](https://github.com/LazoCoder/Windows-Hacks) - Creative and unusual things that can be done with the Windows API.
 - [ribthegreat99OrN0P/BytePressDecompressor](https://github.com/ribthegreat99OrN0P/BytePressDecompressor) - 
@@ -317,6 +319,7 @@
 
 ## Go 
 
+- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find and verify secrets
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
 - [minio/minio](https://github.com/minio/minio) - The Object Store for AI Data Infrastructure
 - [ariary/volana](https://github.com/ariary/volana) - 🌒 Shell command obfuscation to avoid detection systems
@@ -889,6 +892,8 @@
 
 ## Python 
 
+- [SECFORCE/Tunna](https://github.com/SECFORCE/Tunna) - Tunna is a set of tools which will wrap and tunnel any TCP communication over HTTP. It can be used to bypass network restrictions in fully firewalled environments.
+- [aidan-/httpie-aws-authv4](https://github.com/aidan-/httpie-aws-authv4) - AWS Auth v4 (API Gateway, Elasticsearch, etc) plugin for HTTPie
 - [Gallopsled/pwntools](https://github.com/Gallopsled/pwntools) - CTF framework and exploit development library
 - [uber/orbit](https://github.com/uber/orbit) - A Python package for Bayesian forecasting with object-oriented design and probabilistic models under the hood.
 - [openstack/swift](https://github.com/openstack/swift) - OpenStack Storage (Swift). Mirror of code maintained at opendev.org.
@@ -1340,6 +1345,7 @@
 
 ## Rust 
 
+- [erebe/wstunnel](https://github.com/erebe/wstunnel) - Tunnel all your traffic over Websocket or HTTP2 - Bypass firewalls/DPI - Static binary available
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
 - [xelis-project/xelis-blockchain](https://github.com/xelis-project/xelis-blockchain) - A private blockDAG using Homomorphic Encryption with Smart Contract support
@@ -1378,6 +1384,7 @@
 
 ## Shell 
 
+- [owerdogan/whoami-project](https://github.com/owerdogan/whoami-project) - Whoami provides enhanced privacy, anonymity for Debian and Arch based linux distributions
 - [emrekybs/Pip-Intel](https://github.com/emrekybs/Pip-Intel) - PIP-INTEL is an OSINT (Open Source Intelligence) tool designed using various open-source tools and pip packages.
 - [danielmiessler/egression](https://github.com/danielmiessler/egression) - Test a network's egress controls with various levels of success and failure.
 - [danielmiessler/RobotsDisallowed](https://github.com/danielmiessler/RobotsDisallowed) - A curated list of the most common and most interesting robots.txt disallowed directories.
