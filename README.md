@@ -1133,7 +1133,7 @@
 - [PyFilesystem/pyfilesystem2](https://github.com/PyFilesystem/pyfilesystem2) - Python's Filesystem abstraction layer
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [sarugaku/shellingham](https://github.com/sarugaku/shellingham) - Tool to Detect Surrounding Shell
-- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [microsoft/bistring](https://github.com/microsoft/bistring) - Bidirectionally transformed strings
 - [aws/aws-cli](https://github.com/aws/aws-cli) - Universal Command Line Interface for Amazon Web Services
 - [naksyn/Pyramid](https://github.com/naksyn/Pyramid) - a tool to help operate in EDRs' blind spots
