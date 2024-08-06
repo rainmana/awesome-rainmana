@@ -589,7 +589,7 @@
 - [MagicMirrorOrg/MagicMirror](https://github.com/MagicMirrorOrg/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assi
 - [frida/aurora](https://github.com/frida/aurora) - Proof-of-concept web app built on top of Frida
 - [vincentcox/StaCoAn](https://github.com/vincentcox/StaCoAn) - StaCoAn is a crossplatform tool which aids developers, bugbounty hunters and ethical hackers performing static code analysis on mobile applications.
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [tbhockey/LCARS-UI](https://github.com/tbhockey/LCARS-UI) - Library Computer Access/Retrieval System
 - [JoeCrash/stfc-galaxy-map](https://github.com/JoeCrash/stfc-galaxy-map) - Star Trek Fleet Command Interactive Galaxy Map
 - [xizon/poemkit](https://github.com/xizon/poemkit) - React toolkit for building a full website that also is a Micro-Frontend Architecture.
@@ -895,6 +895,7 @@
 
 ## Python 
 
+- [0xQuantumCoder/SherlockChain](https://github.com/0xQuantumCoder/SherlockChain) - SherlockChain is a streamlined AI analysis framework for Solidity, Vyper and Plutus contracts
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 3.1, Mistral, Phi & Gemma LLMs 2-5x faster with 80% less memory
 - [google/mesop](https://github.com/google/mesop) - Build delightful web apps quickly in Python
 - [lanjelot/patator](https://github.com/lanjelot/patator) - Patator is a multi-purpose brute-forcer, with a modular design and a flexible usage.
