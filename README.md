@@ -905,6 +905,7 @@
 
 ## Python 
 
+- [rainmana/InboxInspector](https://github.com/rainmana/InboxInspector) - A simple Streamlit application that allows users to upload a CSV file of email addresses and query VirusTotal for domain reports on each domain represented in the email addresses.
 - [Zero-Sploit/FlipperZero-Subghz-DB](https://github.com/Zero-Sploit/FlipperZero-Subghz-DB) - A collection of Flipper Zero sub files
 - [splunk/attack_data](https://github.com/splunk/attack_data) - A repository of curated datasets from various attacks
 - [stanford-oval/storm](https://github.com/stanford-oval/storm) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
