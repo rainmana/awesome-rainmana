@@ -1132,7 +1132,7 @@
 - [mmcloughlin/avo](https://github.com/mmcloughlin/avo) - Generate x86 Assembly with Go
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
-- [minio/minio](https://github.com/minio/minio) - The Object Store for AI Data Infrastructure
+- [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://www.pingcap.com/tidb-serverless/
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [go-python/gopy](https://github.com/go-python/gopy) - gopy generates a CPython extension module from a go package.
@@ -1598,7 +1598,7 @@
 ## kubernetes 
 
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
-- [minio/minio](https://github.com/minio/minio) - The Object Store for AI Data Infrastructure
+- [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 - [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
 - [aquasecurity/postee](https://github.com/aquasecurity/postee) - Notice: Postee is no longer under active development or maintenance.
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
@@ -2123,7 +2123,7 @@
 - [TAK-Product-Center/Server](https://github.com/TAK-Product-Center/Server) - TAK Server
 - [ribthegreat99OrN0P/BytePressDecompressor](https://github.com/ribthegreat99OrN0P/BytePressDecompressor) - 
 - [ioncodes/beeless](https://github.com/ioncodes/beeless) - BeeByte Deobfuscator. Used it to deobfuscate an Unity3D Game. Alternatively, de4dot works aswell.
-- [JenildoHaxhiraj/Babel-Deobfuscator](https://github.com/JenildoHaxhiraj/Babel-Deobfuscator) - Babel-Deobfuscator is an open-source deobfuscator for Babel Obfuscator.
+- [Nido2001/Babel-Deobfuscator](https://github.com/Nido2001/Babel-Deobfuscator) - Babel-Deobfuscator is an open-source deobfuscator for Babel Obfuscator.
 - [n017/BabelDeobfuscator](https://github.com/n017/BabelDeobfuscator) - BabelDeobfuscator is an open-source deobfuscator for BabelObfuscator
 - [TobitoFatitoRE/ArchangelUnCloaker](https://github.com/TobitoFatitoRE/ArchangelUnCloaker) - Public ArchangelCloak Deobfuscator
 - [CursedSheep/Atomic-Deobfuscator](https://github.com/CursedSheep/Atomic-Deobfuscator) - A deobfuscator for Atomic obfuscator
