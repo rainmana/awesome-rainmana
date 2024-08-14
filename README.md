@@ -718,6 +718,7 @@
 
 ## Others 
 
+- [onhexgroup/Conferences](https://github.com/onhexgroup/Conferences) - Conference presentation slides
 - [gurugio/lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university) - How to be low-level programmer
 - [JStumpp/awesome-cloud](https://github.com/JStumpp/awesome-cloud) - A curated list of delightful cloud services.
 - [danielmiessler/Source2URL](https://github.com/danielmiessler/Source2URL) - Parse source code directories and output list of URLs that are then sent through a proxy.
