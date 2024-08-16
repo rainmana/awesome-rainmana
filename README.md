@@ -69,7 +69,7 @@
 - [BlackVS/esp32knife](https://github.com/BlackVS/esp32knife) - Tools for ESP32 firmware dissection
 - [PacktPublishing/Binary-Analysis-Cookbook](https://github.com/PacktPublishing/Binary-Analysis-Cookbook) - Binary Analysis Cookbook, published by Packt
 - [vergl4s/pentesting-dump](https://github.com/vergl4s/pentesting-dump) - Scripts, tools, and proof-of-concepts to aid in a penetration test.
-- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
+- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM and embedded RISC-V architectures.
 
 ## Astro 
 
