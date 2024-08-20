@@ -3597,6 +3597,7 @@
 
 ## web 
 
+- [twilco/kosmonaut](https://github.com/twilco/kosmonaut) - A web browser engine for the space age :rocket:
 - [Bo0oM/fuzz.txt](https://github.com/Bo0oM/fuzz.txt) - Potentially dangerous files
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [yunginnanet/HellPot](https://github.com/yunginnanet/HellPot) - HellPot is a cross-platform portal to endless suffering meant to punish unruly HTTP bots.
