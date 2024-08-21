@@ -1428,6 +1428,7 @@
 
 ## Shell 
 
+- [aalex954/SpeedTestDashboard](https://github.com/aalex954/SpeedTestDashboard) - Docker compose spec to deploy Telegraf, Influx DB, Grafana based network monitoring dashboards for pfSense and SpeedTest.net.
 - [sickcodes/Docker-eyeOS](https://github.com/sickcodes/Docker-eyeOS) - Run iPhone (xnu-arm64) in a Docker container! Supports KVM + iOS kernel debugging (GDB)! Run xnu-qemu-arm64 in Docker! Works on ANY device.
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [owerdogan/whoami-project](https://github.com/owerdogan/whoami-project) - Whoami provides enhanced privacy, anonymity for Debian and Arch based linux distributions
