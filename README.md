@@ -239,7 +239,7 @@
 - [binspector/binspector](https://github.com/binspector/binspector) - A binary format analysis tool
 - [JonathanSalwan/PinTools](https://github.com/JonathanSalwan/PinTools) - Pintool example and PoC for dynamic binary analysis
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
-- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Chat with Local LLMs on Any Device
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 - [nlitsme/extfstools](https://github.com/nlitsme/extfstools) - Tools for extracting files from ext2,3,4 filesystem images
 - [codilime/veles](https://github.com/codilime/veles) - Binary data analysis and visualization tool
 - [wapiflapi/veles](https://github.com/wapiflapi/veles) - Visual reverse engineering tool.
