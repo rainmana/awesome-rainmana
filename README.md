@@ -222,6 +222,7 @@
 
 ## C++ 
 
+- [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 - [0vercl0k/rp](https://github.com/0vercl0k/rp) - rp++ is a fast C++ ROP gadget finder for PE/ELF/Mach-O x86/x64/ARM/ARM64 binaries.
@@ -722,6 +723,7 @@
 
 ## Others 
 
+- [EndeavourOS-Community-Editions/hyprland](https://github.com/EndeavourOS-Community-Editions/hyprland) - https://github.com/hyprwm/Hyprland
 - [TodePond/DreamBerd](https://github.com/TodePond/DreamBerd) - perfect programming language
 - [Cyulas/pentest_notes](https://github.com/Cyulas/pentest_notes) - Pentesting notes
 - [onhexgroup/Conferences](https://github.com/onhexgroup/Conferences) - Conference presentation slides
@@ -799,7 +801,7 @@
 - [meirwah/awesome-incident-response](https://github.com/meirwah/awesome-incident-response) - A curated list of tools for incident response
 - [ViRb3/nginx-gotchas](https://github.com/ViRb3/nginx-gotchas) - ⁉ My personal list of gotchas and other tricky situations with nginx
 - [kaitai-io/awesome-kaitai](https://github.com/kaitai-io/awesome-kaitai) - A curated list of Kaitai Struct tools and resources
-- [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
+- [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [tunz/js-vuln-db](https://github.com/tunz/js-vuln-db) - A collection of JavaScript engine CVEs with PoCs
 - [rxin/db-readings](https://github.com/rxin/db-readings) - Readings in Databases
 - [dweinstein/awesome-frida](https://github.com/dweinstein/awesome-frida) - Awesome Frida - A curated list of Frida resources http://www.frida.re/ (https://github.com/frida/frida)
@@ -1384,6 +1386,8 @@
 
 ## Rust 
 
+- [LGUG2Z/whkd](https://github.com/LGUG2Z/whkd) - A simple hotkey daemon for Windows
+- [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉
 - [twilco/kosmonaut](https://github.com/twilco/kosmonaut) - A web browser engine for the space age :rocket:
 - [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
