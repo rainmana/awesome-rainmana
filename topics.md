@@ -2083,6 +2083,7 @@
 
 ## others 
 
+- [basecamp/omakub](https://github.com/basecamp/omakub) - Opinionated Ubuntu Setup
 - [EndeavourOS-Community-Editions/hyprland](https://github.com/EndeavourOS-Community-Editions/hyprland) - https://github.com/hyprwm/Hyprland
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [MathisP75/summer-day-and-night](https://github.com/MathisP75/summer-day-and-night) - Hyprland rice for the summer themed competition
