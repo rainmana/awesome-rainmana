@@ -793,6 +793,7 @@
 
 ## cybersecurity 
 
+- [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
 - [the-xentropy/samlists](https://github.com/the-xentropy/samlists) - Free, libre, effective, and data-driven wordlists for all!
 - [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection) - A collection of several hundred online tools for OSINT
 - [mitre-attack/attack-website](https://github.com/mitre-attack/attack-website) - MITRE ATT&CK Website
@@ -956,6 +957,7 @@
 
 ## discord 
 
+- [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal client.
 - [Shuffle/Shuffle](https://github.com/Shuffle/Shuffle) - Shuffle: A general purpose security automation platform. Our focus is on collaboration and resource sharing.
 - [pysonDB/pysonDB](https://github.com/pysonDB/pysonDB) - A Simple , ☁️ Lightweight ,  💪 Efficent JSON based database for 🐍 Python. PysonDB-V2 has been released ⬇️
 
@@ -1181,6 +1183,9 @@
 
 ## go 
 
+- [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal client.
+- [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
+- [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
 - [minishift/minishift](https://github.com/minishift/minishift) - Run OpenShift 3.x locally | This project does not see active developement and maintenance.
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 - [TransformerOptimus/SuperCoder](https://github.com/TransformerOptimus/SuperCoder) - Open Source Autonomous Software Development System
@@ -1218,6 +1223,8 @@
 
 ## golang 
 
+- [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal client.
+- [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
 - [TransformerOptimus/SuperCoder](https://github.com/TransformerOptimus/SuperCoder) - Open Source Autonomous Software Development System
 - [apache/incubator-answer](https://github.com/apache/incubator-answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
@@ -1572,6 +1579,7 @@
 
 ## javascript 
 
+- [future-architect/cheetah-grid](https://github.com/future-architect/cheetah-grid) - The fastest open-source data table for web.
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equips agents with well-crafted tools empowering them to tackle complex tasks
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
@@ -1708,6 +1716,8 @@
 
 ## linux 
 
+- [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal client.
+- [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
 - [BatchDrake/SigDigger](https://github.com/BatchDrake/SigDigger) - Qt-based digital signal analyzer, using Suscan core and Sigutils DSP library
 - [flick0/dotfiles](https://github.com/flick0/dotfiles) - dotfiles go brrr
 - [owerdogan/whoami-project](https://github.com/owerdogan/whoami-project) - Whoami provides enhanced privacy, anonymity for Debian and Arch based linux distributions
@@ -2128,6 +2138,7 @@
 
 ## others 
 
+- [miquella/vaulted](https://github.com/miquella/vaulted) - Spawning and storage of secure environments
 - [sqlite/sqlite](https://github.com/sqlite/sqlite) - Official Git mirror of the SQLite source tree
 - [rethinkdb/rethinkdb](https://github.com/rethinkdb/rethinkdb) - The open-source database for the realtime web.
 - [petere/pex](https://github.com/petere/pex) - light-weight package manager for PostgreSQL
@@ -3336,6 +3347,7 @@
 
 ## security 
 
+- [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
 - [jopohl/urh](https://github.com/jopohl/urh) - Universal Radio Hacker: Investigate Wireless Protocols Like A Boss
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
@@ -3592,6 +3604,7 @@
 
 ## terminal 
 
+- [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal client.
 - [imsnif/diskonaut](https://github.com/imsnif/diskonaut) - Terminal disk space navigator 🔭
 - [LazoCoder/Pokemon-Terminal](https://github.com/LazoCoder/Pokemon-Terminal) - Pokemon terminal themes.
 - [cyrus-and/gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB in Python
