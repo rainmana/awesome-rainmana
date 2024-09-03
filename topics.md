@@ -240,7 +240,7 @@
 - [DataBassGit/AgentForge](https://github.com/DataBassGit/AgentForge) - Extensible AGI Framework
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
-- [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equips agents with well-crafted tools empowering them to tackle complex tasks
+- [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [meta-llama/llama-recipes](https://github.com/meta-llama/llama-recipes) - Scripts for fine-tuning Meta Llama3 with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization and Q&A. Supporting a
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 3.1, Mistral, Phi & Gemma LLMs 2-5x faster with 80% less memory
@@ -528,7 +528,7 @@
 ## blockchain 
 
 - [0xQuantumCoder/SherlockChain](https://github.com/0xQuantumCoder/SherlockChain) - SherlockChain is a streamlined AI analysis framework for Solidity, Vyper and Plutus contracts
-- [xelis-project/xelis-blockchain](https://github.com/xelis-project/xelis-blockchain) - A private blockDAG using Homomorphic Encryption with Smart Contract support
+- [xelis-project/xelis-blockchain](https://github.com/xelis-project/xelis-blockchain) - A private blockDAG using Homomorphic Encryption with Smart Contracts support
 - [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 3rd Edition - Programming the Open Blockchain
 
 ## bot 
@@ -762,7 +762,7 @@
 
 ## cryptocurrency 
 
-- [xelis-project/xelis-blockchain](https://github.com/xelis-project/xelis-blockchain) - A private blockDAG using Homomorphic Encryption with Smart Contract support
+- [xelis-project/xelis-blockchain](https://github.com/xelis-project/xelis-blockchain) - A private blockDAG using Homomorphic Encryption with Smart Contracts support
 
 ## cryptography 
 
@@ -1581,7 +1581,7 @@
 
 - [future-architect/cheetah-grid](https://github.com/future-architect/cheetah-grid) - The fastest open-source data table for web.
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
-- [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equips agents with well-crafted tools empowering them to tackle complex tasks
+- [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 - [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
@@ -1649,7 +1649,7 @@
 
 ## js 
 
-- [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equips agents with well-crafted tools empowering them to tackle complex tasks
+- [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. 
 - [MrEmpy/mantra](https://github.com/MrEmpy/mantra) - 「🔑」A tool used to hunt down API key leaks in JS files and pages
@@ -1764,7 +1764,7 @@
 
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
-- [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equips agents with well-crafted tools empowering them to tackle complex tasks
+- [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling
 - [microsoft/graphrag](https://github.com/microsoft/graphrag) - A modular graph-based Retrieval-Augmented Generation (RAG) system
 - [meta-llama/llama-recipes](https://github.com/meta-llama/llama-recipes) - Scripts for fine-tuning Meta Llama3 with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization and Q&A. Supporting a
 - [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
@@ -2917,7 +2917,7 @@
 - [coollabsio/safetyper](https://github.com/coollabsio/safetyper) - A Grammarly alternative where you own what you type on your keyboard.
 - [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.  personal.management.system.inbox@gmail.com
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
-- [xelis-project/xelis-blockchain](https://github.com/xelis-project/xelis-blockchain) - A private blockDAG using Homomorphic Encryption with Smart Contract support
+- [xelis-project/xelis-blockchain](https://github.com/xelis-project/xelis-blockchain) - A private blockDAG using Homomorphic Encryption with Smart Contracts support
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
 - [pushbits/server](https://github.com/pushbits/server) - A simple server for push notifications via Matrix (and a minimalistic alternative to Pushover and Gotify) 🚀📯
 - [martinvigo/email2phonenumber](https://github.com/martinvigo/email2phonenumber) - A OSINT tool to obtain a target's phone number just by having his email address
@@ -2945,7 +2945,7 @@
 - [DataBassGit/AgentForge](https://github.com/DataBassGit/AgentForge) - Extensible AGI Framework
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
-- [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equips agents with well-crafted tools empowering them to tackle complex tasks
+- [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling
 - [meta-llama/llama-recipes](https://github.com/meta-llama/llama-recipes) - Scripts for fine-tuning Meta Llama3 with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization and Q&A. Supporting a
 - [RRZE-HPC/OSACA](https://github.com/RRZE-HPC/OSACA) - Open Source Architecture Code Analyzer
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
@@ -3319,7 +3319,7 @@
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [badamczewski/PowerUp](https://github.com/badamczewski/PowerUp) - ⚡ Decompilation Tools and High Productivity Utilities ⚡
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
-- [xelis-project/xelis-blockchain](https://github.com/xelis-project/xelis-blockchain) - A private blockDAG using Homomorphic Encryption with Smart Contract support
+- [xelis-project/xelis-blockchain](https://github.com/xelis-project/xelis-blockchain) - A private blockDAG using Homomorphic Encryption with Smart Contracts support
 - [ergrelet/windiff](https://github.com/ergrelet/windiff) - Web-based tool that allows comparing symbol, type and syscall information of Microsoft Windows binaries across different versions of the OS.
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [falconre/falcon](https://github.com/falconre/falcon) - Binary Analysis Framework in Rust
@@ -3661,7 +3661,7 @@
 
 - [apache/incubator-answer](https://github.com/apache/incubator-answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
-- [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equips agents with well-crafted tools empowering them to tackle complex tasks
+- [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling
 - [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative
 - [truefoundry/cognita](https://github.com/truefoundry/cognita) - RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for production by TrueFoundry
