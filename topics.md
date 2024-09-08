@@ -107,6 +107,7 @@
 - [http](#http)
 - [https](#https)
 - [image-processing](#image-processing)
+- [instagram](#instagram)
 - [ios](#ios)
 - [iot](#iot)
 - [ipfs](#ipfs)
@@ -1520,6 +1521,13 @@
 - [GuidoBartoli/sherloq](https://github.com/GuidoBartoli/sherloq) - An open-source digital image forensic toolset
 - [TheZoraiz/ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) - A cross-platform command-line tool to convert images into ascii art and print them on the console. Now supports braille art!
 
+## instagram 
+
+- [SulimanHacker1/ig.osi](https://github.com/SulimanHacker1/ig.osi) - Information Gathering Instagram Tool.
+- [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
+- [bellingcat/instagram-location-search](https://github.com/bellingcat/instagram-location-search) - Finds Instagram location IDs near a specified latitude and longitude.
+- [megadose/holehe](https://github.com/megadose/holehe) - holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
+
 ## ios 
 
 - [sickcodes/Docker-eyeOS](https://github.com/sickcodes/Docker-eyeOS) - Run iPhone (xnu-arm64) in a Docker container! Supports KVM + iOS kernel debugging (GDB)! Run xnu-qemu-arm64 in Docker! Works on ANY device.
@@ -2266,7 +2274,6 @@
 - [rscloura/Doldrums](https://github.com/rscloura/Doldrums) - A Flutter/Dart reverse engineering tool
 - [LucasBaizer/apkSpy](https://github.com/LucasBaizer/apkSpy) - Fork of jadx with support for editing and recompiling Java source
 - [lxdvs/apk2gold](https://github.com/lxdvs/apk2gold) - CLI tool for decompiling Android apps to Java. It does resources! It does Java! Its real easy!
-- [SulimanHacker1/ig.osi](https://github.com/SulimanHacker1/ig.osi) - Information Gathering Instagram Tool.
 - [0015/ESP32Berry](https://github.com/0015/ESP32Berry) - ESP32Berry Project
 - [blindfuzzy/LHF](https://github.com/blindfuzzy/LHF) - A modular recon tool for pentesting
 - [FalsePhilosopher/BadUSB-Playground](https://github.com/FalsePhilosopher/BadUSB-Playground) - Flipper Zero geared badusb playground
