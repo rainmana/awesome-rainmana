@@ -1535,7 +1535,6 @@
 - [zardus/ctf-tools](https://github.com/zardus/ctf-tools) - Some setup scripts for security research tools.
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [redcode-labs/Citadel](https://github.com/redcode-labs/Citadel) - Collection of pentesting scripts
-- [NayamAmarshe/Cyberpunk-GRUB-Theme](https://github.com/NayamAmarshe/Cyberpunk-GRUB-Theme) - Cyberpunk 2077 Grub Theme
 - [S3Jensen/iRET](https://github.com/S3Jensen/iRET) - 
 - [linuz/Sticky-Keys-Slayer](https://github.com/linuz/Sticky-Keys-Slayer) - Scans for accessibility tools backdoors via RDP
 - [Homebrew/install](https://github.com/Homebrew/install) - 📥 Homebrew (un)installer
@@ -1574,7 +1573,7 @@
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [victordibia/autogen-ui](https://github.com/victordibia/autogen-ui) - Web UI for AutoGen (A Framework Multi-Agent LLM Applications)
 - [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Anthropic, OpenAI, Assistants API, Azure, Groq, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, langchain, DALL-E-3, Cha
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, langchain, DALL-E-3
 - [corellium/vscode-extension](https://github.com/corellium/vscode-extension) - Visual Studio Code Extension for Corellium
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
