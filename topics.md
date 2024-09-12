@@ -1022,6 +1022,7 @@
 
 ## dotnet 
 
+- [LavaGang/MelonLoader](https://github.com/LavaGang/MelonLoader) - The World's First Universal Mod Loader for Unity Games compatible with both Il2Cpp and Mono
 - [badamczewski/PowerUp](https://github.com/badamczewski/PowerUp) - ⚡ Decompilation Tools and High Productivity Utilities ⚡
 - [Washi1337/JavaResolver](https://github.com/Washi1337/JavaResolver) - Java class file inspection library for .NET.
 - [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 The Only Production-Ready AI-Powered Backend Code Generation
@@ -1118,6 +1119,7 @@
 
 ## framework 
 
+- [LavaGang/MelonLoader](https://github.com/LavaGang/MelonLoader) - The World's First Universal Mod Loader for Unity Games compatible with both Il2Cpp and Mono
 - [RedhawkSDR/redhawk](https://github.com/RedhawkSDR/redhawk) - A submodule repository for distributing REDHAWK artifacts and the latest REDHAWK source code.  Use 'git clone --recurse-submodules git@github.com:RedhawkSDR/redhawk.git' to also clone all submodules.
 - [truefoundry/cognita](https://github.com/truefoundry/cognita) - RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for production by TrueFoundry
 - [capstone-engine/capstone](https://github.com/capstone-engine/capstone) - Capstone disassembly/disassembler framework for ARM, ARM64 (ARMv8), Alpha, BPF, Ethereum VM, HPPA, LoongArch, M68K, M680X, Mips, MOS65XX, PPC, RISC-V(rv32G/rv64G), SH, Sparc, SystemZ, TMS320C64X, TriC
@@ -3709,6 +3711,8 @@
 
 ## unity 
 
+- [sinai-dev/UnityExplorer](https://github.com/sinai-dev/UnityExplorer) - An in-game UI for exploring, debugging and modifying IL2CPP and Mono Unity games.
+- [LavaGang/MelonLoader](https://github.com/LavaGang/MelonLoader) - The World's First Universal Mod Loader for Unity Games compatible with both Il2Cpp and Mono
 - [djkaty/Il2CppInspector](https://github.com/djkaty/Il2CppInspector) - Powerful automated tool for reverse engineering Unity IL2CPP binaries
 - [Sarah-Hesham-2022/Unity-Protein-Visualization](https://github.com/Sarah-Hesham-2022/Unity-Protein-Visualization) - Protein Visualization using Unity and C# analysis on PDB Files.
 - [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) - .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
