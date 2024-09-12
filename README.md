@@ -175,6 +175,8 @@
 
 ## C# # 
 
+- [sinai-dev/UnityExplorer](https://github.com/sinai-dev/UnityExplorer) - An in-game UI for exploring, debugging and modifying IL2CPP and Mono Unity games.
+- [LavaGang/MelonLoader](https://github.com/LavaGang/MelonLoader) - The World's First Universal Mod Loader for Unity Games compatible with both Il2Cpp and Mono
 - [badamczewski/PowerUp](https://github.com/badamczewski/PowerUp) - ⚡ Decompilation Tools and High Productivity Utilities ⚡
 - [nccgroup/UPnP-Pentest-Toolkit](https://github.com/nccgroup/UPnP-Pentest-Toolkit) - UPnP Pentest Toolkit for Windows
 - [LazoCoder/WinAPI-Wrapper](https://github.com/LazoCoder/WinAPI-Wrapper) - Windows API wrapper class for simulating mouse movement, clicking, and more.
