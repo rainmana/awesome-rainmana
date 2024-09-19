@@ -153,6 +153,7 @@
 - [objective-c](#objective-c)
 - [open-data](#open-data)
 - [open-source](#open-source)
+- [openai](#openai)
 - [opencv](#opencv)
 - [operating-system](#operating-system)
 - [osint](#osint)
@@ -2127,6 +2128,27 @@
 - [4ian/GDevelop](https://github.com/4ian/GDevelop) - 🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.
 - [google/vizier](https://github.com/google/vizier) - Python-based research interface for blackbox and hyperparameter optimization, based on the internal Google Vizier Service.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+
+## openai 
+
+- [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
+- [TransformerOptimus/SuperCoder](https://github.com/TransformerOptimus/SuperCoder) - Open Source Autonomous Software Development System
+- [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - Generative AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. It features AI personas, AGI functions, multi-model chats, text-to-image, voice, response streaming, cod
+- [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
+- [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
+- [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, langchain, DALL
+- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure /  DeepSeek), Knowledge Base (file upload / knowledge management
+- [tom-doerr/zsh_codex](https://github.com/tom-doerr/zsh_codex) - This is a ZSH plugin that enables you to use OpenAI's Codex AI in the command line.
+- [jackmpcollins/magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
+- [SamurAIGPT/Open-Custom-GPT](https://github.com/SamurAIGPT/Open-Custom-GPT) - Create Custom GPT and add/embed on your site using Assistants api
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
+- [nezort11/chatgpt-mobile](https://github.com/nezort11/chatgpt-mobile) - 🤖💡📱 ChatGPT mobile app built using Expo/React Native
+- [theiskaa/MobileGPT](https://github.com/theiskaa/MobileGPT) - 💬 ChatGPT Mobile Application (iOS and Android) built with Flutter
+- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
 
 ## opencv 
 
