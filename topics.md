@@ -2682,7 +2682,7 @@
 - [google/centipede](https://github.com/google/centipede) - 
 - [google/ml-compiler-opt](https://github.com/google/ml-compiler-opt) - Infrastructure for Machine Learning Guided Optimization (MLGO) in LLVM.
 - [google/flax](https://github.com/google/flax) - Flax is a neural network library for JAX that is designed for flexibility.
-- [google/jax](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
+- [jax-ml/jax](https://github.com/jax-ml/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
 - [googlecreativelab/teachablemachine-community](https://github.com/googlecreativelab/teachablemachine-community) - Example code snippets and machine learning code for Teachable Machine
 - [Cgboal/Decant](https://github.com/Cgboal/Decant) - Expand CIDR ranges to IPv4 addresses
 - [Cgboal/DomainParser](https://github.com/Cgboal/DomainParser) - A very high performance Domain Name parser package in Go.
