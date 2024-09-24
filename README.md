@@ -233,6 +233,7 @@
 
 ## C++ 
 
+- [sz3/libcimbar](https://github.com/sz3/libcimbar) - Optimized implementation for color-icon-matrix barcodes
 - [YimMenu/YimMenu](https://github.com/YimMenu/YimMenu) - YimMenu, a GTA V menu protecting against a wide ranges of the public crashes and improving the overall experience.
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [rvrsh3ll/BEAR](https://github.com/rvrsh3ll/BEAR) - Bear C2 is a compilation of C2 scripts, payloads, and stagers used in simulated attacks by Russian APT groups, Bear features a variety of encryption methods, including AES, XOR, DES, TLS, RC4, RSA and
@@ -322,6 +323,7 @@
 
 ## Dart 
 
+- [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [theiskaa/MobileGPT](https://github.com/theiskaa/MobileGPT) - 💬 ChatGPT Mobile Application (iOS and Android) built with Flutter
 - [SpokenBanana/pawdoption](https://github.com/SpokenBanana/pawdoption) - A mobile app that lets you swipe to find your next pet from your local animal shelters.
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.
@@ -741,6 +743,7 @@
 
 ## Objective-C 
 
+- [chrisballinger/BLEMeshChat](https://github.com/chrisballinger/BLEMeshChat) - Bluetooth LE Mesh Chat for iOS and Android
 - [hanks/HHKBAssistant_for_mac](https://github.com/hanks/HHKBAssistant_for_mac) - A funny helper tool for HHKB professional keyboard on mac. Its main job is that it can auto detect the HHKB professional keyboard plugged in and out, and do some actions you want.
 - [artginzburg/MiddleClick-Sonoma](https://github.com/artginzburg/MiddleClick-Sonoma) -  "Wheel click" with three-finger click/tap for Trackpad and Magic Mouse.
 - [jakob/TableTool](https://github.com/jakob/TableTool) - A simple CSV editor for the Mac
@@ -761,6 +764,18 @@
 
 ## Others 
 
+- [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
+- [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
+- [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
+- [wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - A curated list of awesome Android UI/UX libraries
+- [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
+- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
+- [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
+- [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
+- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
+- [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
+- [n8n-io/self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit) - The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.
 - [tokyo-night/tokyo-night-vscode-theme](https://github.com/tokyo-night/tokyo-night-vscode-theme) - A clean, dark Visual Studio Code theme that celebrates the lights of Downtown Tokyo at night.
 - [correlatedsecurity/Awesome-SOAR](https://github.com/correlatedsecurity/Awesome-SOAR) - A curated Cyber "Security Orchestration, Automation and Response (SOAR)" awesome list.
 - [phmullins/awesome-macos-commandline](https://github.com/phmullins/awesome-macos-commandline) - A curated list of awesome command-line software for macOS.
@@ -965,6 +980,8 @@
 
 ## Python 
 
+- [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
+- [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [Zipstack/unstract](https://github.com/Zipstack/unstract) - No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents
 - [frdel/agent-zero](https://github.com/frdel/agent-zero) - Agent Zero AI framework
 - [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
@@ -1450,6 +1467,7 @@
 
 ## Rust 
 
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [borgo-lang/borgo](https://github.com/borgo-lang/borgo) - Borgo is a statically typed language that compiles to Go.
 - [imsnif/diskonaut](https://github.com/imsnif/diskonaut) - Terminal disk space navigator 🔭
@@ -1568,6 +1586,8 @@
 
 ## Swift 
 
+- [nicklockwood/Swiftenstein](https://github.com/nicklockwood/Swiftenstein) - Simple Wolfenstein 3D clone written in Swift
+- [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects
 - [redcanaryco/mac-monitor](https://github.com/redcanaryco/mac-monitor) - Red Canary Mac Monitor is an advanced, stand-alone system monitoring tool tailor-made for macOS security research. Beginning with Endpoint Security (ES), it collects and enriches system events, displa
 - [37MobileTeam/iChatGPT](https://github.com/37MobileTeam/iChatGPT) - OpenAI ChatGPT SwiftUI app for iOS, iPadOS, macOS
 - [JohnCoates/flexdecrypt](https://github.com/JohnCoates/flexdecrypt) - Decrypt iOS Apps and Mach-O binaries
