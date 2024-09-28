@@ -1463,6 +1463,7 @@
 
 ## hacktoberfest 
 
+- [diggerhq/digger](https://github.com/diggerhq/digger) - Digger is an open source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline ⚡️
 - [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven.
 - [BlackVS/Awesome-CTS](https://github.com/BlackVS/Awesome-CTS) - A curated list of Capture The Signal CTF related stuff
@@ -1470,7 +1471,6 @@
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [apache/incubator-answer](https://github.com/apache/incubator-answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
-- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
 - [Gallopsled/pwntools](https://github.com/Gallopsled/pwntools) - CTF framework and exploit development library
@@ -2280,6 +2280,8 @@
 
 ## others 
 
+- [successfulstudy/jailbreakprompt](https://github.com/successfulstudy/jailbreakprompt) - Compile a list of AI jailbreak scenarios for enthusiasts to explore and test.
+- [cognitivecomputations/dolphin-system-messages](https://github.com/cognitivecomputations/dolphin-system-messages) - Dolphin System Messages
 - [chrisballinger/BLEMeshChat](https://github.com/chrisballinger/BLEMeshChat) - Bluetooth LE Mesh Chat for iOS and Android
 - [nicklockwood/Swiftenstein](https://github.com/nicklockwood/Swiftenstein) - Simple Wolfenstein 3D clone written in Swift
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
@@ -3809,6 +3811,7 @@
 
 ## terraform 
 
+- [diggerhq/digger](https://github.com/diggerhq/digger) - Digger is an open source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline ⚡️
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amo
 
 ## testing 
