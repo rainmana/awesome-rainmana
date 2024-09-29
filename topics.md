@@ -2957,6 +2957,7 @@
 
 ## penetration-testing 
 
+- [zidansec/CloudPeler](https://github.com/zidansec/CloudPeler) - CrimeFlare is a useful tool for bypassing websites protected by CloudFlare WAF, with this tool you can easily see the real IP of websites that have been protected by CloudFlare. The resulting informat
 - [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner
 - [OlivierLaflamme/Cheatsheet-God](https://github.com/OlivierLaflamme/Cheatsheet-God) - Penetration Testing Reference Bank - OSCP / PTP & PTX  Cheatsheet
 - [opabravo/mass-bruter](https://github.com/opabravo/mass-bruter) - Mass bruteforce authentication of network protocols
