@@ -1201,7 +1201,7 @@
 - [cisagov/untitledgoosetool](https://github.com/cisagov/untitledgoosetool) - Untitled Goose Tool is a robust and flexible hunt and incident response tool that adds novel authentication and data gathering methods in order to run a full investigation against a customer’s Azure A
 - [InQuest/ThreatIngestor](https://github.com/InQuest/ThreatIngestor) - Extract and aggregate threat intelligence.
 - [nccgroup/typofinder](https://github.com/nccgroup/typofinder) - A finder of domain typos showing country of IP address
-- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - NEW - YOLOv8 🚀 in PyTorch &gt; ONNX &gt; OpenVINO &gt; CoreML &gt; TFLite
+- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO11 🚀
 - [bellingcat/auto-archiver](https://github.com/bellingcat/auto-archiver) - Automatically archive links to videos, images, and social media content from Google Sheets (and more).
 - [rainmana/cookiegrabber](https://github.com/rainmana/cookiegrabber) - Simple Python3 script/CLI tool to grab and dump cookies from all browsers. Building further capabilities to make requests, sort, etc. as time goes on.
 - [Mahlet-Inc/hobbits](https://github.com/Mahlet-Inc/hobbits) - A multi-platform GUI for bit-based analysis, processing, and visualization
