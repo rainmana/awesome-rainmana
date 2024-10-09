@@ -1544,6 +1544,7 @@
 - [pysonDB/pysonDB](https://github.com/pysonDB/pysonDB) - A Simple , ☁️ Lightweight ,  💪 Efficent JSON based database for 🐍 Python. PysonDB-V2 has been released ⬇️
 - [sympy/sympy](https://github.com/sympy/sympy) - A computer algebra system written in pure Python
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
+- [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
 - [davidteather/everything-web-scraping](https://github.com/davidteather/everything-web-scraping) - Learn everything web scraping with David Teather Codes on YouTube
 - [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 The Only Production-Ready AI-Powered Backend Code Generation
 - [skyra-project/star-wars-api](https://github.com/skyra-project/star-wars-api) - Star Wars GraphQL API
