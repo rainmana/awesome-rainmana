@@ -966,6 +966,7 @@
 - [rsmudge/ElevateKit](https://github.com/rsmudge/ElevateKit) - The Elevate Kit demonstrates how to use third-party privilege escalation attacks with Cobalt Strike's Beacon payload.
 - [securityjoes/MasterParser](https://github.com/securityjoes/MasterParser) - MasterParser is a powerful DFIR tool designed for analyzing and parsing Linux logs
 - [JoelGMSec/AutoRDPwn](https://github.com/JoelGMSec/AutoRDPwn) - The Shadow Attack Framework
+- [beigeworm/Powershell-Tools-and-Toys](https://github.com/beigeworm/Powershell-Tools-and-Toys) - 50+ Powershell Scripts, Ranging from Pranks to Red-Team Tools
 - [byinarie/qu1ckdr0p2](https://github.com/byinarie/qu1ckdr0p2) - Quicky serve files over http or https using flask.
 - [FalsePhilosopher/badusb](https://github.com/FalsePhilosopher/badusb) - Flipper Zero badusb payload library
 - [davehull/Kansa](https://github.com/davehull/Kansa) - A Powershell incident response framework
