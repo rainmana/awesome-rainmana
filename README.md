@@ -409,7 +409,7 @@
 - [lc/gau](https://github.com/lc/gau) - Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.
 - [tomnomnom/unfurl](https://github.com/tomnomnom/unfurl) - Pull out bits of URLs provided on stdin
 - [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
-- [MrEmpy/mantra](https://github.com/MrEmpy/mantra) - 「🔑」A tool used to hunt down API key leaks in JS files and pages
+- [brosck/mantra](https://github.com/brosck/mantra) - 「🔑」A tool used to hunt down API key leaks in JS files and pages
 - [christianselig/apollo-backend](https://github.com/christianselig/apollo-backend) - Apollo backend server
 - [philippgille/ln-paywall](https://github.com/philippgille/ln-paywall) - Go middleware for monetizing your API on a per-request basis with Bitcoin and Lightning ⚡️
 - [aquasecurity/postee](https://github.com/aquasecurity/postee) - Notice: Postee is no longer under active development or maintenance.
@@ -689,6 +689,7 @@
 - [bellingcat/open-questions](https://github.com/bellingcat/open-questions) - Want to contribute? These are difficult, long-term projects that could be valuable to open source investigators at Bellingcat and around the world.
 - [JWarmenhoven/DBDA-python](https://github.com/JWarmenhoven/DBDA-python) - Doing Bayesian Data Analysis, 2nd Edition (Kruschke, 2015): Python/PyMC3 code
 - [google/automl](https://github.com/google/automl) - Google Brain AutoML
+- [google/flax](https://github.com/google/flax) - Flax is a neural network library for JAX that is designed for flexibility.
 - [tirthajyoti/Web-Database-Analytics](https://github.com/tirthajyoti/Web-Database-Analytics) - Web scrapping and related analytics using Python tools
 - [Gallopsled/pwntools-tutorial](https://github.com/Gallopsled/pwntools-tutorial) - Tutorials for getting started with Pwntools
 - [RoyalVeterinaryCollege/detecting_false_positives](https://github.com/RoyalVeterinaryCollege/detecting_false_positives) - Publicly-available source code for paper entitled "Detecting false positive disease references in veterinary clinical notes without manual annotations"
@@ -1344,7 +1345,6 @@
 - [google/pyglove](https://github.com/google/pyglove) - Manipulating Python Programs
 - [google/pytype](https://github.com/google/pytype) - A static type analyzer for Python code
 - [google/ml-compiler-opt](https://github.com/google/ml-compiler-opt) - Infrastructure for Machine Learning Guided Optimization (MLGO) in LLVM.
-- [google/flax](https://github.com/google/flax) - Flax is a neural network library for JAX that is designed for flexibility.
 - [google/timesketch](https://github.com/google/timesketch) - Collaborative forensic timeline analysis
 - [jax-ml/jax](https://github.com/jax-ml/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
