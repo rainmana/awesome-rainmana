@@ -288,7 +288,7 @@
 - [google/nearby](https://github.com/google/nearby) - 🐿️ A collection of projects focused on connectivity that enable building cross-device experiences.
 - [google/bloaty](https://github.com/google/bloaty) - Bloaty: a size profiler for binaries
 - [troybowman/dtxmsg](https://github.com/troybowman/dtxmsg) - 
-- [AngeloD2022/GoogleWiFiDesktop](https://github.com/AngeloD2022/GoogleWiFiDesktop) - An (unfinished) desktop client for Google WiFi routers.
+- [AngeloD2022/GoogleWiFiDesktop](https://github.com/AngeloD2022/GoogleWiFiDesktop) - A desktop client for Google WiFi routers. (MAINTENANCE HIBERNATION)
 - [rizinorg/cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 - [doxygen/doxygen](https://github.com/doxygen/doxygen) - Official doxygen git repository
@@ -1231,7 +1231,7 @@
 - [rainmana/cookiegrabber](https://github.com/rainmana/cookiegrabber) - Simple Python3 script/CLI tool to grab and dump cookies from all browsers. Building further capabilities to make requests, sort, etc. as time goes on.
 - [Mahlet-Inc/hobbits](https://github.com/Mahlet-Inc/hobbits) - A multi-platform GUI for bit-based analysis, processing, and visualization
 - [Pylons/waitress](https://github.com/Pylons/waitress) - Waitress - A WSGI server for Python 3
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system in 275+ supported cars.
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 275+ supported cars.
 - [pylyf/NetWorm](https://github.com/pylyf/NetWorm) - Python network worm that spreads on the local network and gives the attacker control of these machines.
 - [wapiflapi/villoc](https://github.com/wapiflapi/villoc) - Visualization of heap operations.
 - [wapiflapi/binglide](https://github.com/wapiflapi/binglide) - Visual reverse engineering tool. Veles is better, use it. Don't use this.
