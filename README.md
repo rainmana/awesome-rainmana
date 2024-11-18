@@ -222,7 +222,6 @@
 - [spectreconsole/spectre.console](https://github.com/spectreconsole/spectre.console) - A .NET library that makes it easier to create beautiful console applications.
 - [Radarr/Radarr](https://github.com/Radarr/Radarr) - Movie organizer/manager for usenet and torrent users.
 - [0xthirteen/SharpStay](https://github.com/0xthirteen/SharpStay) - .NET project for installing Persistence
-- [Betweenmatt/TastyScript](https://github.com/Betweenmatt/TastyScript) - Android game automation made simple.
 - [SnaffCon/Snaffler](https://github.com/SnaffCon/Snaffler) - a tool for pentesters to help find delicious candy, by @l0ss and @Sh3r4 ( Twitter: @/mikeloss and @/sh3r4_hax )
 - [EthanC/Jekyll](https://github.com/EthanC/Jekyll) - Call of Duty XAsset exporter that dumps raw assets from a game's memory.
 - [Scobalula/Husky](https://github.com/Scobalula/Husky) - Call of Duty BSP Extractor
