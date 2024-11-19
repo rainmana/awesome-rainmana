@@ -780,6 +780,8 @@
 
 ## Others 
 
+- [shubhdhungana/grep-search-for-secret-private-api-or-other-keys](https://github.com/shubhdhungana/grep-search-for-secret-private-api-or-other-keys) - (?i)((access_key|access_token|admin_pass|admin_user|algolia_admin_key|algolia_api_key|alias_pass|alicloud_access_key|amazon_secret_access_key|amazonaws|ansible_vault_password|aos_key|api_key|api_key_s
+- [System00-Security/API-Key-regex](https://github.com/System00-Security/API-Key-regex) - extracting api key using grep
 - [BushidoUK/Open-source-tools-for-CTI](https://github.com/BushidoUK/Open-source-tools-for-CTI) - Public Repository of Open Source Tools for Cyber Threat Intelligence Analysts and Researchers
 - [itaymigdal/awesome-injection](https://github.com/itaymigdal/awesome-injection) - Centralized resource for listing and organizing known injection techniques and POCs
 - [burningtree/awesome-json](https://github.com/burningtree/awesome-json) - A curated list of awesome JSON libraries and resources.
@@ -1011,6 +1013,7 @@
 
 ## Python 
 
+- [mazen160/secrets-patterns-db](https://github.com/mazen160/secrets-patterns-db) - Secrets Patterns DB: The largest open-source Database for detecting secrets, API keys, passwords, tokens, and more.
 - [Paradoxis/Flask-Unsign](https://github.com/Paradoxis/Flask-Unsign) - Command line tool to fetch, decode, brute-force and craft session cookies of a  Flask  application by guessing secret keys.
 - [ozguralp/gmapsapiscanner](https://github.com/ozguralp/gmapsapiscanner) - 
 - [wetox-team/flipperzero-goodies](https://github.com/wetox-team/flipperzero-goodies) - flipper zero goodies [intercom_keys][scripts]
