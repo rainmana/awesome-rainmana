@@ -694,6 +694,7 @@
 - [johnnycode8/chromadb_quickstart](https://github.com/johnnycode8/chromadb_quickstart) - Tutorials to help you get started with ChromaDB. Chroma has built-in functionality to embed text and images so you can build out your proof-of-concepts on a vector database quickly. Associated videos:
 - [meta-llama/llama-recipes](https://github.com/meta-llama/llama-recipes) - Scripts for fine-tuning Meta Llama with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization and Q&A. Supporting a 
 - [RRZE-HPC/OSACA](https://github.com/RRZE-HPC/OSACA) - Open Source Architecture Code Analyzer
+- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖
 - [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) - PraisonAI application combines AutoGen and CrewAI or similar frameworks into a low-code solution for building and managing multi-agent LLM systems, focusing on simplicity, customisation, and efficient
 - [newaetech/chipwhisperer-jupyter](https://github.com/newaetech/chipwhisperer-jupyter) - Interactive ChipWhisperer tutorials using Jupyter notebooks.
 - [PWhiddy/PokemonRedExperiments](https://github.com/PWhiddy/PokemonRedExperiments) - Playing Pokemon Red with Reinforcement Learning
@@ -799,6 +800,7 @@
 
 ## Others 
 
+- [ratfactor/ziglings](https://github.com/ratfactor/ziglings) - Learn the Zig programming language by fixing tiny broken programs.
 - [aalex954/Hidden-in-Plain-Hex](https://github.com/aalex954/Hidden-in-Plain-Hex) - CTF Writeup- Hidden in Plain Hex
 - [tr3ss/starship-themes](https://github.com/tr3ss/starship-themes) - A collection of starship themes
 - [unifuzz/overview](https://github.com/unifuzz/overview) - 
@@ -1035,6 +1037,9 @@
 
 ## Python 
 
+- [hugsy/gef](https://github.com/hugsy/gef) - GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux
+- [mahaloz/decomp2dbg](https://github.com/mahaloz/decomp2dbg) - A plugin to introduce interactive symbols into your debugger from your decompiler
+- [ex0dus-0x/fuzzable](https://github.com/ex0dus-0x/fuzzable) - Framework for Automating Fuzzable Target Discovery with Static Analysis.
 - [bee-san/pyWhat](https://github.com/bee-san/pyWhat) - 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
 - [Trusted-AI/adversarial-robustness-toolbox](https://github.com/Trusted-AI/adversarial-robustness-toolbox) - Adversarial Robustness Toolbox (ART) - Python Library for Machine Learning Security - Evasion, Poisoning, Extraction, Inference - Red and Blue Teams
 - [OWASP/pytm](https://github.com/OWASP/pytm) - A Pythonic framework for threat modeling
@@ -1103,7 +1108,6 @@
 - [joshkar/X-Recon](https://github.com/joshkar/X-Recon) - A utility for detecting webpage inputs and conducting XSS scans.
 - [citizenlab/test-lists](https://github.com/citizenlab/test-lists) - URL testing lists intended for discovering website censorship
 - [Chainlit/cookbook](https://github.com/Chainlit/cookbook) - Chainlit's cookbook repo
-- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖
 - [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
 - [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) - GUI for a Vocal Remover that uses Deep Neural Networks.
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
