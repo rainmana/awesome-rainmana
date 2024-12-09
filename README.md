@@ -1282,7 +1282,7 @@
 - [wapiflapi/villoc](https://github.com/wapiflapi/villoc) - Visualization of heap operations.
 - [wapiflapi/binglide](https://github.com/wapiflapi/binglide) - Visual reverse engineering tool. Veles is better, use it. Don't use this.
 - [iOSForensics/pyimg4](https://github.com/iOSForensics/pyimg4) - A python lib for manipulating IMG4, IM4M and IM4P files
-- [jsharkey13/iphone_backup_decrypt](https://github.com/jsharkey13/iphone_backup_decrypt) - Decrypt an encrypted iOS backup created by iTunes on Windows or MacOS
+- [jsharkey13/iphone_backup_decrypt](https://github.com/jsharkey13/iphone_backup_decrypt) - Decrypt an encrypted local iOS backup on Windows or MacOS
 - [axi0mX/ipwndfu](https://github.com/axi0mX/ipwndfu) - open-source jailbreaking tool for many iOS devices
 - [GuardianFirewall/grandmaster](https://github.com/GuardianFirewall/grandmaster) - A simplistic python tool that assists in automating iOS firmware decryption.
 - [Glastis/Flipper-Zero-music-converter](https://github.com/Glastis/Flipper-Zero-music-converter) - Convert midi into fmf
@@ -1699,6 +1699,7 @@
 
 ## TypeScript 
 
+- [devlikeapro/n8n-openapi-node](https://github.com/devlikeapro/n8n-openapi-node) - Turn Your OpenAPI (Swagger) spec into a n8n node!
 - [adileo/squirreldisk](https://github.com/adileo/squirreldisk) - Beautiful, Cross-Platform and Super Fast Disk Usage Analysis Tool - Built With Rust 🦀
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [espressif/vscode-esp-idf-extension](https://github.com/espressif/vscode-esp-idf-extension) - Visual Studio Code extension for ESP-IDF projects
