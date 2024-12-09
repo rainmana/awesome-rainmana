@@ -1745,7 +1745,7 @@
 - [Soulghost/iblessing](https://github.com/Soulghost/iblessing) - iblessing is an iOS security exploiting toolkit, it mainly includes application information gathering, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and
 - [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - YOLOv5 🚀 in PyTorch &gt; ONNX &gt; CoreML &gt; TFLite
 - [nezort11/chatgpt-mobile](https://github.com/nezort11/chatgpt-mobile) - 🤖💡📱 ChatGPT mobile app built using Expo/React Native
-- [jsharkey13/iphone_backup_decrypt](https://github.com/jsharkey13/iphone_backup_decrypt) - Decrypt an encrypted iOS backup created by iTunes on Windows or MacOS
+- [jsharkey13/iphone_backup_decrypt](https://github.com/jsharkey13/iphone_backup_decrypt) - Decrypt an encrypted local iOS backup on Windows or MacOS
 - [checkra1n/PongoOS](https://github.com/checkra1n/PongoOS) - pongoOS
 - [ColdGrub1384/Pyto](https://github.com/ColdGrub1384/Pyto) - Python IDE for iOS with NumPy, Matplotlib, Pandas, SciPy and SciKit-Learn
 - [iseebi/TransporterPad](https://github.com/iseebi/TransporterPad) - iOS/Android app deployment tool for macOS
@@ -2469,6 +2469,7 @@
 
 ## others 
 
+- [devlikeapro/n8n-openapi-node](https://github.com/devlikeapro/n8n-openapi-node) - Turn Your OpenAPI (Swagger) spec into a n8n node!
 - [mahaloz/decomp2dbg](https://github.com/mahaloz/decomp2dbg) - A plugin to introduce interactive symbols into your debugger from your decompiler
 - [aalex954/Hidden-in-Plain-Hex](https://github.com/aalex954/Hidden-in-Plain-Hex) - CTF Writeup- Hidden in Plain Hex
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
@@ -3410,7 +3411,7 @@
 - [Pylons/waitress](https://github.com/Pylons/waitress) - Waitress - A WSGI server for Python 3
 - [pylyf/NetWorm](https://github.com/pylyf/NetWorm) - Python network worm that spreads on the local network and gives the attacker control of these machines.
 - [codilime/veles](https://github.com/codilime/veles) - Binary data analysis and visualization tool
-- [jsharkey13/iphone_backup_decrypt](https://github.com/jsharkey13/iphone_backup_decrypt) - Decrypt an encrypted iOS backup created by iTunes on Windows or MacOS
+- [jsharkey13/iphone_backup_decrypt](https://github.com/jsharkey13/iphone_backup_decrypt) - Decrypt an encrypted local iOS backup on Windows or MacOS
 - [onekey-sec/unblob](https://github.com/onekey-sec/unblob) - Extract files from any kind of container formats
 - [patx/pickledb](https://github.com/patx/pickledb) - pickleDB is an open source key-value store using Python's json module.
 - [zopefoundation/ZODB](https://github.com/zopefoundation/ZODB) - Python object-oriented database
