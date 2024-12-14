@@ -51,6 +51,7 @@
 - [PureScript](#purescript)
 - [Python](#python)
 - [R](#r)
+- [Rich Text Format](#rich-text-format)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -1534,6 +1535,10 @@
 
 - [yusuzech/r-web-scraping-cheat-sheet](https://github.com/yusuzech/r-web-scraping-cheat-sheet) - Guide, reference and cheatsheet on web scraping using rvest, httr and Rselenium.
 - [gadenbuie/starwarsdb](https://github.com/gadenbuie/starwarsdb) - Relational Data from the Star Wars API for Learning and Teaching
+
+## Rich Text Format 
+
+- [MacDownApp/macdown](https://github.com/MacDownApp/macdown) - Open source Markdown editor for macOS.
 
 ## Ruby 
 
