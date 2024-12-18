@@ -89,6 +89,7 @@
 
 ## C 
 
+- [o-gs/dji-firmware-tools](https://github.com/o-gs/dji-firmware-tools) - Tools for handling firmwares of DJI products, with focus on quadcopters.
 - [unkyulee/micro-journal](https://github.com/unkyulee/micro-journal) - 
 - [Next-Flip/Momentum-Firmware](https://github.com/Next-Flip/Momentum-Firmware) - 🐬 Feature-rich, stable and customizable Flipper Firmware
 - [pr3y/Bruce](https://github.com/pr3y/Bruce) - Predatory ESP32 Firmware
@@ -1053,6 +1054,7 @@
 
 ## Python 
 
+- [probonopd/phantom-licensecheck](https://github.com/probonopd/phantom-licensecheck) - Check the open source licenses used in DJI Phantom 3 firmware
 - [tesorrells/RF-Drone-Detection](https://github.com/tesorrells/RF-Drone-Detection) - 
 - [ArchiveTeam/grab-site](https://github.com/ArchiveTeam/grab-site) - The archivist's web crawler: WARC output, dashboard for all crawls, dynamic ignore patterns
 - [CTFd/CTFd](https://github.com/CTFd/CTFd) - CTFs as you need them
