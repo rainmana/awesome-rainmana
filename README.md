@@ -662,7 +662,7 @@
 - [JeanJouliaCode/wipeClean](https://github.com/JeanJouliaCode/wipeClean) - 
 - [google/password-alert](https://github.com/google/password-alert) - A Chrome Extension to help protect against phishing attacks.
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
-- [yeoman/generator-chrome-extension](https://github.com/yeoman/generator-chrome-extension) - Scaffold out a Chrome extension
+- [ragingwind/generator-chrome-extension](https://github.com/ragingwind/generator-chrome-extension) - Scaffold out a Chrome extension
 - [medialab/hyphe](https://github.com/medialab/hyphe) - Websites crawler with built-in exploration and control web interface
 - [medialab/artoo](https://github.com/medialab/artoo) - artoo.js - the client-side scraping companion.
 - [gildas-lormeau/single-file-cli](https://github.com/gildas-lormeau/single-file-cli) - CLI tool for saving a faithful copy of a complete web page in a single HTML file (based on SingleFile)
@@ -708,7 +708,7 @@
 - [johnnycode8/chromadb_quickstart](https://github.com/johnnycode8/chromadb_quickstart) - Tutorials to help you get started with ChromaDB. Chroma has built-in functionality to embed text and images so you can build out your proof-of-concepts on a vector database quickly. Associated videos:
 - [meta-llama/llama-recipes](https://github.com/meta-llama/llama-recipes) - Scripts for fine-tuning Meta Llama with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization and Q&A. Supporting a 
 - [RRZE-HPC/OSACA](https://github.com/RRZE-HPC/OSACA) - Open Source Architecture Code Analyzer
-- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 (PyPi: autogen-agentchat)
+- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour
 - [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) - PraisonAI application combines AutoGen and CrewAI or similar frameworks into a low-code solution for building and managing multi-agent LLM systems, focusing on simplicity, customisation, and efficient
 - [newaetech/chipwhisperer-jupyter](https://github.com/newaetech/chipwhisperer-jupyter) - Interactive ChipWhisperer tutorials using Jupyter notebooks.
 - [PWhiddy/PokemonRedExperiments](https://github.com/PWhiddy/PokemonRedExperiments) - Playing Pokemon Red with Reinforcement Learning
@@ -1578,6 +1578,7 @@
 
 ## Rust 
 
+- [tursodatabase/limbo](https://github.com/tursodatabase/limbo) - Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite.
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [swanandx/lemmeknow](https://github.com/swanandx/lemmeknow) - The fastest way to identify anything!
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
