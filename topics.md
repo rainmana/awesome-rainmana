@@ -200,6 +200,7 @@
 - [scala](#scala)
 - [scikit-learn](#scikit-learn)
 - [security](#security)
+- [security-tools](#security-tools)
 - [self-hosted](#self-hosted)
 - [server](#server)
 - [serverless](#serverless)
@@ -631,6 +632,7 @@
 
 ## bugbounty 
 
+- [1N3/IntruderPayloads](https://github.com/1N3/IntruderPayloads) - A collection of Burpsuite Intruder payloads, BurpBounty payloads, fuzz lists, malicious file uploads and web pentesting methodologies and checklists.
 - [edoardottt/cariddi](https://github.com/edoardottt/cariddi) - Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more
 - [joshkar/X-Recon](https://github.com/joshkar/X-Recon) - A utility for detecting webpage inputs and conducting XSS scans.
 - [the-xentropy/samlists](https://github.com/the-xentropy/samlists) - Free, libre, effective, and data-driven wordlists for all!
@@ -832,6 +834,8 @@
 
 ## compiler 
 
+- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
+- [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [TranscryptOrg/Transcrypt](https://github.com/TranscryptOrg/Transcrypt) - Python 3.9 to JavaScript compiler - Lean, fast, open!
 - [borgo-lang/borgo](https://github.com/borgo-lang/borgo) - Borgo is a statically typed language that compiles to Go.
@@ -1446,7 +1450,7 @@
 - [go-python/gopy](https://github.com/go-python/gopy) - gopy generates a CPython extension module from a go package.
 - [Ne0nd0g/merlin](https://github.com/Ne0nd0g/merlin) - Merlin is a cross-platform post-exploitation HTTP/2 Command & Control  server and agent written in golang.
 - [faiface/beep](https://github.com/faiface/beep) - A little package that brings sound to any Go application. Suitable for playback and audio-processing.
-- [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database, storage for next generation AI applications
+- [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database designed to scale vector search.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
 - [sensepost/gowitness](https://github.com/sensepost/gowitness) - 🔍 gowitness - a golang, web screenshot utility using Chrome Headless
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
@@ -2012,6 +2016,7 @@
 
 ## linux 
 
+- [runtipi/runtipi](https://github.com/runtipi/runtipi) - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [ArchiveBox/electron-archivebox](https://github.com/ArchiveBox/electron-archivebox) - Desktop Electron app for ArchiveBox internet archiver. (ALPHA: not ready for general use)
 - [hugsy/gef](https://github.com/hugsy/gef) - GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux
@@ -2082,7 +2087,7 @@
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source AI automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative
 - [truefoundry/cognita](https://github.com/truefoundry/cognita) - RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for production by TrueFoundry
 - [dsdanielpark/Bard-API](https://github.com/dsdanielpark/Bard-API) - The unofficial python package that returns response of Google Bard through cookie value.
-- [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database, storage for next generation AI applications
+- [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database designed to scale vector search.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
 - [fr0gger/Awesome-GPT-Agents](https://github.com/fr0gger/Awesome-GPT-Agents) - A curated list of GPT agents for cybersecurity
 - [jackmpcollins/magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
@@ -2324,6 +2329,7 @@
 
 ## nextjs 
 
+- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Build your own second brain with supermemory. It's a ChatGPT for your bookmarks. Import tweets or save websites and content using the chrome extension.
@@ -2366,6 +2372,7 @@
 
 ## node 
 
+- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [errsole/errsole.js](https://github.com/errsole/errsole.js) - Collect, Store, and Visualize Logs with a Single Module
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
@@ -2542,6 +2549,9 @@
 
 ## others 
 
+- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
+- [hackershare/hackershare](https://github.com/hackershare/hackershare) - Hackershare is a powerful social bookmarking service and a knowledge-sharing community, with advanced search and tag management feature
+- [cuthbertLab/music21](https://github.com/cuthbertLab/music21) - music21 is a Toolkit for Computational Musicology
 - [Ralim/IronOS](https://github.com/Ralim/IronOS) - Open Source Soldering Iron firmware
 - [Xinyuan-LilyGO/LilyGo-LoRa-Series](https://github.com/Xinyuan-LilyGO/LilyGo-LoRa-Series) - LILYGO LoRa Series examples
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
@@ -2850,7 +2860,6 @@
 - [hackappcom/Clutch](https://github.com/hackappcom/Clutch) - Fast iOS executable dumper
 - [Greenwolf/social_mapper](https://github.com/Greenwolf/social_mapper) - A Social Media Enumeration & Correlation Tool by Jacob Wilkin(Greenwolf)
 - [papusingh2sms/mysms](https://github.com/papusingh2sms/mysms) - Script that generates an Android App to hack SMS through WAN
-- [emrekybs/Bryobio](https://github.com/emrekybs/Bryobio) - It was developed to speed up the processes of SOC Analysts during analysis
 - [IAmStoxe/urlgrab](https://github.com/IAmStoxe/urlgrab) - A golang utility to spider through a website searching for additional links.
 - [elmasy-com/elmasy](https://github.com/elmasy-com/elmasy) - Open Source External Attack Surface Management
 - [elmasy-com/columbus-server](https://github.com/elmasy-com/columbus-server) - 
@@ -2889,7 +2898,6 @@
 - [ustayready/fireprox](https://github.com/ustayready/fireprox) - AWS API Gateway management tool for creating on the fly HTTP pass-through proxies for unique IP rotation
 - [ustayready/golddigger](https://github.com/ustayready/golddigger) - 
 - [CERT-Polska/malduck](https://github.com/CERT-Polska/malduck) - :duck: Malduck is your ducky companion in malware analysis journeys
-- [CERT-Polska/n6](https://github.com/CERT-Polska/n6) - Automated handling of data feeds for security teams
 - [c3rb3ru5d3d53c/mwcfg-modules](https://github.com/c3rb3ru5d3d53c/mwcfg-modules) - Malware Configuration Extraction Modules
 - [galoget/ghidra-headless-scripts](https://github.com/galoget/ghidra-headless-scripts) - Ghidra Headless Scripts for Automated Analysis (Decompilation and Disassembly)
 - [JetP1ane/Callisto](https://github.com/JetP1ane/Callisto) - Callisto - An Intelligent Binary Vulnerability Analysis Tool
@@ -3685,6 +3693,7 @@
 
 ## raspberry-pi 
 
+- [nextcloud/nextcloudpi](https://github.com/nextcloud/nextcloudpi) - 📦 Build code for NextcloudPi: Raspberry Pi, Odroid, Rock64, curl installer...
 - [joecupano/SIGpi](https://github.com/joecupano/SIGpi) - A SIGINT Go-kit of sorts
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
@@ -3694,6 +3703,7 @@
 
 ## react 
 
+- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard, primarily used by smaller private servers
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
 - [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
@@ -3990,8 +4000,53 @@
 - [securitytxt/security-txt](https://github.com/securitytxt/security-txt) - A proposed standard that allows websites to define security policies.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 
+## security-tools 
+
+- [ex0dus-0x/fuzzable](https://github.com/ex0dus-0x/fuzzable) - Framework for Automating Fuzzable Target Discovery with Static Analysis.
+- [Paradoxis/Flask-Unsign](https://github.com/Paradoxis/Flask-Unsign) - Command line tool to fetch, decode, brute-force and craft session cookies of a  Flask  application by guessing secret keys.
+- [edoardottt/cariddi](https://github.com/edoardottt/cariddi) - Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more
+- [freelabz/secator](https://github.com/freelabz/secator) - secator - the pentester's swiss knife
+- [zidansec/CloudPeler](https://github.com/zidansec/CloudPeler) - CrimeFlare is a useful tool for bypassing websites protected by CloudFlare WAF, with this tool you can easily see the real IP of websites that have been protected by CloudFlare. The resulting informat
+- [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
+- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
+- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
+- [OlivierLaflamme/Cheatsheet-God](https://github.com/OlivierLaflamme/Cheatsheet-God) - Penetration Testing Reference Bank - OSCP / PTP & PTX  Cheatsheet
+- [blst-security/cherrybomb](https://github.com/blst-security/cherrybomb) - Stop half-done APIs! Cherrybomb is a CLI tool that helps you avoid undefined user behaviour by auditing your API specifications, validating them and running API security tests.
+- [kazet/wpgarlic](https://github.com/kazet/wpgarlic) - A proof-of-concept WordPress plugin fuzzer
+- [Brum3ns/firefly](https://github.com/Brum3ns/firefly) - Black box fuzzer for web applications
+- [Micro0x00/Arsenal](https://github.com/Micro0x00/Arsenal) - Arsenal is a Simple shell script (Bash) used to install tools and requirements for Bug Bounty
+- [six2dez/reconftw](https://github.com/six2dez/reconftw) - reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
+- [emrekybs/Bryobio](https://github.com/emrekybs/Bryobio) - It was developed to speed up the processes of SOC Analysts during analysis
+- [nevillegrech/gigahorse-toolchain](https://github.com/nevillegrech/gigahorse-toolchain) - A binary lifter and analysis framework for Ethereum smart contracts
+- [CERT-Polska/mquery](https://github.com/CERT-Polska/mquery) - YARA malware query accelerator (web frontend)
+- [CERT-Polska/n6](https://github.com/CERT-Polska/n6) - Automated handling of data feeds for security teams
+- [InQuest/ThreatIngestor](https://github.com/InQuest/ThreatIngestor) - Extract and aggregate threat intelligence.
+- [noraj/miniss](https://github.com/noraj/miniss) - Displays a list of open listening sockets. It is a minimal alternative to ss or netstat.
+- [hak5/usbrubberducky-payloads](https://github.com/hak5/usbrubberducky-payloads) - The Official USB Rubber Ducky Payload Repository
+- [RogueMaster/flipperzero-firmware-wPlugins](https://github.com/RogueMaster/flipperzero-firmware-wPlugins) - RogueMaster Flipper Zero Firmware
+- [m0nad/Diamorphine](https://github.com/m0nad/Diamorphine) - LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x/6.x (x86/x86_64 and ARM64)
+- [ThreatUnknown/jsubfinder](https://github.com/ThreatUnknown/jsubfinder) - jsubfinder searches webpages for javascript & analyzes them for hidden subdomains and secrets (wip).
+- [Conso1eCowb0y/Deepminer](https://github.com/Conso1eCowb0y/Deepminer) - Deep web crawler and search engine
+- [noraj/haiti](https://github.com/noraj/haiti) - :key: Hash type identifier (CLI & lib)
+- [urbanadventurer/WhatWeb](https://github.com/urbanadventurer/WhatWeb) - Next generation web scanner
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+- [secureCodeBox/secureCodeBox](https://github.com/secureCodeBox/secureCodeBox) - secureCodeBox (SCB) - continuous secure delivery out of the box
+- [d4rckh/grc2](https://github.com/d4rckh/grc2) - grim reaper c2
+- [google/syzkaller](https://github.com/google/syzkaller) - syzkaller is an unsupervised coverage-guided kernel fuzzer
+- [intelowlproject/IntelOwl](https://github.com/intelowlproject/IntelOwl) - IntelOwl: manage your Threat Intelligence at scale
+- [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
+- [BishopFox/sliver](https://github.com/BishopFox/sliver) - Adversary Emulation Framework
+- [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
+- [netevert/sentinel-attack](https://github.com/netevert/sentinel-attack) - Tools to rapidly deploy a threat hunting capability on Azure Sentinel that leverages Sysmon and MITRE ATT&CK
+- [vincentcox/StaCoAn](https://github.com/vincentcox/StaCoAn) - StaCoAn is a crossplatform tool which aids developers, bugbounty hunters and ethical hackers performing static code analysis on mobile applications.
+- [chipsec/chipsec](https://github.com/chipsec/chipsec) - Platform Security Assessment Framework
+- [localh0t/backfuzz](https://github.com/localh0t/backfuzz) - protocol fuzzing toolkit
+- [e-m-b-a/embark](https://github.com/e-m-b-a/embark) - EMBArk - The firmware security scanning environment
+- [e-m-b-a/emba](https://github.com/e-m-b-a/emba) - EMBA - The firmware security analyzer
+
 ## self-hosted 
 
+- [runtipi/runtipi](https://github.com/runtipi/runtipi) - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 - [shaarli/Shaarli](https://github.com/shaarli/Shaarli) - The personal, minimalist, super-fast, database free, bookmarking service - community repo
 - [reddec/trusted-cgi](https://github.com/reddec/trusted-cgi) - Lightweight runner for lambda functions/apps in CGI like mode
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
