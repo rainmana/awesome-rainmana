@@ -95,6 +95,7 @@
 
 ## C 
 
+- [fl1ckje/HackRF-tools](https://github.com/fl1ckje/HackRF-tools) - HackRF tools built for Windows OS to control HackRF One with LabVIEW API support (C# wrapper)
 - [Ralim/IronOS](https://github.com/Ralim/IronOS) - Open Source Soldering Iron firmware
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [Xinyuan-LilyGO/LilyGo-LoRa-Series](https://github.com/Xinyuan-LilyGO/LilyGo-LoRa-Series) - LILYGO LoRa Series examples
@@ -1109,7 +1110,7 @@
 - [sensity-ai/dot](https://github.com/sensity-ai/dot) - The Deepfake Offensive Toolkit
 - [nv-morpheus/Morpheus](https://github.com/nv-morpheus/Morpheus) - Morpheus SDK
 - [NVIDIA/workbench-example-hybrid-rag](https://github.com/NVIDIA/workbench-example-hybrid-rag) - An NVIDIA AI Workbench example project for Retrieval Augmented Generation (RAG)
-- [turboderp/exllamav2](https://github.com/turboderp/exllamav2) - A fast inference library for running LLMs locally on modern consumer-class GPUs
+- [turboderp-org/exllamav2](https://github.com/turboderp-org/exllamav2) - A fast inference library for running LLMs locally on modern consumer-class GPUs
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [Zipstack/unstract](https://github.com/Zipstack/unstract) - No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents
@@ -1216,6 +1217,7 @@
 - [HalilDeniz/NetProbe](https://github.com/HalilDeniz/NetProbe) - NetProbe: Network Probe
 - [ugorsahin/TalkingHeads](https://github.com/ugorsahin/TalkingHeads) - A library to communicate with ChatGPT, Claude, Copilot, Gemini, HuggingChat, and Pi
 - [dsdanielpark/Bard-API](https://github.com/dsdanielpark/Bard-API) - The unofficial python package that returns response of Google Bard through cookie value.
+- [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
 - [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models) - Generative Models by Stability AI
 - [fortra/impacket](https://github.com/fortra/impacket) - Impacket is a collection of Python classes for working with network protocols.
 - [MandConsultingGroup/porch-pirate](https://github.com/MandConsultingGroup/porch-pirate) - Porch Pirate is the most comprehensive Postman recon / OSINT client and framework that facilitates the automated discovery and exploitation of API endpoints and secrets committed to workspaces, collec
@@ -1700,7 +1702,6 @@
 - [U53RW4R3/RemoteKeyStrokes](https://github.com/U53RW4R3/RemoteKeyStrokes) - A script to automate keystrokes through a graphical desktop program.
 - [Trevohack/DynastyPersist](https://github.com/Trevohack/DynastyPersist) - A Linux persistence tool!
 - [Shuffle/Shuffle](https://github.com/Shuffle/Shuffle) - Shuffle: A general purpose security automation platform. Our focus is on collaboration and resource sharing.
-- [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
 - [Cyulas/BashUpgrade](https://github.com/Cyulas/BashUpgrade) - Bash script for automating Debian Linux updates
 - [Micro0x00/Arsenal](https://github.com/Micro0x00/Arsenal) - Arsenal is a Simple shell script (Bash) used to install tools and requirements for Bug Bounty
 - [papusingh2sms/mysms](https://github.com/papusingh2sms/mysms) - Script that generates an Android App to hack SMS through WAN
