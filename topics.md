@@ -102,6 +102,7 @@
 - [google](#google)
 - [google-cloud](#google-cloud)
 - [graphql](#graphql)
+- [hackathon](#hackathon)
 - [hacking](#hacking)
 - [hacking-tool](#hacking-tool)
 - [hacking-tools](#hacking-tools)
@@ -308,6 +309,7 @@
 
 ## analytics 
 
+- [soxoj/bellingcat-hackathon-watchcats](https://github.com/soxoj/bellingcat-hackathon-watchcats) - 📊 Adana - 1-click analytical dashboard for OSINT researchers
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) - DevSecOps, ASPM, Vulnerability Management. All on one platform.
 - [nsacyber/WALKOFF](https://github.com/nsacyber/WALKOFF) - A flexible, easy to use, automation framework allowing users to integrate their capabilities and devices to cut through the repetitive, tedious tasks slowing them down. #nsacyber
@@ -772,6 +774,7 @@
 
 ## cli 
 
+- [miabonardi/docassemble-mealprep](https://github.com/miabonardi/docassemble-mealprep) - UI4CLI submission for Bellingcat Hackathon Fall 2023 in Amsterdam.
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [swanandx/lemmeknow](https://github.com/swanandx/lemmeknow) - The fastest way to identify anything!
@@ -1523,6 +1526,10 @@
 - [graphql-kit/graphql-voyager](https://github.com/graphql-kit/graphql-voyager) - 🛰️ Represent any GraphQL API as an interactive graph
 - [swisskyrepo/GraphQLmap](https://github.com/swisskyrepo/GraphQLmap) - GraphQLmap is a scripting engine to interact with a graphql endpoint for pentesting purposes. - Do not use for illegal testing ;)
 
+## hackathon 
+
+- [soxoj/bellingcat-hackathon-watchcats](https://github.com/soxoj/bellingcat-hackathon-watchcats) - 📊 Adana - 1-click analytical dashboard for OSINT researchers
+
 ## hacking 
 
 - [bee-san/pyWhat](https://github.com/bee-san/pyWhat) - 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
@@ -2009,6 +2016,7 @@
 
 ## library 
 
+- [conflict-investigations/osint-geo-extractor](https://github.com/conflict-investigations/osint-geo-extractor) - Library to extract geo-related information from databases such as Bellingcat, Cen4InfoRes, DefMon3, GeoConfirmed and Texty.org.ua.
 - [kiwix/kiwix-tools](https://github.com/kiwix/kiwix-tools) - Command line Kiwix tools: kiwix-serve, kiwix-manage, ...
 - [hahwul/XSpear](https://github.com/hahwul/XSpear) - 🔱 Powerfull XSS Scanning and Parameter analysis tool&gem
 - [libimobiledevice/libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) - A cross-platform protocol library to communicate with iOS devices
@@ -2505,6 +2513,8 @@
 
 ## osint 
 
+- [conflict-investigations/osint-geo-extractor](https://github.com/conflict-investigations/osint-geo-extractor) - Library to extract geo-related information from databases such as Bellingcat, Cen4InfoRes, DefMon3, GeoConfirmed and Texty.org.ua.
+- [conflict-investigations/media-search-engine](https://github.com/conflict-investigations/media-search-engine) - Search geolocations for (social) media posts in databases like Bellingcat, Cen4InfoRes etc.
 - [BushidoUK/Open-source-tools-for-CTI](https://github.com/BushidoUK/Open-source-tools-for-CTI) - Public Repository of Open Source Tools for Cyber Threat Intelligence Analysts and Researchers
 - [edoardottt/cariddi](https://github.com/edoardottt/cariddi) - Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more
 - [freelabz/secator](https://github.com/freelabz/secator) - secator - the pentester's swiss knife
@@ -2549,6 +2559,10 @@
 
 ## others 
 
+- [CubePilot/qgroundcontrol-herelink](https://github.com/CubePilot/qgroundcontrol-herelink) - 
+- [CubePilot/cubepilot-docs](https://github.com/CubePilot/cubepilot-docs) - 
+- [iurshina/bellingcat_contradictions](https://github.com/iurshina/bellingcat_contradictions) - 
+- [CargoCultScientist/ENFormant](https://github.com/CargoCultScientist/ENFormant) - ENF Analysis tool (Bellingcat community)
 - [fl1ckje/HackRF-tools](https://github.com/fl1ckje/HackRF-tools) - HackRF tools built for Windows OS to control HackRF One with LabVIEW API support (C# wrapper)
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [hackershare/hackershare](https://github.com/hackershare/hackershare) - Hackershare is a powerful social bookmarking service and a knowledge-sharing community, with advanced search and tag management feature
@@ -3440,6 +3454,9 @@
 
 ## python 
 
+- [miabonardi/docassemble-mealprep](https://github.com/miabonardi/docassemble-mealprep) - UI4CLI submission for Bellingcat Hackathon Fall 2023 in Amsterdam.
+- [conflict-investigations/osint-geo-extractor](https://github.com/conflict-investigations/osint-geo-extractor) - Library to extract geo-related information from databases such as Bellingcat, Cen4InfoRes, DefMon3, GeoConfirmed and Texty.org.ua.
+- [conflict-investigations/media-search-engine](https://github.com/conflict-investigations/media-search-engine) - Search geolocations for (social) media posts in databases like Bellingcat, Cen4InfoRes etc.
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [hugsy/gef](https://github.com/hugsy/gef) - GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux
 - [bee-san/pyWhat](https://github.com/bee-san/pyWhat) - 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
@@ -4303,6 +4320,7 @@
 
 ## twitter 
 
+- [soxoj/bellingcat-hackathon-watchcats](https://github.com/soxoj/bellingcat-hackathon-watchcats) - 📊 Adana - 1-click analytical dashboard for OSINT researchers
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
 - [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
