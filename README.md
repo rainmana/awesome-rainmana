@@ -78,7 +78,7 @@
 - [BlackVS/esp32knife](https://github.com/BlackVS/esp32knife) - Tools for ESP32 firmware dissection
 - [PacktPublishing/Binary-Analysis-Cookbook](https://github.com/PacktPublishing/Binary-Analysis-Cookbook) - Binary Analysis Cookbook, published by Packt
 - [vergl4s/pentesting-dump](https://github.com/vergl4s/pentesting-dump) - Scripts, tools, and proof-of-concepts to aid in a penetration test.
-- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM and embedded RISC-V architectures.
+- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM, 8-bit AVR and 32-bit RISC-V architectures.
 
 ## Astro 
 
@@ -95,6 +95,8 @@
 
 ## C 
 
+- [NiLuJe/KindleTool](https://github.com/NiLuJe/KindleTool) - A tool for creating & extracting Kindle updates and more
+- [frida/frida-gum](https://github.com/frida/frida-gum) - Cross-platform instrumentation and introspection library written in C
 - [fl1ckje/HackRF-tools](https://github.com/fl1ckje/HackRF-tools) - HackRF tools built for Windows OS to control HackRF One with LabVIEW API support (C# wrapper)
 - [Ralim/IronOS](https://github.com/Ralim/IronOS) - Open Source Soldering Iron firmware
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
@@ -337,7 +339,7 @@
 - [1amSimp1e/dots](https://github.com/1amSimp1e/dots) - Nothing here but Dotfiles & Customization 💫
 - [dchristl/esp32_nat_router_extended](https://github.com/dchristl/esp32_nat_router_extended) - a simple ESP32 NAT Router with some additional features
 - [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.  personal.management.system.inbox@gmail.com
-- [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2024
+- [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2025
 - [joernweissenborn/lcars](https://github.com/joernweissenborn/lcars) - CSS Framework to style web pages like the fictional computer operating system of a popular sci-fi franchise.
 
 ## CodeQL 
@@ -1681,6 +1683,7 @@
 
 ## Shell 
 
+- [notmarek/LanguageBreak](https://github.com/notmarek/LanguageBreak) - A kindle &lt;=5.16.2.1.1 jailbreak
 - [nextcloud/nextcloudpi](https://github.com/nextcloud/nextcloudpi) - 📦 Build code for NextcloudPi: Raspberry Pi, Odroid, Rock64, curl installer...
 - [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) - Hyprland dotfiles - used as main repo for all my Hyprland Install Scripts.
 - [geometry-zsh/geometry](https://github.com/geometry-zsh/geometry) - geometry is a minimal, fully customizable and composable zsh prompt theme
