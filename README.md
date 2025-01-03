@@ -1687,6 +1687,7 @@
 - [nextcloud/nextcloudpi](https://github.com/nextcloud/nextcloudpi) - 📦 Build code for NextcloudPi: Raspberry Pi, Odroid, Rock64, curl installer...
 - [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) - Hyprland dotfiles - used as main repo for all my Hyprland Install Scripts.
 - [geometry-zsh/geometry](https://github.com/geometry-zsh/geometry) - geometry is a minimal, fully customizable and composable zsh prompt theme
+- [BlueprintFramework/framework](https://github.com/BlueprintFramework/framework) - Powerful, fast and developer-friendly extension framework for Pterodactyl. Utilize extension APIs, inject HTML, modify stylesheets, package extensions and so much more.
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [micha/jsawk](https://github.com/micha/jsawk) - Like awk, but for JSON.
 - [ESP32DE/Boot-Linux-ESP32S3-Playground](https://github.com/ESP32DE/Boot-Linux-ESP32S3-Playground) - This is a playground for the Boot Linux on ESP32-S3
@@ -1781,7 +1782,6 @@
 - [adileo/squirreldisk](https://github.com/adileo/squirreldisk) - Beautiful, Cross-Platform and Super Fast Disk Usage Analysis Tool - Built With Rust 🦀
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [espressif/vscode-esp-idf-extension](https://github.com/espressif/vscode-esp-idf-extension) - Visual Studio Code extension for ESP-IDF projects
-- [BlueprintFramework/framework](https://github.com/BlueprintFramework/framework) - Powerful, fast and developer-friendly extension framework for Pterodactyl. Utilize extension APIs, inject HTML, modify stylesheets, package extensions and so much more.
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [ItsRiprod/DeskThing](https://github.com/ItsRiprod/DeskThing) - Desk Thing: The Discord Thing, Trello Thing, The Weather Thing, The Macro Thing, Just not The Car Thing anymore
 - [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Build your own second brain with supermemory. It's a ChatGPT for your bookmarks. Import tweets or save websites and content using the chrome extension.
