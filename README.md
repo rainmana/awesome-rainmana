@@ -384,6 +384,8 @@
 
 ## Go 
 
+- [tomnomnom/meg](https://github.com/tomnomnom/meg) - Fetch many paths for many hosts - without killing the hosts
+- [tomnomnom/gf](https://github.com/tomnomnom/gf) - A wrapper around grep, to help you grep for things
 - [gpustack/gguf-parser-go](https://github.com/gpustack/gguf-parser-go) - Review/Check GGUF files and estimate the memory usage and maximum tokens per second.
 - [rainmana/gptchat](https://github.com/rainmana/gptchat) - A GPT-4 client which gives your favourite AI a memory and tools for self-improvement
 - [ian-kent/gptchat](https://github.com/ian-kent/gptchat) - A GPT-4 client which gives your favourite AI a memory and tools for self-improvement
@@ -562,6 +564,7 @@
 
 ## Java 
 
+- [google/bindiff](https://github.com/google/bindiff) - Quickly find differences and similarities in disassembled code
 - [internetarchive/heritrix3](https://github.com/internetarchive/heritrix3) - Heritrix is the Internet Archive's open-source, extensible, web-scale, archival-quality web crawler project.
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB
 - [DSheirer/sdrtrunk](https://github.com/DSheirer/sdrtrunk) - A cross-platform java application for decoding, monitoring, recording and streaming trunked mobile and related radio protocols using Software Defined Radios (SDR).  Website:
@@ -841,6 +844,7 @@
 
 ## Others 
 
+- [RCayre/python-pentest-tools](https://github.com/RCayre/python-pentest-tools) - Python tools for penetration testers
 - [CubePilot/cubepilot-docs](https://github.com/CubePilot/cubepilot-docs) - 
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [Discord-Client-Encyclopedia-Management/Discord3rdparties](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties) - A non-exhaustive collection of third-party clients and mods for Discord.
@@ -1085,6 +1089,8 @@
 
 ## Python 
 
+- [fportantier/habu](https://github.com/fportantier/habu) - Hacking Toolkit
+- [tisu19021997/snipai](https://github.com/tisu19021997/snipai) - Capture, tag, and search images locally with OSS models.
 - [KerfuffleV2/gguf-tools](https://github.com/KerfuffleV2/gguf-tools) - Some random tools for working with the GGUF file format
 - [caspianmoon/memoripy](https://github.com/caspianmoon/memoripy) - An AI memory layer with short- and long-term storage, semantic clustering, and optional memory decay for context-aware applications.
 - [wmariuss/awesome-devops](https://github.com/wmariuss/awesome-devops) - A curated list of awesome DevOps platforms, tools, practices and resources
@@ -1622,6 +1628,8 @@
 
 ## Rust 
 
+- [djackreuter/rustlualoader](https://github.com/djackreuter/rustlualoader) - Shellcode loader that executes embedded Lua from Rust.
+- [w4/bin](https://github.com/w4/bin) - :wastebasket: a paste bin.
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [tursodatabase/limbo](https://github.com/tursodatabase/limbo) - Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite.
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
@@ -1778,6 +1786,7 @@
 
 ## TypeScript 
 
+- [ericciarla/trendFinder](https://github.com/ericciarla/trendFinder) - Stay on top of trending topics on social media and the web with AI
 - [iurshina/bellingcat_contradictions](https://github.com/iurshina/bellingcat_contradictions) - 
 - [runtipi/runtipi](https://github.com/runtipi/runtipi) - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 - [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard, primarily used by smaller private servers
