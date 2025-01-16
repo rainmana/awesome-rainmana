@@ -1364,7 +1364,7 @@
 - [Hong5489/flipperzero-gate-bruteforce](https://github.com/Hong5489/flipperzero-gate-bruteforce) - Brute Force Gate Remote using Flipper Zero
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [BotoX/Dahua-Firmware-Mod-Kit](https://github.com/BotoX/Dahua-Firmware-Mod-Kit) - Unpack and repack Dahua IP camera firmware upgrade images.
-- [patx/pickledb](https://github.com/patx/pickledb) - pickleDB is an open source key-value store using Python's json module.
+- [patx/pickledb](https://github.com/patx/pickledb) - pickleDB is an open source key-value store using Python's orjson module.
 - [zopefoundation/ZODB](https://github.com/zopefoundation/ZODB) - Python object-oriented database
 - [kayak/pypika](https://github.com/kayak/pypika) - PyPika is a python SQL query builder that exposes the full richness of the SQL language using a syntax that reflects the resulting query. PyPika excels at all sorts of SQL queries but is especially us
 - [msiemens/tinydb](https://github.com/msiemens/tinydb) - TinyDB is a lightweight document oriented database optimized for your happiness :)
