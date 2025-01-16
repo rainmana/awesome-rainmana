@@ -1209,7 +1209,7 @@
 - [bkerler/mtkclient](https://github.com/bkerler/mtkclient) - MTK reverse engineering and flash tool
 - [rscloura/Doldrums](https://github.com/rscloura/Doldrums) - A Flutter/Dart reverse engineering tool
 - [SulimanHacker1/ig.osi](https://github.com/SulimanHacker1/ig.osi) - Information Gathering Instagram Tool.
-- [Shuffle/Shuffle-docs](https://github.com/Shuffle/Shuffle-docs) - Documentation used for Shuffle
+- [Shuffle/shuffle-docs](https://github.com/Shuffle/shuffle-docs) - Documentation used for Shuffle
 - [blindfuzzy/LHF](https://github.com/blindfuzzy/LHF) - A modular recon tool for pentesting
 - [OTRF/ATTACK-Python-Client](https://github.com/OTRF/ATTACK-Python-Client) - Python Script to access ATT&CK content available in STIX via a public TAXII server
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monito
