@@ -605,6 +605,7 @@
 
 ## JavaScript 
 
+- [antojoseph/diff-gui](https://github.com/antojoseph/diff-gui) - GUI for Frida -Scripts
 - [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
@@ -800,7 +801,7 @@
 
 ## Mojo 
 
-- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
+- [modular/mojo](https://github.com/modular/mojo) - The Mojo Programming Language
 
 ## Nim 
 
