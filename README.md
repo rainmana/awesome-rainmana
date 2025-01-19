@@ -1703,6 +1703,7 @@
 
 ## Shell 
 
+- [0xKayala/NucleiFuzzer](https://github.com/0xKayala/NucleiFuzzer) - NucleiFuzzer is a robust automation tool designed for efficiently detecting web application vulnerabilities, including XSS, SQLi, SSRF, and Open Redirects, leveraging advanced scanning and URL enumera
 - [notmarek/LanguageBreak](https://github.com/notmarek/LanguageBreak) - A kindle &lt;=5.16.2.1.1 jailbreak
 - [nextcloud/nextcloudpi](https://github.com/nextcloud/nextcloudpi) - 📦 Build code for NextcloudPi: Raspberry Pi, Odroid, Rock64, curl installer...
 - [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) - Hyprland dotfiles - used as main repo for all my Hyprland Install Scripts.
