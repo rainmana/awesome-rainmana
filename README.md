@@ -845,6 +845,7 @@
 
 ## Others 
 
+- [h33tlit/secret-regex-list](https://github.com/h33tlit/secret-regex-list) - List of regex for scraping secret API keys and juicy information.
 - [DrBrainlove/muse_tools](https://github.com/DrBrainlove/muse_tools) - discontinued Muse SDK & research tools
 - [RCayre/python-pentest-tools](https://github.com/RCayre/python-pentest-tools) - Python tools for penetration testers
 - [CubePilot/cubepilot-docs](https://github.com/CubePilot/cubepilot-docs) - 
@@ -1091,6 +1092,7 @@
 
 ## Python 
 
+- [rootbsd/fridump3](https://github.com/rootbsd/fridump3) - A universal memory dumper using Frida for Python 3
 - [fportantier/habu](https://github.com/fportantier/habu) - Hacking Toolkit
 - [tisu19021997/snipai](https://github.com/tisu19021997/snipai) - Capture, tag, and search images locally with OSS models.
 - [KerfuffleV2/gguf-tools](https://github.com/KerfuffleV2/gguf-tools) - Some random tools for working with the GGUF file format
@@ -1365,7 +1367,7 @@
 - [Hong5489/flipperzero-gate-bruteforce](https://github.com/Hong5489/flipperzero-gate-bruteforce) - Brute Force Gate Remote using Flipper Zero
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [BotoX/Dahua-Firmware-Mod-Kit](https://github.com/BotoX/Dahua-Firmware-Mod-Kit) - Unpack and repack Dahua IP camera firmware upgrade images.
-- [patx/pickledb](https://github.com/patx/pickledb) - pickleDB is an open source key-value store using Python's orjson module.
+- [patx/pickledb](https://github.com/patx/pickledb) - pickleDB is an in memory key-value store using Python's orjson module for persistence.
 - [zopefoundation/ZODB](https://github.com/zopefoundation/ZODB) - Python object-oriented database
 - [kayak/pypika](https://github.com/kayak/pypika) - PyPika is a python SQL query builder that exposes the full richness of the SQL language using a syntax that reflects the resulting query. PyPika excels at all sorts of SQL queries but is especially us
 - [msiemens/tinydb](https://github.com/msiemens/tinydb) - TinyDB is a lightweight document oriented database optimized for your happiness :)
@@ -1630,6 +1632,7 @@
 
 ## Rust 
 
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
 - [citruz/dmgwiz](https://github.com/citruz/dmgwiz) - Extract filesystem data from DMG files
 - [djackreuter/rustlualoader](https://github.com/djackreuter/rustlualoader) - Shellcode loader that executes embedded Lua from Rust.
 - [w4/bin](https://github.com/w4/bin) - :wastebasket: a paste bin.
