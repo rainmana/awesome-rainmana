@@ -1092,6 +1092,7 @@
 
 ## Python 
 
+- [yl4579/StyleTTS2](https://github.com/yl4579/StyleTTS2) - StyleTTS 2: Towards Human-Level Text-to-Speech through Style Diffusion and Adversarial Training with Large Speech Language Models
 - [aapooksman/certmitm](https://github.com/aapooksman/certmitm) - A tool for testing for certificate validation vulnerabilities of TLS connections made by a client device or an application.
 - [rootbsd/fridump3](https://github.com/rootbsd/fridump3) - A universal memory dumper using Frida for Python 3
 - [fportantier/habu](https://github.com/fportantier/habu) - Hacking Toolkit
