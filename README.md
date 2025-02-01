@@ -95,6 +95,7 @@
 
 ## C 
 
+- [google/pebble](https://github.com/google/pebble) - This is the latest version of the internal repository from Pebble Technology providing the software to run on Pebble watches. Proprietary source code has been removed from this repository and it will 
 - [riverloopsec/killerbee](https://github.com/riverloopsec/killerbee) - IEEE 802.15.4/ZigBee Security Research Toolkit
 - [jtesta/ssh-mitm](https://github.com/jtesta/ssh-mitm) - SSH man-in-the-middle tool
 - [NiLuJe/KindleTool](https://github.com/NiLuJe/KindleTool) - A tool for creating & extracting Kindle updates and more
@@ -386,6 +387,7 @@
 
 ## Go 
 
+- [rainmana/dnxty](https://github.com/rainmana/dnxty) - DNS TXT record OSINT tool written in Go for the CLI.
 - [cruise-automation/fwanalyzer](https://github.com/cruise-automation/fwanalyzer) - a tool to analyze filesystem images for security
 - [malfunkt/hyperfox](https://github.com/malfunkt/hyperfox) - HTTP/HTTPS MITM proxy and recorder.
 - [tomnomnom/meg](https://github.com/tomnomnom/meg) - Fetch many paths for many hosts - without killing the hosts
