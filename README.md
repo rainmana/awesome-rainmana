@@ -532,7 +532,7 @@
 - [devich/quick](https://github.com/devich/quick) - The Quick theme magically transforms your README.md into a GitHub Pages site, applying clean and visually appealing styles. The fastest and easiest way to create a GitHub Pages website for your projec
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) - DevSecOps, ASPM, Vulnerability Management. All on one platform.
 - [hugo-toha/toha](https://github.com/hugo-toha/toha) - A Hugo theme for personal portfolio
-- [m1chaelwilliams/make-windows-pretty](https://github.com/m1chaelwilliams/make-windows-pretty) - Some tools I used for making Windows 11 look nice.
+- [vimichael/make-windows-pretty](https://github.com/vimichael/make-windows-pretty) - Some tools I used for making Windows 11 look nice.
 - [citizenlab/web-censorship](https://github.com/citizenlab/web-censorship) - Collection of data about URL filtering in various countries
 - [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection) - A collection of several hundred online tools for OSINT
 - [tobychui/zoraxy](https://github.com/tobychui/zoraxy) - A general purpose HTTP reverse proxy and forwarding tool. Now written in Go!
@@ -1198,7 +1198,7 @@
 - [Dman95/SASM](https://github.com/Dman95/SASM) - SASM - simple crossplatform IDE for NASM, MASM, GAS and FASM assembly languages
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler with built-in NumPy support
 - [latchset/jwcrypto](https://github.com/latchset/jwcrypto) - Implements JWK,JWS,JWE specifications using python-cryptography
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 3.3, DeepSeek-R1, Reasoning, Phi-4 & Gemma 2 LLMs 2x faster with 70% less memory
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 3.3, DeepSeek-R1 & Reasoning LLMs 2x faster with 70% less memory
 - [google/mesop](https://github.com/google/mesop) - Rapidly build AI apps in Python
 - [lanjelot/patator](https://github.com/lanjelot/patator) - Patator is a multi-purpose brute-forcer, with a modular design and a flexible usage.
 - [galkan/crowbar](https://github.com/galkan/crowbar) - Crowbar is brute forcing tool that can be used during penetration tests. It is developed to support protocols that are not currently supported by thc-hydra and other popular brute forcing tools.
