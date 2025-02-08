@@ -2144,7 +2144,7 @@
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling
 - [microsoft/graphrag](https://github.com/microsoft/graphrag) - A modular graph-based Retrieval-Augmented Generation (RAG) system
 - [meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook) - Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model f
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 3.3, DeepSeek-R1, Reasoning, Phi-4 & Gemma 2 LLMs 2x faster with 70% less memory
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 3.3, DeepSeek-R1 & Reasoning LLMs 2x faster with 70% less memory
 - [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 - [lavague-ai/LaVague](https://github.com/lavague-ai/LaVague) - Large Action Model framework to develop AI Web Agents
@@ -2708,7 +2708,7 @@
 - [ddopson/underscore-cli](https://github.com/ddopson/underscore-cli) - Command-line utility-belt for hacking JSON and Javascript.
 - [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
 - [ESP32DE/Boot-Linux-ESP32S3-Playground](https://github.com/ESP32DE/Boot-Linux-ESP32S3-Playground) - This is a playground for the Boot Linux on ESP32-S3
-- [m1chaelwilliams/make-windows-pretty](https://github.com/m1chaelwilliams/make-windows-pretty) - Some tools I used for making Windows 11 look nice.
+- [vimichael/make-windows-pretty](https://github.com/vimichael/make-windows-pretty) - Some tools I used for making Windows 11 look nice.
 - [me-no-dev/OpenAI-ESP32](https://github.com/me-no-dev/OpenAI-ESP32) - OpenAI Library for ESP32 Arduino
 - [0x11DFE/file-unpumper](https://github.com/0x11DFE/file-unpumper) - Tool that can be used to trim useless things from a PE file such as the things a file pumper would add.
 - [MalwareSupportGroup/PolyDrop](https://github.com/MalwareSupportGroup/PolyDrop) - A BYOSI (Bring-Your-Own-Script-Interpreter) Rapid Payload Deployment Toolkit
