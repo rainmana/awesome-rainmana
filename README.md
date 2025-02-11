@@ -905,7 +905,7 @@
 - [MrOplus/Awesome-SDR](https://github.com/MrOplus/Awesome-SDR) - Awesome SDR Tools , Libs :)
 - [kyleterry/awesome-radio](https://github.com/kyleterry/awesome-radio) - Awesome radio stuff
 - [ebu/awesome-broadcasting](https://github.com/ebu/awesome-broadcasting) - A curated list of amazingly awesome open source resources related to broadcast technologies
-- [TodePond/DreamBerd](https://github.com/TodePond/DreamBerd) - perfect programming language
+- [TodePond/GulfOfMexico](https://github.com/TodePond/GulfOfMexico) - perfect programming language
 - [Cyulas/pentest_notes](https://github.com/Cyulas/pentest_notes) - Pentesting notes
 - [onhexgroup/Conferences](https://github.com/onhexgroup/Conferences) - Conference presentation slides
 - [gurugio/lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university) - How to be low-level programmer
@@ -1198,7 +1198,7 @@
 - [Dman95/SASM](https://github.com/Dman95/SASM) - SASM - simple crossplatform IDE for NASM, MASM, GAS and FASM assembly languages
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler with built-in NumPy support
 - [latchset/jwcrypto](https://github.com/latchset/jwcrypto) - Implements JWK,JWS,JWE specifications using python-cryptography
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 3.3, DeepSeek-R1 & Reasoning LLMs 2x faster with 70% less memory
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 3.3, DeepSeek-R1 & Reasoning LLMs 2x faster with 70% less memory! 🦥
 - [google/mesop](https://github.com/google/mesop) - Rapidly build AI apps in Python
 - [lanjelot/patator](https://github.com/lanjelot/patator) - Patator is a multi-purpose brute-forcer, with a modular design and a flexible usage.
 - [galkan/crowbar](https://github.com/galkan/crowbar) - Crowbar is brute forcing tool that can be used during penetration tests. It is developed to support protocols that are not currently supported by thc-hydra and other popular brute forcing tools.
@@ -1715,7 +1715,7 @@
 - [sharkdp/hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
 - [icedland/iced](https://github.com/icedland/iced) - Blazing fast and correct x86/x64 disassembler, assembler, decoder, encoder for Rust, .NET, Java, Python, Lua
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
-- [svix/svix-webhooks](https://github.com/svix/svix-webhooks) - The enterprise-ready webhooks service 🦀
+- [svix/svix-webhooks](https://github.com/svix/svix-webhooks) - The open source and enterprise-ready webhooks service 🦀
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
