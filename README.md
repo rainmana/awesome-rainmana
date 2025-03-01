@@ -350,6 +350,7 @@
 
 ## CSS 
 
+- [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) - A distraction-free and highly customizable theme for Obsidian.
 - [nicollasricas/decks-vscode](https://github.com/nicollasricas/decks-vscode) - Enables Stream Deck integration with Visual Studio Code.
 - [FritzAndFriends/StreamDeckToolkit](https://github.com/FritzAndFriends/StreamDeckToolkit) - A .NET Standard library, template, and tools for building extensions to the Elgato Stream Deck
 - [ungiglio/DiscordDiscordia](https://github.com/ungiglio/DiscordDiscordia) - Theme for Discord
