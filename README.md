@@ -100,6 +100,7 @@
 
 ## C 
 
+- [ridiculousfish/cdecl-blocks](https://github.com/ridiculousfish/cdecl-blocks) - The venerable cdecl, with Apple blocks support
 - [splintchecker/splint](https://github.com/splintchecker/splint) - Splint - annotation-assisted static program checker
 - [google/pebble](https://github.com/google/pebble) - This is the latest version of the internal repository from Pebble Technology providing the software to run on Pebble watches. Proprietary source code has been removed from this repository and it will 
 - [riverloopsec/killerbee](https://github.com/riverloopsec/killerbee) - IEEE 802.15.4/ZigBee Security Research Toolkit
@@ -219,8 +220,8 @@
 - [LavaGang/MelonLoader](https://github.com/LavaGang/MelonLoader) - The World's First Universal Mod Loader for Unity Games compatible with both Il2Cpp and Mono
 - [badamczewski/PowerUp](https://github.com/badamczewski/PowerUp) - ⚡ Decompilation Tools and High Productivity Utilities ⚡
 - [nccgroup/UPnP-Pentest-Toolkit](https://github.com/nccgroup/UPnP-Pentest-Toolkit) - UPnP Pentest Toolkit for Windows
-- [LazoCoder/WinAPI-Wrapper](https://github.com/LazoCoder/WinAPI-Wrapper) - Windows API wrapper class for simulating mouse movement, clicking, and more.
-- [LazoCoder/Windows-Hacks](https://github.com/LazoCoder/Windows-Hacks) - Creative and unusual things that can be done with the Windows API.
+- [LazoVelko/WinAPI-Wrapper](https://github.com/LazoVelko/WinAPI-Wrapper) - Windows API wrapper class for simulating mouse movement, clicking, and more.
+- [LazoVelko/Windows-Hacks](https://github.com/LazoVelko/Windows-Hacks) - Creative and unusual things that can be done with the Windows API.
 - [ribthegreat99OrN0P/BytePressDecompressor](https://github.com/ribthegreat99OrN0P/BytePressDecompressor) - 
 - [ioncodes/beeless](https://github.com/ioncodes/beeless) - BeeByte Deobfuscator. Used it to deobfuscate an Unity3D Game. Alternatively, de4dot works aswell.
 - [Nido2001/Babel-Deobfuscator](https://github.com/Nido2001/Babel-Deobfuscator) - Babel-Deobfuscator is an open-source deobfuscator for Babel Obfuscator.
@@ -1263,9 +1264,9 @@
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 - [ngageoint/sarpy](https://github.com/ngageoint/sarpy) - A basic Python library to demonstrate reading, writing, display, and simple processing of complex SAR data using the NGA SICD standard.
 - [iamredshift/RedzSIGINT](https://github.com/iamredshift/RedzSIGINT) - Software framework for your own SIGINT platform
-- [LazoCoder/Image-To-ASCII](https://github.com/LazoCoder/Image-To-ASCII) - Convert images to ASCII art.
-- [LazoCoder/Article-Summarizer](https://github.com/LazoCoder/Article-Summarizer) - Uses frequency analysis to summarize text.
-- [LazoCoder/Pokemon-Terminal](https://github.com/LazoCoder/Pokemon-Terminal) - Pokemon terminal themes.
+- [LazoVelko/Image-To-ASCII](https://github.com/LazoVelko/Image-To-ASCII) - Convert images to ASCII art.
+- [LazoVelko/Article-Summarizer](https://github.com/LazoVelko/Article-Summarizer) - Uses frequency analysis to summarize text.
+- [LazoVelko/Pokemon-Terminal](https://github.com/LazoVelko/Pokemon-Terminal) - Pokemon terminal themes.
 - [PokemonGoF/PokemonGo-Bot](https://github.com/PokemonGoF/PokemonGo-Bot) - The Pokemon Go Bot, baking with community.
 - [deezer/spleeter](https://github.com/deezer/spleeter) - Deezer source separation library including pretrained models.
 - [lavague-ai/LaVague](https://github.com/lavague-ai/LaVague) - Large Action Model framework to develop AI Web Agents
