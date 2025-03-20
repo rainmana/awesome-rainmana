@@ -645,6 +645,7 @@
 
 ## JavaScript 
 
+- [freddyaboulton/fastrtc](https://github.com/freddyaboulton/fastrtc) - The python library for real-time communication
 - [ipfs/ipfs-desktop](https://github.com/ipfs/ipfs-desktop) - An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.
 - [elgatosf/streamdeck-philipshue-legacy](https://github.com/elgatosf/streamdeck-philipshue-legacy) - Stream Deck SDK: Philips Hue sample plugin
 - [Billiam/cncjs-pendant-streamdeck](https://github.com/Billiam/cncjs-pendant-streamdeck) - Stream Deck and mobile web pendant for cncjs
@@ -1147,7 +1148,6 @@
 ## Python 
 
 - [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
-- [freddyaboulton/fastrtc](https://github.com/freddyaboulton/fastrtc) - The python library for real-time communication
 - [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
 - [The404Hacking/websploit](https://github.com/The404Hacking/websploit) - Websploit is an advanced MITM framework.
 - [abcminiuser/python-elgato-streamdeck](https://github.com/abcminiuser/python-elgato-streamdeck) - Python library to control the Elgato Stream Deck.
@@ -1430,7 +1430,7 @@
 - [rainmana/cookiegrabber](https://github.com/rainmana/cookiegrabber) - Simple Python3 script/CLI tool to grab and dump cookies from all browsers. Building further capabilities to make requests, sort, etc. as time goes on.
 - [Mahlet-Inc/hobbits](https://github.com/Mahlet-Inc/hobbits) - A multi-platform GUI for bit-based analysis, processing, and visualization
 - [Pylons/waitress](https://github.com/Pylons/waitress) - Waitress - A WSGI server for Python 3
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 275+ supported cars.
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
 - [pylyf/NetWorm](https://github.com/pylyf/NetWorm) - Python network worm that spreads on the local network and gives the attacker control of these machines.
 - [wapiflapi/villoc](https://github.com/wapiflapi/villoc) - Visualization of heap operations.
 - [wapiflapi/binglide](https://github.com/wapiflapi/binglide) - Visual reverse engineering tool. Veles is better, use it. Don't use this.
@@ -1865,7 +1865,7 @@
 - [redcanaryco/mac-monitor](https://github.com/redcanaryco/mac-monitor) - Red Canary Mac Monitor is an advanced, stand-alone system monitoring tool tailor-made for macOS security research. Beginning with Endpoint Security (ES), it collects and enriches system events, displa
 - [37MobileTeam/iChatGPT](https://github.com/37MobileTeam/iChatGPT) - OpenAI ChatGPT SwiftUI app for iOS, iPadOS, macOS
 - [JohnCoates/flexdecrypt](https://github.com/JohnCoates/flexdecrypt) - Decrypt iOS Apps and Mach-O binaries
-- [artginzburg/MiddleClick-Sonoma](https://github.com/artginzburg/MiddleClick-Sonoma) -  "Wheel click" with three-finger click/tap for Trackpad and Magic Mouse.
+- [artginzburg/MiddleClick](https://github.com/artginzburg/MiddleClick) -  "Wheel click" with three-finger click/tap for Trackpad and Magic Mouse.
 - [lukakerr/Pine](https://github.com/lukakerr/Pine) - A modern, native macOS markdown editor
 - [iseebi/TransporterPad](https://github.com/iseebi/TransporterPad) - iOS/Android app deployment tool for macOS
 - [insidegui/AssetCatalogTinkerer](https://github.com/insidegui/AssetCatalogTinkerer) - An app that lets you open .car files and browse/extract their images.
