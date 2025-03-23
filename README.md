@@ -607,6 +607,7 @@
 
 ## Java 
 
+- [CellularPrivacy/Android-IMSI-Catcher-Detector](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector) - AIMSICD • Fight IMSI-Catcher, StingRay and silent SMS!
 - [google/bindiff](https://github.com/google/bindiff) - Quickly find differences and similarities in disassembled code
 - [internetarchive/heritrix3](https://github.com/internetarchive/heritrix3) - Heritrix is the Internet Archive's open-source, extensible, web-scale, archival-quality web crawler project.
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB
@@ -894,6 +895,9 @@
 
 ## Others 
 
+- [87andrewh/WeirdAntiCheatIdeas](https://github.com/87andrewh/WeirdAntiCheatIdeas) - A collection of anti-cheat ideas
+- [cloudcommunity/Cloud-Free-Tier-Comparison](https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison) - Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP, Oracle etc.
+- [danielmiessler/Telos](https://github.com/danielmiessler/Telos) - Telos is an open-sourced framework for creating Deep Context about things that matter to humans.
 - [Corcules/KMlink](https://github.com/Corcules/KMlink) - Streamdeck plugin to drive Keyboard Maestro
 - [mishmanners/stream-deck-template](https://github.com/mishmanners/stream-deck-template) - Template for the Elgato Stream Deck's standby screen/screensaver.
 - [airscripts/awesome-steam-deck](https://github.com/airscripts/awesome-steam-deck) - A curated list of awesome Steam Deck software, resources and more.
@@ -1149,6 +1153,7 @@
 
 ## Python 
 
+- [gmh5225/awesome-game-security](https://github.com/gmh5225/awesome-game-security) - awesome game security [Welcome to PR]
 - [theopolis/uefi-firmware-samples](https://github.com/theopolis/uefi-firmware-samples) - Sample firmware for UEFI-firmware parsing
 - [ucsb-seclab/monolithic-firmware-collection](https://github.com/ucsb-seclab/monolithic-firmware-collection) - Repository for monolithic firmware blobs
 - [xnl-h4ck3r/waymore](https://github.com/xnl-h4ck3r/waymore) - Find way more from the Wayback Machine, Common Crawl, Alien Vault OTX, URLScan, VirusTotal & Intelligence X!
