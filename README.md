@@ -101,6 +101,8 @@
 
 ## C 
 
+- [LairdCP/Lyra_Firmware_Samples](https://github.com/LairdCP/Lyra_Firmware_Samples) - Firmware samples for the Lyra family of modules
+- [Azure/iot-central-firmware](https://github.com/Azure/iot-central-firmware) - Azure IoT Device Samples  ✨ 📟 🔌 🔋💡  ✨
 - [ridiculousfish/cdecl-blocks](https://github.com/ridiculousfish/cdecl-blocks) - The venerable cdecl, with Apple blocks support
 - [splintchecker/splint](https://github.com/splintchecker/splint) - Splint - annotation-assisted static program checker
 - [google/pebble](https://github.com/google/pebble) - This is the latest version of the internal repository from Pebble Technology providing the software to run on Pebble watches. Proprietary source code has been removed from this repository and it will 
@@ -585,6 +587,7 @@
 - [nadvornix/calculus-made-easy](https://github.com/nadvornix/calculus-made-easy) - HTML conversion of a great beginner calculus book
 - [goose3/goose3](https://github.com/goose3/goose3) - A Python 3 compatible version of goose http://goose3.readthedocs.io/en/latest/index.html
 - [sharkdp/curiosity](https://github.com/sharkdp/curiosity) - How far does your curiosity take you?
+- [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [google/security-crawl-maze](https://github.com/google/security-crawl-maze) - Security Crawl Maze is a comprehensive testbed for web security crawlers. It contains pages representing many ways in which one can link resources from a valid HTML document.
 - [pjamar/htmls-to-datasette](https://github.com/pjamar/htmls-to-datasette) - Tool to index and serve HTML files. Powered by Datasette.
 - [OWASP/NodeGoat](https://github.com/OWASP/NodeGoat) - The OWASP NodeGoat project provides an environment to learn how OWASP Top 10 security risks apply to web applications developed using Node.js and how to effectively address them.
@@ -1023,7 +1026,6 @@
 - [meirwah/awesome-incident-response](https://github.com/meirwah/awesome-incident-response) - A curated list of tools for incident response
 - [ViRb3/nginx-gotchas](https://github.com/ViRb3/nginx-gotchas) - ⁉ My personal list of gotchas and other tricky situations with nginx
 - [kaitai-io/awesome-kaitai](https://github.com/kaitai-io/awesome-kaitai) - A curated list of Kaitai Struct tools and resources
-- [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [tunz/js-vuln-db](https://github.com/tunz/js-vuln-db) - A collection of JavaScript engine CVEs with PoCs
 - [rxin/db-readings](https://github.com/rxin/db-readings) - Readings in Databases
 - [dweinstein/awesome-frida](https://github.com/dweinstein/awesome-frida) - Awesome Frida - A curated list of Frida resources http://www.frida.re/ (https://github.com/frida/frida)
@@ -1147,6 +1149,9 @@
 
 ## Python 
 
+- [theopolis/uefi-firmware-samples](https://github.com/theopolis/uefi-firmware-samples) - Sample firmware for UEFI-firmware parsing
+- [ucsb-seclab/monolithic-firmware-collection](https://github.com/ucsb-seclab/monolithic-firmware-collection) - Repository for monolithic firmware blobs
+- [xnl-h4ck3r/waymore](https://github.com/xnl-h4ck3r/waymore) - Find way more from the Wayback Machine, Common Crawl, Alien Vault OTX, URLScan, VirusTotal & Intelligence X!
 - [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
 - [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
 - [The404Hacking/websploit](https://github.com/The404Hacking/websploit) - Websploit is an advanced MITM framework.
@@ -1790,6 +1795,7 @@
 
 ## Shell 
 
+- [devttys0/sasquatch](https://github.com/devttys0/sasquatch) - 
 - [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines
 - [mylinuxforwork/dotfiles](https://github.com/mylinuxforwork/dotfiles) - The ML4W Dotfiles for Hyprland - An advanced and full-featured configuration for the dynamic tiling window manager Hyprland including an easy to use installation script for Arch and Fedora based Linux
 - [lquesada/ComfyUI-Starter-Workflows](https://github.com/lquesada/ComfyUI-Starter-Workflows) - A collection of simple but powerful ComfyUI workflows with curated settings.
