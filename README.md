@@ -84,7 +84,7 @@
 
 ## Astro 
 
-- [fracalo/astro-supabase-ss](https://github.com/fracalo/astro-supabase-ss) - 
+- [fracalo/astro-supabase-ss](https://github.com/fracalo/astro-supabase-ss) - Opinionated Supabase + Astro template
 - [shaunchander/astro-pwa-starter](https://github.com/shaunchander/astro-pwa-starter) - ✨ An opinionated Astro starter for building robust static websites.
 
 ## AutoHotkey 
