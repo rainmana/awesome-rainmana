@@ -214,7 +214,6 @@
 ## C# # 
 
 - [dend/DeckSurf](https://github.com/dend/DeckSurf) - 🌊 Lightweight and open way to manage your Stream Deck device.
-- [BarRaider/streamdeck-voicemeeter](https://github.com/BarRaider/streamdeck-voicemeeter) - VoiceMeeter integration for Stream Deck
 - [nguyenquyhy/Flight-Tracker-StreamDeck](https://github.com/nguyenquyhy/Flight-Tracker-StreamDeck) - A Stream Deck plugin to interact with Microsoft Flight Simulation
 - [BarRaider/streamdeck-tools](https://github.com/BarRaider/streamdeck-tools) - The Stream Deck Tools library wraps all the communication with the Stream Deck app, allowing you to focus on actually writing the Plugin's logic
 - [LykosAI/StabilityMatrix](https://github.com/LykosAI/StabilityMatrix) - Multi-Platform Package Manager for Stable Diffusion
