@@ -2757,7 +2757,6 @@
 - [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) - A distraction-free and highly customizable theme for Obsidian.
 - [Corcules/KMlink](https://github.com/Corcules/KMlink) - Streamdeck plugin to drive Keyboard Maestro
 - [elgatosf/streamdeck-cpu](https://github.com/elgatosf/streamdeck-cpu) - Stream Deck SDK: CPU sample plugin
-- [BarRaider/streamdeck-voicemeeter](https://github.com/BarRaider/streamdeck-voicemeeter) - VoiceMeeter integration for Stream Deck
 - [FritzAndFriends/StreamDeckToolkit](https://github.com/FritzAndFriends/StreamDeckToolkit) - A .NET Standard library, template, and tools for building extensions to the Elgato Stream Deck
 - [elgatosf/streamdeck-philipshue-legacy](https://github.com/elgatosf/streamdeck-philipshue-legacy) - Stream Deck SDK: Philips Hue sample plugin
 - [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux
