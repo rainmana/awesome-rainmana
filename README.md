@@ -213,6 +213,7 @@
 
 ## C# # 
 
+- [DecryptaTechnologies/GovTools](https://github.com/DecryptaTechnologies/GovTools) - GovTools is an innovative open-source toolkit for Windows, designed to streamline the extraction of password hashes from a variety of targets.
 - [dend/DeckSurf](https://github.com/dend/DeckSurf) - 🌊 Lightweight and open way to manage your Stream Deck device.
 - [nguyenquyhy/Flight-Tracker-StreamDeck](https://github.com/nguyenquyhy/Flight-Tracker-StreamDeck) - A Stream Deck plugin to interact with Microsoft Flight Simulation
 - [BarRaider/streamdeck-tools](https://github.com/BarRaider/streamdeck-tools) - The Stream Deck Tools library wraps all the communication with the Stream Deck app, allowing you to focus on actually writing the Plugin's logic
@@ -1234,7 +1235,7 @@
 - [nv-morpheus/Morpheus](https://github.com/nv-morpheus/Morpheus) - Morpheus SDK
 - [NVIDIA/workbench-example-hybrid-rag](https://github.com/NVIDIA/workbench-example-hybrid-rag) - An NVIDIA AI Workbench example project for Retrieval Augmented Generation (RAG)
 - [turboderp-org/exllamav2](https://github.com/turboderp-org/exllamav2) - A fast inference library for running LLMs locally on modern consumer-class GPUs
-- [ltdrdata/ComfyUI-Manager](https://github.com/ltdrdata/ComfyUI-Manager) - ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this 
+- [Comfy-Org/ComfyUI-Manager](https://github.com/Comfy-Org/ComfyUI-Manager) - ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this 
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [Zipstack/unstract](https://github.com/Zipstack/unstract) - No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents
