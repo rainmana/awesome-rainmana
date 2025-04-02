@@ -833,6 +833,7 @@
 
 ## cli 
 
+- [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [insidersec/insider](https://github.com/insidersec/insider) - Static Application Security Testing (SAST) engine focused on covering the OWASP Top 10, to make source code analysis to find vulnerabilities right in the source code, focused on a agile and easy to im
 - [Dadoum/Sideloader](https://github.com/Dadoum/Sideloader) - Open-source cross-platform iOS app sideloader (yep, even Linux is supported). Alternative to Sideloadly, AltServer, SideServer, Cydia Impactor, iOS App Signer…
 - [dend/DeckSurf](https://github.com/dend/DeckSurf) - 🌊 Lightweight and open way to manage your Stream Deck device.
@@ -2784,7 +2785,7 @@
 - [google/pebble](https://github.com/google/pebble) - This is the latest version of the internal repository from Pebble Technology providing the software to run on Pebble watches. Proprietary source code has been removed from this repository and it will 
 - [lquesada/ComfyUI-Starter-Workflows](https://github.com/lquesada/ComfyUI-Starter-Workflows) - A collection of simple but powerful ComfyUI workflows with curated settings.
 - [codepo8/web-cheatcodes](https://github.com/codepo8/web-cheatcodes) - Demo sites to explain non-developer how they can use browser devtools to make the web less annoying.
-- [easydiffusion/easydiffusion](https://github.com/easydiffusion/easydiffusion) - Easiest 1-click way to create beautiful artwork on your PC using AI, with no tech knowledge. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and 
+- [easydiffusion/easydiffusion](https://github.com/easydiffusion/easydiffusion) - An easy 1-click way to create beautiful artwork on your PC using AI, with no tech knowledge. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and 
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
 - [ReFirmLabs/qnx6-extractor](https://github.com/ReFirmLabs/qnx6-extractor) - extractor for QNX6 filesystem format.
 - [c0mix/IoT-SecurityChecker](https://github.com/c0mix/IoT-SecurityChecker) - IoT Security Checker is a framework for automating some IoT-related security checks
@@ -4443,6 +4444,7 @@
 
 ## shell 
 
+- [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [wireghoul/graudit](https://github.com/wireghoul/graudit) - grep rough audit - source code auditing tool
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -4591,6 +4593,7 @@
 
 ## terminal 
 
+- [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
