@@ -102,6 +102,7 @@
 
 ## C 
 
+- [google/fuzzer-test-suite](https://github.com/google/fuzzer-test-suite) - Set of tests for fuzzing engines
 - [LairdCP/Lyra_Firmware_Samples](https://github.com/LairdCP/Lyra_Firmware_Samples) - Firmware samples for the Lyra family of modules
 - [Azure/iot-central-firmware](https://github.com/Azure/iot-central-firmware) - Azure IoT Device Samples  ✨ 📟 🔌 🔋💡  ✨
 - [ridiculousfish/cdecl-blocks](https://github.com/ridiculousfish/cdecl-blocks) - The venerable cdecl, with Apple blocks support
@@ -498,7 +499,7 @@
 - [IAmStoxe/urlgrab](https://github.com/IAmStoxe/urlgrab) - A golang utility to spider through a website searching for additional links.
 - [jaeles-project/gospider](https://github.com/jaeles-project/gospider) - Gospider - Fast web spider written in Go
 - [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
-- [hueristiq/xcrawl3r](https://github.com/hueristiq/xcrawl3r) - A command-line interface (CLI) based utility to recursively crawl webpages. It is designed to systematically browse webpages' URLs and follow links to discover linked webpages' URLs.
+- [hueristiq/xcrawl3r](https://github.com/hueristiq/xcrawl3r) - A command-line utility designed to recursively spider webpages for URLs. It works by actively traversing websites - following links embedded in webpages, parsing resources like sitemaps and robots.txt
 - [elmasy-com/elmasy](https://github.com/elmasy-com/elmasy) - Open Source External Attack Surface Management
 - [elmasy-com/columbus-server](https://github.com/elmasy-com/columbus-server) - 
 - [carbonblack/binee](https://github.com/carbonblack/binee) - Binee: binary emulation environment
@@ -657,6 +658,7 @@
 
 ## JavaScript 
 
+- [BurtTheCoder/mcp-dnstwist](https://github.com/BurtTheCoder/mcp-dnstwist) - MCP server for dnstwist, a powerful DNS fuzzing tool that helps detect typosquatting, phishing, and corporate espionage.
 - [HackTricks-wiki/hacktricks](https://github.com/HackTricks-wiki/hacktricks) - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
 - [freddyaboulton/fastrtc](https://github.com/freddyaboulton/fastrtc) - The python library for real-time communication
 - [ipfs/ipfs-desktop](https://github.com/ipfs/ipfs-desktop) - An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.
@@ -826,6 +828,7 @@
 
 ## Kotlin 
 
+- [PortSwigger/mcp-server](https://github.com/PortSwigger/mcp-server) - MCP Server for Burp
 - [mrousavy/react-native-google-nearby-messages](https://github.com/mrousavy/react-native-google-nearby-messages) - 📲 Communicate with nearby devices using Bluetooth, BLE, WiFi and near-ultrasonic audio. Broadcast and receive small payloads (like strings) using the easy-to-use React Native API!
 
 ## Less 
@@ -903,6 +906,7 @@
 
 ## Others 
 
+- [punkpeye/awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients) - A collection of MCP clients.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [eon01/awesome-chatgpt](https://github.com/eon01/awesome-chatgpt) - 🧠 A curated list of awesome ChatGPT resources, including libraries, SDKs, APIs, and more. 🌟 Please consider supporting this project by giving it a star.
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
@@ -1105,7 +1109,7 @@
 - [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted, drag-and-drop & nosql file conversion server & share tool that supports 445 file formats in 13 languages.
 - [Sharpforce/XSS-Exploitation-Tool](https://github.com/Sharpforce/XSS-Exploitation-Tool) - An XSS Exploitation Tool
 - [iagox86/dnscat2](https://github.com/iagox86/dnscat2) - 
-- [oscarotero/Embed](https://github.com/oscarotero/Embed) - Get info from any web service or page
+- [php-embed/Embed](https://github.com/php-embed/Embed) - Get info from any web service or page
 - [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony
 - [netgen/query-translator](https://github.com/netgen/query-translator) - Query Translator is a search query translator with AST representation
 - [filegator/filegator](https://github.com/filegator/filegator) - Powerful Multi-User File Manager
@@ -1164,6 +1168,9 @@
 
 ## Python 
 
+- [thinkany-ai/rag-search](https://github.com/thinkany-ai/rag-search) - RAG Search API
+- [wmliang/pe-afl](https://github.com/wmliang/pe-afl) - 
+- [fosdickio/binary_ninja_mcp](https://github.com/fosdickio/binary_ninja_mcp) - A Binary Ninja plugin, MCP server, and bridge that seamlessly integrates Binary Ninja with your favorite LLM/MCP client.
 - [gmh5225/awesome-game-security](https://github.com/gmh5225/awesome-game-security) - awesome game security [Welcome to PR]
 - [theopolis/uefi-firmware-samples](https://github.com/theopolis/uefi-firmware-samples) - Sample firmware for UEFI-firmware parsing
 - [ucsb-seclab/monolithic-firmware-collection](https://github.com/ucsb-seclab/monolithic-firmware-collection) - Repository for monolithic firmware blobs
@@ -1906,6 +1913,12 @@
 
 ## TypeScript 
 
+- [mario-andreschak/FLUJO](https://github.com/mario-andreschak/FLUJO) - MCP-Hub and -Inspector, Multi-Model Workflow and Chat Interface
+- [syedazharmbnr1/claude-chatgpt-mcp](https://github.com/syedazharmbnr1/claude-chatgpt-mcp) - A Claude MCP tool to interact with the ChatGPT desktop app on macOS
+- [Toolbase-AI/toolbase](https://github.com/Toolbase-AI/toolbase) - A desktop application that adds powerful tools to Claude and AI platforms
+- [EvalsOne/MCP-connect](https://github.com/EvalsOne/MCP-connect) - Enables cloud-based AI services to access local Stdio based MCP servers via HTTP requests
+- [RooVetGit/Roo-Code](https://github.com/RooVetGit/Roo-Code) - Roo Code (prev. Roo Cline) gives you a whole dev team of AI agents in your code editor.
+- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. Support deepseek-r1
 - [aimcp/awesome-mcp](https://github.com/aimcp/awesome-mcp) - A collection about MCP
 - [nanbingxyz/5ire](https://github.com/nanbingxyz/5ire) - 5ire is a cross-platform desktop AI assistant, MCP client. It compatible with major service providers,  supports local knowledge base and  tools via model context protocol servers .
 - [JOYCEQL/magic-resume](https://github.com/JOYCEQL/magic-resume) - free online AI resume editor
