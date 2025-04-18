@@ -32,3 +32,5 @@ jobs:
           commit_message: "chore: update REPO_CATEGORIES.md"
           branch: ${{ github.ref_name }}
           file_pattern: REPO_CATEGORIES.md
+          # Force push to overwrite any divergent commits (e.g., on reruns)
+          push_options: '--force-with-lease'
