@@ -218,6 +218,7 @@
 
 ## C# # 
 
+- [Viralmaniar/BigBountyRecon](https://github.com/Viralmaniar/BigBountyRecon) - BigBountyRecon tool utilises 58 different techniques using various Google dorks and open source tools to expedite the process of initial reconnaissance on the target organisation.
 - [DecryptaTechnologies/GovTools](https://github.com/DecryptaTechnologies/GovTools) - GovTools is an innovative open-source toolkit for Windows, designed to streamline the extraction of password hashes from a variety of targets.
 - [dend/DeckSurf](https://github.com/dend/DeckSurf) - 🌊 Lightweight and open way to manage your Stream Deck device.
 - [nguyenquyhy/Flight-Tracker-StreamDeck](https://github.com/nguyenquyhy/Flight-Tracker-StreamDeck) - A Stream Deck plugin to interact with Microsoft Flight Simulation
@@ -423,6 +424,13 @@
 
 ## Go 
 
+- [securisec/cliam](https://github.com/securisec/cliam) - Cloud agnostic IAM permissions enumerator
+- [redhuntlabs/BucketLoot](https://github.com/redhuntlabs/BucketLoot) - BucketLoot is an automated S3-compatible bucket inspector that can help users extract assets, flag secret exposures and even search for custom keywords as well as Regular Expressions from publicly-exp
+- [koenrh/s3enum](https://github.com/koenrh/s3enum) - Fast and stealthy Amazon S3 bucket enumeration tool for pentesters.
+- [hahwul/s3reverse](https://github.com/hahwul/s3reverse) - The format of various s3 buckets is convert in one format. for bugbounty and security testing.
+- [grines/scour](https://github.com/grines/scour) - 
+- [glen-mac/goGetBucket](https://github.com/glen-mac/goGetBucket) - A penetration testing tool to enumerate and analyse Amazon S3 Buckets owned by a domain.
+- [BishopFox/smogcloud](https://github.com/BishopFox/smogcloud) - Find cloud assets that no one wants exposed 🔎 ☁️
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC activ
 - [yourselfhosted/slash](https://github.com/yourselfhosted/slash) - An open source, self-hosted platform for sharing and managing your most frequently used links. Easily create customizable, human-readable shortcuts to streamline your link management.
@@ -675,6 +683,9 @@
 
 ## JavaScript 
 
+- [salesforce/cloudsplaining](https://github.com/salesforce/cloudsplaining) - Cloudsplaining is an AWS IAM Security Assessment tool that identifies violations of least privilege and generates a risk-prioritized report.
+- [mandatoryprogrammer/tarnish](https://github.com/mandatoryprogrammer/tarnish) - A Chrome extension static analysis tool to help aide in security reviews.
+- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [AlexSciFier/neonlink](https://github.com/AlexSciFier/neonlink) - Simple self-hosted bookmark service.
 - [doublespeakgames/adarkroom](https://github.com/doublespeakgames/adarkroom) - A Dark Room - A Minimalist Text Adventure
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
@@ -850,6 +861,7 @@
 
 ## Kotlin 
 
+- [efoncubierta/cloudspec](https://github.com/efoncubierta/cloudspec) - CloudSpec is an open source tool for validating your resources in your cloud providers using a logical language.
 - [PortSwigger/mcp-server](https://github.com/PortSwigger/mcp-server) - MCP Server for Burp
 - [mrousavy/react-native-google-nearby-messages](https://github.com/mrousavy/react-native-google-nearby-messages) - 📲 Communicate with nearby devices using Bluetooth, BLE, WiFi and near-ultrasonic audio. Broadcast and receive small payloads (like strings) using the easy-to-use React Native API!
 
@@ -932,6 +944,12 @@
 
 ## Others 
 
+- [Stuxend/dagobah](https://github.com/Stuxend/dagobah) - 
+- [sbasu7241/AWS-Threat-Simulation-and-Detection](https://github.com/sbasu7241/AWS-Threat-Simulation-and-Detection) - Playing around with Stratus Red Team (Cloud Attack simulation tool) and SumoLogic
+- [n0kovo/awesome-password-cracking](https://github.com/n0kovo/awesome-password-cracking) - A curated list of awesome tools, research, papers and other projects related to password cracking and password security.
+- [hehnope/slurp](https://github.com/hehnope/slurp) - this can't keep happening
+- [filipecalegario/awesome-vibe-coding](https://github.com/filipecalegario/awesome-vibe-coding) - A curated list of vibe coding references, collaborating with AI to write code.
+- [techiediaries/awesome-vibe-coding](https://github.com/techiediaries/awesome-vibe-coding) - A curated list of vibe coding assistants, IDEs, tools and references for learning how to efficently collaborate with AI to write code. Best practices of prompt enginnering for developers. AI-powered t
 - [Mindbaz/awesome-opensource-email](https://github.com/Mindbaz/awesome-opensource-email) - Awesome Opensource Email Resources
 - [elves/awesome-elvish](https://github.com/elves/awesome-elvish) - A curated list of awesome Elvish packages, modules, and tools that support Elvish
 - [brunopulis/awesome-a11y](https://github.com/brunopulis/awesome-a11y) - A curate list about A11Y
@@ -963,7 +981,6 @@
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [Discord-Client-Encyclopedia-Management/Discord3rdparties](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties) - A non-exhaustive collection of third-party clients and mods for Discord.
 - [tamld/awesome-download-manager](https://github.com/tamld/awesome-download-manager) - A comprehensive download manager for efficient file management
-- [rainmana/awesome-rainmana](https://github.com/rainmana/awesome-rainmana) - This is a curated list of my GitHub stars but converted into an Awesome List! Updated automagically ever 12 hours! :D
 - [guilyx/awesome-github-pages-portfolios](https://github.com/guilyx/awesome-github-pages-portfolios) - 😎 A curated list of awesome github pages porfolio templates 📝
 - [socfortress/Playbooks](https://github.com/socfortress/Playbooks) - Playbooks for SOC Analysts
 - [bst04/payloads_flipperZero](https://github.com/bst04/payloads_flipperZero) - Collection of Payloads BadUSB for Flipper Zero with DuckyScript 1.0
@@ -1135,6 +1152,7 @@
 
 ## PHP 
 
+- [smaranchand/bucky](https://github.com/smaranchand/bucky) - Bucky (An automatic S3 bucket discovery tool)
 - [shaarli/Shaarli](https://github.com/shaarli/Shaarli) - The personal, minimalist, super-fast, database free, bookmarking service - community repo
 - [zidansec/CloudPeler](https://github.com/zidansec/CloudPeler) - CrimeFlare is a useful tool for bypassing websites protected by CloudFlare WAF, with this tool you can easily see the real IP of websites that have been protected by CloudFlare. The resulting informat
 - [csalab-id/csaf](https://github.com/csalab-id/csaf) - Cyber Security Awareness Framework (CSAF)
@@ -1203,6 +1221,31 @@
 
 ## Python 
 
+- [yehgdotnet/S3Scanner](https://github.com/yehgdotnet/S3Scanner) - Scan for open S3 buckets and dump
+- [WithSecureLabs/awspx](https://github.com/WithSecureLabs/awspx) - A graph-based tool for visualizing effective access and resource relationships in AWS environments.
+- [WeAreCloudar/s3-account-search](https://github.com/WeAreCloudar/s3-account-search) - S3 Account Search
+- [redhuntlabs/BurpSuite-Asset_Discover](https://github.com/redhuntlabs/BurpSuite-Asset_Discover) - Burp Suite extension to discover assets from HTTP response.
+- [PaoloMonti42/salt](https://github.com/PaoloMonti42/salt) - SALT - SLUB ALlocator Tracer for the Linux kernel
+- [nccgroup/Scout2](https://github.com/nccgroup/Scout2) - Security auditing tool for AWS environments
+- [nccgroup/PMapper](https://github.com/nccgroup/PMapper) - A tool for quickly evaluating IAM permissions in AWS.
+- [MindPointGroup/cloudfrunt](https://github.com/MindPointGroup/cloudfrunt) - A tool for identifying misconfigured CloudFront domains
+- [jordanpotti/AWSBucketDump](https://github.com/jordanpotti/AWSBucketDump) - Security Tool to Look For Interesting Files in S3 Buckets
+- [jonrau1/SyntheticSun](https://github.com/jonrau1/SyntheticSun) - SyntheticSun is a defense-in-depth security automation and monitoring framework which utilizes threat intelligence, machine learning, managed AWS security services and, serverless technologies to cont
+- [IOActive/Platbox](https://github.com/IOActive/Platbox) - UEFI and SMM Assessment Tool
+- [iamavu/Slyther](https://github.com/iamavu/Slyther) - AWS Security Tool
+- [eth0izzle/bucket-stream](https://github.com/eth0izzle/bucket-stream) - Find interesting Amazon S3 Buckets by watching certificate transparency logs.
+- [Eilonh/s3crets_scanner](https://github.com/Eilonh/s3crets_scanner) - 
+- [disruptops/resource-counter](https://github.com/disruptops/resource-counter) - This command line tool counts the number of resources in different categories across Amazon regions.
+- [cyberark/SkyWrapper](https://github.com/cyberark/SkyWrapper) - SkyWrapper helps to discover suspicious creation forms and uses of temporary tokens in AWS
+- [cr0hn/festin](https://github.com/cr0hn/festin) - FestIn - Open S3 Bucket Scanner
+- [chrismaddalena/ODIN](https://github.com/chrismaddalena/ODIN) - Automated network asset, email, and social media profile discovery and cataloguing.
+- [c0dejump/HawkScan](https://github.com/c0dejump/HawkScan) - Security Tool for Reconnaissance and Information Gathering on a website. (python 3.x)
+- [bassammaged/awsEnum](https://github.com/bassammaged/awsEnum) - Enumerate AWS cloud resources based on provided credential
+- [ARPSyndicate/kenzer](https://github.com/ARPSyndicate/kenzer) - automated web assets enumeration & scanning [DEPRECATED]
+- [ankane/s3tk](https://github.com/ankane/s3tk) - A security toolkit for Amazon S3
+- [0xSearches/sandcastle](https://github.com/0xSearches/sandcastle) - 🏰 A Python script for AWS S3 bucket enumeration.
+- [0xmoot/s3sec](https://github.com/0xmoot/s3sec) - Check AWS S3 instances for read/write/delete access
+- [roboco-io/awesome-vibecoding](https://github.com/roboco-io/awesome-vibecoding) - A curated list of resources, tutorials, best practices, and examples for Vibe Coding, the emerging paradigm of intuitive, AI-driven software development. Explore how vibe-driven collaboration between 
 - [httpie/http-prompt](https://github.com/httpie/http-prompt) - An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie
 - [operatorequals/wormnest](https://github.com/operatorequals/wormnest) - A Web Server to hide stuff
 - [thinkany-ai/rag-search](https://github.com/thinkany-ai/rag-search) - RAG Search API
@@ -1251,6 +1294,7 @@
 - [ArchiveTeam/grab-site](https://github.com/ArchiveTeam/grab-site) - The archivist's web crawler: WARC output, dashboard for all crawls, dynamic ignore patterns
 - [CTFd/CTFd](https://github.com/CTFd/CTFd) - CTFs as you need them
 - [rainmana/automagica](https://github.com/rainmana/automagica) - AI-powered Smart Robotic Process Automation 🤖
+- [rainmana/awesome-rainmana](https://github.com/rainmana/awesome-rainmana) - This is a curated list of my GitHub stars but converted into an Awesome List! Updated automagically ever 12 hours! :D
 - [hugsy/gef](https://github.com/hugsy/gef) - GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux
 - [mahaloz/decomp2dbg](https://github.com/mahaloz/decomp2dbg) - A plugin to introduce interactive symbols into your debugger from your decompiler
 - [ex0dus-0x/fuzzable](https://github.com/ex0dus-0x/fuzzable) - Framework for Automating Fuzzable Target Discovery with Static Analysis.
@@ -1747,6 +1791,7 @@
 
 ## Ruby 
 
+- [arkadiyt/aws_public_ips](https://github.com/arkadiyt/aws_public_ips) - Fetch all public IP addresses tied to your AWS account. Works with IPv4/IPv6, Classic/VPC networking, and across all AWS services
 - [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
 - [thesp0nge/dawnscanner](https://github.com/thesp0nge/dawnscanner) - Dawn is a static analysis security scanner for ruby written web applications. It supports Sinatra, Padrino and Ruby on Rails frameworks.
 - [motor-admin/motor-admin](https://github.com/motor-admin/motor-admin) - Deploy a no-code admin panel for any application in less than a minute. Search, create, update, and delete data entries, create custom actions, and build reports.
@@ -1863,6 +1908,7 @@
 
 ## Shell 
 
+- [robotshell/magicRecon](https://github.com/robotshell/magicRecon) - MagicRecon is a powerful shell script to maximize the recon and data collection process of an objective and finding common vulnerabilities, all this saving the results obtained in an organized way in 
 - [magicant/yash](https://github.com/magicant/yash) - Yet another shell
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
@@ -1961,6 +2007,9 @@
 
 ## TypeScript 
 
+- [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper) - Open Source Cloud Native Application Protection Platform (CNAPP)
+- [AlecBlance/S3BucketList](https://github.com/AlecBlance/S3BucketList) - Chrome extension that lists Amazon S3 Buckets while browsing
+- [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents.
 - [paralleldrive/sudolang-llm-support](https://github.com/paralleldrive/sudolang-llm-support) - SudoLang LLM Support for VSCode
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks
