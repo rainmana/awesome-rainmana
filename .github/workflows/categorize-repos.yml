@@ -11,6 +11,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+        with:
+          # Always checkout the branch HEAD to include latest commits (e.g., on reruns)
+          ref: ${{ github.ref }}
+          # Fetch full history for accurate push/rebase operations
+          fetch-depth: 0
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
