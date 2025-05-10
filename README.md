@@ -103,6 +103,7 @@
 
 ## C 
 
+- [DarkFlippers/flipperzero-subbrute](https://github.com/DarkFlippers/flipperzero-subbrute) - SubGHz key checker
 - [even-realities/EvenDemoApp](https://github.com/even-realities/EvenDemoApp) - 
 - [OpenVPN/openvpn](https://github.com/OpenVPN/openvpn) - OpenVPN  is  an open source VPN daemon
 - [ngs-lang/ngs](https://github.com/ngs-lang/ngs) - Next Generation Shell (NGS)
@@ -281,6 +282,7 @@
 
 ## C++ 
 
+- [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 - [alexst07/shell-plus-plus](https://github.com/alexst07/shell-plus-plus) - A friendly and modern functional object oriented language for shell script.
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
 - [elgatosf/streamdeck-cpu](https://github.com/elgatosf/streamdeck-cpu) - Stream Deck SDK: CPU sample plugin
@@ -424,6 +426,7 @@
 
 ## Go 
 
+- [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [securisec/cliam](https://github.com/securisec/cliam) - Cloud agnostic IAM permissions enumerator
 - [redhuntlabs/BucketLoot](https://github.com/redhuntlabs/BucketLoot) - BucketLoot is an automated S3-compatible bucket inspector that can help users extract assets, flag secret exposures and even search for custom keywords as well as Regular Expressions from publicly-exp
 - [koenrh/s3enum](https://github.com/koenrh/s3enum) - Fast and stealthy Amazon S3 bucket enumeration tool for pentesters.
@@ -639,6 +642,7 @@
 
 ## Java 
 
+- [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
 - [CERTCC/kaiju](https://github.com/CERTCC/kaiju) - CERT Kaiju is a binary analysis framework extension for the Ghidra software reverse engineering suite. This repository is the primary, canonical repository for this project -- file bug reports and wis
 - [LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP) - MCP Server for Ghidra
 - [CellularPrivacy/Android-IMSI-Catcher-Detector](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector) - AIMSICD • Fight IMSI-Catcher, StingRay and silent SMS!
@@ -944,6 +948,8 @@
 
 ## Others 
 
+- [owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
+- [propublica/guides](https://github.com/propublica/guides) - ProPublica's News App and Data Style Guides
 - [Stuxend/dagobah](https://github.com/Stuxend/dagobah) - 
 - [sbasu7241/AWS-Threat-Simulation-and-Detection](https://github.com/sbasu7241/AWS-Threat-Simulation-and-Detection) - Playing around with Stratus Red Team (Cloud Attack simulation tool) and SumoLogic
 - [n0kovo/awesome-password-cracking](https://github.com/n0kovo/awesome-password-cracking) - A curated list of awesome tools, research, papers and other projects related to password cracking and password security.
@@ -1222,13 +1228,17 @@
 
 ## Python 
 
+- [newsapps/beeswithmachineguns](https://github.com/newsapps/beeswithmachineguns) - A utility for arming (creating) many bees (micro EC2 instances) to attack (load test) targets (web applications).
+- [microsoft/presidio](https://github.com/microsoft/presidio) - An open-source framework for detecting, redacting, masking, and anonymizing sensitive data (PII) across text, images, and structured data. Supports NLP, pattern matching, and customizable pipelines.
+- [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) - Ongoing research training transformer models at scale
+- [modelscope/FunASR](https://github.com/modelscope/FunASR) - A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models, Supporting Speech Recognition, Voice Activity Detection, Text Post-processing etc.
 - [Dicklesworthstone/ultimate_mcp_client](https://github.com/Dicklesworthstone/ultimate_mcp_client) - 
 - [sobri3195/pegasus-neo](https://github.com/sobri3195/pegasus-neo) - PEGASUS-NEO is a comprehensive penetration testing framework designed for security professionals and ethical hackers. It combines multiple security tools and custom modules for reconnaissance, exploit
 - [adriyansyah-mf/CentralizedFirewall](https://github.com/adriyansyah-mf/CentralizedFirewall) - provides a Firewall Manager API designed to centralize and streamline the management of firewall configurations
 - [saeeddhqan/Maryam](https://github.com/saeeddhqan/Maryam) - Maryam: Open-source Intelligence(OSINT) Framework
 - [dbisu/pico-ducky](https://github.com/dbisu/pico-ducky) - Create a USB Rubber Ducky like device using a Raspberry PI Pico
 - [yehgdotnet/S3Scanner](https://github.com/yehgdotnet/S3Scanner) - Scan for open S3 buckets and dump
-- [WithSecureLabs/awspx](https://github.com/WithSecureLabs/awspx) - A graph-based tool for visualizing effective access and resource relationships in AWS environments.
+- [ReversecLabs/awspx](https://github.com/ReversecLabs/awspx) - A graph-based tool for visualizing effective access and resource relationships in AWS environments.
 - [WeAreCloudar/s3-account-search](https://github.com/WeAreCloudar/s3-account-search) - S3 Account Search
 - [redhuntlabs/BurpSuite-Asset_Discover](https://github.com/redhuntlabs/BurpSuite-Asset_Discover) - Burp Suite extension to discover assets from HTTP response.
 - [PaoloMonti42/salt](https://github.com/PaoloMonti42/salt) - SALT - SLUB ALlocator Tracer for the Linux kernel
@@ -1535,7 +1545,7 @@
 - [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.
 - [andresriancho/enumerate-iam](https://github.com/andresriancho/enumerate-iam) - Enumerate the permissions associated with AWS credential set
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
-- [WithSecureLabs/drozer](https://github.com/WithSecureLabs/drozer) - The Leading Security Assessment Framework for Android.
+- [ReversecLabs/drozer](https://github.com/ReversecLabs/drozer) - The Leading Security Assessment Framework for Android.
 - [owtf/owtf](https://github.com/owtf/owtf) - Offensive Web Testing Framework (OWTF), is a framework which tries to unite great tools and make pen testing more efficient http://owtf.org https://twitter.com/owtfp
 - [cisagov/untitledgoosetool](https://github.com/cisagov/untitledgoosetool) - Untitled Goose Tool is a robust and flexible hunt and incident response tool that adds novel authentication and data gathering methods in order to run a full investigation against a customer’s Azure A
 - [InQuest/ThreatIngestor](https://github.com/InQuest/ThreatIngestor) - Extract and aggregate threat intelligence.
@@ -1826,6 +1836,8 @@
 
 ## Rust 
 
+- [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
+- [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [azerupi/mdBook](https://github.com/azerupi/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [redox-os/ion](https://github.com/redox-os/ion) - Mirror of https://gitlab.redox-os.org/redox-os/ion
