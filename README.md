@@ -103,6 +103,7 @@
 
 ## C 
 
+- [rbsec/sslscan](https://github.com/rbsec/sslscan) - sslscan tests SSL/TLS enabled services to discover supported cipher suites
 - [DarkFlippers/flipperzero-subbrute](https://github.com/DarkFlippers/flipperzero-subbrute) - SubGHz key checker
 - [even-realities/EvenDemoApp](https://github.com/even-realities/EvenDemoApp) - 
 - [OpenVPN/openvpn](https://github.com/OpenVPN/openvpn) - OpenVPN  is  an open source VPN daemon
@@ -282,6 +283,9 @@
 
 ## C++ 
 
+- [horsicq/DIE-engine](https://github.com/horsicq/DIE-engine) - DIE engine
+- [m417z/UWPSpy](https://github.com/m417z/UWPSpy) - An inspection tool for UWP and WinUI 3 applications. Seamlessly view and manipulate UI elements and their properties in real time.
+- [nepnep39/neofetch-win](https://github.com/nepnep39/neofetch-win) - Simple, ultra-lightweight neofetch clone for Windows 10+ written in C++
 - [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 - [alexst07/shell-plus-plus](https://github.com/alexst07/shell-plus-plus) - A friendly and modern functional object oriented language for shell script.
@@ -427,6 +431,8 @@
 
 ## Go 
 
+- [wricardo/gpt-mcp-proxy](https://github.com/wricardo/gpt-mcp-proxy) - HTTP server that provides access to executing Multiple Command Protocol (MCP) tools.
+- [musana/CF-Hero](https://github.com/musana/CF-Hero) - CF-Hero is a reconnaissance tool that uses multiple data sources to discover the origin IP addresses of Cloudflare-protected web applications
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [securisec/cliam](https://github.com/securisec/cliam) - Cloud agnostic IAM permissions enumerator
 - [redhuntlabs/BucketLoot](https://github.com/redhuntlabs/BucketLoot) - BucketLoot is an automated S3-compatible bucket inspector that can help users extract assets, flag secret exposures and even search for custom keywords as well as Regular Expressions from publicly-exp
@@ -551,7 +557,7 @@
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [TheZoraiz/ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) - A cross-platform command-line tool to convert images into ascii art and print them on the console. Now supports braille art!
 - [ViRb3/authelia-basic-2fa](https://github.com/ViRb3/authelia-basic-2fa) - 🗝 Use Authelia 2FA through only standard basic auth
-- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
+- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
 - [ViRb3/webdav-server](https://github.com/ViRb3/webdav-server) - A simple WebDAV server in Go
 - [SignTools/SignTools](https://github.com/SignTools/SignTools) - ✒ A free, self-hosted platform to sideload iOS apps without a computer
 - [pushbits/server](https://github.com/pushbits/server) - A simple server for push notifications via Matrix (and a minimalistic alternative to Pushover and Gotify) 🚀📯
@@ -688,6 +694,7 @@
 
 ## JavaScript 
 
+- [jdhayford/acid-tabs-extension](https://github.com/jdhayford/acid-tabs-extension) - Chrome extension for auto-grouping tabs by URL patterns
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [salesforce/cloudsplaining](https://github.com/salesforce/cloudsplaining) - Cloudsplaining is an AWS IAM Security Assessment tool that identifies violations of least privilege and generates a risk-prioritized report.
 - [mandatoryprogrammer/tarnish](https://github.com/mandatoryprogrammer/tarnish) - A Chrome extension static analysis tool to help aide in security reviews.
@@ -1230,6 +1237,11 @@
 
 ## Python 
 
+- [dnakov/frida-mcp](https://github.com/dnakov/frida-mcp) - MCP stdio server for frida
+- [shubham-s-pandey/WiresharkMCP](https://github.com/shubham-s-pandey/WiresharkMCP) - Wireshark Packet Analyzer with MCP Integration  This project integrates the MCP (Message Communication Protocol) server with Wireshark to analyze and interact with network packets. The tool enables pa
+- [Aidennnn33/cloudgazer](https://github.com/Aidennnn33/cloudgazer) - Find Real IPs hidden behind Cloudflare with Criminal IP(criminalip.io), security OSINT Tool.
+- [christophetd/CloudFlair](https://github.com/christophetd/CloudFlair) - 🔎 Find origin servers of websites behind CloudFlare by using Internet-wide scan data from Censys.
+- [spyboy-productions/CloakQuest3r](https://github.com/spyboy-productions/CloakQuest3r) - Uncover the true IP address of websites safeguarded by Cloudflare & Others
 - [drbild/sslpsk](https://github.com/drbild/sslpsk) - Adds TLS-PSK support to the Python ssl package
 - [osresearch/hcpy](https://github.com/osresearch/hcpy) - Python tool to talk to Home Connect appliances over the local network (no cloud required)
 - [RhinoSecurityLabs/pacu](https://github.com/RhinoSecurityLabs/pacu) - The AWS exploitation framework, designed for testing the security of Amazon Web Services environments.
@@ -2033,6 +2045,8 @@
 
 ## TypeScript 
 
+- [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
+- [BrowserMCP/mcp](https://github.com/BrowserMCP/mcp) - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser
 - [hyperbrowserai/HyperAgent](https://github.com/hyperbrowserai/HyperAgent) - AI Browser Automation
 - [hyperbrowserai/mcp](https://github.com/hyperbrowserai/mcp) - A MCP server implementation for hyperbrowser
 - [gcui-art/suno-api](https://github.com/gcui-art/suno-api) - Use API to call the music generation AI of suno.ai, and easily integrate it into agents like GPTs.
