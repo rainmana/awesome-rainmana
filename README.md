@@ -312,7 +312,6 @@
 - [ossimlabs/ossim](https://github.com/ossimlabs/ossim) - Core OSSIM (Open Source Software Image Map) package including C++ code for OSSIM library, command-line applications, tests, and build system
 - [nonik0/CardputerLoRaChat](https://github.com/nonik0/CardputerLoRaChat) - 
 - [x64dbg/ScyllaHide](https://github.com/x64dbg/ScyllaHide) - Advanced usermode anti-anti-debugger. Forked from https://bitbucket.org/NtQuery/scyllahide
-- [nasa-jpl/autoRIFT](https://github.com/nasa-jpl/autoRIFT) - A Python module of a fast and intelligent algorithm for finding the pixel displacement between two images
 - [nasa/EADINLite](https://github.com/nasa/EADINLite) - EADIN_Lite Network Protocol
 - [nasa/HDTN](https://github.com/nasa/HDTN) - High-rate Delay Tolerant Network (HDTN) Software
 - [nasa/meshNetwork](https://github.com/nasa/meshNetwork) - 
@@ -959,6 +958,8 @@
 
 ## Others 
 
+- [cline/mcp-marketplace](https://github.com/cline/mcp-marketplace) - This is the official repository for submitting MCP servers to be included in Cline's MCP Marketplace. If you’ve built an MCP server and want it to be discoverable and easily installable by millions of
+- [cline/prompts](https://github.com/cline/prompts) - Library of prompts from the Cline community
 - [owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
 - [propublica/guides](https://github.com/propublica/guides) - ProPublica's News App and Data Style Guides
 - [Stuxend/dagobah](https://github.com/Stuxend/dagobah) - 
@@ -1298,7 +1299,7 @@
 - [The404Hacking/websploit](https://github.com/The404Hacking/websploit) - Websploit is an advanced MITM framework.
 - [abcminiuser/python-elgato-streamdeck](https://github.com/abcminiuser/python-elgato-streamdeck) - Python library to control the Elgato Stream Deck.
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
-- [huggingface/smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents that think in python code.
+- [huggingface/smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents that think in code.
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [SeargeDP/SeargeSDXL](https://github.com/SeargeDP/SeargeSDXL) - Custom nodes and workflows for SDXL in ComfyUI
 - [filipstrand/mflux](https://github.com/filipstrand/mflux) - A MLX port of FLUX based on the Huggingface Diffusers implementation.
@@ -1445,6 +1446,7 @@
 - [MatthewKuKanich/FindMyFlipper](https://github.com/MatthewKuKanich/FindMyFlipper) - The FindMy Flipper app turns your FlipperZero into an AirTag or other tracking device, compatible with Apple AirTags and Samsung SmartTag and Tile Trackers. It uses the BLE beacon to broadcast, allowi
 - [cryptax/droidlysis](https://github.com/cryptax/droidlysis) - Property extractor for Android apps
 - [nasa-jpl/launchbox](https://github.com/nasa-jpl/launchbox) - A runtime environment for web applications.
+- [nasa-jpl/autoRIFT](https://github.com/nasa-jpl/autoRIFT) - A Python module of a fast and intelligent algorithm for finding the pixel displacement between two images
 - [nasa-jpl/osr-rover-code](https://github.com/nasa-jpl/osr-rover-code) - Code that runs on the Open Source Rover
 - [nasa/bingo](https://github.com/nasa/bingo) - 
 - [nasa/CrisisMappingToolkit](https://github.com/nasa/CrisisMappingToolkit) - NASA Ames Crisis Mapping Toolkit
@@ -2046,6 +2048,7 @@
 
 ## TypeScript 
 
+- [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
 - [electron/asar](https://github.com/electron/asar) - Simple extensive tar-like archive format with indexing
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
 - [BrowserMCP/mcp](https://github.com/BrowserMCP/mcp) - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser
