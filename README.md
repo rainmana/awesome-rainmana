@@ -603,7 +603,6 @@
 
 ## HTML 
 
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [madmatt/streamdeck-plugins](https://github.com/madmatt/streamdeck-plugins) - A repository for featuring the best plugins for the Elgato StreamDeck
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic
 - [hackershare/hackershare](https://github.com/hackershare/hackershare) - Hackershare is a powerful social bookmarking service and a knowledge-sharing community, with advanced search and tag management feature
@@ -1302,6 +1301,7 @@
 - [0xSearches/sandcastle](https://github.com/0xSearches/sandcastle) - 🏰 A Python script for AWS S3 bucket enumeration.
 - [0xmoot/s3sec](https://github.com/0xmoot/s3sec) - Check AWS S3 instances for read/write/delete access
 - [roboco-io/awesome-vibecoding](https://github.com/roboco-io/awesome-vibecoding) - A curated list of resources, tutorials, best practices, and examples for Vibe Coding, the emerging paradigm of intuitive, AI-driven software development. Explore how vibe-driven collaboration between 
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [httpie/http-prompt](https://github.com/httpie/http-prompt) - An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie
 - [operatorequals/wormnest](https://github.com/operatorequals/wormnest) - A Web Server to hide stuff
 - [thinkany-ai/rag-search](https://github.com/thinkany-ai/rag-search) - RAG Search API
