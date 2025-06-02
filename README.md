@@ -284,6 +284,8 @@
 
 ## C++ 
 
+- [DamRsn/NeuralNote](https://github.com/DamRsn/NeuralNote) - Audio Plugin for Audio to MIDI transcription using deep learning.
+- [werckme/werckmeister](https://github.com/werckme/werckmeister) - An open source Sheet Music MIDI Compiler
 - [horsicq/DIE-engine](https://github.com/horsicq/DIE-engine) - DIE engine
 - [m417z/UWPSpy](https://github.com/m417z/UWPSpy) - An inspection tool for UWP and WinUI 3 applications. Seamlessly view and manipulate UI elements and their properties in real time.
 - [nepnep39/neofetch-win](https://github.com/nepnep39/neofetch-win) - Simple, ultra-lightweight neofetch clone for Windows 10+ written in C++
@@ -376,7 +378,6 @@
 - [nicollasricas/decks-vscode](https://github.com/nicollasricas/decks-vscode) - Enables Stream Deck integration with Visual Studio Code.
 - [FritzAndFriends/StreamDeckToolkit](https://github.com/FritzAndFriends/StreamDeckToolkit) - A .NET Standard library, template, and tools for building extensions to the Elgato Stream Deck
 - [ungiglio/DiscordDiscordia](https://github.com/ungiglio/DiscordDiscordia) - Theme for Discord
-- [vinaysomawat/vinaysomawat.github.io](https://github.com/vinaysomawat/vinaysomawat.github.io) - A cutting-edge portfolio web page utilizing vanilla JavaScript.
 - [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) - Hyprland configuration files or dotfiles - This repo is used as main repo for all my Distro-Hyprland Install Scripts. See the readme
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [1amSimp1e/dots](https://github.com/1amSimp1e/dots) - Nothing here but Dotfiles & Customization 💫
@@ -432,6 +433,7 @@
 
 ## Go 
 
+- [alda-lang/alda](https://github.com/alda-lang/alda) - A music programming language for musicians. :notes:
 - [OpenFunction/OpenFunction](https://github.com/OpenFunction/OpenFunction) - Cloud Native Function-as-a-Service Platform (CNCF Sandbox Project)
 - [tsuru/tsuru](https://github.com/tsuru/tsuru) - Open source and extensible Platform as a Service (PaaS).
 - [flynn/flynn](https://github.com/flynn/flynn) - [UNMAINTAINED] A next generation open source platform as a service (PaaS)
@@ -652,6 +654,7 @@
 
 ## Java 
 
+- [Audiveris/audiveris](https://github.com/Audiveris/audiveris) - Latest generation of Audiveris OMR engine
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
 - [CERTCC/kaiju](https://github.com/CERTCC/kaiju) - CERT Kaiju is a binary analysis framework extension for the Ghidra software reverse engineering suite. This repository is the primary, canonical repository for this project -- file bug reports and wis
 - [LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP) - MCP Server for Ghidra
@@ -726,6 +729,7 @@
 - [ArchiveBox/electron-archivebox](https://github.com/ArchiveBox/electron-archivebox) - Desktop Electron app for ArchiveBox internet archiver. (ALPHA: not ready for general use)
 - [ArchiveBox/archivebox-browser-extension](https://github.com/ArchiveBox/archivebox-browser-extension) - Official ArchiveBox browser extension: automatically/manually preserve your browsing history using ArchiveBox.
 - [TheKaushikGoswami/thekaushikgoswami.github.io](https://github.com/TheKaushikGoswami/thekaushikgoswami.github.io) - The Open-Source code for My Personal Portfolio! A minimal and ambient portfolio template for Developers! ⚡
+- [vinaysomawat/vinaysomawat.github.io](https://github.com/vinaysomawat/vinaysomawat.github.io) - This portfolio showcasing dynamic GitHub stats, Medium blog posts, and professional experience. Built with ES6+, lit-html, and CSS3, integrates data from GitHub and Medium for real-time content.
 - [arkime/arkime](https://github.com/arkime/arkime) - Arkime is an open source, large scale, full packet capturing, indexing, and database system.
 - [OWASP/threat-dragon](https://github.com/OWASP/threat-dragon) - An open source threat modeling tool from OWASP
 - [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
@@ -846,6 +850,7 @@
 
 ## Jupyter Notebook 
 
+- [aashrafh/Mozart](https://github.com/aashrafh/Mozart) - An optical music recognition (OMR) system. Converts sheet music to a machine-readable version.
 - [CargoCultScientist/ENFormant](https://github.com/CargoCultScientist/ENFormant) - ENF Analysis tool (Bellingcat community)
 - [soxoj/bellingcat-hackathon-watchcats](https://github.com/soxoj/bellingcat-hackathon-watchcats) - 📊 Adana - 1-click analytical dashboard for OSINT researchers
 - [ashishpatel26/Treasure-of-Transformers](https://github.com/ashishpatel26/Treasure-of-Transformers) - 💁 Awesome Treasure of Transformers Models for Natural Language processing contains papers, videos, blogs, official repo along with colab Notebooks. 🛫☑️
@@ -961,6 +966,8 @@
 
 ## Others 
 
+- [ad-si/awesome-sheet-music](https://github.com/ad-si/awesome-sheet-music) - A curated list of awesome sheet music software, libraries and resources.
+- [krantiparida/awesome-audio-visual](https://github.com/krantiparida/awesome-audio-visual) - A curated list of different papers and datasets in various areas of audio-visual processing
 - [urrickhunt/Dracula-for-iSH](https://github.com/urrickhunt/Dracula-for-iSH) - Dracula for iSH
 - [guettli/wol](https://github.com/guettli/wol) - Working out Loud
 - [guettli/open-source-paas](https://github.com/guettli/open-source-paas) - Open Source PaaS List
@@ -1249,6 +1256,12 @@
 
 ## Python 
 
+- [chrisdonahue/sheetsage](https://github.com/chrisdonahue/sheetsage) - Transcribe music into lead sheets!
+- [bytedance/piano_transcription](https://github.com/bytedance/piano_transcription) - 
+- [starenka/chordata](https://github.com/starenka/chordata) - A dummy chordbook for mandolin, ukulele and guitar
+- [spotify/basic-pitch](https://github.com/spotify/basic-pitch) - A lightweight yet powerful audio-to-MIDI converter with pitch bend detection
+- [cal-pratt/SheetVision](https://github.com/cal-pratt/SheetVision) - Read sheet music and convert to midi
+- [afikanyati/cadenCV](https://github.com/afikanyati/cadenCV) - An optical music recognition system built as a final project for 6.819: Advances in Computer Vision course at MIT. Takes sheet music as input and returns a MIDI file of written music.
 - [ahujasid/ableton-mcp](https://github.com/ahujasid/ableton-mcp) - 
 - [rainmana/prompty](https://github.com/rainmana/prompty) - Simple prompt management library
 - [puffinrocks/puffin](https://github.com/puffinrocks/puffin) - lightweight webapp catalog based on containers, with user interface à la mobile app store
@@ -1972,6 +1985,7 @@
 
 ## Shell 
 
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [itzg/docker-minecraft-bedrock-server](https://github.com/itzg/docker-minecraft-bedrock-server) - Containerized Minecraft Bedrock Dedicated Server with selectable version
 - [robotshell/magicRecon](https://github.com/robotshell/magicRecon) - MagicRecon is a powerful shell script to maximize the recon and data collection process of an objective and finding common vulnerabilities, all this saving the results obtained in an organized way in 
 - [magicant/yash](https://github.com/magicant/yash) - Yet another shell
@@ -2076,6 +2090,7 @@
 
 ## TypeScript 
 
+- [CoderLine/alphaTab](https://github.com/CoderLine/alphaTab) - alphaTab is a cross platform music notation and guitar tablature rendering library.
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi or any x86 system.
