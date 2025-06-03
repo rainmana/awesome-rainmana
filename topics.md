@@ -2994,6 +2994,8 @@
 
 ## others 
 
+- [conda-forge/miniforge](https://github.com/conda-forge/miniforge) - A conda-forge distribution.
+- [hexgrad/kokoro](https://github.com/hexgrad/kokoro) - https://hf.co/hexgrad/Kokoro-82M
 - [chrisdonahue/sheetsage](https://github.com/chrisdonahue/sheetsage) - Transcribe music into lead sheets!
 - [bytedance/piano_transcription](https://github.com/bytedance/piano_transcription) - 
 - [starenka/chordata](https://github.com/starenka/chordata) - A dummy chordbook for mandolin, ukulele and guitar
@@ -3053,7 +3055,7 @@
 - [iamavu/Slyther](https://github.com/iamavu/Slyther) - AWS Security Tool
 - [hehnope/slurp](https://github.com/hehnope/slurp) - this can't keep happening
 - [grines/scour](https://github.com/grines/scour) - 
-- [glen-mac/goGetBucket](https://github.com/glen-mac/goGetBucket) - A penetration testing tool to enumerate and analyse Amazon S3 Buckets owned by a domain.
+- [glem0/goGetBucket](https://github.com/glem0/goGetBucket) - A penetration testing tool to enumerate and analyse Amazon S3 Buckets owned by a domain.
 - [eth0izzle/bucket-stream](https://github.com/eth0izzle/bucket-stream) - Find interesting Amazon S3 Buckets by watching certificate transparency logs.
 - [Eilonh/s3crets_scanner](https://github.com/Eilonh/s3crets_scanner) - 
 - [efoncubierta/cloudspec](https://github.com/efoncubierta/cloudspec) - CloudSpec is an open source tool for validating your resources in your cloud providers using a logical language.
@@ -5269,6 +5271,7 @@
 
 ## windows 
 
+- [jiripolasek/MediaControlsExtension](https://github.com/jiripolasek/MediaControlsExtension) - Manage audio or video playback and switch between apps playing media
 - [nepnep39/neofetch-win](https://github.com/nepnep39/neofetch-win) - Simple, ultra-lightweight neofetch clone for Windows 10+ written in C++
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 - [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
