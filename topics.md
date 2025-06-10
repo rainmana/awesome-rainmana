@@ -906,7 +906,6 @@
 - [electron/asar](https://github.com/electron/asar) - Simple extensive tar-like archive format with indexing
 - [jdhayford/acid-tabs-extension](https://github.com/jdhayford/acid-tabs-extension) - Chrome extension for auto-grouping tabs by URL patterns
 - [hyperbrowserai/HyperAgent](https://github.com/hyperbrowserai/HyperAgent) - AI Browser Automation
-- [AlecBlance/S3BucketList](https://github.com/AlecBlance/S3BucketList) - Chrome and Firefox extension that lists Amazon S3 Buckets while browsing
 - [sensepost/gowitness](https://github.com/sensepost/gowitness) - 🔍 gowitness - a golang, web screenshot utility using Chrome Headless
 - [theIYD/HrefScraper](https://github.com/theIYD/HrefScraper) - A tiny chrome extension which scraps all the hrefs from a particular page and downloads them as a text document.
 - [SanderRonde/CustomRightClickMenu](https://github.com/SanderRonde/CustomRightClickMenu) - A browser extension to add links and run scripts/stylesheets all from your right-click menu
