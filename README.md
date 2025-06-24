@@ -225,6 +225,7 @@
 
 ## C# # 
 
+- [wolfgarbe/WikipediaExport](https://github.com/wolfgarbe/WikipediaExport) - Convert Wikipedia XML dump files to JSON or Text files
 - [FrostyToolsuite/FrostyToolsuite](https://github.com/FrostyToolsuite/FrostyToolsuite) - The most advanced modding platform for games running on DICE's Frostbite game engine.
 - [CadeEvs/FrostyToolsuite](https://github.com/CadeEvs/FrostyToolsuite) - 
 - [jiripolasek/MediaControlsExtension](https://github.com/jiripolasek/MediaControlsExtension) - Manage audio or video playback and switch between apps playing media
@@ -290,6 +291,8 @@
 
 ## C++ 
 
+- [dizzylogicc/WikiParser](https://github.com/dizzylogicc/WikiParser) - Fast C++ based parser for English Wikipedia
+- [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
 - [ConsistentlyInconsistentYT/Pixeltovoxelprojector](https://github.com/ConsistentlyInconsistentYT/Pixeltovoxelprojector) - Projects motion of pixels to a voxel
 - [platformio/platformio-examples](https://github.com/platformio/platformio-examples) - PlatformIO Project Examples
 - [ArmchairDevelopers/Kyber](https://github.com/ArmchairDevelopers/Kyber) - KYBER is a revolutionary custom server platform and mod launcher for Star Wars™ Battlefront™ II (2017) on PC.
@@ -358,7 +361,7 @@
 - [glmcdona/binary2strings](https://github.com/glmcdona/binary2strings) - Python module to extract Ascii, Utf8, and Unicode strings from binary data. Lightning fast wrapper around c++ compiled code.
 - [google/or-tools](https://github.com/google/or-tools) - Google's Operations Research tools:
 - [google/yggdrasil-decision-forests](https://github.com/google/yggdrasil-decision-forests) - A library to train, evaluate, interpret, and productionize decision forest models such as Random Forest and Gradient Boosted Decision Trees.
-- [google/perfetto](https://github.com/google/perfetto) - Performance instrumentation and tracing for Android, Linux and Chrome
+- [google/perfetto](https://github.com/google/perfetto) - Production-grade client-side tracing, profiling, and analysis for complex software systems.
 - [google/nearby](https://github.com/google/nearby) - 🐿️ A collection of projects focused on connectivity that enable building cross-device experiences.
 - [google/bloaty](https://github.com/google/bloaty) - Bloaty: a size profiler for binaries
 - [troybowman/dtxmsg](https://github.com/troybowman/dtxmsg) - 
@@ -442,6 +445,7 @@
 
 ## Go 
 
+- [dustin/go-wikiparse](https://github.com/dustin/go-wikiparse) - mediawiki dump parser for loading up wikipedia data
 - [alda-lang/alda](https://github.com/alda-lang/alda) - A music programming language for musicians. :notes:
 - [OpenFunction/OpenFunction](https://github.com/OpenFunction/OpenFunction) - Cloud Native Function-as-a-Service Platform (CNCF Sandbox Project)
 - [tsuru/tsuru](https://github.com/tsuru/tsuru) - Open source and extensible Platform as a Service (PaaS).
@@ -711,6 +715,8 @@
 
 ## JavaScript 
 
+- [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
+- [fgeorges/star-wars-dataset](https://github.com/fgeorges/star-wars-dataset) - Sample dataset for test purposes
 - [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [hexgrad/kokoro](https://github.com/hexgrad/kokoro) - https://hf.co/hexgrad/Kokoro-82M
 - [satellitecomponent/Neurite](https://github.com/satellitecomponent/Neurite) - Fractal Graph-of-Thought. Rhizomatic Mind-Mapping for Ai-Agents, Web-Links, Notes, and Code.
@@ -828,7 +834,6 @@
 - [medialab/artoo](https://github.com/medialab/artoo) - artoo.js - the client-side scraping companion.
 - [gildas-lormeau/single-file-cli](https://github.com/gildas-lormeau/single-file-cli) - CLI tool for saving a faithful copy of a complete web page in a single HTML file (based on SingleFile)
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
-- [supermarsx/whoisdigger](https://github.com/supermarsx/whoisdigger) - Bulk whois lookup tool
 - [vybhavramachandran/clevergirl-chromeextension](https://github.com/vybhavramachandran/clevergirl-chromeextension) - Contains the code for the Chrome Extension that uses GPT3 to answer questions
 - [altryne/extensionizr](https://github.com/altryne/extensionizr) - Extensionizr! Create a chrome extension in 15 seconds!
 - [gabemarshall/Brosec](https://github.com/gabemarshall/Brosec) - Brosec - An interactive reference tool to help security professionals utilize useful payloads and commands.
@@ -983,6 +988,7 @@
 
 ## Others 
 
+- [yoanchabot/holonet_datasets](https://github.com/yoanchabot/holonet_datasets) - This repository contains datasets extracted from Wikidata related to the Star Wars planets. The datasets include planets, their properties, and associated labels and descriptions. The data is serializ
 - [cobanov/shakespeare-dataset](https://github.com/cobanov/shakespeare-dataset) - complete works, plays, sonnets and poems of shakespeare
 - [Zjh-819/LLMDataHub](https://github.com/Zjh-819/LLMDataHub) - A quick guide (especially) for trending instruction finetuning datasets
 - [krantiparida/awesome-audio-visual](https://github.com/krantiparida/awesome-audio-visual) - A curated list of different papers and datasets in various areas of audio-visual processing
@@ -1274,6 +1280,11 @@
 
 ## Python 
 
+- [mediawiki-utilities/python-mwxml](https://github.com/mediawiki-utilities/python-mwxml) - A set of utilities for processing MediaWiki XML dump data.
+- [attardi/wikiextractor](https://github.com/attardi/wikiextractor) - A tool for extracting plain text from Wikipedia dumps
+- [daveshap/PlainTextWikipedia](https://github.com/daveshap/PlainTextWikipedia) - Convert Wikipedia database dumps into plaintext files
+- [mendableai/create-llmstxt-py](https://github.com/mendableai/create-llmstxt-py) - 
+- [scrollmapper/bible_databases](https://github.com/scrollmapper/bible_databases) - Bible versions and cross-reference databases.
 - [LeonLok/Multi-Camera-Live-Object-Tracking](https://github.com/LeonLok/Multi-Camera-Live-Object-Tracking) - Multi-camera live traffic and object counting with YOLO v4, Deep SORT, and Flask.
 - [vaphes/pocketbase](https://github.com/vaphes/pocketbase) - PocketBase client SDK for python
 - [keon/algorithms](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms in Python
@@ -1570,7 +1581,7 @@
 - [RsaCtfTool/RsaCtfTool](https://github.com/RsaCtfTool/RsaCtfTool) - RSA attack tool (mainly for ctf) - retrieve private key from weak public key and/or uncipher data
 - [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - YOLOv5 🚀 in PyTorch &gt; ONNX &gt; CoreML &gt; TFLite
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
-- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need
 - [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Experience macOS just like before
 - [swirlai/swirl-search](https://github.com/swirlai/swirl-search) - AI Search & RAG Without Moving Your Data. Get instant answers from your company's knowledge across 100+ apps while keeping data secure. Deploy in minutes, not months.
@@ -2132,6 +2143,9 @@
 
 ## TypeScript 
 
+- [mendableai/llmstxt-generator](https://github.com/mendableai/llmstxt-generator) - 
+- [nickscamara/open-deep-research](https://github.com/nickscamara/open-deep-research) - An open source deep research clone. AI Agent that reasons large amounts of web data extracted with Firecrawl
+- [supermemoryai/apple-mcp](https://github.com/supermemoryai/apple-mcp) - Collection of apple-native tools for the model context protocol.
 - [michal-kapala/pocketbase-import](https://github.com/michal-kapala/pocketbase-import) - Data import utilities for PocketBase
 - [pocketbase/js-sdk](https://github.com/pocketbase/js-sdk) - PocketBase JavaScript SDK
 - [srbhptl39/MCP-SuperAssistant](https://github.com/srbhptl39/MCP-SuperAssistant) - Brings MCP to ChatGPT, DeepSeek, Perplexity, Grok, Gemini, Google AI Studio, OpenRouter, DeepSeek, Kagi, T3 Chat and more...
@@ -2249,6 +2263,7 @@
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [googlecreativelab/teachablemachine-community](https://github.com/googlecreativelab/teachablemachine-community) - Example code snippets and machine learning code for Teachable Machine
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
+- [supermarsx/whoisdigger](https://github.com/supermarsx/whoisdigger) - Bulk WHOIS Lookup Tool built with electron
 - [graphql-kit/graphql-voyager](https://github.com/graphql-kit/graphql-voyager) - 🛰️ Represent any GraphQL API as an interactive graph
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
