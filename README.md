@@ -461,7 +461,7 @@
 - [glem0/goGetBucket](https://github.com/glem0/goGetBucket) - A penetration testing tool to enumerate and analyse Amazon S3 Buckets owned by a domain.
 - [BishopFox/smogcloud](https://github.com/BishopFox/smogcloud) - Find cloud assets that no one wants exposed 🔎 ☁️
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob
-- [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC activ
+- [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replicatio
 - [yourselfhosted/slash](https://github.com/yourselfhosted/slash) - An open source, self-hosted platform for sharing and managing your most frequently used links. Easily create customizable, human-readable shortcuts to streamline your link management.
 - [kacakb/jsfinder](https://github.com/kacakb/jsfinder) - Fetches JavaScript files quickly and comprehensively.
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line
