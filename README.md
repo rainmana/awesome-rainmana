@@ -294,6 +294,7 @@
 
 ## C++ 
 
+- [espressif/arduino-esp32](https://github.com/espressif/arduino-esp32) - Arduino core for the ESP32
 - [memgraph/memgraph](https://github.com/memgraph/memgraph) - Open-source graph database, tuned for dynamic analytics environments. Easy to adopt, scale and own.
 - [dizzylogicc/WikiParser](https://github.com/dizzylogicc/WikiParser) - Fast C++ based parser for English Wikipedia
 - [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
@@ -1040,7 +1041,7 @@
 - [wilco42/awesome-steamdeck](https://github.com/wilco42/awesome-steamdeck) - A collection of awesome things regarding Valve's Steam Deck
 - [codepo8/web-cheatcodes](https://github.com/codepo8/web-cheatcodes) - Demo sites to explain non-developer how they can use browser devtools to make the web less annoying.
 - [ChromeDevTools/awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools) - Awesome tooling and resources in the Chrome DevTools & DevTools Protocol ecosystem
-- [V33RU/awesome-connected-things-sec](https://github.com/V33RU/awesome-connected-things-sec) - A Curated list of IoT Security Resources
+- [V33RU/awesome-connected-things-sec](https://github.com/V33RU/awesome-connected-things-sec) - A Curated list of Security Resources for all connected things
 - [frostbits-security/MITM-cheatsheet](https://github.com/frostbits-security/MITM-cheatsheet) - All MITM attacks in one place.
 - [h33tlit/secret-regex-list](https://github.com/h33tlit/secret-regex-list) - List of regex for scraping secret API keys and juicy information.
 - [DrBrainlove/muse_tools](https://github.com/DrBrainlove/muse_tools) - discontinued Muse SDK & research tools
@@ -2158,6 +2159,7 @@
 
 ## TypeScript 
 
+- [jaylikesbunda/ESPressoFlash](https://github.com/jaylikesbunda/ESPressoFlash) - Flash your ESP32 quickly and easily.
 - [atomicdata-dev/atomic-server](https://github.com/atomicdata-dev/atomic-server) - An open source headless CMS / real-time database. Powerful table editor, full-text search, and SDKs for JS / React / Svelte.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [petiky/mcp-manager](https://github.com/petiky/mcp-manager) - This is a visual client tool used to manage MCP (Model Context Protocol). With this tool, you can easily manage and operate the MCP environment without manually performing complex command-line operati
