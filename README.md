@@ -1477,7 +1477,7 @@
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [Zipstack/unstract](https://github.com/Zipstack/unstract) - No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents
-- [frdel/agent-zero](https://github.com/frdel/agent-zero) - Agent Zero AI framework
+- [agent0ai/agent-zero](https://github.com/agent0ai/agent-zero) - Agent Zero AI framework
 - [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
 - [nsacyber/WALKOFF](https://github.com/nsacyber/WALKOFF) - A flexible, easy to use, automation framework allowing users to integrate their capabilities and devices to cut through the repetitive, tedious tasks slowing them down. #nsacyber
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
@@ -1518,7 +1518,6 @@
 - [citizenlab/test-lists](https://github.com/citizenlab/test-lists) - URL testing lists intended for discovering website censorship
 - [Chainlit/cookbook](https://github.com/Chainlit/cookbook) - Chainlit's cookbook repo
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour
-- [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
 - [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) - GUI for a Vocal Remover that uses Deep Neural Networks.
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
@@ -1853,7 +1852,7 @@
 - [swisskyrepo/GraphQLmap](https://github.com/swisskyrepo/GraphQLmap) - GraphQLmap is a scripting engine to interact with a graphql endpoint for pentesting purposes. - Do not use for illegal testing ;)
 - [averagesecurityguy/scripts](https://github.com/averagesecurityguy/scripts) - Scripts I use during pentest engagements.
 - [NetworkDeviceTaxonomy/wifi_taxonomy](https://github.com/NetworkDeviceTaxonomy/wifi_taxonomy) - Database of known signatures identified using the mechanism in "Passive Taxonomy of Wifi Clients using MLME Frame Contents" from research.google.com/pubs/pub45429.html
-- [OWASP/mastg](https://github.com/OWASP/mastg) - The Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls
+- [OWASP/mastg](https://github.com/OWASP/mastg) - The OWASP Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes technical processes for verifying the OWASP 
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [Ekultek/Zeus-Scanner](https://github.com/Ekultek/Zeus-Scanner) - Advanced reconnaissance utility
 - [s0md3v/XSStrike](https://github.com/s0md3v/XSStrike) - Most advanced XSS scanner.
@@ -2210,7 +2209,7 @@
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [paralleldrive/sudolang-llm-support](https://github.com/paralleldrive/sudolang-llm-support) - SudoLang LLM Support for VSCode
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of rules, tools, and models
 - [vercel/serve](https://github.com/vercel/serve) - Static file serving and directory listing
 - [iamgreggarcia/func-it](https://github.com/iamgreggarcia/func-it) - Convert OpenAPI specs to OpenAI API functions.
 - [mario-andreschak/FLUJO](https://github.com/mario-andreschak/FLUJO) - MCP-Hub and -Inspector, Multi-Model Workflow and Chat Interface
@@ -2268,6 +2267,7 @@
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [victordibia/autogen-ui](https://github.com/victordibia/autogen-ui) - Web UI for AutoGen (A Framework Multi-Agent LLM Applications)
+- [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [corellium/vscode-extension](https://github.com/corellium/vscode-extension) - Visual Studio Code Extension for Corellium
