@@ -2099,7 +2099,7 @@
 - [wireghoul/graudit](https://github.com/wireghoul/graudit) - grep rough audit - source code auditing tool
 - [devttys0/sasquatch](https://github.com/devttys0/sasquatch) - 
 - [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines
-- [mylinuxforwork/dotfiles](https://github.com/mylinuxforwork/dotfiles) - The ML4W Dotfiles for Hyprland - An advanced and full-featured configuration for the dynamic tiling window manager Hyprland including an easy to use installation script for Arch and Fedora based Linux
+- [mylinuxforwork/dotfiles](https://github.com/mylinuxforwork/dotfiles) - The ML4W Dotfiles for Hyprland - An advanced and full-featured configuration for the dynamic tiling window manager Hyprland. Ready to install with the Dotfiles Installer app with setup scripts for Arc
 - [lquesada/ComfyUI-Starter-Workflows](https://github.com/lquesada/ComfyUI-Starter-Workflows) - A collection of simple but powerful ComfyUI workflows with curated settings.
 - [nmatt0/mitmrouter](https://github.com/nmatt0/mitmrouter) - Bash script to automate setup of Linux router useful for IoT device traffic analysis and SSL mitm
 - [0xKayala/NucleiFuzzer](https://github.com/0xKayala/NucleiFuzzer) - NucleiFuzzer is a robust automation tool that efficiently detects web application vulnerabilities, including XSS, SQLi, SSRF, and Open Redirects, leveraging advanced scanning and URL enumeration techn
