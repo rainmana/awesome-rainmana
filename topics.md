@@ -56,6 +56,7 @@
 - [dart](#dart)
 - [data](#data)
 - [data-analysis](#data-analysis)
+- [data-engineering](#data-engineering)
 - [data-science](#data-science)
 - [data-structures](#data-structures)
 - [data-visualization](#data-visualization)
@@ -64,6 +65,7 @@
 - [deno](#deno)
 - [deployment](#deployment)
 - [design](#design)
+- [developer-tools](#developer-tools)
 - [development](#development)
 - [devops](#devops)
 - [discord](#discord)
@@ -263,7 +265,9 @@
 - [wordpress](#wordpress)
 - [xamarin](#xamarin)
 - [xcode](#xcode)
+- [xml](#xml)
 - [zig](#zig)
+- [zsh](#zsh)
 
 ## 3d 
 
@@ -348,6 +352,7 @@
 - [krinql/vscode](https://github.com/krinql/vscode) - AI powered Suite of developer tools and integrations to help developers with mundane tasks
 - [automagica/automagica](https://github.com/automagica/automagica) - AI-powered Smart Robotic Process Automation 🤖
 - [alirezamika/autoscraper](https://github.com/alirezamika/autoscraper) - A Smart, Automatic, Fast and Lightweight Web Scraper for Python
+- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 
 ## algorithm 
@@ -372,10 +377,11 @@
 
 ## android 
 
+- [ytsutano/axmldec](https://github.com/ytsutano/axmldec) - Stand-alone binary AndroidManifest.xml decoder
 - [aritchie/bluetoothle](https://github.com/aritchie/bluetoothle) - Easy to use, cross platform, REACTIVE BluetoothLE Plugin for Xamarin
 - [NordicSemiconductor/Android-Scanner-Compat-Library](https://github.com/NordicSemiconductor/Android-Scanner-Compat-Library) - A compat library for Bluetooth Low Energy scanning on Android.
 - [heiher/sockstun](https://github.com/heiher/sockstun) - A simple and lightweight VPN over socks5 proxy  (tun2socks) for Android.
-- [heiher/hev-socks5-tunnel](https://github.com/heiher/hev-socks5-tunnel) - Tun2socks (Linux/Android/BSD/macOS/iOS/WSL2) (IPv4/IPv6/TCP/UDP)
+- [heiher/hev-socks5-tunnel](https://github.com/heiher/hev-socks5-tunnel) - Tun2Socks (Linux/Android/BSD/macOS/iOS/Windows) (IPv4/IPv6/TCP/UDP)
 - [ucsb-seclab/BootStomp](https://github.com/ucsb-seclab/BootStomp) - BootStomp: a bootloader vulnerability finder
 - [insidersec/insider](https://github.com/insidersec/insider) - Static Application Security Testing (SAST) engine focused on covering the OWASP Top 10, to make source code analysis to find vulnerabilities right in the source code, focused on a agile and easy to im
 - [gmh5225/awesome-game-security](https://github.com/gmh5225/awesome-game-security) - awesome game security [Welcome to PR]
@@ -486,6 +492,7 @@
 - [alirezamika/autoscraper](https://github.com/alirezamika/autoscraper) - A Smart, Automatic, Fast and Lightweight Web Scraper for Python
 - [lucidrains/DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch) - Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network,  in Pytorch
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered shell. Full-featured and cross-platform.
+- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
 - [e-m-b-a/emba](https://github.com/e-m-b-a/emba) - EMBA - The firmware security analyzer
 
 ## automation 
@@ -532,6 +539,7 @@
 
 ## awesome 
 
+- [corca-ai/awesome-llm-security](https://github.com/corca-ai/awesome-llm-security) - A curation of awesome tools, documents and projects about LLM Security.
 - [engn33r/awesome-bluetooth-security](https://github.com/engn33r/awesome-bluetooth-security) - List of Bluetooth BR/EDR/LE security resources
 - [dotintent/awesome-ble](https://github.com/dotintent/awesome-ble) - A collaborative list of Awesome Bluetooth Low Energy (BLE) resources. Feel free to contribute!
 - [krantiparida/awesome-audio-visual](https://github.com/krantiparida/awesome-audio-visual) - A curated list of different papers and datasets in various areas of audio-visual processing
@@ -615,6 +623,7 @@
 
 ## awesome-list 
 
+- [corca-ai/awesome-llm-security](https://github.com/corca-ai/awesome-llm-security) - A curation of awesome tools, documents and projects about LLM Security.
 - [engn33r/awesome-bluetooth-security](https://github.com/engn33r/awesome-bluetooth-security) - List of Bluetooth BR/EDR/LE security resources
 - [dotintent/awesome-ble](https://github.com/dotintent/awesome-ble) - A collaborative list of Awesome Bluetooth Low Energy (BLE) resources. Feel free to contribute!
 - [totogo/awesome-knowledge-graph](https://github.com/totogo/awesome-knowledge-graph) - A curated list of Knowledge Graph related learning materials, databases, tools and other resources
@@ -884,7 +893,6 @@
 - [eon01/awesome-chatgpt](https://github.com/eon01/awesome-chatgpt) - 🧠 A curated list of awesome ChatGPT resources, including libraries, SDKs, APIs, and more. 🌟 Please consider supporting this project by giving it a star.
 - [SeriousOldMan/Simulator-Controller](https://github.com/SeriousOldMan/Simulator-Controller) - A virtual AI-based pit crew  for Sim Racing. Use the latest GPT technology to create a real life like experience when out on the track.
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
-- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
 - [dsdanielpark/Bard-API](https://github.com/dsdanielpark/Bard-API) - The unofficial python package that returns response of Google Bard through cookie value.
 - [jackmpcollins/magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
 - [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://docs.h2o.ai/h2o-llmstudio/
@@ -991,13 +999,14 @@
 - [imsnif/diskonaut](https://github.com/imsnif/diskonaut) - Terminal disk space navigator 🔭
 - [spoorn/media-to-ascii](https://github.com/spoorn/media-to-ascii) - CLI and utilities for converting media files (images/videos) to ascii outputs (output media file or print to console). Supports most standard image formats, and some video formats.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access.
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [blst-security/cherrybomb](https://github.com/blst-security/cherrybomb) - Stop half-done APIs! Cherrybomb is a CLI tool that helps you avoid undefined user behaviour by auditing your API specifications, validating them and running API security tests.
 - [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [PyCQA/isort](https://github.com/PyCQA/isort) - A Python utility / library to sort imports.
 - [iojw/socialscan](https://github.com/iojw/socialscan) - Python library for accurately querying username and email usage on online platforms
 - [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
 - [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
-- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO11 🚀
+- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO 🚀
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [pysonDB/pysonDB](https://github.com/pysonDB/pysonDB) - A Simple , ☁️ Lightweight ,  💪 Efficent JSON based database for 🐍 Python. PysonDB-V2 has been released ⬇️
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -1087,8 +1096,8 @@
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [nerfstudio-project/nerfstudio](https://github.com/nerfstudio-project/nerfstudio) - A collaboration friendly studio for NeRFs
 - [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Low-code framework for building custom LLMs, neural networks, and other AI models
-- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO11 🚀
-- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
+- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO 🚀
+- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 
 ## continuous-integration 
@@ -1233,6 +1242,14 @@
 - [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - GitHub Data Analysis Framework.
 - [e-m-b-a/embark](https://github.com/e-m-b-a/embark) - EMBArk - The firmware security scanning environment
 
+## data-engineering 
+
+- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
+- [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
+- [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
+- [aws/aws-sdk-pandas](https://github.com/aws/aws-sdk-pandas) - pandas on AWS - Easy integration with Athena, Glue, Redshift, Timestream, Neptune, OpenSearch, QuickSight, Chime, CloudWatchLogs, DynamoDB, EMR, SecretManager, PostgreSQL, MySQL, SQLServer and S3 (Par
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered shell. Full-featured and cross-platform.
+
 ## data-science 
 
 - [jonrau1/SyntheticSun](https://github.com/jonrau1/SyntheticSun) - SyntheticSun is a defense-in-depth security automation and monitoring framework which utilizes threat intelligence, machine learning, managed AWS security services and, serverless technologies to cont
@@ -1331,14 +1348,14 @@
 - [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Low-code framework for building custom LLMs, neural networks, and other AI models
 - [google/deepvariant](https://github.com/google/deepvariant) - DeepVariant is an analysis pipeline that uses a deep neural network to call genetic variants from next-generation DNA sequencing data.
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
-- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO11 🚀
+- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO 🚀
 - [google/vizier](https://github.com/google/vizier) - Python-based research interface for blackbox and hyperparameter optimization, based on the internal Google Vizier Service.
 - [jfilter/split-folders](https://github.com/jfilter/split-folders) - 🗂 Split folders with files (i.e. images) into training, validation and test (dataset) folders
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 - [satellite-image-deep-learning/techniques](https://github.com/satellite-image-deep-learning/techniques) - Techniques for deep learning with satellite & aerial imagery
 - [lucidrains/DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch) - Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network,  in Pytorch
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
-- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
+- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 
 ## deno 
@@ -1356,6 +1373,28 @@
 ## design 
 
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+
+## developer-tools 
+
+- [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of rules, tools, and models
+- [rs/curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie.
+- [httpie/http-prompt](https://github.com/httpie/http-prompt) - An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie
+- [SpectralOps/keyscope](https://github.com/SpectralOps/keyscope) - Keyscope is a key and secret workflow (validation, invalidation, etc.) tool built in Rust
+- [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes
+- [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - Low-code platform allows you to build business apps, enables you to quickly create internal tools such as dashboard, crud app, admin panel, crm, cms, etc. Supports PostgreSQL, MySQL, Supabase, GraphQL
+- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is an extensibility-first, open-source no-code/low-code platform for building business applications and enterprise solutions.
+- [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
+- [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
+- [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equips your AI agents & LLMs with 100+ high-quality integrations via function calling
+- [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
+- [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
+- [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
+- [insidegui/AssetCatalogTinkerer](https://github.com/insidegui/AssetCatalogTinkerer) - An app that lets you open .car files and browse/extract their images.
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
+- [argilla-io/argilla](https://github.com/argilla-io/argilla) - Argilla is a collaboration tool for AI engineers and domain experts to build high-quality datasets
+- [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
+- [xizon/poemkit](https://github.com/xizon/poemkit) - React toolkit for building a full website that also is a Micro-Frontend Architecture.
 
 ## development 
 
@@ -1510,7 +1549,7 @@
 - [luin/medis](https://github.com/luin/medis) - 💻 Medis is a beautiful, easy-to-use Mac database management application for Redis.
 - [lukehaas/RunJS](https://github.com/lukehaas/RunJS) - RunJS is a JavaScript playground for macOS, Windows and Linux. Write code with instant feedback and access to Node.js and browser APIs.
 - [typicode/lowdb](https://github.com/typicode/lowdb) - Simple and fast JSON database
-- [supermarsx/whoisdigger](https://github.com/supermarsx/whoisdigger) - Bulk WHOIS Lookup Tool built with electron
+- [supermarsx/whoisdigger](https://github.com/supermarsx/whoisdigger) - Bulk Domain WHOIS/RDAP/DNS Lookup Tool built with Electron
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 
@@ -2025,7 +2064,6 @@
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equips your AI agents & LLMs with 100+ high-quality integrations via function calling
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
-- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
 - [Gallopsled/pwntools](https://github.com/Gallopsled/pwntools) - CTF framework and exploit development library
 - [ego/awesome-mojo](https://github.com/ego/awesome-mojo) - Awesome Mojo🔥
 - [BlackVS/ESP32-reversing](https://github.com/BlackVS/ESP32-reversing) - A curated list of ESP32 related reversing resources
@@ -2100,7 +2138,6 @@
 - [JoshClose/CsvHelper](https://github.com/JoshClose/CsvHelper) - Library to help reading and writing CSV files
 - [knavesec/Max](https://github.com/knavesec/Max) - Maximizing BloodHound. Max is a good boy.
 - [opnsense/core](https://github.com/opnsense/core) - OPNsense GUI, API and systems backend
-- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
 - [odedshimon/BruteShark](https://github.com/odedshimon/BruteShark) - Network Analysis Tool
 - [pwnlandia/mhn](https://github.com/pwnlandia/mhn) - Modern Honey Network
 
@@ -2128,7 +2165,7 @@
 
 - [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.  personal.management.system.inbox@gmail.com
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. 
-- [Damako4/Bookmarklets](https://github.com/Damako4/Bookmarklets) - A huge list of javascript bookmarklets     Created by Damir Fell
+- [Damako4/Bookmarklets](https://github.com/Damako4/Bookmarklets) - A huge list of javascript bookmarklets
 - [pyscript/pyscript](https://github.com/pyscript/pyscript) - PyScript is an open source platform for Python in the browser. Try PyScript: https://pyscript.com  Examples: https://tinyurl.com/pyscript-examples  Community: https://discord.gg/HxvBtukrg2
 
 ## html5 
@@ -2201,7 +2238,7 @@
 
 - [aritchie/bluetoothle](https://github.com/aritchie/bluetoothle) - Easy to use, cross platform, REACTIVE BluetoothLE Plugin for Xamarin
 - [1amageek/Bleu](https://github.com/1amageek/Bleu) - BLE (Bluetooth LE) for U🎁 Bleu is the best in the Bluetooth library.
-- [heiher/hev-socks5-tunnel](https://github.com/heiher/hev-socks5-tunnel) - Tun2socks (Linux/Android/BSD/macOS/iOS/WSL2) (IPv4/IPv6/TCP/UDP)
+- [heiher/hev-socks5-tunnel](https://github.com/heiher/hev-socks5-tunnel) - Tun2Socks (Linux/Android/BSD/macOS/iOS/Windows) (IPv4/IPv6/TCP/UDP)
 - [urrickhunt/Dracula-for-iSH](https://github.com/urrickhunt/Dracula-for-iSH) - Dracula for iSH
 - [insidersec/insider](https://github.com/insidersec/insider) - Static Application Security Testing (SAST) engine focused on covering the OWASP Top 10, to make source code analysis to find vulnerabilities right in the source code, focused on a agile and easy to im
 - [Dadoum/Sideloader](https://github.com/Dadoum/Sideloader) - Open-source cross-platform iOS app sideloader (yep, even Linux is supported). Alternative to Sideloadly, AltServer, SideServer, Cydia Impactor, iOS App Signer…
@@ -2325,7 +2362,7 @@
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. 
 - [theIYD/HrefScraper](https://github.com/theIYD/HrefScraper) - A tiny chrome extension which scraps all the hrefs from a particular page and downloads them as a text document.
 - [bokeh/bokeh](https://github.com/bokeh/bokeh) - Interactive Data Visualization in the browser, from  Python
-- [Damako4/Bookmarklets](https://github.com/Damako4/Bookmarklets) - A huge list of javascript bookmarklets     Created by Damir Fell
+- [Damako4/Bookmarklets](https://github.com/Damako4/Bookmarklets) - A huge list of javascript bookmarklets
 - [brosck/mantra](https://github.com/brosck/mantra) - 「🔑」A tool used to hunt down API key leaks in JS files and pages
 - [ben-sb/javascript-deobfuscator](https://github.com/ben-sb/javascript-deobfuscator) - General purpose JavaScript deobfuscator
 - [roccomuso/netcat](https://github.com/roccomuso/netcat) - :computer: Netcat client and server modules written in pure Javascript for Node.js.
@@ -2482,14 +2519,14 @@
 
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
-- [heiher/hev-socks5-tunnel](https://github.com/heiher/hev-socks5-tunnel) - Tun2socks (Linux/Android/BSD/macOS/iOS/WSL2) (IPv4/IPv6/TCP/UDP)
+- [heiher/hev-socks5-tunnel](https://github.com/heiher/hev-socks5-tunnel) - Tun2Socks (Linux/Android/BSD/macOS/iOS/Windows) (IPv4/IPv6/TCP/UDP)
 - [urrickhunt/Dracula-for-iSH](https://github.com/urrickhunt/Dracula-for-iSH) - Dracula for iSH
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 - [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 - [Dadoum/Sideloader](https://github.com/Dadoum/Sideloader) - Open-source cross-platform iOS app sideloader (yep, even Linux is supported). Alternative to Sideloadly, AltServer, SideServer, Cydia Impactor, iOS App Signer…
 - [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines
 - [The404Hacking/websploit](https://github.com/The404Hacking/websploit) - Websploit is an advanced MITM framework.
-- [mylinuxforwork/dotfiles](https://github.com/mylinuxforwork/dotfiles) - The ML4W Dotfiles for Hyprland - An advanced and full-featured configuration for the dynamic tiling window manager Hyprland including an easy to use installation script for Arch and Fedora based Linux
+- [mylinuxforwork/dotfiles](https://github.com/mylinuxforwork/dotfiles) - The ML4W Dotfiles for Hyprland - An advanced and full-featured configuration for the dynamic tiling window manager Hyprland. Ready to install with the Dotfiles Installer app with setup scripts for Arc
 - [nekename/OpenDeck](https://github.com/nekename/OpenDeck) - Linux software for your Elgato Stream Deck
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [V33RU/awesome-connected-things-sec](https://github.com/V33RU/awesome-connected-things-sec) - A Curated list of Security Resources for all connected things
@@ -2550,6 +2587,8 @@
 
 ## llm 
 
+- [corca-ai/awesome-llm-security](https://github.com/corca-ai/awesome-llm-security) - A curation of awesome tools, documents and projects about LLM Security.
+- [lmstudio-ai/lmstudio-js](https://github.com/lmstudio-ai/lmstudio-js) - LM Studio TypeScript SDK
 - [mcp-router/mcp-router](https://github.com/mcp-router/mcp-router) - The MCP manager. Easily manage your MCP servers with enhanced security and customizability
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [Zjh-819/LLMDataHub](https://github.com/Zjh-819/LLMDataHub) - A quick guide (especially) for trending instruction finetuning datasets
@@ -2597,6 +2636,7 @@
 - [argilla-io/argilla](https://github.com/argilla-io/argilla) - Argilla is a collaboration tool for AI engineers and domain experts to build high-quality datasets
 - [adbar/trafilatura](https://github.com/adbar/trafilatura) - Python & Command-line tool to gather text and metadata on the Web: Crawling, scraping, extraction, output as CSV, JSON, HTML, MD, TXT, XML
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
+- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
 
 ## localization 
 
@@ -2679,7 +2719,7 @@
 - [nmap/nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository.
 - [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Low-code framework for building custom LLMs, neural networks, and other AI models
 - [google/deepvariant](https://github.com/google/deepvariant) - DeepVariant is an analysis pipeline that uses a deep neural network to call genetic variants from next-generation DNA sequencing data.
-- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO11 🚀
+- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO 🚀
 - [pycaret/pycaret](https://github.com/pycaret/pycaret) - An open-source, low-code machine learning library in Python
 - [argilla-io/argilla](https://github.com/argilla-io/argilla) - Argilla is a collaboration tool for AI engineers and domain experts to build high-quality datasets
 - [mandiant/stringsifter](https://github.com/mandiant/stringsifter) - A machine learning tool that ranks strings based on their relevance for malware analysis.
@@ -2695,7 +2735,7 @@
 - [satellite-image-deep-learning/techniques](https://github.com/satellite-image-deep-learning/techniques) - Techniques for deep learning with satellite & aerial imagery
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [darkmatter2222/COD-MW-2019-DNN](https://github.com/darkmatter2222/COD-MW-2019-DNN) - Deep Neural Networks for Call Of Duty Modern Warfare 2019
-- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
+- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 
 ## macos 
@@ -2703,7 +2743,7 @@
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Power Your World with AI - Explore, Extend, Empower.
 - [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
-- [heiher/hev-socks5-tunnel](https://github.com/heiher/hev-socks5-tunnel) - Tun2socks (Linux/Android/BSD/macOS/iOS/WSL2) (IPv4/IPv6/TCP/UDP)
+- [heiher/hev-socks5-tunnel](https://github.com/heiher/hev-socks5-tunnel) - Tun2Socks (Linux/Android/BSD/macOS/iOS/Windows) (IPv4/IPv6/TCP/UDP)
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 - [Dadoum/Sideloader](https://github.com/Dadoum/Sideloader) - Open-source cross-platform iOS app sideloader (yep, even Linux is supported). Alternative to Sideloadly, AltServer, SideServer, Cydia Impactor, iOS App Signer…
 - [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines
@@ -2839,7 +2879,7 @@
 - [jfilter/clean-text](https://github.com/jfilter/clean-text) - 🧹 Python package for text cleaning
 - [tirthajyoti/Web-Database-Analytics](https://github.com/tirthajyoti/Web-Database-Analytics) - Web scrapping and related analytics using Python tools
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
-- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
+- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
 
 ## neovim 
 
@@ -2910,7 +2950,7 @@
 - [jfilter/clean-text](https://github.com/jfilter/clean-text) - 🧹 Python package for text cleaning
 - [tirthajyoti/Web-Database-Analytics](https://github.com/tirthajyoti/Web-Database-Analytics) - Web scrapping and related analytics using Python tools
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
-- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
+- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
 
 ## no-code 
 
@@ -2944,6 +2984,7 @@
 
 ## nodejs 
 
+- [lmstudio-ai/lmstudio-js](https://github.com/lmstudio-ai/lmstudio-js) - LM Studio TypeScript SDK
 - [typedb/typedb-driver](https://github.com/typedb/typedb-driver) - TypeDB Drivers for Rust, Python, Java, Node.js, C, C++, and C#.
 - [zcaceres/easy-mcp](https://github.com/zcaceres/easy-mcp) - Absurdly easy Model Context Protocol Servers in Typescript
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
@@ -3000,7 +3041,7 @@
 
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler with built-in NumPy support
-- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
+- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
 
 ## objective-c 
 
@@ -3154,6 +3195,12 @@
 
 ## others 
 
+- [Repello-AI/whistleblower](https://github.com/Repello-AI/whistleblower) - Whistleblower is a offensive security tool for testing against system prompt leakage and capability discovery of an AI application exposed through API. Built for AI engineers, security researchers and
+- [aws-samples/serverless-rag-demo](https://github.com/aws-samples/serverless-rag-demo) - Amazon Bedrock Foundation models with Amazon Opensearch Serverless as a Vector DB
+- [basecamp/omarchy](https://github.com/basecamp/omarchy) - Opinionated Arch/Hyprland Setup
+- [weaviate/Verba](https://github.com/weaviate/Verba) - Retrieval Augmented Generation (RAG) chatbot powered by Weaviate
+- [weaviate/weaviate](https://github.com/weaviate/weaviate) - Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a c
+- [Jonghakseo/chrome-extension-boilerplate-react-vite](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite) - Chrome Extension Boilerplate with React + Vite + Typescript
 - [jcmvbkbc/linux-xtensa](https://github.com/jcmvbkbc/linux-xtensa) - Linux port for xtensa architecture. None of these branches are stable.
 - [niceboygithub/XiaomiGateway3fw](https://github.com/niceboygithub/XiaomiGateway3fw) - Provide several firmwares for Xiaomi Gateway 3 (ZNDMWG03LM, ZNDMWG02LM). And bin uitls, boot_ctrl (enhanced), more function of busybox, dropbearmulti for ssh.
 - [niceboygithub/AqaraCameraHubfw](https://github.com/niceboygithub/AqaraCameraHubfw) - Aqara Camera Hub G2/G2H and Aqara Hub E1 firmwares
@@ -3301,7 +3348,7 @@
 - [google/fuzzer-test-suite](https://github.com/google/fuzzer-test-suite) - Set of tests for fuzzing engines
 - [thinkany-ai/rag-search](https://github.com/thinkany-ai/rag-search) - RAG Search API
 - [EvalsOne/MCP-connect](https://github.com/EvalsOne/MCP-connect) - Enables cloud-based AI services to access local Stdio based MCP servers via HTTP requests
-- [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code (prev. Roo Cline) gives you a whole dev team of AI agents in your code editor.
+- [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code gives you a whole dev team of AI agents in your code editor.
 - [BurtTheCoder/mcp-dnstwist](https://github.com/BurtTheCoder/mcp-dnstwist) - MCP server for dnstwist, a powerful DNS fuzzing tool that helps detect typosquatting, phishing, and corporate espionage.
 - [wmliang/pe-afl](https://github.com/wmliang/pe-afl) - 
 - [PortSwigger/mcp-server](https://github.com/PortSwigger/mcp-server) - MCP Server for Burp
@@ -3463,7 +3510,6 @@
 - [basecamp/omakub](https://github.com/basecamp/omakub) - Opinionated Ubuntu Setup
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [MathisP75/summer-day-and-night](https://github.com/MathisP75/summer-day-and-night) - Hyprland rice for the summer themed competition
-- [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [TodePond/GulfOfMexico](https://github.com/TodePond/GulfOfMexico) - perfect programming language
 - [aalex954/SpeedTestDashboard](https://github.com/aalex954/SpeedTestDashboard) - Docker compose spec to deploy Telegraf, Influx DB, Grafana based network monitoring dashboards for pfSense and SpeedTest.net.
 - [Cyulas/pentest_notes](https://github.com/Cyulas/pentest_notes) - Pentesting notes
@@ -3566,7 +3612,7 @@
 - [java-decompiler/jd-eclipse](https://github.com/java-decompiler/jd-eclipse) - A Java Decompiler Eclipse plugin
 - [java-decompiler/jd-core](https://github.com/java-decompiler/jd-core) - JD-Core is a JAVA decompiler written in JAVA.
 - [rscloura/Doldrums](https://github.com/rscloura/Doldrums) - A Flutter/Dart reverse engineering tool
-- [LucasBaizer/apkSpy](https://github.com/LucasBaizer/apkSpy) - Fork of jadx with support for editing and recompiling Java source
+- [lucasbaizer-archive/apkSpy](https://github.com/lucasbaizer-archive/apkSpy) - Fork of jadx with support for editing and recompiling Java source
 - [lxdvs/apk2gold](https://github.com/lxdvs/apk2gold) - CLI tool for decompiling Android apps to Java. It does resources! It does Java! Its real easy!
 - [0015/ESP32Berry](https://github.com/0015/ESP32Berry) - ESP32Berry Project
 - [blindfuzzy/LHF](https://github.com/blindfuzzy/LHF) - A modular recon tool for pentesting
@@ -4273,7 +4319,7 @@
 - [pushbits/server](https://github.com/pushbits/server) - A simple server for push notifications via Matrix (and a minimalistic alternative to Pushover and Gotify) 🚀📯
 - [martinvigo/email2phonenumber](https://github.com/martinvigo/email2phonenumber) - A OSINT tool to obtain a target's phone number just by having his email address
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-- [supermarsx/whoisdigger](https://github.com/supermarsx/whoisdigger) - Bulk WHOIS Lookup Tool built with electron
+- [supermarsx/whoisdigger](https://github.com/supermarsx/whoisdigger) - Bulk Domain WHOIS/RDAP/DNS Lookup Tool built with Electron
 
 ## productivity 
 
@@ -4419,7 +4465,7 @@
 - [thewhiteh4t/nexfil](https://github.com/thewhiteh4t/nexfil) - OSINT tool for finding profiles by username
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [owtf/owtf](https://github.com/owtf/owtf) - Offensive Web Testing Framework (OWTF), is a framework which tries to unite great tools and make pen testing more efficient http://owtf.org https://twitter.com/owtfp
-- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO11 🚀
+- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO 🚀
 - [bellingcat/auto-archiver](https://github.com/bellingcat/auto-archiver) - Automatically archive links to videos, images, and social media content from Google Sheets (and more).
 - [Mahlet-Inc/hobbits](https://github.com/Mahlet-Inc/hobbits) - A multi-platform GUI for bit-based analysis, processing, and visualization
 - [Pylons/waitress](https://github.com/Pylons/waitress) - Waitress - A WSGI server for Python 3
@@ -4581,11 +4627,11 @@
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [nerfstudio-project/nerfstudio](https://github.com/nerfstudio-project/nerfstudio) - A collaboration friendly studio for NeRFs
 - [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Low-code framework for building custom LLMs, neural networks, and other AI models
-- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO11 🚀
+- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO 🚀
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 - [satellite-image-deep-learning/techniques](https://github.com/satellite-image-deep-learning/techniques) - Techniques for deep learning with satellite & aerial imagery
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
-- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
+- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
 
 ## qt 
 
@@ -4856,6 +4902,7 @@
 
 ## security 
 
+- [corca-ai/awesome-llm-security](https://github.com/corca-ai/awesome-llm-security) - A curation of awesome tools, documents and projects about LLM Security.
 - [engn33r/awesome-bluetooth-security](https://github.com/engn33r/awesome-bluetooth-security) - List of Bluetooth BR/EDR/LE security resources
 - [kac89/vulnrepo](https://github.com/kac89/vulnrepo) - VULNRΞPO - Free vulnerability report generator and repository, end-to-end encrypted! Templates of issues, CWE,CVE,MITRE ATT&CK,PCI DSS, import Nmap/Nessus/Burp/OpenVAS/Bugcrowd/Trivy, Jira export, TXT
 - [nullfuzz-pentest/shodan-dorks](https://github.com/nullfuzz-pentest/shodan-dorks) - Shodan Dorks
@@ -5277,7 +5324,7 @@
 - [google/CFU-Playground](https://github.com/google/CFU-Playground) - Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.git
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [darkmatter2222/COD-MW-2019-DNN](https://github.com/darkmatter2222/COD-MW-2019-DNN) - Deep Neural Networks for Call Of Duty Modern Warfare 2019
-- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
+- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
 
 ## terminal 
 
@@ -5368,6 +5415,7 @@
 
 ## typescript 
 
+- [lmstudio-ai/lmstudio-js](https://github.com/lmstudio-ai/lmstudio-js) - LM Studio TypeScript SDK
 - [zcaceres/easy-mcp](https://github.com/zcaceres/easy-mcp) - Absurdly easy Model Context Protocol Servers in Typescript
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [spotify/basic-pitch](https://github.com/spotify/basic-pitch) - A lightweight yet powerful audio-to-MIDI converter with pitch bend detection
@@ -5542,6 +5590,7 @@
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Power Your World with AI - Explore, Extend, Empower.
 - [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
+- [heiher/hev-socks5-tunnel](https://github.com/heiher/hev-socks5-tunnel) - Tun2Socks (Linux/Android/BSD/macOS/iOS/Windows) (IPv4/IPv6/TCP/UDP)
 - [jiripolasek/MediaControlsExtension](https://github.com/jiripolasek/MediaControlsExtension) - Manage audio or video playback and switch between apps playing media
 - [nepnep39/neofetch-win](https://github.com/nepnep39/neofetch-win) - Simple, ultra-lightweight neofetch clone for Windows 10+ written in C++
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
@@ -5598,10 +5647,29 @@
 - [MacDownApp/macdown](https://github.com/MacDownApp/macdown) - Open source Markdown editor for macOS.
 - [johnno1962/InjectionIII](https://github.com/johnno1962/InjectionIII) - Re-write of Injection for Xcode in (mostly) Swift
 
+## xml 
+
+- [ytsutano/axmldec](https://github.com/ytsutano/axmldec) - Stand-alone binary AndroidManifest.xml decoder
+
 ## zig 
 
 - [ratfactor/ziglings](https://github.com/ratfactor/ziglings) - Learn the Zig programming language by fixing tiny broken programs.
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+
+## zsh 
+
+- [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
+- [geometry-zsh/geometry](https://github.com/geometry-zsh/geometry) - geometry is a minimal, composable zsh prompt
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
+- [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
+- [tom-doerr/zsh_codex](https://github.com/tom-doerr/zsh_codex) - This is a ZSH plugin that enables you to use OpenAI's Codex AI in the command line.
+- [carapace-sh/carapace-bin](https://github.com/carapace-sh/carapace-bin) - A multi-shell completion binary.
+- [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
+- [hyperupcall/autoenv](https://github.com/hyperupcall/autoenv) - Directory-based environments.
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered shell. Full-featured and cross-platform.
 
 
 ## License
