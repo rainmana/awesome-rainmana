@@ -642,6 +642,7 @@
 
 ## HTML 
 
+- [rickstaa/awesome-adsb](https://github.com/rickstaa/awesome-adsb) - 📡 A curated list of awesome ASD-B tools, projects, images, resources and other shiny things.
 - [sergiokopplin/indigo](https://github.com/sergiokopplin/indigo) - Minimalist Jekyll Template, dark and light themes
 - [salesforce/vulnreport](https://github.com/salesforce/vulnreport) - Open-source pentesting management and automation platform by Salesforce Product Security
 - [sehmaschine/django-grappelli](https://github.com/sehmaschine/django-grappelli) - A jazzy skin for the Django Admin-Interface (official repository).
@@ -1028,6 +1029,7 @@
 
 ## Others 
 
+- [voice-engine/make-a-smart-speaker](https://github.com/voice-engine/make-a-smart-speaker) - A collection of resources to make a smart speaker
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
 - [corca-ai/awesome-llm-security](https://github.com/corca-ai/awesome-llm-security) - A curation of awesome tools, documents and projects about LLM Security.
 - [engn33r/awesome-bluetooth-security](https://github.com/engn33r/awesome-bluetooth-security) - List of Bluetooth BR/EDR/LE security resources
@@ -2101,6 +2103,7 @@
 
 ## Shell 
 
+- [OpenVoiceOS/ovos-installer](https://github.com/OpenVoiceOS/ovos-installer) - Open Voice OS and/or HiveMind installer using Ansible with an intuitive and easy Text-based User Interface
 - [basecamp/omarchy](https://github.com/basecamp/omarchy) - Opinionated Arch/Hyprland Setup
 - [niceboygithub/AqaraCameraHubfw](https://github.com/niceboygithub/AqaraCameraHubfw) - Aqara Camera Hub G2/G2H and Aqara Hub E1 firmwares
 - [m3n0sd0n4ld/GooFuzz](https://github.com/m3n0sd0n4ld/GooFuzz) - GooFuzz is a tool to perform fuzzing with an OSINT approach, managing to enumerate directories, files, subdomains or parameters without leaving evidence on the target's server and by means of advanced
