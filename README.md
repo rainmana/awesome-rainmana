@@ -2013,7 +2013,6 @@
 - [jameslafa/Scrapify](https://github.com/jameslafa/Scrapify) - A bunch of website scraping scripts
 - [Arachni/arachni](https://github.com/Arachni/arachni) - Web Application Security Scanner Framework
 - [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) - Metasploit Framework
-- [mitre/vulcan](https://github.com/mitre/vulcan) - A web application to streamline the development of STIGs from SRGs
 - [freshshell/fresh](https://github.com/freshshell/fresh) - Keep your dotfiles fresh.
 
 ## Rust 
@@ -2407,6 +2406,7 @@
 - [bufferhead-code/opencraft](https://github.com/bufferhead-code/opencraft) - An open-source clone of infinite-craft
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [chaitin/passionfruit](https://github.com/chaitin/passionfruit) - [WIP] Crappy iOS app analyzer
+- [mitre/vulcan](https://github.com/mitre/vulcan) - A web application to streamline the development of STIGs from SRGs
 - [louh/lcars](https://github.com/louh/lcars) - A responsive layout for Star Trek's LCARS user interface made completely in HTML/CSS/JavaScript.
 
 ## XSLT 
