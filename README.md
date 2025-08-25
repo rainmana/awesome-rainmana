@@ -926,7 +926,7 @@
 - [RRZE-HPC/OSACA](https://github.com/RRZE-HPC/OSACA) - Open Source Architecture Code Analyzer
 - [newaetech/chipwhisperer-jupyter](https://github.com/newaetech/chipwhisperer-jupyter) - Interactive ChipWhisperer tutorials using Jupyter notebooks.
 - [PWhiddy/PokemonRedExperiments](https://github.com/PWhiddy/PokemonRedExperiments) - Playing Pokemon Red with Reinforcement Learning
-- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
+- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI
 - [nasa/pretrained-microscopy-models](https://github.com/nasa/pretrained-microscopy-models) - 
 - [spyboy-productions/WebSecProbe](https://github.com/spyboy-productions/WebSecProbe) - Bypass 403
 - [dsdanielpark/co-coder](https://github.com/dsdanielpark/co-coder) - Co-Coder is a Python package that streamlines error debugging from Open AI chat GPT and Google Bard by providing hints, example code, and relevant Stack Overflow links.
@@ -1207,7 +1207,7 @@
 - [nyquist/awesome-networking](https://github.com/nyquist/awesome-networking) - Curated list of awesome computer networking resources
 - [lukehaas/RunJS](https://github.com/lukehaas/RunJS) - RunJS is a JavaScript playground for macOS, Windows and Linux. Write code with instant feedback and access to Node.js and browser APIs.
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
-- [graphql-kit/graphql-apis](https://github.com/graphql-kit/graphql-apis) - 📜 A collective list of public GraphQL APIs
+- [APIs-guru/graphql-apis](https://github.com/APIs-guru/graphql-apis) - 📜 A collective list of public GraphQL APIs
 - [The-Viper-One/Pentest-Everything](https://github.com/The-Viper-One/Pentest-Everything) - A collection of CTF write-ups, pentesting topics, guides and notes. Notes compiled from multiple sources and my own lab research. Topics also support OSCP, Active Directory, CRTE, eJPT and eCPPT.
 - [rizinorg/cutter-plugins](https://github.com/rizinorg/cutter-plugins) - A curated list of Community Plugins and Scripts written for Cutter
 - [jorgebucaran/hyperawesome](https://github.com/jorgebucaran/hyperawesome) - A curated list of awesome projects built with Hyperapp + more
@@ -2369,7 +2369,7 @@
 - [googlecreativelab/teachablemachine-community](https://github.com/googlecreativelab/teachablemachine-community) - Example code snippets and machine learning code for Teachable Machine
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [supermarsx/whoisdigger](https://github.com/supermarsx/whoisdigger) - Bulk Domain WHOIS/RDAP/DNS Lookup Tool built with Electron
-- [graphql-kit/graphql-voyager](https://github.com/graphql-kit/graphql-voyager) - 🛰️ Represent any GraphQL API as an interactive graph
+- [APIs-guru/graphql-voyager](https://github.com/APIs-guru/graphql-voyager) - 🛰️ Represent any GraphQL API as an interactive graph
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
 - [infinitered/nsfwjs](https://github.com/infinitered/nsfwjs) - NSFW detection on the client-side via TensorFlow.js
