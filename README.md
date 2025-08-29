@@ -104,6 +104,8 @@
 
 ## C 
 
+- [OpenIPC/smolrtsp](https://github.com/OpenIPC/smolrtsp) - A lightweight real-time streaming library for IP cameras
+- [OpenIPC/majestic](https://github.com/OpenIPC/majestic) - Majestic Community edition integration kit
 - [jcmvbkbc/linux-xtensa](https://github.com/jcmvbkbc/linux-xtensa) - Linux port for xtensa architecture. None of these branches are stable.
 - [mikeryan/ice9-bluetooth-sniffer](https://github.com/mikeryan/ice9-bluetooth-sniffer) - Wireshark-compatible all-channel BLE sniffer for bladeRF, with wideband Bluetooth sniffing for HackRF and USRP
 - [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr) - Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.
@@ -752,6 +754,7 @@
 
 ## JavaScript 
 
+- [bennjordan/IPFS-Video-Player](https://github.com/bennjordan/IPFS-Video-Player) - A sometimes operational video player that is entirely on decentralized nodes. If it doesn't work, that means nobody else is testing it!
 - [jquery/sizzle](https://github.com/jquery/sizzle) - A sizzlin' hot selector engine.
 - [sdr-enthusiasts/docker-planefence](https://github.com/sdr-enthusiasts/docker-planefence) - 
 - [kimmobrunfeldt/url-to-image](https://github.com/kimmobrunfeldt/url-to-image) - PhantomJS screenshotting done right
@@ -916,6 +919,7 @@
 
 ## Jupyter Notebook 
 
+- [bennjordan/UFC-Data-Analysis](https://github.com/bennjordan/UFC-Data-Analysis) - An exploratory analysis on all fighters in the UFC (Ultimate Fighting Championship) and their respective matches.
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [aashrafh/Mozart](https://github.com/aashrafh/Mozart) - An optical music recognition (OMR) system. Converts sheet music to a machine-readable version.
 - [CargoCultScientist/ENFormant](https://github.com/CargoCultScientist/ENFormant) - ENF Analysis tool (Bellingcat community)
@@ -1037,6 +1041,7 @@
 
 ## Others 
 
+- [bennjordan/The-Flashbulb](https://github.com/bennjordan/The-Flashbulb) - Perhaps my last album, perhaps outliving me.
 - [cherysun/chatgpt-siri-shortcut](https://github.com/cherysun/chatgpt-siri-shortcut) - Talk to ChatGPT with Siri shortcuts on iOS, macOS, and watchOS devices. This open-source project is lightweight and highly customizable.
 - [Yue-Yang/ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri) - Shortcuts for Siri using ChatGPT API gpt-3.5-turbo & gpt-4 model, supports continuous conversations, configure the API key & save chat records. 由 ChatGPT API gpt-3.5-turbo & gpt-4 模型驱动的智能 Siri，支持连续对话，
 - [sebj/iOS-Shortcuts-Reference](https://github.com/sebj/iOS-Shortcuts-Reference) - Reference documentation for the iOS Shortcuts app file structure
@@ -1341,6 +1346,11 @@
 
 ## Python 
 
+- [MobileLLM/AutoDroid](https://github.com/MobileLLM/AutoDroid) - Source code for the paper "Empowering LLM to use Smartphone for Intelligent Task Automation"
+- [MobileLLM/DroidBot-GPT](https://github.com/MobileLLM/DroidBot-GPT) - Automating Android apps with ChatGPT-like LLM.
+- [KonradStanski/androidAutomate](https://github.com/KonradStanski/androidAutomate) - This repo provides a command line interface and python API for recording and automating android tasks
+- [bennjordan/PlateShapez](https://github.com/bennjordan/PlateShapez) - A quick and simple way to automate small, hardly-noticeable, random gaussian shapes to confuse AI license plate readers used by law enforcement and retailers.
+- [bennjordan/ALPRovingGround](https://github.com/bennjordan/ALPRovingGround) - A simple Python application to test adversarial noise attacks on license plate recognition systems (see my PlateShapez demo) and create an output dataset to train more effective attack models.
 - [ckan/ckan](https://github.com/ckan/ckan) - CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers catalog.data.gov, open.canada.ca/data, data.hu
 - [openpolicedata/openpolicedata](https://github.com/openpolicedata/openpolicedata) - The OpenPoliceData (OPD) Python library is the most comprehensive centralized public access point for incident-level police data in the United States. OPD provides easy access to 550+ incident-level d
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
@@ -1707,7 +1717,7 @@
 - [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.
 - [WKL-Sec/WMIExec](https://github.com/WKL-Sec/WMIExec) - Set of python scripts which perform different ways of command execution via WMI protocol.
 - [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) - A GPT-empowered penetration testing tool
-- [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo) - A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)
+- [NVIDIA-NeMo/NeMo](https://github.com/NVIDIA-NeMo/NeMo) - A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)
 - [salesforce/xgen](https://github.com/salesforce/xgen) - Salesforce open-source LLMs with 8k sequence length.
 - [ParthJadhav/Tkinter-Designer](https://github.com/ParthJadhav/Tkinter-Designer) - An easy and fast way to create a Python GUI 🐍
 - [ustayready/fireprox](https://github.com/ustayready/fireprox) - AWS API Gateway management tool for creating on the fly HTTP pass-through proxies for unique IP rotation
@@ -2234,6 +2244,7 @@
 
 ## TypeScript 
 
+- [dgreif/ring](https://github.com/dgreif/ring) - Unofficial packages for Ring Doorbells, Cameras, Alarm System, and Smart Lighting
 - [kimmobrunfeldt/squint](https://github.com/kimmobrunfeldt/squint) - Makes visual reviews of web app releases easy.
 - [thelastoutpostworkshop/arduino-maker-workshop](https://github.com/thelastoutpostworkshop/arduino-maker-workshop) - The ultimate tool for makers to bring Arduino projects to life in Visual Studio Code
 - [lmstudio-ai/lmstudio-js](https://github.com/lmstudio-ai/lmstudio-js) - LM Studio TypeScript SDK
@@ -2318,7 +2329,7 @@
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol
 - [ComfyWorkflows/ComfyUI-Launcher](https://github.com/ComfyWorkflows/ComfyUI-Launcher) - Run any ComfyUI workflow w/ ZERO setup.
-- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is the leading open-source RAG engine, converging cutting-edge RAG with Agent capabilities to build the superior context layer for LLMs.
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven.
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. It features AI personas, AGI functions, multi-model chats, text-to-image, voice, response streaming, code highlight
