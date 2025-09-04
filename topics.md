@@ -314,7 +314,7 @@
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [n8n-io/self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit) - The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.
 - [agent0ai/agent-zero](https://github.com/agent0ai/agent-zero) - Agent Zero AI framework
-- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source RAG engine, converging cutting-edge RAG with Agent capabilities to build the superior context layer for LLMs.
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven.
 - [TransformerOptimus/SuperCoder](https://github.com/TransformerOptimus/SuperCoder) - Open Source Autonomous Software Development System
 - [DataBassGit/AgentForge](https://github.com/DataBassGit/AgentForge) - Extensible AGI Framework
@@ -1381,7 +1381,7 @@
 - [asteroid-team/asteroid](https://github.com/asteroid-team/asteroid) - The PyTorch-based audio source separation toolkit for researchers
 - [deepfakes/faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
-- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source RAG engine, converging cutting-edge RAG with Agent capabilities to build the superior context layer for LLMs.
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf
 - [victordibia/autogen-ui](https://github.com/victordibia/autogen-ui) - Web UI for AutoGen (A Framework Multi-Agent LLM Applications)
 - [deezer/spleeter](https://github.com/deezer/spleeter) - Deezer source separation library including pretrained models.
@@ -2668,7 +2668,7 @@
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. W
 - [kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain) - 😎 Awesome list of tools and projects with the awesome LangChain framework
-- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source RAG engine, converging cutting-edge RAG with Agent capabilities to build the superior context layer for LLMs.
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
@@ -3167,7 +3167,7 @@
 - [promptslab/Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) - This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
-- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source RAG engine, converging cutting-edge RAG with Agent capabilities to build the superior context layer for LLMs.
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [TransformerOptimus/SuperCoder](https://github.com/TransformerOptimus/SuperCoder) - Open Source Autonomous Software Development System
 - [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. It features AI personas, AGI functions, multi-model chats, text-to-image, voice, response streaming, code highlight
