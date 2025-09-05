@@ -1772,7 +1772,7 @@
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [awaescher/RepoZ](https://github.com/awaescher/RepoZ) - 👨‍💻  A zero-conf git repository hub for Windows and macOS with Windows Explorer- & CLI-enhancements
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: The Dropbox like web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [ezekg/git-hound](https://github.com/ezekg/git-hound) - Git plugin that prevents sensitive data from being committed.
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
@@ -3705,7 +3705,7 @@
 - [OTRF/ATTACK-Python-Client](https://github.com/OTRF/ATTACK-Python-Client) - Python Script to access ATT&CK content available in STIX via a public TAXII server
 - [rsmudge/ElevateKit](https://github.com/rsmudge/ElevateKit) - The Elevate Kit demonstrates how to use third-party privilege escalation attacks with Cobalt Strike's Beacon payload.
 - [umeshshinde19/instainsane](https://github.com/umeshshinde19/instainsane) - Multi-threaded Instagram Brute Forcer (100 attemps at once)
-- [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
+- [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 - [kuleshov/audio-super-res](https://github.com/kuleshov/audio-super-res) - Audio super resolution using neural networks
 - [metavoiceio/MetaVoiceLive](https://github.com/metavoiceio/MetaVoiceLive) - 
 - [bufferhead-code/opencraft](https://github.com/bufferhead-code/opencraft) - An open-source clone of infinite-craft
