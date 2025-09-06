@@ -3263,6 +3263,7 @@
 
 ## others 
 
+- [tanprathan/OWASP-Testing-Checklist](https://github.com/tanprathan/OWASP-Testing-Checklist) - OWASP based Web Application Security Testing Checklist is an Excel based checklist which helps you to track the status of completed and pending test cases.
 - [OpenIPC/majestic](https://github.com/OpenIPC/majestic) - Majestic Community edition integration kit
 - [MobileLLM/DroidBot-GPT](https://github.com/MobileLLM/DroidBot-GPT) - Automating Android apps with ChatGPT-like LLM.
 - [KonradStanski/androidAutomate](https://github.com/KonradStanski/androidAutomate) - This repo provides a command line interface and python API for recording and automating android tasks
