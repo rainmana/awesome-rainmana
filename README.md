@@ -104,6 +104,7 @@
 
 ## C 
 
+- [Xinyuan-LilyGO/LilyGoLib](https://github.com/Xinyuan-LilyGO/LilyGoLib) - 
 - [OpenIPC/smolrtsp](https://github.com/OpenIPC/smolrtsp) - A lightweight real-time streaming library for IP cameras
 - [OpenIPC/majestic](https://github.com/OpenIPC/majestic) - Majestic Community edition integration kit
 - [jcmvbkbc/linux-xtensa](https://github.com/jcmvbkbc/linux-xtensa) - Linux port for xtensa architecture. None of these branches are stable.
@@ -2192,7 +2193,7 @@
 - [ExpertAnonymous/PhoneInfoga](https://github.com/ExpertAnonymous/PhoneInfoga) - PhoneInfoga is one of the most advanced tools to scan phone numbers using only free resources.
 - [ViRb3/poweruser](https://github.com/ViRb3/poweruser) - 💪 Collection of tips, tricks and scripts for becoming a true poweruser
 - [ViRb3/magisk-frida](https://github.com/ViRb3/magisk-frida) - 🔐 Run frida-server on boot with Magisk, always up-to-date
-- [kaitai-io/kaitai_struct](https://github.com/kaitai-io/kaitai_struct) - Kaitai Struct: declarative language to generate binary data parsers in C++ / C# / Go / Java / JavaScript / Lua / Nim / Perl / PHP / Python / Ruby
+- [kaitai-io/kaitai_struct](https://github.com/kaitai-io/kaitai_struct) - Kaitai Struct: declarative language to generate binary data parsers in C++ / C# / Go / Java / JavaScript / Lua / Nim / Perl / PHP / Python / Ruby / Rust
 - [sho-luv/mavs](https://github.com/sho-luv/mavs) - Mobile Application Vulnerability Scanner
 - [sdushantha/tmpmail](https://github.com/sdushantha/tmpmail) - A temporary email right from your terminal written in POSIX sh
 - [google/crush-tools](https://github.com/google/crush-tools) - Automatically exported from code.google.com/p/crush-tools
