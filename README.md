@@ -1063,6 +1063,7 @@
 
 ## Others 
 
+- [nicholasaleks/reverse-shells](https://github.com/nicholasaleks/reverse-shells) - A collection of reverse shell commands and payloads
 - [tugkanboz/awesome-cursorrules](https://github.com/tugkanboz/awesome-cursorrules) - A curated list of awesome .cursorrules files for enhancing your Cursor AI experience.
 - [jparkerweb/ai-assistant-prompts](https://github.com/jparkerweb/ai-assistant-prompts) - 📏 collection of prompts/rules to use with an AI IDE
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
