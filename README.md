@@ -178,7 +178,7 @@
 - [samhocevar/zzuf](https://github.com/samhocevar/zzuf) - 🌪️ Application fuzzer
 - [xMasterX/flipper-pager](https://github.com/xMasterX/flipper-pager) - Flipper Zero POCSAG Pager receiver plugin
 - [n0xa/m5stick-nemo](https://github.com/n0xa/m5stick-nemo) - M5 Stick C firmware for high-tech pranks
-- [Xinyuan-LilyGO/T-Deck](https://github.com/Xinyuan-LilyGO/T-Deck) - 
+- [Xinyuan-LilyGO/T-Deck](https://github.com/Xinyuan-LilyGO/T-Deck) - LilyGo-T-Deck & T-Deck-Plus
 - [AFLplusplus/AFLplusplus](https://github.com/AFLplusplus/AFLplusplus) - The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!
 - [PAGalaxyLab/uniFuzzer](https://github.com/PAGalaxyLab/uniFuzzer) - A fuzzing tool for closed-source binaries based on Unicorn and LibFuzzer
 - [nmap/nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository.
@@ -1066,6 +1066,7 @@
 
 ## Others 
 
+- [loneicewolf/Stuxnet-Source](https://github.com/loneicewolf/Stuxnet-Source) - stuxnet Source & Binaries. (+PLC ROOTKIT) ONLY FOR ACADEMICAL RESEARCH AND EDUCATIONAL PURPOSES! Includes: Source files, Binaries, PLC Samples,Fanny Added in another repo.
 - [nicholasaleks/reverse-shells](https://github.com/nicholasaleks/reverse-shells) - A collection of reverse shell commands and payloads
 - [tugkanboz/awesome-cursorrules](https://github.com/tugkanboz/awesome-cursorrules) - A curated list of awesome .cursorrules files for enhancing your Cursor AI experience.
 - [jparkerweb/ai-assistant-prompts](https://github.com/jparkerweb/ai-assistant-prompts) - 📏 collection of prompts/rules to use with an AI IDE
@@ -1395,6 +1396,8 @@
 
 ## Python 
 
+- [memodb-io/memobase](https://github.com/memodb-io/memobase) - Profile-Based Long-Term Memory for AI Applications.  Memobase handles user profiles, memory events, and evolving context — perfect for chatbots, companions, tutors, customer service bots, and all chat
+- [savantskie/persistent-ai-memory](https://github.com/savantskie/persistent-ai-memory) - A persistent local memory for AI, LLMs, or Copilot in VS Code.
 - [williamzujkowski/vuln-bot](https://github.com/williamzujkowski/vuln-bot) - An automated vulnerability intelligence platform that harvests, scores, and publishes daily vulnerability briefings with a client-side analyst dashboard.
 - [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
 - [sanjeed5/awesome-cursor-rules-mdc](https://github.com/sanjeed5/awesome-cursor-rules-mdc) - Curated list of awesome Cursor Rules .mdc files
