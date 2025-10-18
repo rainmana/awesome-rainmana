@@ -177,7 +177,7 @@
 - [samhocevar/rinetd](https://github.com/samhocevar/rinetd) - 📡 TCP/UDP port redirector
 - [samhocevar/zzuf](https://github.com/samhocevar/zzuf) - 🌪️ Application fuzzer
 - [xMasterX/flipper-pager](https://github.com/xMasterX/flipper-pager) - Flipper Zero POCSAG Pager receiver plugin
-- [n0xa/m5stick-nemo](https://github.com/n0xa/m5stick-nemo) - M5 Stick C firmware for high-tech pranks
+- [n0xa/m5stick-nemo](https://github.com/n0xa/m5stick-nemo) - M5 Stick C firmware for high-tech pranks and digital self defense
 - [Xinyuan-LilyGO/T-Deck](https://github.com/Xinyuan-LilyGO/T-Deck) - LilyGo-T-Deck & T-Deck-Plus
 - [AFLplusplus/AFLplusplus](https://github.com/AFLplusplus/AFLplusplus) - The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!
 - [PAGalaxyLab/uniFuzzer](https://github.com/PAGalaxyLab/uniFuzzer) - A fuzzing tool for closed-source binaries based on Unicorn and LibFuzzer
@@ -1006,7 +1006,7 @@
 
 - [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
 - [TARS-AI-Community/docs](https://github.com/TARS-AI-Community/docs) - The official documentation hub for TARS-AI. Find guides, technical references, and contribution resources here.
-- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 
 ## Makefile 
 
