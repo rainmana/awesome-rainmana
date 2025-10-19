@@ -4033,7 +4033,7 @@
 - [byinarie/teams_dump](https://github.com/byinarie/teams_dump) - PoC for dumping and decrypting cookies in the latest version of Microsoft Teams
 - [spyboy-productions/Facad1ng](https://github.com/spyboy-productions/Facad1ng) - The Ultimate URL Masking Tool - An open-source URL masking tool designed to help you Hide Phishing URLs and make them look legit using social engineering techniques.
 - [drcode/lisperati-1000-diy](https://github.com/drcode/lisperati-1000-diy) - DIY Instructions for Building a Lisperati1000 Computer
-- [n0xa/m5stick-nemo](https://github.com/n0xa/m5stick-nemo) - M5 Stick C firmware for high-tech pranks
+- [n0xa/m5stick-nemo](https://github.com/n0xa/m5stick-nemo) - M5 Stick C firmware for high-tech pranks and digital self defense
 - [Xinyuan-LilyGO/T-Deck](https://github.com/Xinyuan-LilyGO/T-Deck) - LilyGo-T-Deck & T-Deck-Plus
 - [ByteWelder/Decktility](https://github.com/ByteWelder/Decktility) - A handheld PC
 - [nullt3r/udpx](https://github.com/nullt3r/udpx) - Fast and lightweight, UDPX is a single-packet UDP scanner written in Go that supports the discovery of over 45 services with the ability to add custom ones. It is easy to use and portable, and can be 
