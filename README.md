@@ -782,6 +782,9 @@
 
 ## JavaScript 
 
+- [sitexw/FuckAdBlock](https://github.com/sitexw/FuckAdBlock) - Detects ad blockers (AdBlock, ...)
+- [sitexw/BlockAdBlock](https://github.com/sitexw/BlockAdBlock) - Allows you to detect the extension AdBlock (and other)
+- [wmcmurray/just-detect-adblock](https://github.com/wmcmurray/just-detect-adblock) - It's FuckAdBlock with a minimalist API.
 - [poloclub/transformer-explainer](https://github.com/poloclub/transformer-explainer) - Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization
 - [theotherp/nzbhydra2](https://github.com/theotherp/nzbhydra2) - Usenet meta search
 - [malikashish8/semgrep-ui](https://github.com/malikashish8/semgrep-ui) - An app to help triage a CLI semgrep scan
