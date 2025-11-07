@@ -1323,7 +1323,7 @@
 - [dloss/python-pentest-tools](https://github.com/dloss/python-pentest-tools) - Python tools for penetration testers
 - [olafhartong/ThreatHunting](https://github.com/olafhartong/ThreatHunting) - A Splunk app mapped to MITRE ATT&CK to guide your threat hunts
 - [pan-unit42/tweets](https://github.com/pan-unit42/tweets) - 
-- [netevert/sentinel-attack](https://github.com/netevert/sentinel-attack) - Tools to rapidly deploy a threat hunting capability on Azure Sentinel that leverages Sysmon and MITRE ATT&CK
+- [edoardogerosa/sentinel-attack](https://github.com/edoardogerosa/sentinel-attack) - Tools to rapidly deploy a threat hunting capability on Azure Sentinel that leverages Sysmon and MITRE ATT&CK
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [nccgroup/FrisbeeLite](https://github.com/nccgroup/FrisbeeLite) - A GUI-based USB device fuzzer
@@ -2005,7 +2005,7 @@
 - [intelowlproject/IntelOwl](https://github.com/intelowlproject/IntelOwl) - IntelOwl: manage your Threat Intelligence at scale
 - [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
 - [s0md3v/Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.
-- [netevert/pockint](https://github.com/netevert/pockint) - A portable OSINT Swiss Army Knife for DFIR/OSINT professionals 🕵️ 🕵️ 🕵️
+- [edoardogerosa/pockint](https://github.com/edoardogerosa/pockint) - A portable OSINT Swiss Army Knife for DFIR/OSINT professionals 🕵️ 🕵️ 🕵️
 - [KTZgraph/sarenka](https://github.com/KTZgraph/sarenka) - OSINT tool - gets data from services like shodan, censys etc. in one app
 - [AzizKpln/Moriarty-Project](https://github.com/AzizKpln/Moriarty-Project) - This tool gives information about the phone number that you entered.
 - [qeeqbox/osint](https://github.com/qeeqbox/osint) - Build custom OSINT tools and APIs (Ping, Traceroute, Scans, Archives, DNS, Scrape, Whois, Metadata & built-in database for more info) with this python package
