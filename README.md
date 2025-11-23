@@ -1004,6 +1004,7 @@
 
 ## Kotlin 
 
+- [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple's ecosystem.
 - [dovecoteescapee/ByeDPIAndroid](https://github.com/dovecoteescapee/ByeDPIAndroid) - App to bypass censorship on Android
 - [efoncubierta/cloudspec](https://github.com/efoncubierta/cloudspec) - CloudSpec is an open source tool for validating your resources in your cloud providers using a logical language.
 - [PortSwigger/mcp-server](https://github.com/PortSwigger/mcp-server) - MCP Server for Burp
@@ -1248,7 +1249,6 @@
 - [seeschwein/e75lifeline](https://github.com/seeschwein/e75lifeline) - Nokia E75 S60v3 fp2 support
 - [Llixuma/Nokia-6300-4G-root-2024](https://github.com/Llixuma/Nokia-6300-4G-root-2024) - this is a manual arch linux approach to getting root on the Nokia 6300 4G
 - [BlackVS/ESP32-reversing](https://github.com/BlackVS/ESP32-reversing) - A curated list of ESP32 related reversing resources
-- [ribthegreat99OrN0P/Agile.NET-Deobfuscator-MOVED](https://github.com/ribthegreat99OrN0P/Agile.NET-Deobfuscator-MOVED) - 
 - [ret42/RE-Thing](https://github.com/ret42/RE-Thing) - Reverse Engineering Tools (deobf, decompiler etc..)
 - [nasa/autodoc](https://github.com/nasa/autodoc) - Create Microsoft Documents automatically using Text and Template files
 - [nasa/prog_models](https://github.com/nasa/prog_models) - The NASA Prognostic Model Package is a Python framework focused on defining and building models for prognostics (computation of remaining useful life) of engineering systems, and provides a set of pro
