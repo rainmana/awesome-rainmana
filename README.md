@@ -64,6 +64,7 @@
 - [Scala](#scala)
 - [Scheme](#scheme)
 - [Shell](#shell)
+- [Squirrel](#squirrel)
 - [Svelte](#svelte)
 - [Swift](#swift)
 - [TeX](#tex)
@@ -105,6 +106,7 @@
 
 ## C 
 
+- [TsudaKageyu/minhook](https://github.com/TsudaKageyu/minhook) - The Minimalistic x86/x64 API Hooking Library for Windows
 - [PeggleCommunity/PopCapFramework](https://github.com/PeggleCommunity/PopCapFramework) - PopCap's Framework archive and docs
 - [francescopace/espectre](https://github.com/francescopace/espectre) - 🛜 ESPectre 👻  - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration.
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
@@ -308,6 +310,7 @@
 
 ## C++ 
 
+- [Lat0ur/WarThunderHack](https://github.com/Lat0ur/WarThunderHack) - A WarThunder Hack;
 - [nzbget/nzbget](https://github.com/nzbget/nzbget) - Efficient Usenet Downloader
 - [ch4ncellor/EAC-Reversal](https://github.com/ch4ncellor/EAC-Reversal) - 09/2021 reversal of EasyAntiCheat driver
 - [fmtlib/fmt](https://github.com/fmtlib/fmt) - A modern formatting library
@@ -475,6 +478,7 @@
 
 ## Go 
 
+- [GaijinEntertainment/go-exhaustruct](https://github.com/GaijinEntertainment/go-exhaustruct) - golang analyzer that finds structures with uninitialized fields
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 - [rainmana/gothink](https://github.com/rainmana/gothink) - 
 - [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
@@ -669,6 +673,7 @@
 
 ## HTML 
 
+- [ImVexed/ThunderView](https://github.com/ImVexed/ThunderView) - A War Thunder data mine visualization project
 - [OWASP/www-project-web-security-testing-guide](https://github.com/OWASP/www-project-web-security-testing-guide) - The Web Security Testing Guide (WSTG) Project produces the premier cybersecurity testing resource for web application developers and security professionals.
 - [aalex954/hidden-char-scanner](https://github.com/aalex954/hidden-char-scanner) - Detect zero-width, control, bidi, variation-selector, PUA, and combining-mark characters in text.
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
@@ -1433,6 +1438,11 @@
 
 ## Python 
 
+- [PowerBroker2/Thunder_Viewer](https://github.com/PowerBroker2/Thunder_Viewer) - Open source Python GUI to stream and log War Thunder match data
+- [ShubbeLeontij/sightgenerator](https://github.com/ShubbeLeontij/sightgenerator) - Graphical interface for creating custom War Thunder sights
+- [lucasvmx/WarThunder-localhost-documentation](https://github.com/lucasvmx/WarThunder-localhost-documentation) - Repository dedicated to provide a full documentation to war thunder localhost:8111 api
+- [PowerBroker2/WarThunder](https://github.com/PowerBroker2/WarThunder) - Python package to query and access vehicle telemetry data while in War Thunder battles
+- [klensy/wt-tools](https://github.com/klensy/wt-tools) - War Thunder resource extraction tools
 - [r2c-CSE/semgrep-utilities](https://github.com/r2c-CSE/semgrep-utilities) - A non-official public repository with Semgrep Utilities
 - [mitre-atlas/atlas-navigator-data](https://github.com/mitre-atlas/atlas-navigator-data) - Scripts and outputs for ATLAS data in STIX JSON and ATT&CK Navigator layer formats
 - [mitre-atlas/atlas-data](https://github.com/mitre-atlas/atlas-data) - ATLAS tactics, techniques, and case studies data
@@ -2345,6 +2355,10 @@
 - [firmadyne/firmadyne](https://github.com/firmadyne/firmadyne) - Platform for emulation and dynamic analysis of Linux-based firmware
 - [RangeNetworks/dev](https://github.com/RangeNetworks/dev) - Start Here! Development Environment Tools and System Releases
 - [e-m-b-a/emba](https://github.com/e-m-b-a/emba) - EMBA - The firmware security analyzer
+
+## Squirrel 
+
+- [gszabi99/War-Thunder-Datamine](https://github.com/gszabi99/War-Thunder-Datamine) - Frequently updated War Thunder Datamine repository
 
 ## Svelte 
 
