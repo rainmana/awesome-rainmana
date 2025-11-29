@@ -3653,6 +3653,7 @@
 
 ## others 
 
+- [kinnla/eniac](https://github.com/kinnla/eniac) - Graphical simulation of the ENIAC, first universal digital electronic computer built 1942-1946
 - [supercorp-ai/supergateway](https://github.com/supercorp-ai/supergateway) - Run MCP stdio servers over SSE and SSE over stdio. AI gateway.
 - [gcc3/simple-ai-chat](https://github.com/gcc3/simple-ai-chat) - AI chat application based on large language models (LLMs), supports web and command-line interfaces.
 - [Lucassssss/eechat](https://github.com/Lucassssss/eechat) - 🚀 Powerful Local AI Chat Application - Mcp, Secure, Efficient, Personalized 本地化部署的大模型客户端
