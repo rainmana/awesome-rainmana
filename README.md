@@ -28,6 +28,7 @@
 - [HCL](#hcl)
 - [HTML](#html)
 - [Haskell](#haskell)
+- [Inno Setup](#inno-setup)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
@@ -107,6 +108,7 @@
 
 ## C 
 
+- [FDH2/UxPlay](https://github.com/FDH2/UxPlay) - AirPlay Unix mirroring server
 - [TsudaKageyu/minhook](https://github.com/TsudaKageyu/minhook) - The Minimalistic x86/x64 API Hooking Library for Windows
 - [PeggleCommunity/PopCapFramework](https://github.com/PeggleCommunity/PopCapFramework) - PopCap's Framework archive and docs
 - [francescopace/espectre](https://github.com/francescopace/espectre) - 🛜 ESPectre 👻  - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration.
@@ -696,7 +698,6 @@
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic
 - [hackershare/hackershare](https://github.com/hackershare/hackershare) - Hackershare is a powerful social bookmarking service and a knowledge-sharing community, with advanced search and tag management feature
 - [0x1iii1ii/PPPwn-Luckfox](https://github.com/0x1iii1ii/PPPwn-Luckfox) - PPPwn PS4 Exploit for Luckfox Pico Pro/Max/Plus/Mini
-- [devich/quick](https://github.com/devich/quick) - The Quick theme magically transforms your README.md into a GitHub Pages site, applying clean and visually appealing styles. The fastest and easiest way to create a GitHub Pages website for your projec
 - [vinaysomawat/vinaysomawat.github.io](https://github.com/vinaysomawat/vinaysomawat.github.io) - This portfolio showcasing dynamic GitHub stats, Medium blog posts, and professional experience. Built with ES6+, lit-html, and CSS3, integrates data from GitHub and Medium for real-time content.
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) - Open-Source Unified Vulnerability Management, DevSecOps & ASPM
 - [hugo-themes/toha](https://github.com/hugo-themes/toha) - A Hugo theme for personal portfolio
@@ -738,8 +739,14 @@
 
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 
+## Inno Setup 
+
+- [leapbtw/uxplay-windows](https://github.com/leapbtw/uxplay-windows) - FREE AirPlay to Windows PC
+
 ## Java 
 
+- [openairplay/open-airplay](https://github.com/openairplay/open-airplay) - A collection of libraries for Apple's AirPlay protocol
+- [kinnla/eniac](https://github.com/kinnla/eniac) - Graphical simulation of the ENIAC, first universal digital electronic computer built 1942-1946
 - [RosettaDrone/rosettadrone](https://github.com/RosettaDrone/rosettadrone) - MAVlink and H.264 Video for DJI drones
 - [LaurieWired/BadUnboxing](https://github.com/LaurieWired/BadUnboxing) - Automated Android custom unpacker generator
 - [LaurieWired/Malimite](https://github.com/LaurieWired/Malimite) - iOS and macOS Decompiler
@@ -1448,6 +1455,7 @@
 
 ## Python 
 
+- [pascalw/Airplayer](https://github.com/pascalw/Airplayer) - Python script to make media playing software Apple Airplay compatbible. Currently supports XBMC, Plex and Boxee.
 - [eliasdorneles/upiano](https://github.com/eliasdorneles/upiano) - A Piano in your terminal
 - [magenta/magenta-realtime](https://github.com/magenta/magenta-realtime) - 
 - [LaurieWired/InfiniteRadio](https://github.com/LaurieWired/InfiniteRadio) - Infinite Contextual Radio
@@ -2155,6 +2163,7 @@
 - [motor-admin/motor-admin](https://github.com/motor-admin/motor-admin) - Deploy a no-code admin panel for any application in less than a minute. Search, create, update, and delete data entries, create custom actions, and build reports.
 - [jekyll/jekyll-mentions](https://github.com/jekyll/jekyll-mentions) - :busts_in_silhouette: @mention support for your Jekyll site
 - [benbalter/jekyll-optional-front-matter](https://github.com/benbalter/jekyll-optional-front-matter) - A Jekyll plugin to make front matter optional for Markdown files
+- [devich/quick](https://github.com/devich/quick) - The Quick theme magically transforms your README.md into a GitHub Pages site, applying clean and visually appealing styles. The fastest and easiest way to create a GitHub Pages website for your projec
 - [capistrano/capistrano](https://github.com/capistrano/capistrano) - A deployment automation tool built on Ruby, Rake, and SSH.
 - [danielmiessler/Caparser](https://github.com/danielmiessler/Caparser) - A quick and dirty PCAP parser that helps you identify who your applications are sending sensitive data to without encryption.
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
@@ -2310,7 +2319,6 @@
 - [nextcloud/nextcloudpi](https://github.com/nextcloud/nextcloudpi) - 📦 Build code for NextcloudPi: Raspberry Pi, Odroid, Rock64, curl installer...
 - [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) - Hyprland configuration files or dotfiles - This repo is used as main repo for all my Distro-Hyprland Install Scripts. See the readme
 - [geometry-zsh/geometry](https://github.com/geometry-zsh/geometry) - geometry is a minimal, composable zsh prompt
-- [BlueprintFramework/framework](https://github.com/BlueprintFramework/framework) - Powerful, fast and developer-friendly extension framework for Pterodactyl. Utilize extension APIs, inject HTML, modify stylesheets, package extensions and so much more.
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [micha/jsawk](https://github.com/micha/jsawk) - Like awk, but for JSON.
 - [ESP32DE/Boot-Linux-ESP32S3-Playground](https://github.com/ESP32DE/Boot-Linux-ESP32S3-Playground) - This is a playground for the Boot Linux on ESP32-S3
@@ -2514,6 +2522,7 @@
 - [adileo/squirreldisk](https://github.com/adileo/squirreldisk) - Beautiful, Cross-Platform and Super Fast Disk Usage Analysis Tool - Built With Rust 🦀
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [espressif/vscode-esp-idf-extension](https://github.com/espressif/vscode-esp-idf-extension) - Visual Studio Code extension for ESP-IDF projects
+- [BlueprintFramework/framework](https://github.com/BlueprintFramework/framework) - Powerful, fast and developer-friendly extension framework for Pterodactyl. Utilize extension APIs, inject HTML, modify stylesheets, package extensions and so much more.
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [ItsRiprod/DeskThing](https://github.com/ItsRiprod/DeskThing) - Desk Thing: The Discord Thing, Trello Thing, The Weather Thing, The Macro Thing, Just not The Car Thing anymore
 - [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
