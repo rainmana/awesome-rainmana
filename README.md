@@ -683,6 +683,7 @@
 
 ## HTML 
 
+- [espressif/esp-box](https://github.com/espressif/esp-box) - The ESP-BOX is a new generation AIoT development platform released by Espressif Systems.
 - [ImVexed/ThunderView](https://github.com/ImVexed/ThunderView) - A War Thunder data mine visualization project
 - [OWASP/www-project-web-security-testing-guide](https://github.com/OWASP/www-project-web-security-testing-guide) - The Web Security Testing Guide (WSTG) Project produces the premier cybersecurity testing resource for web application developers and security professionals.
 - [aalex954/hidden-char-scanner](https://github.com/aalex954/hidden-char-scanner) - Detect zero-width, control, bidi, variation-selector, PUA, and combining-mark characters in text.
@@ -1457,6 +1458,8 @@
 
 ## Python 
 
+- [jgpeiro/esp32_ai_assistant](https://github.com/jgpeiro/esp32_ai_assistant) - 
+- [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [pascalw/Airplayer](https://github.com/pascalw/Airplayer) - Python script to make media playing software Apple Airplay compatbible. Currently supports XBMC, Plex and Boxee.
 - [eliasdorneles/upiano](https://github.com/eliasdorneles/upiano) - A Piano in your terminal
 - [magenta/magenta-realtime](https://github.com/magenta/magenta-realtime) - 
