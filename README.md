@@ -91,6 +91,7 @@
 
 ## Astro 
 
+- [terminaldotshop/the-standup](https://github.com/terminaldotshop/the-standup) - website for the standup
 - [fracalo/astro-supabase-ss](https://github.com/fracalo/astro-supabase-ss) - Opinionated Supabase + Astro template
 - [shaunchander/astro-pwa-starter](https://github.com/shaunchander/astro-pwa-starter) - ✨ An opinionated Astro starter for building robust static websites.
 
@@ -482,6 +483,8 @@
 
 ## Go 
 
+- [cr0hn/dockerscan](https://github.com/cr0hn/dockerscan) - The Most Comprehensive Docker Security Scanner
+- [terminaldotshop/terminal-sdk-go](https://github.com/terminaldotshop/terminal-sdk-go) - 
 - [redis/rueidis](https://github.com/redis/rueidis) - A fast Golang Redis client that supports Client Side Caching, Auto Pipelining, Generics OM, RedisJSON, RedisBloom, RediSearch, etc.
 - [obot-platform/obot](https://github.com/obot-platform/obot) - Open-source MCP Gateway and AI Platform
 - [GaijinEntertainment/go-exhaustruct](https://github.com/GaijinEntertainment/go-exhaustruct) - golang analyzer that finds structures with uninitialized fields
@@ -748,6 +751,7 @@
 
 ## Java 
 
+- [PaperMC/Paper](https://github.com/PaperMC/Paper) - The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
 - [openairplay/open-airplay](https://github.com/openairplay/open-airplay) - A collection of libraries for Apple's AirPlay protocol
 - [kinnla/eniac](https://github.com/kinnla/eniac) - Graphical simulation of the ENIAC, first universal digital electronic computer built 1942-1946
 - [RosettaDrone/rosettadrone](https://github.com/RosettaDrone/rosettadrone) - MAVlink and H.264 Video for DJI drones
@@ -1119,6 +1123,7 @@
 
 ## Others 
 
+- [terminaldotshop/crema](https://github.com/terminaldotshop/crema) - A stark black & white code theme with a shot of espresso. Built for terminals, editors, and anything that needs razor‑sharp contrast and a splash of Terminal orange.
 - [9M2PJU/ATAK-Civ-Plugins](https://github.com/9M2PJU/ATAK-Civ-Plugins) - Compilation of ATAK Civ and plugins
 - [MrMinor-dev/semantic-search-transformation](https://github.com/MrMinor-dev/semantic-search-transformation) - Enterprise RAG Optimization Framework - 84-document transformation for AI-autonomous operations
 - [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!
@@ -1458,6 +1463,8 @@
 
 ## Python 
 
+- [opencybersecurityalliance/stix-shifter](https://github.com/opencybersecurityalliance/stix-shifter) - This project consists of an open source library allowing software to connect to data repositories using STIX Patterning, and return results as STIX Observations.
+- [sickwell/CVE-2025-55182](https://github.com/sickwell/CVE-2025-55182) - CVE-2025-55182 - React Server Components RCE Exploit & Scanner Supports external servers and CLI interface
 - [jgpeiro/esp32_ai_assistant](https://github.com/jgpeiro/esp32_ai_assistant) - 
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [pascalw/Airplayer](https://github.com/pascalw/Airplayer) - Python script to make media playing software Apple Airplay compatbible. Currently supports XBMC, Plex and Boxee.
@@ -2398,6 +2405,7 @@
 
 ## Swift 
 
+- [huggingface/swift-huggingface](https://github.com/huggingface/swift-huggingface) - A Swift client for Hugging Face Hub and Inference Providers APIs
 - [mipstian/catch](https://github.com/mipstian/catch) - Catch: Broadcatching made easy.
 - [sebj/Steam](https://github.com/sebj/Steam) - A Swift package to interact directly with Steam.
 - [gluonfield/enchanted](https://github.com/gluonfield/enchanted) - Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama.
@@ -2425,6 +2433,7 @@
 
 ## TypeScript 
 
+- [terminaldotshop/terminal](https://github.com/terminaldotshop/terminal) - 
 - [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) - Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
 - [wong2/litemcp](https://github.com/wong2/litemcp) - A TypeScript framework for building MCP servers elegantly
