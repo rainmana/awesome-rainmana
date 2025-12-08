@@ -1656,7 +1656,7 @@
 ## design 
 
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard infinite canvas SDK
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 
 ## developer-tools 
@@ -3669,6 +3669,7 @@
 
 ## others 
 
+- [Skycards/Changes](https://github.com/Skycards/Changes) - 
 - [sickwell/CVE-2025-55182](https://github.com/sickwell/CVE-2025-55182) - CVE-2025-55182 - React Server Components RCE Exploit & Scanner Supports external servers and CLI interface
 - [huggingface/swift-huggingface](https://github.com/huggingface/swift-huggingface) - A Swift client for Hugging Face Hub and Inference Providers APIs
 - [terminaldotshop/the-standup](https://github.com/terminaldotshop/the-standup) - website for the standup
@@ -4724,6 +4725,7 @@
 
 ## parsing 
 
+- [bradjasper/ImportJSON](https://github.com/bradjasper/ImportJSON) - Import JSON into Google Sheets, this library adds various ImportJSON functions to your spreadsheet
 - [KINGSABRI/jwtear](https://github.com/KINGSABRI/jwtear) - Modular command-line tool to parse, create and manipulate JWT tokens for hackers
 
 ## penetration-testing 
@@ -5342,7 +5344,7 @@
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
 - [OvidijusParsiunas/deep-chat](https://github.com/OvidijusParsiunas/deep-chat) - Fully customizable AI chatbot component for your website
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard infinite canvas SDK
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
@@ -5911,7 +5913,7 @@
 
 ## sketch 
 
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard infinite canvas SDK
 
 ## software 
 
