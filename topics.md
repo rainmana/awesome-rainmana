@@ -1657,7 +1657,7 @@
 - [arturo-lang/grafito](https://github.com/arturo-lang/grafito) - Portable, Serverless & Lightweight SQLite-based Graph Database in Arturo
 - [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
 - [CERT-Polska/mquery](https://github.com/CERT-Polska/mquery) - YARA malware query accelerator (web frontend)
-- [patx/pickledb](https://github.com/patx/pickledb) - pickleDB is an in memory key-value store using Python's orjson module for persistence.
+- [patx/pickledb](https://github.com/patx/pickledb) - pickleDB is an in memory key-value store using Python's orjson module for persistence. It can also use SQLite instead of orjson if needed.
 - [zopefoundation/ZODB](https://github.com/zopefoundation/ZODB) - Python object-oriented database
 - [msiemens/tinydb](https://github.com/msiemens/tinydb) - TinyDB is a lightweight document oriented database optimized for your happiness :)
 - [pysonDB/pysonDB](https://github.com/pysonDB/pysonDB) - A Simple , ☁️ Lightweight ,  💪 Efficent JSON based database for 🐍 Python. PysonDB-V2 has been released ⬇️
@@ -2952,7 +2952,7 @@
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [mkrd/DictDataBase](https://github.com/mkrd/DictDataBase) - A python NoSQL dictionary database, with concurrent access and ACID compliance
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. 
-- [patx/pickledb](https://github.com/patx/pickledb) - pickleDB is an in memory key-value store using Python's orjson module for persistence.
+- [patx/pickledb](https://github.com/patx/pickledb) - pickleDB is an in memory key-value store using Python's orjson module for persistence. It can also use SQLite instead of orjson if needed.
 - [msiemens/tinydb](https://github.com/msiemens/tinydb) - TinyDB is a lightweight document oriented database optimized for your happiness :)
 - [pysonDB/pysonDB](https://github.com/pysonDB/pysonDB) - A Simple , ☁️ Lightweight ,  💪 Efficent JSON based database for 🐍 Python. PysonDB-V2 has been released ⬇️
 - [typicode/lowdb](https://github.com/typicode/lowdb) - Simple and fast JSON database
@@ -5402,7 +5402,7 @@
 - [codilime/veles](https://github.com/codilime/veles) - Binary data analysis and visualization tool
 - [jsharkey13/iphone_backup_decrypt](https://github.com/jsharkey13/iphone_backup_decrypt) - Decrypt an encrypted local iOS backup on Windows or MacOS
 - [onekey-sec/unblob](https://github.com/onekey-sec/unblob) - Extract files from any kind of container formats
-- [patx/pickledb](https://github.com/patx/pickledb) - pickleDB is an in memory key-value store using Python's orjson module for persistence.
+- [patx/pickledb](https://github.com/patx/pickledb) - pickleDB is an in memory key-value store using Python's orjson module for persistence. It can also use SQLite instead of orjson if needed.
 - [zopefoundation/ZODB](https://github.com/zopefoundation/ZODB) - Python object-oriented database
 - [kayak/pypika](https://github.com/kayak/pypika) - PyPika is a python SQL query builder that exposes the full richness of the SQL language using a syntax that reflects the resulting query. PyPika excels at all sorts of SQL queries but is especially us
 - [msiemens/tinydb](https://github.com/msiemens/tinydb) - TinyDB is a lightweight document oriented database optimized for your happiness :)
@@ -5521,7 +5521,7 @@
 - [PyCQA/isort](https://github.com/PyCQA/isort) - A Python utility / library to sort imports.
 - [RoseSecurity/ScrapPY](https://github.com/RoseSecurity/ScrapPY) - ScrapPY is a Python utility for scraping manuals, documents, and other sensitive PDFs to generate wordlists that can be utilized by offensive security tools to perform brute force, forced browsing, an
 - [ParthJadhav/Tkinter-Designer](https://github.com/ParthJadhav/Tkinter-Designer) - An easy and fast way to create a Python GUI 🐍
-- [patx/pickledb](https://github.com/patx/pickledb) - pickleDB is an in memory key-value store using Python's orjson module for persistence.
+- [patx/pickledb](https://github.com/patx/pickledb) - pickleDB is an in memory key-value store using Python's orjson module for persistence. It can also use SQLite instead of orjson if needed.
 - [kayak/pypika](https://github.com/kayak/pypika) - PyPika is a python SQL query builder that exposes the full richness of the SQL language using a syntax that reflects the resulting query. PyPika excels at all sorts of SQL queries but is especially us
 - [Conso1eCowb0y/Deepminer](https://github.com/Conso1eCowb0y/Deepminer) - Deep web crawler and search engine
 - [davidteather/everything-web-scraping](https://github.com/davidteather/everything-web-scraping) - Learn everything web scraping with David Teather Codes on YouTube
