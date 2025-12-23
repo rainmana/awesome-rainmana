@@ -505,6 +505,8 @@
 
 ## Go 
 
+- [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - high-performance graph database for real-time use cases
+- [cayleygraph/cayley](https://github.com/cayleygraph/cayley) - An open-source graph database
 - [1backend/1backend](https://github.com/1backend/1backend) - Build AI (or any) apps with scalable microservices & microfrontends.
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [BishopFox/local-llm-ctf](https://github.com/BishopFox/local-llm-ctf) - A small go harness that uses Ollama to orchestrate LLMs in a restricted process flow
@@ -1854,7 +1856,7 @@
 - [openstack/swift](https://github.com/openstack/swift) - OpenStack Storage (Swift). Mirror of code maintained at opendev.org.
 - [Drew-Sec/EvilSlackbot](https://github.com/Drew-Sec/EvilSlackbot) - A Slack bot phishing framework for Red Teaming exercises
 - [CERT-Polska/hfinger](https://github.com/CERT-Polska/hfinger) - Hfinger - fingerprinting HTTP requests
-- [Rizer0/Ropdump](https://github.com/Rizer0/Ropdump) - ROPDump is a command-line tool designed to analyze binary executables for potential Return-Oriented Programming (ROP) gadgets, buffer overflow vulnerabilities, and memory leaks.
+- [nullbyte0x/Ropdump](https://github.com/nullbyte0x/Ropdump) - ROPDump is a command-line tool designed to analyze binary executables for potential Return-Oriented Programming (ROP) gadgets, buffer overflow vulnerabilities, and memory leaks.
 - [joshkar/X-Recon](https://github.com/joshkar/X-Recon) - A utility for detecting webpage inputs and conducting XSS scans.
 - [citizenlab/test-lists](https://github.com/citizenlab/test-lists) - URL testing lists intended for discovering website censorship
 - [Chainlit/cookbook](https://github.com/Chainlit/cookbook) - Chainlit's cookbook repo
@@ -1904,7 +1906,7 @@
 - [nasa/bingo](https://github.com/nasa/bingo) - 
 - [nasa/CrisisMappingToolkit](https://github.com/nasa/CrisisMappingToolkit) - NASA Ames Crisis Mapping Toolkit
 - [nasa/delta](https://github.com/nasa/delta) - Deep Learning for Satellite Imagery
-- [0xNslabs/CanaryTokenScanner](https://github.com/0xNslabs/CanaryTokenScanner) - Detects CanaryTokens in Office docs and PDFs (docx, xlsx, pptx, pdf) without triggering alerts.
+- [0xNslabs/CanaryTokenScanner](https://github.com/0xNslabs/CanaryTokenScanner) - Detects CanaryTokens in Office docs and PDFs (docx, xlsx, pptx, pdf) without triggering alerts
 - [xaitax/SploitScan](https://github.com/xaitax/SploitScan) - SploitScan is a sophisticated cybersecurity utility designed to provide detailed information on vulnerabilities and associated exploits.
 - [dhishan/UPnP-Hack](https://github.com/dhishan/UPnP-Hack) - 
 - [cowrie/cowrie](https://github.com/cowrie/cowrie) - Cowrie SSH/Telnet Honeypot https://docs.cowrie.org/
@@ -2046,7 +2048,7 @@
 - [Hong5489/flipperzero-gate-bruteforce](https://github.com/Hong5489/flipperzero-gate-bruteforce) - Brute Force Gate Remote using Flipper Zero
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [BotoX/Dahua-Firmware-Mod-Kit](https://github.com/BotoX/Dahua-Firmware-Mod-Kit) - Unpack and repack Dahua IP camera firmware upgrade images.
-- [patx/pickledb](https://github.com/patx/pickledb) - pickleDB is an in memory key-value store using Python's orjson module for persistence.
+- [patx/pickledb](https://github.com/patx/pickledb) - pickleDB is an in memory key-value store using Python's orjson module for persistence. It can also use SQLite instead of orjson if needed.
 - [zopefoundation/ZODB](https://github.com/zopefoundation/ZODB) - Python object-oriented database
 - [kayak/pypika](https://github.com/kayak/pypika) - PyPika is a python SQL query builder that exposes the full richness of the SQL language using a syntax that reflects the resulting query. PyPika excels at all sorts of SQL queries but is especially us
 - [msiemens/tinydb](https://github.com/msiemens/tinydb) - TinyDB is a lightweight document oriented database optimized for your happiness :)
@@ -2426,6 +2428,7 @@
 
 ## Shell 
 
+- [hak5/wifipineapplepager-payloads](https://github.com/hak5/wifipineapplepager-payloads) - The Official WiFi Pineapple Pager Payload Repository
 - [marlonrichert/zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - 🤖 Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.
 - [gotlougit/signal-bots](https://github.com/gotlougit/signal-bots) - A collection of scripts to create bots for various purposes in Signal Messenger
 - [mitre-attack/attack-workbench-deployment](https://github.com/mitre-attack/attack-workbench-deployment) - 
