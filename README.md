@@ -110,6 +110,7 @@
 
 ## C 
 
+- [0xdea/semgrep-rules](https://github.com/0xdea/semgrep-rules) - A collection of my Semgrep rules to facilitate vulnerability research.
 - [FluidSynth/fluidsynth](https://github.com/FluidSynth/fluidsynth) - Software synthesizer based on the SoundFont 2 specifications
 - [earlephilhower/ESP8266Audio](https://github.com/earlephilhower/ESP8266Audio) - Arduino library to play MOD, WAV, FLAC, MIDI, RTTTL, OGG/Opus, MP3, and AAC files on I2S DACs or with a software emulated delta-sigma DAC on the ESP8266 and ESP32 and Pico
 - [hathach/tinyusb](https://github.com/hathach/tinyusb) - An open source  cross-platform USB stack for embedded system
@@ -583,6 +584,7 @@
 - [taubyte/tau](https://github.com/taubyte/tau) - Fullstack Workspace for Humans & Machines
 - [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [metrue/fx](https://github.com/metrue/fx) - A Function as a Service tool makes a function as a  container-based service in seconds.
 - [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open device management
@@ -780,6 +782,7 @@
 
 ## Java 
 
+- [PortSwigger/ai-prompt-fuzzer](https://github.com/PortSwigger/ai-prompt-fuzzer) - Burp extension to fuzz/brute force GenAI/LLM prompts using a list of various payloads.
 - [gephi/gephi](https://github.com/gephi/gephi) - Gephi - The Open Graph Viz Platform
 - [AsamK/signal-cli](https://github.com/AsamK/signal-cli) - signal-cli provides an unofficial commandline, JSON-RPC and dbus interface for the Signal messenger.
 - [PaperMC/Paper](https://github.com/PaperMC/Paper) - The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
@@ -1169,6 +1172,7 @@
 
 ## Others 
 
+- [microsoft/sarif-tutorials](https://github.com/microsoft/sarif-tutorials) - User-friendly documentation for the SARIF file format.
 - [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things
 - [yeyintminthuhtut/Awesome-Red-Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) - List of Awesome Red Teaming Resources
 - [kelu124/awesome-latticeFPGAs](https://github.com/kelu124/awesome-latticeFPGAs) - :book: List of FPGA Lattice boards using open tools
@@ -1416,7 +1420,6 @@
 - [APIs-guru/openapi-directory](https://github.com/APIs-guru/openapi-directory) - 🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format
 - [olssonm/google-wifi-api](https://github.com/olssonm/google-wifi-api) - Discovered API-endpoints for the Google Wifi Router and OnHub
 - [sduff/awesome-splunk](https://github.com/sduff/awesome-splunk) - A collection of awesome resources for Splunk
-- [payloadbox/xss-payload-list](https://github.com/payloadbox/xss-payload-list) - 🎯 Cross Site Scripting ( XSS ) Vulnerability Payload List
 - [InfosecHouse/InfosecHouse](https://github.com/InfosecHouse/InfosecHouse) - Tools & Resources for Cyber Security Operations
 - [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets.
 - [redhuntlabs/Awesome-Asset-Discovery](https://github.com/redhuntlabs/Awesome-Asset-Discovery) - List of Awesome Asset Discovery Resources
@@ -1528,6 +1531,7 @@
 
 ## Python 
 
+- [codebytemirza/LLMgrep](https://github.com/codebytemirza/LLMgrep) - LLMGrep combines the precision of Semgrep's static analysis with the power of Large Language Models to deliver comprehensive security scanning, interactive vulnerability discussions, and intelligent r
 - [httpie/httpie-aws-auth](https://github.com/httpie/httpie-aws-auth) - AWS / Amazon S3 auth plugin for HTTPie
 - [jtang613/BinAssistMCP](https://github.com/jtang613/BinAssistMCP) - Binary Ninja plugin to provide MCP functionality.
 - [ahaggard2013/binaryninja-ollama](https://github.com/ahaggard2013/binaryninja-ollama) - 
@@ -2331,7 +2335,7 @@
 ## Rust 
 
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
-- [bodo-run/yek](https://github.com/bodo-run/yek) - A fast Rust based tool to serialize text-based files in a repository or directory for LLM consumption
+- [mohsen1/yek](https://github.com/mohsen1/yek) - A fast Rust based tool to serialize text-based files in a repository or directory for LLM consumption
 - [dreadnode/robopages-cli](https://github.com/dreadnode/robopages-cli) - CLI and API server for https://github.com/dreadnode/robopages
 - [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Package management made easy
 - [aws/amazon-q-developer-cli](https://github.com/aws/amazon-q-developer-cli) - ✨ Agentic chat experience in your terminal. Build applications using natural language.
@@ -2576,6 +2580,9 @@
 
 ## TypeScript 
 
+- [trailofbits/vscode-sarif-explorer](https://github.com/trailofbits/vscode-sarif-explorer) - SARIF Explorer: A VSCode extension that helps you visualize and triage static analysis results
+- [microsoft/sarif-vscode-extension](https://github.com/microsoft/sarif-vscode-extension) - SARIF Microsoft Visual Studio Code extension
+- [microsoft/sarif-web-component](https://github.com/microsoft/sarif-web-component) - A React-based component for viewing SARIF files.
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced free and open-source browser fingerprinting library
@@ -2697,7 +2704,6 @@
 - [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard, primarily used by smaller private servers
 - [xarantolus/Collect](https://github.com/xarantolus/Collect) - A server to collect & archive websites that also supports video downloads
 - [webrecorder/browsertrix-crawler](https://github.com/webrecorder/browsertrix-crawler) - Run a high-fidelity browser-based web archiving crawler in a single Docker container
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes
