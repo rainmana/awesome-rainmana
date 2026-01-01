@@ -46,6 +46,7 @@
 - [cms](#cms)
 - [code](#code)
 - [code-quality](#code-quality)
+- [code-review](#code-review)
 - [coding](#coding)
 - [command-line](#command-line)
 - [compiler](#compiler)
@@ -348,7 +349,7 @@
 - [multimodal-art-projection/YuE](https://github.com/multimodal-art-projection/YuE) - YuE: Open Full-song Music Generation Foundation Model, something similar to Suno.ai but open
 - [tuneflow/tuneflow-py](https://github.com/tuneflow/tuneflow-py) - 🧠+🎧 Build your music algorithms and AI models with the next-gen DAW 🔥
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
-- [bodo-run/yek](https://github.com/bodo-run/yek) - A fast Rust based tool to serialize text-based files in a repository or directory for LLM consumption
+- [mohsen1/yek](https://github.com/mohsen1/yek) - A fast Rust based tool to serialize text-based files in a repository or directory for LLM consumption
 - [1backend/1backend](https://github.com/1backend/1backend) - Build AI (or any) apps with scalable microservices & microfrontends.
 - [langchain-ai/langgraphjs](https://github.com/langchain-ai/langgraphjs) - Framework to build resilient language agents as graphs.
 - [aivillage/llm_verification](https://github.com/aivillage/llm_verification) - LLM prompt attacks for hacker CTFs via CTFd.
@@ -493,6 +494,7 @@
 
 ## android 
 
+- [ant4g0nist/Sloth](https://github.com/ant4g0nist/Sloth) - Sloth 🦥 is a coverage guided fuzzing framework for fuzzing Android Native libraries that makes use of libFuzzer and QEMU user-mode emulation
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple's ecosystem.
 - [jagandeepbrar/lunasea](https://github.com/jagandeepbrar/lunasea) - Self-hosted software controller built using Flutter
@@ -1053,7 +1055,6 @@
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [Cgboal/SonarSearch](https://github.com/Cgboal/SonarSearch) - A rapid API for the Project Sonar dataset
 - [hahwul/dalfox](https://github.com/hahwul/dalfox) - 🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation.
-- [payloadbox/xss-payload-list](https://github.com/payloadbox/xss-payload-list) - 🎯 Cross Site Scripting ( XSS ) Vulnerability Payload List
 - [InfosecHouse/InfosecHouse](https://github.com/InfosecHouse/InfosecHouse) - Tools & Resources for Cyber Security Operations
 - [projectdiscovery/uncover](https://github.com/projectdiscovery/uncover) - Quickly discover exposed hosts on the internet using multiple search engines.
 - [vincentcox/StaCoAn](https://github.com/vincentcox/StaCoAn) - StaCoAn is a crossplatform tool which aids developers, bugbounty hunters and ethical hackers performing static code analysis on mobile applications.
@@ -1062,6 +1063,7 @@
 
 ## c 
 
+- [google/honggfuzz](https://github.com/google/honggfuzz) - Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based)
 - [grame-cncm/faust](https://github.com/grame-cncm/faust) - Functional programming language for signal processing and sound synthesis
 - [belangeo/pyo](https://github.com/belangeo/pyo) - Python DSP module
 - [aubio/aubio](https://github.com/aubio/aubio) - a library for audio and music analysis
@@ -1214,7 +1216,7 @@
 
 - [httpie/httpie-aws-auth](https://github.com/httpie/httpie-aws-auth) - AWS / Amazon S3 auth plugin for HTTPie
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
-- [bodo-run/yek](https://github.com/bodo-run/yek) - A fast Rust based tool to serialize text-based files in a repository or directory for LLM consumption
+- [mohsen1/yek](https://github.com/mohsen1/yek) - A fast Rust based tool to serialize text-based files in a repository or directory for LLM consumption
 - [aws/amazon-q-developer-cli](https://github.com/aws/amazon-q-developer-cli) - ✨ Agentic chat experience in your terminal. Build applications using natural language.
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debl
@@ -1334,6 +1336,10 @@
 
 - [Bearer/bearer](https://github.com/Bearer/bearer) - Code security scanning tool (SAST) to discover, filter and prioritize security and privacy risks.
 - [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
+
+## code-review 
+
+- [0xdea/semgrep-rules](https://github.com/0xdea/semgrep-rules) - A collection of my Semgrep rules to facilitate vulnerability research.
 
 ## coding 
 
@@ -1835,6 +1841,7 @@
 
 ## docker 
 
+- [codebytemirza/LLMgrep](https://github.com/codebytemirza/LLMgrep) - LLMGrep combines the precision of Semgrep's static analysis with the power of Large Language Models to deliver comprehensive security scanning, interactive vulnerability discussions, and intelligent r
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [cr0hn/dockerscan](https://github.com/cr0hn/dockerscan) - The Most Comprehensive Docker Security Scanner
@@ -3148,13 +3155,14 @@
 
 ## llm 
 
+- [codebytemirza/LLMgrep](https://github.com/codebytemirza/LLMgrep) - LLMGrep combines the precision of Semgrep's static analysis with the power of Large Language Models to deliver comprehensive security scanning, interactive vulnerability discussions, and intelligent r
 - [jtang613/BinAssistMCP](https://github.com/jtang613/BinAssistMCP) - Binary Ninja plugin to provide MCP functionality.
 - [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) - 🐢 Open-Source Evaluation & Testing library for LLM Agents
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
 - [AI-QL/tuui](https://github.com/AI-QL/tuui) - A desktop MCP client designed as a tool unitary utility integration, accelerating AI adoption through the Model Context Protocol (MCP) and enabling cross-vendor LLM API orchestration.
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 - [jimmc414/onefilellm](https://github.com/jimmc414/onefilellm) - Specify a github or local repo, github pull request,  arXiv or Sci-Hub paper, Youtube transcript or documentation URL on the web and scrape into a text file and clipboard  for easier LLM ingestion
-- [bodo-run/yek](https://github.com/bodo-run/yek) - A fast Rust based tool to serialize text-based files in a repository or directory for LLM consumption
+- [mohsen1/yek](https://github.com/mohsen1/yek) - A fast Rust based tool to serialize text-based files in a repository or directory for LLM consumption
 - [langchain-ai/langgraphjs](https://github.com/langchain-ai/langgraphjs) - Framework to build resilient language agents as graphs.
 - [NYU-LLM-CTF/nyuctf_agents](https://github.com/NYU-LLM-CTF/nyuctf_agents) - The D-CIPHER and NYU CTF baseline LLM Agents built for NYU CTF Bench
 - [feedox/husher](https://github.com/feedox/husher) - 🤫 husher - Encode text to be hidden from human eyes but visible to LLMs
@@ -3921,6 +3929,18 @@
 
 ## others 
 
+- [schote/nexus-console](https://github.com/schote/nexus-console) - MRI console application based on spectrum-instrumentation measurement cards and pulse sequences from pypulseq. Read more in the docs!
+- [witnessmenow/ESP32-Cheap-Yellow-Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display) - Building a community around a cheap ESP32 Display with a touch screen
+- [costinEEST/almanacs](https://github.com/costinEEST/almanacs) - Search through the recipes
+- [jdbirdwell/afl](https://github.com/jdbirdwell/afl) - american fuzzy lop for network fuzzing (unofficial) -- official afl site is http://lcamtuf.coredump.cx/afl/
+- [deanjerkovich/rage_fuzzer](https://github.com/deanjerkovich/rage_fuzzer) - a dumb protocol-unaware packet fuzzer/replayer
+- [joxeankoret/nightmare](https://github.com/joxeankoret/nightmare) - A distributed fuzzing testing suite with web administration
+- [aflgo/aflgo](https://github.com/aflgo/aflgo) - Directed Greybox Fuzzing with AFL
+- [JaanusKaapPublic/Rehepapp](https://github.com/JaanusKaapPublic/Rehepapp) - New improved corpus distillation toolset that has helped to found tens of vulnerabilities in MS and Adobe products
+- [PortSwigger/ai-prompt-fuzzer](https://github.com/PortSwigger/ai-prompt-fuzzer) - Burp extension to fuzz/brute force GenAI/LLM prompts using a list of various payloads.
+- [trailofbits/vscode-sarif-explorer](https://github.com/trailofbits/vscode-sarif-explorer) - SARIF Explorer: A VSCode extension that helps you visualize and triage static analysis results
+- [microsoft/sarif-tutorials](https://github.com/microsoft/sarif-tutorials) - User-friendly documentation for the SARIF file format.
+- [microsoft/sarif-vscode-extension](https://github.com/microsoft/sarif-vscode-extension) - SARIF Microsoft Visual Studio Code extension
 - [yeyintminthuhtut/Awesome-Red-Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) - List of Awesome Red Teaming Resources
 - [ahaggard2013/binaryninja-ollama](https://github.com/ahaggard2013/binaryninja-ollama) - 
 - [mandiant/GoReSym](https://github.com/mandiant/GoReSym) - Go symbol recovery tool
@@ -5277,6 +5297,8 @@
 
 ## python 
 
+- [python-websockets/websockets](https://github.com/python-websockets/websockets) - Library for building WebSocket servers and clients in Python
+- [codebytemirza/LLMgrep](https://github.com/codebytemirza/LLMgrep) - LLMGrep combines the precision of Semgrep's static analysis with the power of Large Language Models to deliver comprehensive security scanning, interactive vulnerability discussions, and intelligent r
 - [networkx/networkx](https://github.com/networkx/networkx) - Network Analysis in Python
 - [gciruelos/musthe](https://github.com/gciruelos/musthe) - Music theory implemented in Python. Notes, intervals, scales and chords.
 - [Rainbow-Dreamer/musicpy](https://github.com/Rainbow-Dreamer/musicpy) - Musicpy is a music programming language in Python designed to write music in very handy syntax through music theory and algorithms.
@@ -5541,6 +5563,7 @@
 
 ## python3 
 
+- [python-websockets/websockets](https://github.com/python-websockets/websockets) - Library for building WebSocket servers and clients in Python
 - [codingtuto/LiteJsonDb](https://github.com/codingtuto/LiteJsonDb) - A lightweight JSON-based database system designed for simplicity and ease of use. It allows you to manage your data efficiently without the complexity of traditional databases. Code less, be productiv
 - [rehmatworks/gplaydl](https://github.com/rehmatworks/gplaydl) - Command Line Google Play APK downloader. Download APK files to your PC directly from Google Play Store.
 - [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
@@ -5667,6 +5690,7 @@
 
 ## react 
 
+- [microsoft/sarif-web-component](https://github.com/microsoft/sarif-web-component) - A React-based component for viewing SARIF files.
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [ryohey/signal](https://github.com/ryohey/signal) - Online MIDI Editor: signal
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
@@ -5930,6 +5954,7 @@
 
 ## security 
 
+- [google/honggfuzz](https://github.com/google/honggfuzz) - Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based)
 - [QData/TextAttack](https://github.com/QData/TextAttack) - TextAttack 🐙  is a Python framework for adversarial attacks, data augmentation, and model training in NLP https://textattack.readthedocs.io/en/master/
 - [feedox/husher](https://github.com/feedox/husher) - 🤫 husher - Encode text to be hidden from human eyes but visible to LLMs
 - [TrustAI-laboratory/LLM-Security-CTF](https://github.com/TrustAI-laboratory/LLM-Security-CTF) - Learn LLM/AI Security through a series of vulnerable LLM CTF challenges. No sign ups, all fees, everything on the website.
@@ -6070,6 +6095,7 @@
 
 ## security-tools 
 
+- [codebytemirza/LLMgrep](https://github.com/codebytemirza/LLMgrep) - LLMGrep combines the precision of Semgrep's static analysis with the power of Large Language Models to deliver comprehensive security scanning, interactive vulnerability discussions, and intelligent r
 - [opencybersecurityalliance/stix-shifter](https://github.com/opencybersecurityalliance/stix-shifter) - This project consists of an open source library allowing software to connect to data repositories using STIX Patterning, and return results as STIX Observations.
 - [gabrie30/ghorg](https://github.com/gabrie30/ghorg) - Quickly clone or backup an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🐇🥚
 - [gwen001/extract-endpoints](https://github.com/gwen001/extract-endpoints) - Extract endpoints from source files.
@@ -6186,6 +6212,7 @@
 
 ## server 
 
+- [dobin/ffw](https://github.com/dobin/ffw) - A fuzzing framework for network servers
 - [atomicdata-dev/atomic-server](https://github.com/atomicdata-dev/atomic-server) - An open source headless CMS / real-time database. Powerful table editor, full-text search, and SDKs for JS / React / Svelte.
 - [ayebrian/fictusvnc](https://github.com/ayebrian/fictusvnc) - FictusVNC - amazing Fake VNC server to serve your images easily
 - [msoap/shell2http](https://github.com/msoap/shell2http) - Executing shell commands via HTTP server
