@@ -110,6 +110,13 @@
 
 ## C 
 
+- [coreutils/coreutils](https://github.com/coreutils/coreutils) - upstream mirror
+- [openbsd/src](https://github.com/openbsd/src) - Read-only git conversion of OpenBSD's official CVS src repository. Pull requests not accepted - send diffs to the tech@ mailing list.
+- [bminor/bash](https://github.com/bminor/bash) - Unofficial mirror of bash repository. Updated daily.
+- [jdbirdwell/afl](https://github.com/jdbirdwell/afl) - american fuzzy lop for network fuzzing (unofficial) -- official afl site is http://lcamtuf.coredump.cx/afl/
+- [deanjerkovich/rage_fuzzer](https://github.com/deanjerkovich/rage_fuzzer) - a dumb protocol-unaware packet fuzzer/replayer
+- [google/honggfuzz](https://github.com/google/honggfuzz) - Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based)
+- [aflgo/aflgo](https://github.com/aflgo/aflgo) - Directed Greybox Fuzzing with AFL
 - [0xdea/semgrep-rules](https://github.com/0xdea/semgrep-rules) - A collection of my Semgrep rules to facilitate vulnerability research.
 - [FluidSynth/fluidsynth](https://github.com/FluidSynth/fluidsynth) - Software synthesizer based on the SoundFont 2 specifications
 - [earlephilhower/ESP8266Audio](https://github.com/earlephilhower/ESP8266Audio) - Arduino library to play MOD, WAV, FLAC, MIDI, RTTTL, OGG/Opus, MP3, and AAC files on I2S DACs or with a software emulated delta-sigma DAC on the ESP8266 and ESP32 and Pico
@@ -322,6 +329,7 @@
 
 ## C++ 
 
+- [ant4g0nist/Sloth](https://github.com/ant4g0nist/Sloth) - Sloth 🦥 is a coverage guided fuzzing framework for fuzzing Android Native libraries that makes use of libFuzzer and QEMU user-mode emulation
 - [tttapa/Control-Surface](https://github.com/tttapa/Control-Surface) - Arduino library for creating MIDI controllers and other MIDI devices.
 - [dwhinham/mt32-pi](https://github.com/dwhinham/mt32-pi) - 🎹🎶 A baremetal kernel that turns your Raspberry Pi 3 or later into a Roland MT-32 emulator and SoundFont synthesizer based on Circle, Munt, and FluidSynth.
 - [monocasual/giada](https://github.com/monocasual/giada) - Your Hardcore Loop Machine.
@@ -782,6 +790,7 @@
 
 ## Java 
 
+- [JaanusKaapPublic/Rehepapp](https://github.com/JaanusKaapPublic/Rehepapp) - New improved corpus distillation toolset that has helped to found tens of vulnerabilities in MS and Adobe products
 - [PortSwigger/ai-prompt-fuzzer](https://github.com/PortSwigger/ai-prompt-fuzzer) - Burp extension to fuzz/brute force GenAI/LLM prompts using a list of various payloads.
 - [gephi/gephi](https://github.com/gephi/gephi) - Gephi - The Open Graph Viz Platform
 - [AsamK/signal-cli](https://github.com/AsamK/signal-cli) - signal-cli provides an unofficial commandline, JSON-RPC and dbus interface for the Signal messenger.
@@ -1125,6 +1134,8 @@
 
 ## Nim 
 
+- [planetis-m/libfuzzer](https://github.com/planetis-m/libfuzzer) - Thin interface for libFuzzer, an in-process, coverage-guided, evolutionary fuzzing engine.
+- [nim-lang/packages](https://github.com/nim-lang/packages) - List of packages for Nimble
 - [gokr/nimcp](https://github.com/gokr/nimcp) - A Nim library to easily make MCP servers for use by LLMs
 - [frkngksl/NimExec](https://github.com/frkngksl/NimExec) - Fileless Command Execution for Lateral Movement in Nim
 - [ringabout/awesome-nim](https://github.com/ringabout/awesome-nim) - A curated list of awesome Nim frameworks, libraries, software and resources.
@@ -1172,6 +1183,8 @@
 
 ## Others 
 
+- [yaelwrites/Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) - 
+- [costinEEST/almanacs](https://github.com/costinEEST/almanacs) - Search through the recipes
 - [microsoft/sarif-tutorials](https://github.com/microsoft/sarif-tutorials) - User-friendly documentation for the SARIF file format.
 - [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things
 - [yeyintminthuhtut/Awesome-Red-Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) - List of Awesome Red Teaming Resources
@@ -1531,6 +1544,12 @@
 
 ## Python 
 
+- [hass-uconnect/hass-uconnect](https://github.com/hass-uconnect/hass-uconnect) - Home Assistant integration for FCA/Stellantis cars (Fiat, Chrysler, Dodge, Jeep, Ram, Alfa Romeo, Maserati)
+- [Hyundai-Kia-Connect/hyundai_kia_connect_api](https://github.com/Hyundai-Kia-Connect/hyundai_kia_connect_api) - This is a Kia UVO and Hyundai Bluelink written in python. It is primary consumed by home assistant. If you are looking for a home assistant Kia / Hyundai implementation please look here: https://githu
+- [schote/nexus-console](https://github.com/schote/nexus-console) - MRI console application based on spectrum-instrumentation measurement cards and pulse sequences from pypulseq. Read more in the docs!
+- [dobin/ffw](https://github.com/dobin/ffw) - A fuzzing framework for network servers
+- [joxeankoret/nightmare](https://github.com/joxeankoret/nightmare) - A distributed fuzzing testing suite with web administration
+- [python-websockets/websockets](https://github.com/python-websockets/websockets) - Library for building WebSocket servers and clients in Python
 - [codebytemirza/LLMgrep](https://github.com/codebytemirza/LLMgrep) - LLMGrep combines the precision of Semgrep's static analysis with the power of Large Language Models to deliver comprehensive security scanning, interactive vulnerability discussions, and intelligent r
 - [httpie/httpie-aws-auth](https://github.com/httpie/httpie-aws-auth) - AWS / Amazon S3 auth plugin for HTTPie
 - [jtang613/BinAssistMCP](https://github.com/jtang613/BinAssistMCP) - Binary Ninja plugin to provide MCP functionality.
@@ -2334,6 +2353,7 @@
 
 ## Rust 
 
+- [witnessmenow/ESP32-Cheap-Yellow-Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display) - Building a community around a cheap ESP32 Display with a touch screen
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 - [mohsen1/yek](https://github.com/mohsen1/yek) - A fast Rust based tool to serialize text-based files in a repository or directory for LLM consumption
 - [dreadnode/robopages-cli](https://github.com/dreadnode/robopages-cli) - CLI and API server for https://github.com/dreadnode/robopages
@@ -2443,6 +2463,7 @@
 
 ## Shell 
 
+- [Squithy/uConnect](https://github.com/Squithy/uConnect) - uConnect Reverse Eng
 - [hak5/wifipineapplepager-payloads](https://github.com/hak5/wifipineapplepager-payloads) - The Official WiFi Pineapple Pager Payload Repository
 - [marlonrichert/zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - 🤖 Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.
 - [gotlougit/signal-bots](https://github.com/gotlougit/signal-bots) - A collection of scripts to create bots for various purposes in Signal Messenger
@@ -2580,6 +2601,7 @@
 
 ## TypeScript 
 
+- [Hacksore/bluelinky](https://github.com/Hacksore/bluelinky) - An unofficial nodejs API wrapper for Hyundai bluelink and Kia UVO
 - [trailofbits/vscode-sarif-explorer](https://github.com/trailofbits/vscode-sarif-explorer) - SARIF Explorer: A VSCode extension that helps you visualize and triage static analysis results
 - [microsoft/sarif-vscode-extension](https://github.com/microsoft/sarif-vscode-extension) - SARIF Microsoft Visual Studio Code extension
 - [microsoft/sarif-web-component](https://github.com/microsoft/sarif-web-component) - A React-based component for viewing SARIF files.
