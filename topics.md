@@ -341,6 +341,7 @@
 
 ## ai 
 
+- [scthornton/securecode-v2](https://github.com/scthornton/securecode-v2) - Real-World Security Conversations for AI Training
 - [jtang613/BinAssistMCP](https://github.com/jtang613/BinAssistMCP) - Binary Ninja plugin to provide MCP functionality.
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
 - [AI-QL/tuui](https://github.com/AI-QL/tuui) - A desktop MCP client designed as a tool unitary utility integration, accelerating AI adoption through the Model Context Protocol (MCP) and enabling cross-vendor LLM API orchestration.
@@ -449,6 +450,7 @@
 
 ## ai-agents 
 
+- [scthornton/securecode-v2](https://github.com/scthornton/securecode-v2) - Real-World Security Conversations for AI Training
 - [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) - AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
 - [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) - Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Local-first, open-source tools for automating everyday work.
@@ -691,6 +693,7 @@
 
 ## awesome 
 
+- [emptymalei/awesome-research](https://github.com/emptymalei/awesome-research) - :seedling: a curated list of tools to help you with your research/life; I built a front end around this repo, please use the link below [This repo is deprecated. Instead, I maintain all the contents u
 - [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things
 - [kelu124/awesome-latticeFPGAs](https://github.com/kelu124/awesome-latticeFPGAs) - :book: List of FPGA Lattice boards using open tools
 - [noteflakes/awesome-music](https://github.com/noteflakes/awesome-music) - Awesome Music Projects
@@ -803,6 +806,7 @@
 
 ## awesome-list 
 
+- [emptymalei/awesome-research](https://github.com/emptymalei/awesome-research) - :seedling: a curated list of tools to help you with your research/life; I built a front end around this repo, please use the link below [This repo is deprecated. Instead, I maintain all the contents u
 - [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things
 - [kelu124/awesome-latticeFPGAs](https://github.com/kelu124/awesome-latticeFPGAs) - :book: List of FPGA Lattice boards using open tools
 - [noteflakes/awesome-music](https://github.com/noteflakes/awesome-music) - Awesome Music Projects
@@ -1002,6 +1006,7 @@
 
 ## blockchain 
 
+- [git-disl/GPTLens](https://github.com/git-disl/GPTLens) - Large Language Model-Powered Smart Contract Vulnerability Detection: New Perspectives (TPS23)
 - [linera-io/linera-protocol](https://github.com/linera-io/linera-protocol) - Main repository for the Linera protocol
 - [gmh5225/awesome-game-security](https://github.com/gmh5225/awesome-game-security) - awesome game security [Welcome to PR]
 - [unionlabs/union](https://github.com/unionlabs/union) - The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
@@ -2006,6 +2011,7 @@
 
 ## ethereum 
 
+- [git-disl/GPTLens](https://github.com/git-disl/GPTLens) - Large Language Model-Powered Smart Contract Vulnerability Detection: New Perspectives (TPS23)
 - [gmh5225/awesome-game-security](https://github.com/gmh5225/awesome-game-security) - awesome game security [Welcome to PR]
 - [unionlabs/union](https://github.com/unionlabs/union) - The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
 - [capstone-engine/capstone](https://github.com/capstone-engine/capstone) - Capstone disassembly/disassembler framework for ARM, ARM64 (ARMv8), Alpha, BPF, Ethereum VM, HPPA, LoongArch, M68K, M680X, Mips, MOS65XX, PPC, RISC-V(rv32G/rv64G), SH, Sparc, SystemZ, TMS320C64X, TriC
@@ -2494,6 +2500,7 @@
 
 ## hacktoberfest 
 
+- [TiddlyWiki/TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
 - [ossia/score](https://github.com/ossia/score) - ossia score, an interactive sequencer for the intermedia arts
 - [earlephilhower/ESP8266Audio](https://github.com/earlephilhower/ESP8266Audio) - Arduino library to play MOD, WAV, FLAC, MIDI, RTTTL, OGG/Opus, MP3, and AAC files on I2S DACs or with a software emulated delta-sigma DAC on the ESP8266 and ESP32 and Pico
 - [LMMS/lmms](https://github.com/LMMS/lmms) - Cross-platform music production software
@@ -2666,6 +2673,7 @@
 
 ## html 
 
+- [TiddlyWiki/TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
 - [alvarcarto/url-to-pdf-api](https://github.com/alvarcarto/url-to-pdf-api) - Web page PDF/PNG rendering done right. Self-hosted service for rendering receipts, invoices, or any content.
 - [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.  personal.management.system.inbox@gmail.com
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. 
@@ -2850,6 +2858,7 @@
 
 ## javascript 
 
+- [TiddlyWiki/TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced free and open-source browser fingerprinting library
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
@@ -3042,6 +3051,7 @@
 
 ## language 
 
+- [amperser/proselint](https://github.com/amperser/proselint) - A linter for prose.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [alexst07/shell-plus-plus](https://github.com/alexst07/shell-plus-plus) - A friendly and modern functional object oriented language for shell script.
@@ -3082,6 +3092,7 @@
 
 ## linux 
 
+- [TiddlyWiki/TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
 - [orhun/linuxwave](https://github.com/orhun/linuxwave) - Generate music from the entropy of Linux 🐧🎵
 - [monocasual/giada](https://github.com/monocasual/giada) - Your Hardcore Loop Machine.
 - [FluidSynth/fluidsynth](https://github.com/FluidSynth/fluidsynth) - Software synthesizer based on the SoundFont 2 specifications
@@ -3298,6 +3309,7 @@
 
 ## machine-learning 
 
+- [scthornton/securecode-v2](https://github.com/scthornton/securecode-v2) - Real-World Security Conversations for AI Training
 - [QData/TextAttack](https://github.com/QData/TextAttack) - TextAttack 🐙  is a Python framework for adversarial attacks, data augmentation, and model training in NLP https://textattack.readthedocs.io/en/master/
 - [dwave-examples/mutual-information-feature-selection](https://github.com/dwave-examples/mutual-information-feature-selection) - Use mutual information to select features in a Titanic data set
 - [Natooz/MidiTok](https://github.com/Natooz/MidiTok) - MIDI / symbolic music tokenizers for Deep Learning models 🎶
@@ -3420,6 +3432,7 @@
 
 ## markdown 
 
+- [johnroper100/dropplets](https://github.com/johnroper100/dropplets) - Welcome to an easier way to blog - A minimalist markdown blogging platform.
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
@@ -3678,6 +3691,7 @@
 
 ## nlp 
 
+- [amazon-science/recode](https://github.com/amazon-science/recode) - Releasing code for "ReCode: Robustness Evaluation of Code Generation Models"
 - [QData/TextAttack](https://github.com/QData/TextAttack) - TextAttack 🐙  is a Python framework for adversarial attacks, data augmentation, and model training in NLP https://textattack.readthedocs.io/en/master/
 - [ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) - 500 AI Machine learning Deep learning Computer vision NLP Projects with code
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
@@ -3986,6 +4000,33 @@
 
 ## others 
 
+- [emptymalei/statisticalphysics](https://github.com/emptymalei/statisticalphysics) - open source E-book on statistical physics
+- [btford/write-good](https://github.com/btford/write-good) - Naive linter for English prose
+- [sachac/artbollocks-mode](https://github.com/sachac/artbollocks-mode) - Emacs mode for highlighting weasel words
+- [sintaxi/surge](https://github.com/sintaxi/surge) - CLI for the surge.sh CDN
+- [optimatch/optimatch](https://github.com/optimatch/optimatch) - 
+- [lancopku/Embedding-Poisoning](https://github.com/lancopku/Embedding-Poisoning) - Code for the paper "Be Careful about Poisoned Word Embeddings: Exploring the Vulnerability of the Embedding Layers in NLP Models" (NAACL-HLT 2021)
+- [Erroristotle/VulnSage](https://github.com/Erroristotle/VulnSage) - 
+- [PurCL/ProSec](https://github.com/PurCL/ProSec) - Official repo for "ProSec: Fortifying Code LLMs with Proactive Security Alignment"
+- [SecureLLM/Secure_LLM](https://github.com/SecureLLM/Secure_LLM) - 
+- [Zhaoyang-Chu/code-unlearning](https://github.com/Zhaoyang-Chu/code-unlearning) - This repository contains a PyTorch implementation of the ICSE'26 paper "Scrub It Out! Erasing Sensitive Memorization in Code Language Models via Machine Unlearning".
+- [moritzmock/multitask-vulberability-detection](https://github.com/moritzmock/multitask-vulberability-detection) - 
+- [SEC-bench/SEC-bench](https://github.com/SEC-bench/SEC-bench) - Automated Benchmarking of LLM Agents on Real-World Software Security Tasks [NeurIPS 2025]
+- [Eshe0922/ReposVul](https://github.com/Eshe0922/ReposVul) - [ICSE'24 Industry Challenge Track] "ReposVul: A Repository-Level High-Quality Vulnerability Dataset".
+- [XZ-X/gennm-ndss-ae](https://github.com/XZ-X/gennm-ndss-ae) - 
+- [reddy-lab-code-research/CodeAttack](https://github.com/reddy-lab-code-research/CodeAttack) - Code for the AAAI 2023 paper "CodeAttack: Code-based Adversarial Attacks for Pre-Trained Programming Language Models
+- [AI-secure/RedCode](https://github.com/AI-secure/RedCode) - [NeurIPS'24] RedCode: Risky Code Execution and Generation Benchmark for Code Agents
+- [iris-sast/iris](https://github.com/iris-sast/iris) - A neurosymbolic framework for vulnerability detection in code
+- [seclab-ucr/BugLens](https://github.com/seclab-ucr/BugLens) - The repo of "BugLens"
+- [Co1lin/CWEval](https://github.com/Co1lin/CWEval) - Simultaneous evaluation on both functionality and security of LLM-generated code.
+- [FloridSleeves/RobustAPI](https://github.com/FloridSleeves/RobustAPI) - The official repo for the paper Can ChatGPT replace StackOverflow? A Study on Robustness and Reliability of Large Language Model Code Generation (AAAI'24).
+- [meta-llama/PurpleLlama](https://github.com/meta-llama/PurpleLlama) - Set of tools to assess and improve LLM security.
+- [AlignmentResearch/gpt-4-novel-apis-attacks](https://github.com/AlignmentResearch/gpt-4-novel-apis-attacks) - 
+- [wagner-group/diversevul](https://github.com/wagner-group/diversevul) - DiverseVul: A New Vulnerable Source Code Dataset for Deep Learning Based Vulnerability Detection (RAID 2023) https://surrealyz.github.io/files/pubs/raid23-diversevul.pdf
+- [gaokai320/PyRadar](https://github.com/gaokai320/PyRadar) - PyRadar: Towards Automatic Source Code Repository Information Recovery and Validation for PyPI Packages
+- [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) - "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
+- [oxygen-hunter/SoK-Code-Obfuscation-in-LLM-VD-arxiv](https://github.com/oxygen-hunter/SoK-Code-Obfuscation-in-LLM-VD-arxiv) - Repo for arxiv paper "A Systematic Study of Code Obfuscation Against LLM-based Vulnerability Detection".
+- [anh56/dl4sa](https://github.com/anh56/dl4sa) - Automated Code-centric Software Vulnerability Assessment: How Far Are We? An Empirical Study in C/C++
 - [lifan0127/ai-research-assistant](https://github.com/lifan0127/ai-research-assistant) - Aria is Your AI Research Assistant Powered by GPT Large Language Models
 - [Armur-Ai/Auto-Pentest-GPT-AI](https://github.com/Armur-Ai/Auto-Pentest-GPT-AI) - LLM Powered Pentesting for your software
 - [rainmana/sasquatch](https://github.com/rainmana/sasquatch) - 
@@ -5211,6 +5252,7 @@
 
 ## php 
 
+- [johnroper100/dropplets](https://github.com/johnroper100/dropplets) - Welcome to an easier way to blog - A minimalist markdown blogging platform.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [context-hub/generator](https://github.com/context-hub/generator) - CTX: a tool that solves the context management gap when working with LLMs like ChatGPT or Claude. It helps developers organize and automatically collect information from their codebase into structured
 - [spotweb/spotweb](https://github.com/spotweb/spotweb) - Decentralized community
@@ -5227,6 +5269,8 @@
 
 ## physics 
 
+- [certik/theoretical-physics](https://github.com/certik/theoretical-physics) - Source code of the Theoretical Physics Reference online book
+- [NeuPhysics/neutrino](https://github.com/NeuPhysics/neutrino) - :game_die: Neutrino research
 - [sharkdp/numbat](https://github.com/sharkdp/numbat) - A statically typed programming language for scientific computations with first class support for physical dimensions and units
 - [sharkdp/insect](https://github.com/sharkdp/insect) - High precision scientific calculator with support for physical units
 
@@ -6013,6 +6057,7 @@
 
 ## security 
 
+- [scthornton/securecode-v2](https://github.com/scthornton/securecode-v2) - Real-World Security Conversations for AI Training
 - [planetis-m/libfuzzer](https://github.com/planetis-m/libfuzzer) - Thin interface for libFuzzer, an in-process, coverage-guided, evolutionary fuzzing engine.
 - [google/honggfuzz](https://github.com/google/honggfuzz) - Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based)
 - [QData/TextAttack](https://github.com/QData/TextAttack) - TextAttack 🐙  is a Python framework for adversarial attacks, data augmentation, and model training in NLP https://textattack.readthedocs.io/en/master/
@@ -6838,6 +6883,7 @@
 
 ## windows 
 
+- [TiddlyWiki/TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
 - [monocasual/giada](https://github.com/monocasual/giada) - Your Hardcore Loop Machine.
 - [mixxxdj/mixxx](https://github.com/mixxxdj/mixxx) - Mixxx is Free DJ software that gives you everything you need to perform live mixes.
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
