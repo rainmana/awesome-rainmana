@@ -67,6 +67,7 @@
 - [Scala](#scala)
 - [Scheme](#scheme)
 - [Shell](#shell)
+- [Solidity](#solidity)
 - [Squirrel](#squirrel)
 - [Svelte](#svelte)
 - [Swift](#swift)
@@ -467,6 +468,7 @@
 
 ## CodeQL 
 
+- [seclab-ucr/BugLens](https://github.com/seclab-ucr/BugLens) - The repo of "BugLens"
 - [github/codeql](https://github.com/github/codeql) - CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security
 
 ## Common Lisp 
@@ -492,6 +494,7 @@
 
 ## Dockerfile 
 
+- [iris-sast/iris](https://github.com/iris-sast/iris) - A neurosymbolic framework for vulnerability detection in code
 - [dreadnode/robopages](https://github.com/dreadnode/robopages) - A YAML based format for describing tools to LLMs, like man pages but for robots!
 - [linuxserver/docker-pwndrop](https://github.com/linuxserver/docker-pwndrop) - 
 - [OWASP/wstg](https://github.com/OWASP/wstg) - The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.
@@ -503,6 +506,7 @@
 
 ## Emacs Lisp 
 
+- [sachac/artbollocks-mode](https://github.com/sachac/artbollocks-mode) - Emacs mode for highlighting weasel words
 - [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs) - An Emacs framework for the stubborn martian hacker
 
 ## F# # 
@@ -793,6 +797,7 @@
 
 ## Java 
 
+- [FloridSleeves/RobustAPI](https://github.com/FloridSleeves/RobustAPI) - The official repo for the paper Can ChatGPT replace StackOverflow? A Study on Robustness and Reliability of Large Language Model Code Generation (AAAI'24).
 - [JaanusKaapPublic/Rehepapp](https://github.com/JaanusKaapPublic/Rehepapp) - New improved corpus distillation toolset that has helped to found tens of vulnerabilities in MS and Adobe products
 - [PortSwigger/ai-prompt-fuzzer](https://github.com/PortSwigger/ai-prompt-fuzzer) - Burp extension to fuzz/brute force GenAI/LLM prompts using a list of various payloads.
 - [gephi/gephi](https://github.com/gephi/gephi) - Gephi - The Open Graph Viz Platform
@@ -859,6 +864,11 @@
 
 ## JavaScript 
 
+- [TiddlyWiki/TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
+- [amperser/proselint](https://github.com/amperser/proselint) - A linter for prose.
+- [btford/write-good](https://github.com/btford/write-good) - Naive linter for English prose
+- [sintaxi/surge](https://github.com/sintaxi/surge) - CLI for the surge.sh CDN
+- [lifan0127/ai-research-assistant](https://github.com/lifan0127/ai-research-assistant) - Aria is Your AI Research Assistant Powered by GPT Large Language Models
 - [no-chris/chord-symbol](https://github.com/no-chris/chord-symbol) - The definitive chord symbol parser and renderer for Javascript/NodeJS.
 - [djipco/webmidi](https://github.com/djipco/webmidi) - Tame the Web MIDI API. Send and receive MIDI messages with ease. Control instruments with user-friendly functions (playNote, sendPitchBend, etc.). React to MIDI input with simple event listeners (note
 - [rserota/wad](https://github.com/rserota/wad) - Web Audio DAW.  Use the Web Audio API for dynamic sound synthesis.  It's like jQuery for your ears.
@@ -1040,6 +1050,8 @@
 
 ## Jupyter Notebook 
 
+- [emptymalei/statisticalphysics](https://github.com/emptymalei/statisticalphysics) - open source E-book on statistical physics
+- [NeuPhysics/neutrino](https://github.com/NeuPhysics/neutrino) - :game_die: Neutrino research
 - [teticio/audio-diffusion](https://github.com/teticio/audio-diffusion) - Apply diffusion models using the new Hugging Face diffusers package to synthesize music instead of images.
 - [MITDeepLearning/introtodeeplearning](https://github.com/MITDeepLearning/introtodeeplearning) - Lab Materials for MIT 6.S191: Introduction to Deep Learning
 - [mdeff/fma](https://github.com/mdeff/fma) - FMA: A Dataset For Music Analysis
@@ -1186,6 +1198,10 @@
 
 ## Others 
 
+- [emptymalei/awesome-research](https://github.com/emptymalei/awesome-research) - :seedling: a curated list of tools to help you with your research/life; I built a front end around this repo, please use the link below [This repo is deprecated. Instead, I maintain all the contents u
+- [PurCL/ProSec](https://github.com/PurCL/ProSec) - Official repo for "ProSec: Fortifying Code LLMs with Proactive Security Alignment"
+- [AlignmentResearch/gpt-4-novel-apis-attacks](https://github.com/AlignmentResearch/gpt-4-novel-apis-attacks) - 
+- [wagner-group/diversevul](https://github.com/wagner-group/diversevul) - DiverseVul: A New Vulnerable Source Code Dataset for Deep Learning Based Vulnerability Detection (RAID 2023) https://surrealyz.github.io/files/pubs/raid23-diversevul.pdf
 - [terminaltrove/lumon](https://github.com/terminaltrove/lumon) - The work is mysterious and important...
 - [yaelwrites/Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) - 
 - [costinEEST/almanacs](https://github.com/costinEEST/almanacs) - Search through the recipes
@@ -1471,6 +1487,7 @@
 
 ## PHP 
 
+- [johnroper100/dropplets](https://github.com/johnroper100/dropplets) - Welcome to an easier way to blog - A minimalist markdown blogging platform.
 - [context-hub/generator](https://github.com/context-hub/generator) - CTX: a tool that solves the context management gap when working with LLMs like ChatGPT or Claude. It helps developers organize and automatically collect information from their codebase into structured
 - [spotweb/spotweb](https://github.com/spotweb/spotweb) - Decentralized community
 - [openemr/openemr](https://github.com/openemr/openemr) - The most popular open source electronic health records and medical practice management solution.
@@ -1548,6 +1565,26 @@
 
 ## Python 
 
+- [certik/theoretical-physics](https://github.com/certik/theoretical-physics) - Source code of the Theoretical Physics Reference online book
+- [optimatch/optimatch](https://github.com/optimatch/optimatch) - 
+- [lancopku/Embedding-Poisoning](https://github.com/lancopku/Embedding-Poisoning) - Code for the paper "Be Careful about Poisoned Word Embeddings: Exploring the Vulnerability of the Embedding Layers in NLP Models" (NAACL-HLT 2021)
+- [Erroristotle/VulnSage](https://github.com/Erroristotle/VulnSage) - 
+- [scthornton/securecode-v2](https://github.com/scthornton/securecode-v2) - Real-World Security Conversations for AI Training
+- [SecureLLM/Secure_LLM](https://github.com/SecureLLM/Secure_LLM) - 
+- [Zhaoyang-Chu/code-unlearning](https://github.com/Zhaoyang-Chu/code-unlearning) - This repository contains a PyTorch implementation of the ICSE'26 paper "Scrub It Out! Erasing Sensitive Memorization in Code Language Models via Machine Unlearning".
+- [moritzmock/multitask-vulberability-detection](https://github.com/moritzmock/multitask-vulberability-detection) - 
+- [SEC-bench/SEC-bench](https://github.com/SEC-bench/SEC-bench) - Automated Benchmarking of LLM Agents on Real-World Software Security Tasks [NeurIPS 2025]
+- [Eshe0922/ReposVul](https://github.com/Eshe0922/ReposVul) - [ICSE'24 Industry Challenge Track] "ReposVul: A Repository-Level High-Quality Vulnerability Dataset".
+- [XZ-X/gennm-ndss-ae](https://github.com/XZ-X/gennm-ndss-ae) - 
+- [reddy-lab-code-research/CodeAttack](https://github.com/reddy-lab-code-research/CodeAttack) - Code for the AAAI 2023 paper "CodeAttack: Code-based Adversarial Attacks for Pre-Trained Programming Language Models
+- [AI-secure/RedCode](https://github.com/AI-secure/RedCode) - [NeurIPS'24] RedCode: Risky Code Execution and Generation Benchmark for Code Agents
+- [amazon-science/recode](https://github.com/amazon-science/recode) - Releasing code for "ReCode: Robustness Evaluation of Code Generation Models"
+- [Co1lin/CWEval](https://github.com/Co1lin/CWEval) - Simultaneous evaluation on both functionality and security of LLM-generated code.
+- [meta-llama/PurpleLlama](https://github.com/meta-llama/PurpleLlama) - Set of tools to assess and improve LLM security.
+- [gaokai320/PyRadar](https://github.com/gaokai320/PyRadar) - PyRadar: Towards Automatic Source Code Repository Information Recovery and Validation for PyPI Packages
+- [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) - "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
+- [oxygen-hunter/SoK-Code-Obfuscation-in-LLM-VD-arxiv](https://github.com/oxygen-hunter/SoK-Code-Obfuscation-in-LLM-VD-arxiv) - Repo for arxiv paper "A Systematic Study of Code Obfuscation Against LLM-based Vulnerability Detection".
+- [anh56/dl4sa](https://github.com/anh56/dl4sa) - Automated Code-centric Software Vulnerability Assessment: How Far Are We? An Empirical Study in C/C++
 - [Armur-Ai/Auto-Pentest-GPT-AI](https://github.com/Armur-Ai/Auto-Pentest-GPT-AI) - LLM Powered Pentesting for your software
 - [hass-uconnect/hass-uconnect](https://github.com/hass-uconnect/hass-uconnect) - Home Assistant integration for FCA/Stellantis cars (Fiat, Chrysler, Dodge, Jeep, Ram, Alfa Romeo, Maserati)
 - [Hyundai-Kia-Connect/hyundai_kia_connect_api](https://github.com/Hyundai-Kia-Connect/hyundai_kia_connect_api) - This is a Kia UVO and Hyundai Bluelink written in python. It is primary consumed by home assistant. If you are looking for a home assistant Kia / Hyundai implementation please look here: https://githu
@@ -2215,7 +2252,7 @@
 - [mherrmann/helium](https://github.com/mherrmann/helium) - Lighter web automation with Python
 - [alirezamika/autoscraper](https://github.com/alirezamika/autoscraper) - A Smart, Automatic, Fast and Lightweight Web Scraper for Python
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
-- [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - TUI-based toolkit for GitHub-data analysis.
+- [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - TUI-based toolkit for GitHub data analysis.
 - [subfission/HostResolver](https://github.com/subfission/HostResolver) - Resolve bulk host file list to IP addresses, ASN, and validate DNS.
 - [intelowlproject/IntelOwl](https://github.com/intelowlproject/IntelOwl) - IntelOwl: manage your Threat Intelligence at scale
 - [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
@@ -2560,6 +2597,10 @@
 - [firmadyne/firmadyne](https://github.com/firmadyne/firmadyne) - Platform for emulation and dynamic analysis of Linux-based firmware
 - [RangeNetworks/dev](https://github.com/RangeNetworks/dev) - Start Here! Development Environment Tools and System Releases
 - [e-m-b-a/emba](https://github.com/e-m-b-a/emba) - EMBA - The firmware security analyzer
+
+## Solidity 
+
+- [git-disl/GPTLens](https://github.com/git-disl/GPTLens) - Large Language Model-Powered Smart Contract Vulnerability Detection: New Perspectives (TPS23)
 
 ## Squirrel 
 
