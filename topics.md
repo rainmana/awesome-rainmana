@@ -1676,7 +1676,7 @@
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [mkrd/DictDataBase](https://github.com/mkrd/DictDataBase) - A python NoSQL dictionary database, with concurrent access and ACID compliance
-- [arturo-lang/grafito](https://github.com/arturo-lang/grafito) - Portable, Serverless & Lightweight SQLite-based Graph Database in Arturo
+- [drkameleon/grafito](https://github.com/drkameleon/grafito) - Portable, Serverless & Lightweight SQLite-based Graph Database in Arturo
 - [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
 - [CERT-Polska/mquery](https://github.com/CERT-Polska/mquery) - YARA malware query accelerator (web frontend)
 - [patx/pickledb](https://github.com/patx/pickledb) - pickleDB is an in memory key-value store using Python's orjson module for persistence. It can also use SQLite instead of orjson if needed.
@@ -2162,7 +2162,7 @@
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [awaescher/RepoZ](https://github.com/awaescher/RepoZ) - 👨‍💻  A zero-conf git repository hub for Windows and macOS with Windows Explorer- & CLI-enhancements
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: What Dropbox should have been if it was based on SFTP, S3, FTP, WebDAV, Git, and more
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: What Dropbox should have been if it was based on SFTP, S3, FTP, SMB, NFS, WebDAV, Git, and more
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [ezekg/git-hound](https://github.com/ezekg/git-hound) - Git plugin that prevents sensitive data from being committed.
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
@@ -3500,7 +3500,7 @@
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Query Engine for AI - The only MCP Server you'll ever need
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: What Dropbox should have been if it was based on SFTP, S3, FTP, WebDAV, Git, and more
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: What Dropbox should have been if it was based on SFTP, S3, FTP, SMB, NFS, WebDAV, Git, and more
 
 ## microservices 
 
@@ -4000,6 +4000,7 @@
 
 ## others 
 
+- [DIABL0-SEC/Atlas-AI](https://github.com/DIABL0-SEC/Atlas-AI) - Advanced Security Analysis for Burp Suite
 - [emptymalei/statisticalphysics](https://github.com/emptymalei/statisticalphysics) - open source E-book on statistical physics
 - [btford/write-good](https://github.com/btford/write-good) - Naive linter for English prose
 - [sachac/artbollocks-mode](https://github.com/sachac/artbollocks-mode) - Emacs mode for highlighting weasel words
@@ -6347,7 +6348,7 @@
 - [metrue/fx](https://github.com/metrue/fx) - A Function as a Service tool makes a function as a  container-based service in seconds.
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - The developers' cloud
-- [arturo-lang/grafito](https://github.com/arturo-lang/grafito) - Portable, Serverless & Lightweight SQLite-based Graph Database in Arturo
+- [drkameleon/grafito](https://github.com/drkameleon/grafito) - Portable, Serverless & Lightweight SQLite-based Graph Database in Arturo
 - [beefsack/webify](https://github.com/beefsack/webify) - Turn shell commands into web services
 
 ## shell 
@@ -6449,7 +6450,7 @@
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [pawelsalawa/sqlitestudio](https://github.com/pawelsalawa/sqlitestudio) - A free, open source, multi-platform SQLite database manager.
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
-- [arturo-lang/grafito](https://github.com/arturo-lang/grafito) - Portable, Serverless & Lightweight SQLite-based Graph Database in Arturo
+- [drkameleon/grafito](https://github.com/drkameleon/grafito) - Portable, Serverless & Lightweight SQLite-based Graph Database in Arturo
 - [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
 - [bradleyboy/tuql](https://github.com/bradleyboy/tuql) - Automatically create a GraphQL server from a SQLite database or a SQL file
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
