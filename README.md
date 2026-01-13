@@ -524,6 +524,9 @@
 
 ## Go 
 
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
+- [j178/chatgpt](https://github.com/j178/chatgpt) - An elegant interactive CLI for ChatGPT
+- [duanemay/chatgpt-cli](https://github.com/duanemay/chatgpt-cli) - Interact with ChatGPT directly from your command line
 - [onsi/ginkgo](https://github.com/onsi/ginkgo) - A Modern Testing Framework for Go
 - [mandiant/GoReSym](https://github.com/mandiant/GoReSym) - Go symbol recovery tool
 - [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - high-performance graph database for real-time use cases
@@ -1573,6 +1576,9 @@
 
 ## Python 
 
+- [OpenHands/OpenHands-CLI](https://github.com/OpenHands/OpenHands-CLI) - Lightweight OpenHands CLI in a binary executable
+- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
+- [p-e-w/heretic](https://github.com/p-e-w/heretic) - Fully automatic censorship removal for language models
 - [david-a-wheeler/flawfinder](https://github.com/david-a-wheeler/flawfinder) - a static analysis tool for finding vulnerabilities in C/C++ source code
 - [trailofbits/deepstate](https://github.com/trailofbits/deepstate) - A unit test-like interface for fuzzing and symbolic execution
 - [google/oss-fuzz-gen](https://github.com/google/oss-fuzz-gen) - LLM powered fuzzing via OSS-Fuzz.
