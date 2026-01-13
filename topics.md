@@ -310,6 +310,7 @@
 
 ## agent 
 
+- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [sing1ee/a2a-directory](https://github.com/sing1ee/a2a-directory) - Agent2Agent (A2A) – AgentCards, Servers, Clients, Docs
 - [ai-boost/awesome-a2a](https://github.com/ai-boost/awesome-a2a) - Agent2Agent (A2A) – awesome A2A agents, tools, servers & clients, all in one place.
 - [AI-QL/tuui](https://github.com/AI-QL/tuui) - A desktop MCP client designed as a tool unitary utility integration, accelerating AI adoption through the Model Context Protocol (MCP) and enabling cross-vendor LLM API orchestration.
@@ -342,6 +343,8 @@
 
 ## ai 
 
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
+- [duanemay/chatgpt-cli](https://github.com/duanemay/chatgpt-cli) - Interact with ChatGPT directly from your command line
 - [google/oss-fuzz-gen](https://github.com/google/oss-fuzz-gen) - LLM powered fuzzing via OSS-Fuzz.
 - [user1342/Oversight](https://github.com/user1342/Oversight) - A Completely Modular LLM Reverse Engineering, Red Teaming, and Vulnerability Research Framework.
 - [user1342/Awesome-LLM-Red-Teaming](https://github.com/user1342/Awesome-LLM-Red-Teaming) - A curated list of awesome LLM Red Teaming training, resources, and tools.
@@ -618,6 +621,7 @@
 
 ## artificial-intelligence 
 
+- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [user1342/Folly](https://github.com/user1342/Folly) - Open-source LLM Prompt-Injection and Jailbreaking Playground
 - [user1342/Oversight](https://github.com/user1342/Oversight) - A Completely Modular LLM Reverse Engineering, Red Teaming, and Vulnerability Research Framework.
 - [user1342/Awesome-LLM-Red-Teaming](https://github.com/user1342/Awesome-LLM-Red-Teaming) - A curated list of awesome LLM Red Teaming training, resources, and tools.
@@ -1146,6 +1150,9 @@
 
 ## chatgpt 
 
+- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
+- [j178/chatgpt](https://github.com/j178/chatgpt) - An elegant interactive CLI for ChatGPT
+- [duanemay/chatgpt-cli](https://github.com/duanemay/chatgpt-cli) - Interact with ChatGPT directly from your command line
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 - [feedox/alt-gpt-v0](https://github.com/feedox/alt-gpt-v0) - Playground for developing ChatGPT plugins
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
@@ -1232,6 +1239,9 @@
 
 ## cli 
 
+- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
+- [j178/chatgpt](https://github.com/j178/chatgpt) - An elegant interactive CLI for ChatGPT
+- [duanemay/chatgpt-cli](https://github.com/duanemay/chatgpt-cli) - Interact with ChatGPT directly from your command line
 - [httpie/httpie-aws-auth](https://github.com/httpie/httpie-aws-auth) - AWS / Amazon S3 auth plugin for HTTPie
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 - [mohsen1/yek](https://github.com/mohsen1/yek) - A fast Rust based tool to serialize text-based files in a repository or directory for LLM consumption
@@ -1776,6 +1786,7 @@
 
 ## developer-tools 
 
+- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) - A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation. Our goal is to provide the best Knowledge Graph for LLM (GraphRAG).
 - [basetool-io/basetool](https://github.com/basetool-io/basetool) - Open-source internal tool framework. 💪  Empower your team and collaborators to view and manage the data you already own in a nice easy-to-use protected tool. Basetool helps you have a better handle on
 - [rainmana/cursorifier](https://github.com/rainmana/cursorifier) - Transform GitHub repositories into cursor rules using multiple LLM providers (Anthropic, OpenAI, Ollama, etc.)
@@ -2203,6 +2214,7 @@
 
 ## go 
 
+- [j178/chatgpt](https://github.com/j178/chatgpt) - An elegant interactive CLI for ChatGPT
 - [onsi/ginkgo](https://github.com/onsi/ginkgo) - A Modern Testing Framework for Go
 - [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - high-performance graph database for real-time use cases
 - [cayleygraph/cayley](https://github.com/cayleygraph/cayley) - An open-source graph database
@@ -2265,6 +2277,8 @@
 
 ## golang 
 
+- [j178/chatgpt](https://github.com/j178/chatgpt) - An elegant interactive CLI for ChatGPT
+- [duanemay/chatgpt-cli](https://github.com/duanemay/chatgpt-cli) - Interact with ChatGPT directly from your command line
 - [onsi/ginkgo](https://github.com/onsi/ginkgo) - A Modern Testing Framework for Go
 - [terminaltrove/lumon](https://github.com/terminaltrove/lumon) - The work is mysterious and important...
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
@@ -3185,6 +3199,8 @@
 
 ## llm 
 
+- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
+- [p-e-w/heretic](https://github.com/p-e-w/heretic) - Fully automatic censorship removal for language models
 - [google/oss-fuzz-gen](https://github.com/google/oss-fuzz-gen) - LLM powered fuzzing via OSS-Fuzz.
 - [user1342/Folly](https://github.com/user1342/Folly) - Open-source LLM Prompt-Injection and Jailbreaking Playground
 - [user1342/Oversight](https://github.com/user1342/Oversight) - A Completely Modular LLM Reverse Engineering, Red Teaming, and Vulnerability Research Framework.
@@ -3426,6 +3442,7 @@
 - [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open device management
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol
 - [divamgupta/diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) - Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed.
+- [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal (TUI) client.
 - [phmullins/awesome-macos-commandline](https://github.com/phmullins/awesome-macos-commandline) - A curated list of awesome command-line software for macOS.
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [below/HelloSilicon](https://github.com/below/HelloSilicon) - An introduction to ARM64 assembly on Apple Silicon Macs
@@ -3908,6 +3925,7 @@
 
 ## openai 
 
+- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [pydantic/logfire](https://github.com/pydantic/logfire) - Uncomplicated Observability for Python and beyond! 🪵🔥
 - [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) - Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
@@ -4026,6 +4044,7 @@
 
 ## others 
 
+- [OpenHands/OpenHands-CLI](https://github.com/OpenHands/OpenHands-CLI) - Lightweight OpenHands CLI in a binary executable
 - [craigz28/firmwalker](https://github.com/craigz28/firmwalker) - Script for searching the extracted firmware file system for goodies!
 - [david-a-wheeler/flawfinder](https://github.com/david-a-wheeler/flawfinder) - a static analysis tool for finding vulnerabilities in C/C++ source code
 - [slimm609/checksec](https://github.com/slimm609/checksec) - Checksec
@@ -7001,6 +7020,7 @@
 - [bst04/payloads_flipperZero](https://github.com/bst04/payloads_flipperZero) - Collection of Payloads BadUSB for Flipper Zero with DuckyScript 1.0
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol
+- [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal (TUI) client.
 - [LGUG2Z/whkd](https://github.com/LGUG2Z/whkd) - A simple hotkey daemon for Windows
 - [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉
