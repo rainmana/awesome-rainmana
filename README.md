@@ -965,7 +965,6 @@
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) - ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)
 - [TAK-Product-Center/Server](https://github.com/TAK-Product-Center/Server) - TAK Server
-- [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
 - [metavoiceio/MetaVoiceLive](https://github.com/metavoiceio/MetaVoiceLive) - 
 - [0x742/noia](https://github.com/0x742/noia) - [WIP] Simple mobile applications sandbox file browser tool. Powered with [frida.re](https://www.frida.re).
 - [binvis/binvis.io](https://github.com/binvis/binvis.io) - The binvis.io site
@@ -2909,7 +2908,7 @@
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [googlecreativelab/teachablemachine-community](https://github.com/googlecreativelab/teachablemachine-community) - Example code snippets and machine learning code for Teachable Machine
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
-- [supermarsx/whoisdigger](https://github.com/supermarsx/whoisdigger) - Bulk Domain WHOIS/RDAP/DNS Lookup Tool built with Electron
+- [supermarsx/whoisdigger](https://github.com/supermarsx/whoisdigger) - Bulk Domain WHOIS/RDAP/DNS Lookup Tool built with Tauri
 - [APIs-guru/graphql-voyager](https://github.com/APIs-guru/graphql-voyager) - 🛰️ Represent any GraphQL API as an interactive graph
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
@@ -2966,6 +2965,7 @@
 ## YARA 
 
 - [citizenlab/malware-indicators](https://github.com/citizenlab/malware-indicators) - Citizen Lab Malware Reports
+- [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
 - [eset/malware-ioc](https://github.com/eset/malware-ioc) - Indicators of Compromises (IOC) of our various investigations
 - [StrangerealIntel/DailyIOC](https://github.com/StrangerealIntel/DailyIOC) - IOC from articles, tweets for archives
 
