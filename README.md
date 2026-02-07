@@ -622,7 +622,7 @@
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [metrue/fx](https://github.com/metrue/fx) - A Function as a Service tool makes a function as a  container-based service in seconds.
 - [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open device management
-- [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.
+- [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application
 - [multiprocessio/dsq](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [edoardottt/cariddi](https://github.com/edoardottt/cariddi) - Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more
@@ -768,6 +768,7 @@
 - [salesforce/vulnreport](https://github.com/salesforce/vulnreport) - Open-source pentesting management and automation platform by Salesforce Product Security
 - [sehmaschine/django-grappelli](https://github.com/sehmaschine/django-grappelli) - A jazzy skin for the Django Admin-Interface (official repository).
 - [huaminghuangtw/Shortcutomation](https://github.com/huaminghuangtw/Shortcutomation) - Automate the Boring Stuff with  Apple Shortcuts
+- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [madmatt/streamdeck-plugins](https://github.com/madmatt/streamdeck-plugins) - A repository for featuring the best plugins for the Elgato StreamDeck
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic
 - [ungiglio/DiscordDiscordia](https://github.com/ungiglio/DiscordDiscordia) - Theme for Discord
@@ -1154,7 +1155,6 @@
 
 - [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
 - [TARS-AI-Community/docs](https://github.com/TARS-AI-Community/docs) - The official documentation hub for TARS-AI. Find guides, technical references, and contribution resources here.
-- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [mitre-attack/attack-data-model](https://github.com/mitre-attack/attack-data-model) - ATT&CK Data Model (ADM): A TypeScript library for structured interaction with MITRE ATT&CK datasets. Uses Zod schemas, TypeScript types, and ES6 classes to provide a type-safe, object-oriented interfa
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. W
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
@@ -1680,6 +1680,7 @@
 - [hak5/wifipineapplepager-payloads](https://github.com/hak5/wifipineapplepager-payloads) - The Official WiFi Pineapple Pager Payload Repository
 - [dwave-examples/mutual-information-feature-selection](https://github.com/dwave-examples/mutual-information-feature-selection) - Use mutual information to select features in a Titanic data set
 - [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui) - A research prototype of a human-centered web agent
+- [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) - AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
 - [open-mmlab/Amphion](https://github.com/open-mmlab/Amphion) - Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, 
 - [YatingMusic/remi](https://github.com/YatingMusic/remi) - "Pop Music Transformer: Beat-based Modeling and Generation of Expressive Pop Piano Compositions", ACM Multimedia 2020
 - [ivcylc/OpenMusic](https://github.com/ivcylc/OpenMusic) - OpenMusic: SOTA Text-to-music (TTM) Generation
@@ -2755,7 +2756,6 @@
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
 - [AI-QL/tuui](https://github.com/AI-QL/tuui) - A desktop MCP client designed as a tool unitary utility integration, accelerating AI adoption through the Model Context Protocol (MCP) and enabling cross-vendor LLM API orchestration.
 - [agno-agi/agent-ui](https://github.com/agno-agi/agent-ui) - A modern chat interface for AI agents built with Next.js, Tailwind CSS, and TypeScript.
-- [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) - AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
 - [JNKKKK/pianochord.io](https://github.com/JNKKKK/pianochord.io) - A pure frontend Web Application for people to browse through a large collection of piano chords
 - [tonaljs/tonal](https://github.com/tonaljs/tonal) - A music theory library for Javascript
 - [ZaneH/piano-trainer](https://github.com/ZaneH/piano-trainer) - 🎹 Memorize piano scales with ease! A piano practice program w/ MIDI support. Consider it an interactive reference manual
@@ -2834,7 +2834,7 @@
 - [gcui-art/suno-api](https://github.com/gcui-art/suno-api) - Use API to call the music generation AI of suno.ai, and easily integrate it into agents like GPTs.
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [BigSweetPotatoStudio/HyperChat](https://github.com/BigSweetPotatoStudio/HyperChat) - HyperChat is a Chat client that strives for openness, utilizing APIs from various LLMs to achieve the best Chat experience, as well as implementing productivity tools through the MCP protocol.
-- [zueai/mcp-manager](https://github.com/zueai/mcp-manager) - simple web ui to manage mcp (model context protocol) servers in the claude app
+- [amxv/mcp-manager](https://github.com/amxv/mcp-manager) - simple web ui to manage mcp (model context protocol) servers in the claude app
 - [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper) - Open Source Cloud Native Application Protection Platform (CNAPP)
 - [AlecBlance/S3BucketList](https://github.com/AlecBlance/S3BucketList) - Chrome and Firefox extension that lists Amazon S3 Buckets while browsing
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
