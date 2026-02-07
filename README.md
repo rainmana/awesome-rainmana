@@ -13,6 +13,7 @@
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
+- [CMake](#cmake)
 - [CSS](#css)
 - [Clojure](#clojure)
 - [CodeQL](#codeql)
@@ -113,6 +114,7 @@
 
 ## C 
 
+- [x64dbg/x64dbgpy](https://github.com/x64dbg/x64dbgpy) - Automating x64dbg using Python, Snapshots:
 - [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
 - [decaf-project/DECAF](https://github.com/decaf-project/DECAF) - DECAF (short for Dynamic Executable Code Analysis Framework) is a binary analysis platform based on QEMU.  This is also the home of the DroidScope dynamic Android malware analysis platform. DroidScope
 - [rainmana/sasquatch](https://github.com/rainmana/sasquatch) - 
@@ -268,6 +270,9 @@
 
 ## C# # 
 
+- [GregTheDev/MinidumpExplorer](https://github.com/GregTheDev/MinidumpExplorer) - Inspect and capture minidump files. Includes stand alone library for reading minidump files.
+- [mandiant/SilkETW](https://github.com/mandiant/SilkETW) - 
+- [AgentSmithers/x64DbgMCPServer](https://github.com/AgentSmithers/x64DbgMCPServer) - x64DbgMCPServer made from c# with Claude, Windsurf and Cursor support
 - [gurock/testrail-api](https://github.com/gurock/testrail-api) - TestRail API: Examples on how to use TestRail's API from various languages
 - [Washi1337/Echo](https://github.com/Washi1337/Echo) - Generic static analysis framework.
 - [aritchie/bluetoothle](https://github.com/aritchie/bluetoothle) - Easy to use, cross platform, REACTIVE BluetoothLE Plugin for Xamarin
@@ -336,6 +341,10 @@
 
 ## C++ 
 
+- [mandiant/Vulnerability-Disclosures](https://github.com/mandiant/Vulnerability-Disclosures) - 
+- [a1ext/labeless](https://github.com/a1ext/labeless) - Labeless is a multipurpose IDA Pro plugin system for labels/comments synchronization with a debugger backend, with complex memory dumping and interactive Python scripting capabilities.
+- [horsicq/x64dbg-Plugin-Manager](https://github.com/horsicq/x64dbg-Plugin-Manager) - Plugin manager for x64dbg
+- [Air14/HyperHide](https://github.com/Air14/HyperHide) - Hypervisor based anti anti debug plugin for x64dbg
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [gururise/directional_speaker](https://github.com/gururise/directional_speaker) - An ultrasonic directional speaker (aka. Parametric Speaker)
 - [lief-project/LIEF](https://github.com/lief-project/LIEF) - LIEF - Library to Instrument Executable Formats (C++, Python, Rust)
@@ -457,6 +466,10 @@
 - [revng/revng](https://github.com/revng/revng) - revng: the core repository of the rev.ng project
 - [RangeNetworks/openbts](https://github.com/RangeNetworks/openbts) - GSM+GPRS Radio Access Network Node
 
+## CMake 
+
+- [clayne/x64dbg-MiniDumpPlugin](https://github.com/clayne/x64dbg-MiniDumpPlugin) - Simple x64dbg plugin to save a full dump
+
 ## CSS 
 
 - [markdowncss/retro](https://github.com/markdowncss/retro) - A markdown CSS module that is a blast to the past.
@@ -528,6 +541,7 @@
 
 ## Go 
 
+- [mandiant/gocrack](https://github.com/mandiant/gocrack) - GoCrack is a management frontend for password cracking tools written in Go
 - [homeport/termshot](https://github.com/homeport/termshot) - Creates screenshots based on terminal command output
 - [beeper/registration-relay](https://github.com/beeper/registration-relay) - Relay for your iDevice's registration data
 - [beeper/imessage](https://github.com/beeper/imessage) - A Matrix-iMessage puppeting bridge.
@@ -1054,7 +1068,6 @@
 - [MobSF/Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and 
 - [StrangerealIntel/CyberThreatIntel](https://github.com/StrangerealIntel/CyberThreatIntel) - Analysis of malware and Cyber Threat Intel of APT and cybercriminals groups
 - [its-a-feature/Mythic](https://github.com/its-a-feature/Mythic) - A collaborative, multi-platform, red teaming framework
-- [appium/appium](https://github.com/appium/appium) - Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol
 - [MagicMirrorOrg/MagicMirror](https://github.com/MagicMirrorOrg/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assi
 - [frida/aurora](https://github.com/frida/aurora) - Proof-of-concept web app built on top of Frida
 - [vincentcox/StaCoAn](https://github.com/vincentcox/StaCoAn) - StaCoAn is a crossplatform tool which aids developers, bugbounty hunters and ethical hackers performing static code analysis on mobile applications.
@@ -1229,6 +1242,9 @@
 
 ## Others 
 
+- [fr0gger/awesome-ida-x64-olly-plugin](https://github.com/fr0gger/awesome-ida-x64-olly-plugin) - A curated list of IDA x64DBG, Ghidra and OllyDBG plugins.
+- [mandiant/iocs](https://github.com/mandiant/iocs) - FireEye Publicly Shared Indicators of Compromise (IOCs)
+- [mandiant/capa-rules](https://github.com/mandiant/capa-rules) - Standard collection of rules for capa: the tool for enumerating the capabilities of programs
 - [rainmana/mcw-framework](https://github.com/rainmana/mcw-framework) - Meta-Context Framework is novel research into a new coordination-focused lens for understanding human–AI interaction through information exchange rather than model capability.
 - [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
 - [Shellyvishwakarma/SimHumaLator](https://github.com/Shellyvishwakarma/SimHumaLator) - Simulator that can synthesize human micro-Doppler radar returns as a function of a diverse set of target parameters, radar parameters, and radar signal processing parameters. It uses human animation m
@@ -1564,6 +1580,8 @@
 
 ## PowerShell 
 
+- [mandiant/commando-vm](https://github.com/mandiant/commando-vm) - Complete Mandiant Offensive VM (Commando VM), a fully customizable Windows-based pentesting virtual machine distribution. commandovm@mandiant.com
+- [mandiant/flare-vm](https://github.com/mandiant/flare-vm) - A collection of software installations scripts for Windows systems that allows you to easily setup and maintain a reverse engineering environment on a VM.
 - [aalex954/MSFT-IP-Tracker](https://github.com/aalex954/MSFT-IP-Tracker) - Tracks a range of Microsoft owned ASNs and publishes a daily release containing a list of IPv4 and IPv6 address in CIDR notation.
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debl
 - [zoicware/RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI) - Force Remove Copilot, Recall and More in Windows 11
@@ -1607,6 +1625,13 @@
 
 ## Python 
 
+- [mandiant/PwnAuth](https://github.com/mandiant/PwnAuth) - 
+- [mandiant/FIDL](https://github.com/mandiant/FIDL) - A sane API for IDA Pro's decompiler. Useful for malware RE and vulnerability research
+- [mandiant/ReelPhish](https://github.com/mandiant/ReelPhish) - 
+- [mandiant/flare-fakenet-ng](https://github.com/mandiant/flare-fakenet-ng) - FakeNet-NG - Next Generation Dynamic Network Analysis Tool
+- [mandiant/capa](https://github.com/mandiant/capa) - The FLARE team's open-source tool to identify capabilities in executable files.
+- [mandiant/speakeasy](https://github.com/mandiant/speakeasy) - Windows kernel and user mode emulation.
+- [cycraft-corp/BinaryAnalysisMCPs](https://github.com/cycraft-corp/BinaryAnalysisMCPs) - Binary analysis MCPs collections
 - [anderspitman/SirTunnel](https://github.com/anderspitman/SirTunnel) - Minimal, self-hosted, 0-config alternative to ngrok. Caddy+OpenSSH+50 lines of Python.
 - [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio) - A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.
 - [Free-TV/IPTV](https://github.com/Free-TV/IPTV) - M3U Playlist for free TV channels
@@ -2739,6 +2764,7 @@
 
 ## TypeScript 
 
+- [appledragon/DumpStorm](https://github.com/appledragon/DumpStorm) - Powerful crash dump analyzer for debugging native applications. Analyze minidump files (.dmp), extract symbols, enhance stack traces, and debug crashes with register tooltips and multilingual support.
 - [mixn/carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
 - [requestly/requestly](https://github.com/requestly/requestly) - Free and open-source API Client & Interceptor.
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
@@ -2941,6 +2967,7 @@
 - [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
 - [infinitered/nsfwjs](https://github.com/infinitered/nsfwjs) - NSFW detection on the client-side via TensorFlow.js
 - [stevenpersia/tinder-expo](https://github.com/stevenpersia/tinder-expo) - Tinder clone - Expo.
+- [appium/appium](https://github.com/appium/appium) - Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol
 - [BishopFox/unredacter](https://github.com/BishopFox/unredacter) - Never ever ever use pixelation as a redaction technique
 - [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
 - [oceanprotocol/market](https://github.com/oceanprotocol/market) - 🧜‍♀️ THE Data Market
@@ -2990,6 +3017,7 @@
 
 ## YARA 
 
+- [mandiant/red_team_tool_countermeasures](https://github.com/mandiant/red_team_tool_countermeasures) - 
 - [citizenlab/malware-indicators](https://github.com/citizenlab/malware-indicators) - Citizen Lab Malware Reports
 - [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
 - [eset/malware-ioc](https://github.com/eset/malware-ioc) - Indicators of Compromises (IOC) of our various investigations
