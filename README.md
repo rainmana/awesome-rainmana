@@ -270,6 +270,7 @@
 
 ## C# # 
 
+- [microsoft/mcp-gateway](https://github.com/microsoft/mcp-gateway) - MCP Gateway is a reverse proxy and management layer for MCP servers, enabling scalable, session-aware stateful routing and lifecycle management of MCP servers in Kubernetes environments.
 - [GregTheDev/MinidumpExplorer](https://github.com/GregTheDev/MinidumpExplorer) - Inspect and capture minidump files. Includes stand alone library for reading minidump files.
 - [mandiant/SilkETW](https://github.com/mandiant/SilkETW) - 
 - [AgentSmithers/x64DbgMCPServer](https://github.com/AgentSmithers/x64DbgMCPServer) - x64DbgMCPServer made from c# with Claude, Windsurf and Cursor support
