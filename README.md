@@ -342,6 +342,7 @@
 
 ## C++ 
 
+- [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
 - [mandiant/Vulnerability-Disclosures](https://github.com/mandiant/Vulnerability-Disclosures) - 
 - [a1ext/labeless](https://github.com/a1ext/labeless) - Labeless is a multipurpose IDA Pro plugin system for labels/comments synchronization with a debugger backend, with complex memory dumping and interactive Python scripting capabilities.
 - [horsicq/x64dbg-Plugin-Manager](https://github.com/horsicq/x64dbg-Plugin-Manager) - Plugin manager for x64dbg
@@ -518,6 +519,7 @@
 
 ## Dockerfile 
 
+- [thinkst/canarytokens-docker](https://github.com/thinkst/canarytokens-docker) - Docker configuration to quickly setup your own Canarytokens.
 - [iris-sast/iris](https://github.com/iris-sast/iris) - A neurosymbolic framework for vulnerability detection in code
 - [dreadnode/robopages](https://github.com/dreadnode/robopages) - A YAML based format for describing tools to LLMs, like man pages but for robots!
 - [linuxserver/docker-pwndrop](https://github.com/linuxserver/docker-pwndrop) - 
@@ -1629,6 +1631,7 @@
 
 ## Python 
 
+- [AnkitNayak-eth/EpsteinFiles-RAG](https://github.com/AnkitNayak-eth/EpsteinFiles-RAG) - A RAG pipeline implementation built on the 'Epstein Files 20K' dataset from Hugging Face (Teyler).
 - [tolutronics/audio-processing-mcp](https://github.com/tolutronics/audio-processing-mcp) - Audio MCP processor
 - [mandiant/PwnAuth](https://github.com/mandiant/PwnAuth) - 
 - [mandiant/FIDL](https://github.com/mandiant/FIDL) - A sane API for IDA Pro's decompiler. Useful for malware RE and vulnerability research
@@ -1836,7 +1839,7 @@
 - [TarlogicSecurity/BlueSpy](https://github.com/TarlogicSecurity/BlueSpy) - PoC to record audio from a Bluetooth device
 - [Kneicik/esp32-firmware-hacking](https://github.com/Kneicik/esp32-firmware-hacking) - 
 - [ALW1EZ/PANO](https://github.com/ALW1EZ/PANO) - 🔍 PANO: Advanced OSINT investigation platform combining graph visualization, timeline analysis, and AI assistance to uncover hidden connections in data. Built with Python and modern Qt.
-- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An undetectable, powerful, flexible, high-performance Python library to make Web Scraping Easy and Effortless as it should be!
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
 - [opsdisk/pagodo](https://github.com/opsdisk/pagodo) - pagodo (Passive Google Dork) - Automate Google Hacking Database scraping and searching
 - [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
 - [mediawiki-utilities/python-mwxml](https://github.com/mediawiki-utilities/python-mwxml) - A set of utilities for processing MediaWiki XML dump data.
