@@ -4162,6 +4162,7 @@
 
 ## others 
 
+- [educelab/EduceLab-Scrolls](https://github.com/educelab/EduceLab-Scrolls) - Verifiable recovery of text from Herculaneum Papyri using X-ray CT
 - [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
 - [thinkst/canarytokens-docker](https://github.com/thinkst/canarytokens-docker) - Docker configuration to quickly setup your own Canarytokens.
 - [musios-app/logic-pro-scripter](https://github.com/musios-app/logic-pro-scripter) - This guide is intended for developers who want to use their dev knowledge to do good stuff with Scripter for MIDI in Logic Pro.
