@@ -113,6 +113,7 @@
 
 ## C 
 
+- [guinmoon/LLMFarm](https://github.com/guinmoon/LLMFarm) - llama and other  large language models on iOS and MacOS offline using GGML library.
 - [radareorg/radare2-mcp](https://github.com/radareorg/radare2-mcp) - MCP stdio server for radare2
 - [radareorg/radare2-extras](https://github.com/radareorg/radare2-extras) - Source graveyard and random candy for radare2
 - [rizinorg/rizin](https://github.com/rizinorg/rizin) - UNIX-like reverse engineering framework and command-line toolset.
@@ -350,6 +351,7 @@
 
 ## C++ 
 
+- [vesoft-inc/nebula](https://github.com/vesoft-inc/nebula) - A distributed, fast open-source graph database featuring horizontal scalability and high availability
 - [avast/retdec](https://github.com/avast/retdec) - RetDec is a retargetable machine-code decompiler based on LLVM.
 - [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
 - [mandiant/Vulnerability-Disclosures](https://github.com/mandiant/Vulnerability-Disclosures) - 
@@ -776,6 +778,7 @@
 
 ## HTML 
 
+- [TuGraph-family/Awesome-Graphs](https://github.com/TuGraph-family/Awesome-Graphs) - Think Graphs Like A Graph.
 - [Kimeiga/bahunya](https://github.com/Kimeiga/bahunya) - 10KB classless CSS framework with a navbar and dark styling
 - [dbohdan/classless-css](https://github.com/dbohdan/classless-css) - A list of classless CSS themes/frameworks with screenshots
 - [thinkst/canarytokens](https://github.com/thinkst/canarytokens) - Canarytokens helps track activity and actions on your network.
@@ -850,6 +853,8 @@
 
 ## Java 
 
+- [JanusGraph/janusgraph](https://github.com/JanusGraph/janusgraph) - JanusGraph: an open-source, distributed graph database
+- [orientechnologies/orientdb](https://github.com/orientechnologies/orientdb) - OrientDB is the most versatile DBMS supporting Graph, Document, Reactive, Full-Text and Geospatial models in one Multi-Model product. OrientDB can run distributed (Multi-Master), supports SQL, ACID Tr
 - [mykalseceng/burpsuite-ai-pal-ext](https://github.com/mykalseceng/burpsuite-ai-pal-ext) - Burp Suite extension integrating LLMs for security analysis
 - [FloridSleeves/RobustAPI](https://github.com/FloridSleeves/RobustAPI) - The official repo for the paper Can ChatGPT replace StackOverflow? A Study on Robustness and Reliability of Large Language Model Code Generation (AAAI'24).
 - [JaanusKaapPublic/Rehepapp](https://github.com/JaanusKaapPublic/Rehepapp) - New improved corpus distillation toolset that has helped to found tens of vulnerabilities in MS and Adobe products
@@ -1266,6 +1271,9 @@
 
 ## Others 
 
+- [neueda/awesome-neo4j](https://github.com/neueda/awesome-neo4j) - A curated list of Neo4j resources.
+- [dhamaniasad/awesome-databases](https://github.com/dhamaniasad/awesome-databases) - A curated list of awesome databases
+- [graphgeeks-lab/awesome-graph-universe](https://github.com/graphgeeks-lab/awesome-graph-universe) - A curated list of resources for graph-related topics, including graph databases, analytics and science
 - [OneOffTech/awesome-pdf](https://github.com/OneOffTech/awesome-pdf) - A curated list of amazingly libraries, services and resources to work with PDF files
 - [py-pdf/awesome-pdf](https://github.com/py-pdf/awesome-pdf) - A curated list of resources around PDF files
 - [Dees7/openstora](https://github.com/Dees7/openstora) - 
@@ -1652,6 +1660,10 @@
 
 ## Python 
 
+- [FirmWire/FirmWire](https://github.com/FirmWire/FirmWire) - FirmWire is a full-system baseband firmware emulation platform for fuzzing, debugging, and root-cause analysis of smartphone baseband firmwares
+- [fastapi/fastapi-cli](https://github.com/fastapi/fastapi-cli) - Run and manage FastAPI apps from the command line with FastAPI CLI. 🚀
+- [fastapi/asyncer](https://github.com/fastapi/asyncer) - Asyncer, async and await, focused on developer experience.
+- [tiangolo/tiangolo.com](https://github.com/tiangolo/tiangolo.com) - 
 - [radareorg/r2ai](https://github.com/radareorg/r2ai) - LLM-based reversing for radare2
 - [firmadyne/scraper](https://github.com/firmadyne/scraper) - Firmware scraper
 - [agentic-community/mcp-gateway-registry](https://github.com/agentic-community/mcp-gateway-registry) - Enterprise-ready MCP Gateway & Registry that centralizes AI development tools with secure OAuth authentication, dynamic tool discovery, and unified access for both autonomous AI agents and AI coding a
@@ -2528,6 +2540,7 @@
 
 ## Rust 
 
+- [Pometry/Raphtory](https://github.com/Pometry/Raphtory) - Scalable graph analytics database powered by a multithreaded, vectorized temporal engine, written in Rust
 - [lbcdec/lbcdec](https://github.com/lbcdec/lbcdec) - A Lua 5.1 Bytecode Decompiler written in Rust
 - [pamburus/hl](https://github.com/pamburus/hl) - A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human-readable format.
 - [pamburus/termframe](https://github.com/pamburus/termframe) - 📸 Terminal output SVG screenshot tool
@@ -2987,7 +3000,7 @@
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, si
 - [skyra-project/star-wars-api](https://github.com/skyra-project/star-wars-api) - Star Wars GraphQL API
 - [rowyio/rowy](https://github.com/rowyio/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..
+- [Budibase/budibase](https://github.com/Budibase/budibase) - Build AI Agents the easy way. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀  AI Workflow toolkit
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [krinql/vscode](https://github.com/krinql/vscode) - AI powered Suite of developer tools and integrations to help developers with mundane tasks
 - [APKLab/APKLab](https://github.com/APKLab/APKLab) - Android Reverse-Engineering Workbench for VS Code
