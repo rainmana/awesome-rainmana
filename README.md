@@ -763,7 +763,7 @@
 - [hahwul/dalfox](https://github.com/hahwul/dalfox) - 🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation.
 - [assetnote/kiterunner](https://github.com/assetnote/kiterunner) - Contextual Content Discovery Tool
 - [projectdiscovery/uncover](https://github.com/projectdiscovery/uncover) - Quickly discover exposed hosts on the internet using multiple search engines.
-- [jm33-m0/emp3r0r](https://github.com/jm33-m0/emp3r0r) - Zero-Trust C2: Ephemeral TOFU + PFS + Auto-Proxy Mesh + Memory-Only Ops + Bring2CC + Native BOF
+- [jm33-m0/emp3r0r](https://github.com/jm33-m0/emp3r0r) - Self‑healing Gossip Mesh C2 with Assisted Peer Discovery, Modular Post‑Exploitation, and OPSEC‑Focused Transport
 - [BishopFox/sliver](https://github.com/BishopFox/sliver) - Adversary Emulation Framework
 - [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) - Fast passive subdomain enumeration tool.
 - [ezekg/git-hound](https://github.com/ezekg/git-hound) - Git plugin that prevents sensitive data from being committed.
@@ -799,7 +799,7 @@
 - [salesforce/vulnreport](https://github.com/salesforce/vulnreport) - Open-source pentesting management and automation platform by Salesforce Product Security
 - [sehmaschine/django-grappelli](https://github.com/sehmaschine/django-grappelli) - A jazzy skin for the Django Admin-Interface (official repository).
 - [huaminghuangtw/Shortcutomation](https://github.com/huaminghuangtw/Shortcutomation) - Automate the Boring Stuff with  Apple Shortcuts
-- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+- [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [madmatt/streamdeck-plugins](https://github.com/madmatt/streamdeck-plugins) - A repository for featuring the best plugins for the Elgato StreamDeck
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic
 - [ungiglio/DiscordDiscordia](https://github.com/ungiglio/DiscordDiscordia) - Theme for Discord
@@ -1291,7 +1291,6 @@
 - [HACKE-RC/awesome-reversing](https://github.com/HACKE-RC/awesome-reversing) - A collection of resources to learn Reverse Engineering from start!
 - [user1342/Awesome-Binary-Analysis-Automation](https://github.com/user1342/Awesome-Binary-Analysis-Automation) - A curated list of awesome binary analysis automation training, resources, and tools.
 - [emptymalei/awesome-research](https://github.com/emptymalei/awesome-research) - :seedling: a curated list of tools to help you with your research/life; I built a front end around this repo, please use the link below [This repo is deprecated. Instead, I maintain all the contents u
-- [PurCL/ProSec](https://github.com/PurCL/ProSec) - Official repo for "ProSec: Fortifying Code LLMs with Proactive Security Alignment"
 - [AlignmentResearch/gpt-4-novel-apis-attacks](https://github.com/AlignmentResearch/gpt-4-novel-apis-attacks) - 
 - [wagner-group/diversevul](https://github.com/wagner-group/diversevul) - DiverseVul: A New Vulnerable Source Code Dataset for Deep Learning Based Vulnerability Detection (RAID 2023) https://surrealyz.github.io/files/pubs/raid23-diversevul.pdf
 - [terminaltrove/lumon](https://github.com/terminaltrove/lumon) - The work is mysterious and important...
@@ -1337,7 +1336,7 @@
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 - [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
-- [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) - Integrate the DeepSeek API into popular softwares
+- [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) - Integrate the DeepSeek API into popular software
 - [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses with certifications. Also available at https://free-certifications.com/
 - [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
@@ -1392,7 +1391,6 @@
 - [eon01/awesome-chatgpt](https://github.com/eon01/awesome-chatgpt) - 🧠 A curated list of awesome ChatGPT resources, including libraries, SDKs, APIs, and more. 🌟 Please consider supporting this project by giving it a star.
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [87andrewh/WeirdAntiCheatIdeas](https://github.com/87andrewh/WeirdAntiCheatIdeas) - A collection of anti-cheat ideas
-- [gmh5225/awesome-game-security](https://github.com/gmh5225/awesome-game-security) - awesome game security [Welcome to PR]
 - [cloudcommunity/Cloud-Free-Tier-Comparison](https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison) - Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP, Oracle etc.
 - [danielmiessler/Telos](https://github.com/danielmiessler/Telos) - Telos is an open-sourced framework for creating Deep Context about things that matter to humans.
 - [Corcules/KMlink](https://github.com/Corcules/KMlink) - Streamdeck plugin to drive Keyboard Maestro
@@ -1660,6 +1658,8 @@
 
 ## Python 
 
+- [therealsaumil/emux](https://github.com/therealsaumil/emux) - EMUX Firmware Emulation Framework (formerly ARMX)
+- [ChrisTheCoolHut/firmware_emulator](https://github.com/ChrisTheCoolHut/firmware_emulator) - Emulating firmware poorly but quickly!
 - [FirmWire/FirmWire](https://github.com/FirmWire/FirmWire) - FirmWire is a full-system baseband firmware emulation platform for fuzzing, debugging, and root-cause analysis of smartphone baseband firmwares
 - [fastapi/fastapi-cli](https://github.com/fastapi/fastapi-cli) - Run and manage FastAPI apps from the command line with FastAPI CLI. 🚀
 - [fastapi/asyncer](https://github.com/fastapi/asyncer) - Asyncer, async and await, focused on developer experience.
@@ -1718,6 +1718,7 @@
 - [lancopku/Embedding-Poisoning](https://github.com/lancopku/Embedding-Poisoning) - Code for the paper "Be Careful about Poisoned Word Embeddings: Exploring the Vulnerability of the Embedding Layers in NLP Models" (NAACL-HLT 2021)
 - [Erroristotle/VulnSage](https://github.com/Erroristotle/VulnSage) - 
 - [scthornton/securecode-web](https://github.com/scthornton/securecode-web) - Real-World Security Conversations for AI Training
+- [PurCL/ProSec](https://github.com/PurCL/ProSec) - Official repo for "ProSec: Fortifying Code LLMs with Proactive Security Alignment"
 - [SecureLLM/Secure_LLM](https://github.com/SecureLLM/Secure_LLM) - 
 - [Zhaoyang-Chu/code-unlearning](https://github.com/Zhaoyang-Chu/code-unlearning) - This repository contains a PyTorch implementation of the ICSE'26 paper "Scrub It Out! Erasing Sensitive Memorization in Code Language Models via Machine Unlearning".
 - [moritzmock/multitask-vulberability-detection](https://github.com/moritzmock/multitask-vulberability-detection) - 
@@ -1833,7 +1834,6 @@
 - [Azure/PyRIT](https://github.com/Azure/PyRIT) - The Python Risk Identification Tool for generative AI (PyRIT) is an open source framework built to empower security professionals and engineers to proactively identify risks in generative AI systems.
 - [MCPPhalanx/binaryninja-mcp](https://github.com/MCPPhalanx/binaryninja-mcp) - Another™ MCP Server for Binary Ninja with superpower 🥵
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-- [plexguide/HuntarrOS.com](https://github.com/plexguide/HuntarrOS.com) - Self-hosted server management platform, originally launched in 2016 and rebuilt for 2026. One-line Docker install on Ubuntu & Debian. Built-in app store, Cloudflare Tunnel & Traefik reverse proxy supp
 - [sabnzbd/sabnzbd](https://github.com/sabnzbd/sabnzbd) - SABnzbd - The automated Usenet download tool
 - [anasty17/mirror-leech-telegram-bot](https://github.com/anasty17/mirror-leech-telegram-bot) - Official Repository: Telegram bot which can download direct links, torrents, nzb, google drive, telegram document, any file/folder from rclone supported clouds, all yt-dlp supported sites and jdownloa
 - [memodb-io/memobase](https://github.com/memodb-io/memobase) - User Profile-Based Long-Term Memory for AI Chatbot Applications.
@@ -1968,6 +1968,7 @@
 - [EvalsOne/MCP-connect](https://github.com/EvalsOne/MCP-connect) - Enables cloud-based AI services to access local Stdio based MCP servers via HTTP requests
 - [wmliang/pe-afl](https://github.com/wmliang/pe-afl) - 
 - [fosdickio/binary_ninja_mcp](https://github.com/fosdickio/binary_ninja_mcp) - A Binary Ninja plugin containing an MCP server that enables seamless integration with your favorite LLM/MCP client.
+- [gmh5225/awesome-game-security](https://github.com/gmh5225/awesome-game-security) - awesome game security [Welcome to PR]
 - [theopolis/uefi-firmware-samples](https://github.com/theopolis/uefi-firmware-samples) - Sample firmware for UEFI-firmware parsing
 - [ucsb-seclab/monolithic-firmware-collection](https://github.com/ucsb-seclab/monolithic-firmware-collection) - Repository for monolithic firmware blobs
 - [xnl-h4ck3r/waymore](https://github.com/xnl-h4ck3r/waymore) - Find way more from the Wayback Machine, Common Crawl, Alien Vault OTX, URLScan, VirusTotal, GhostArchive & Intelligence X!
@@ -2960,7 +2961,7 @@
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol
 - [ComfyWorkflows/ComfyUI-Launcher](https://github.com/ComfyWorkflows/ComfyUI-Launcher) - Run any ComfyUI workflow w/ ZERO setup.
-- [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven.
+- [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Background jobs, Landing page, Payments (Stripe, Polar.sh), Shadc
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. Includes AI personas, AGI functions, world-class Beam multi-model chats, text-to-image, voice, response streaming, 
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
