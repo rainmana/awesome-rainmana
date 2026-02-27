@@ -4209,6 +4209,7 @@
 
 ## others 
 
+- [RUB-SysSec/redqueen](https://github.com/RUB-SysSec/redqueen) - 
 - [openai/openai-mcpkit](https://github.com/openai/openai-mcpkit) - 
 - [anthropics/claude-agent-sdk-typescript](https://github.com/anthropics/claude-agent-sdk-typescript) - 
 - [swiftlang/swift](https://github.com/swiftlang/swift) - The Swift Programming Language
@@ -6413,6 +6414,7 @@
 
 ## security 
 
+- [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL) - A fuzzer for full VM kernel/driver targets
 - [tijme/angularjs-csti-scanner](https://github.com/tijme/angularjs-csti-scanner) - Automated client-side template injection (sandbox escape/bypass) detection for AngularJS v1.x.
 - [devploit/awesome-ctf-resources](https://github.com/devploit/awesome-ctf-resources) - A list of Capture The Flag (CTF) frameworks, libraries, resources and software for started/experienced CTF players 🚩
 - [rizinorg/rizin](https://github.com/rizinorg/rizin) - UNIX-like reverse engineering framework and command-line toolset.
