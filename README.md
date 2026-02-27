@@ -113,6 +113,7 @@
 
 ## C 
 
+- [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) - Fast and accurate automatic speech recognition (ASR) for edge devices
 - [guinmoon/LLMFarm](https://github.com/guinmoon/LLMFarm) - llama and other  large language models on iOS and MacOS offline using GGML library.
 - [radareorg/radare2-mcp](https://github.com/radareorg/radare2-mcp) - MCP stdio server for radare2
 - [radareorg/radare2-extras](https://github.com/radareorg/radare2-extras) - Source graveyard and random candy for radare2
@@ -351,6 +352,7 @@
 
 ## C++ 
 
+- [swiftlang/swift](https://github.com/swiftlang/swift) - The Swift Programming Language
 - [vesoft-inc/nebula](https://github.com/vesoft-inc/nebula) - A distributed, fast open-source graph database featuring horizontal scalability and high availability
 - [avast/retdec](https://github.com/avast/retdec) - RetDec is a retargetable machine-code decompiler based on LLVM.
 - [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
@@ -853,6 +855,7 @@
 
 ## Java 
 
+- [techguy-bhushan/XssRequestFilters](https://github.com/techguy-bhushan/XssRequestFilters) - Light weight library for Filter the Cross-site scripting in request For Spring Framwork / Spring-Boot,  logic can be use for servlet based(without using spring framework) application
 - [JanusGraph/janusgraph](https://github.com/JanusGraph/janusgraph) - JanusGraph: an open-source, distributed graph database
 - [orientechnologies/orientdb](https://github.com/orientechnologies/orientdb) - OrientDB is the most versatile DBMS supporting Graph, Document, Reactive, Full-Text and Geospatial models in one Multi-Model product. OrientDB can run distributed (Multi-Master), supports SQL, ACID Tr
 - [mykalseceng/burpsuite-ai-pal-ext](https://github.com/mykalseceng/burpsuite-ai-pal-ext) - Burp Suite extension integrating LLMs for security analysis
@@ -923,6 +926,7 @@
 
 ## JavaScript 
 
+- [dopebase/react-native-recipes-app](https://github.com/dopebase/react-native-recipes-app) - Recipes App in React Native
 - [chr15m/bugout](https://github.com/chr15m/bugout) - Back end web app services over WebRTC.
 - [retrohacker/peerweb.js](https://github.com/retrohacker/peerweb.js) - A client side library for fetching and rendering a static website via torrent over WebRTC
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
@@ -1203,6 +1207,7 @@
 
 ## Makefile 
 
+- [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL) - A fuzzer for full VM kernel/driver targets
 - [gschorcht/esp32-elf-rom](https://github.com/gschorcht/esp32-elf-rom) - ESP32 ROM blob to ELF convertor
 - [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
 
@@ -1271,6 +1276,7 @@
 
 ## Others 
 
+- [devploit/awesome-ctf-resources](https://github.com/devploit/awesome-ctf-resources) - A list of Capture The Flag (CTF) frameworks, libraries, resources and software for started/experienced CTF players 🚩
 - [neueda/awesome-neo4j](https://github.com/neueda/awesome-neo4j) - A curated list of Neo4j resources.
 - [dhamaniasad/awesome-databases](https://github.com/dhamaniasad/awesome-databases) - A curated list of awesome databases
 - [graphgeeks-lab/awesome-graph-universe](https://github.com/graphgeeks-lab/awesome-graph-universe) - A curated list of resources for graph-related topics, including graph databases, analytics and science
@@ -1578,6 +1584,7 @@
 
 ## PHP 
 
+- [ssl/ezXSS](https://github.com/ssl/ezXSS) - ezXSS is an easy way for penetration testers and bug bounty hunters to test (blind) Cross Site Scripting.
 - [johnroper100/dropplets](https://github.com/johnroper100/dropplets) - Welcome to an easier way to blog - A minimalist markdown blogging platform.
 - [context-hub/generator](https://github.com/context-hub/generator) - CTX: a tool that solves the context management gap when working with LLMs like ChatGPT or Claude. It helps developers organize and automatically collect information from their codebase into structured
 - [spotweb/spotweb](https://github.com/spotweb/spotweb) - Decentralized community
@@ -1658,6 +1665,14 @@
 
 ## Python 
 
+- [RUB-SysSec/redqueen](https://github.com/RUB-SysSec/redqueen) - 
+- [openai/openai-mcpkit](https://github.com/openai/openai-mcpkit) - 
+- [AlaBouali/bane](https://github.com/AlaBouali/bane) - The "bane" Python library stands out as a robust toolkit catering to a wide spectrum of cybersecurity and networking tasks. Its versatile range of functionalities covers various aspects, including bru
+- [ajinabraham/OWASP-Xenotix-XSS-Exploit-Framework](https://github.com/ajinabraham/OWASP-Xenotix-XSS-Exploit-Framework) - OWASP Xenotix XSS Exploit Framework is an advanced Cross Site Scripting (XSS) vulnerability detection and exploitation framework.
+- [pwn0sec/PwnXSS](https://github.com/pwn0sec/PwnXSS) - PwnXSS: Vulnerability (XSS) scanner exploit
+- [menkrep1337/XSSCon](https://github.com/menkrep1337/XSSCon) - XSSCon: Simple XSS Scanner tool
+- [tijme/angularjs-csti-scanner](https://github.com/tijme/angularjs-csti-scanner) - Automated client-side template injection (sandbox escape/bypass) detection for AngularJS v1.x.
+- [rainmana/tinybrain-python](https://github.com/rainmana/tinybrain-python) - 
 - [therealsaumil/emux](https://github.com/therealsaumil/emux) - EMUX Firmware Emulation Framework (formerly ARMX)
 - [ChrisTheCoolHut/firmware_emulator](https://github.com/ChrisTheCoolHut/firmware_emulator) - Emulating firmware poorly but quickly!
 - [FirmWire/FirmWire](https://github.com/FirmWire/FirmWire) - FirmWire is a full-system baseband firmware emulation platform for fuzzing, debugging, and root-cause analysis of smartphone baseband firmwares
@@ -2659,6 +2674,9 @@
 
 ## Shell 
 
+- [anthropics/claude-agent-sdk-typescript](https://github.com/anthropics/claude-agent-sdk-typescript) - 
+- [pikpikcu/XRCross](https://github.com/pikpikcu/XRCross) - XRCross is a Reconstruction, Scanner, and a tool for penetration / BugBounty testing.  This tool was built to test (XSS|SSRF|CORS|SSTI|IDOR|RCE|LFI|SQLI) vulnerabilities
+- [dwisiswant0/findom-xss](https://github.com/dwisiswant0/findom-xss) - A fast DOM based XSS vulnerability scanner with simplicity.
 - [craigz28/firmwalker](https://github.com/craigz28/firmwalker) - Script for searching the extracted firmware file system for goodies!
 - [Squithy/uConnect](https://github.com/Squithy/uConnect) - uConnect Reverse Eng
 - [marlonrichert/zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - 🤖 Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.
@@ -2772,6 +2790,8 @@
 
 ## Swift 
 
+- [swiftlang/swift-package-manager](https://github.com/swiftlang/swift-package-manager) - The Package Manager for the Swift Programming Language
+- [dopebase/messenger-iOS-chat-swift-firestore](https://github.com/dopebase/messenger-iOS-chat-swift-firestore) - Messenger Clone - Real-time iOS Chat with Firebase Firestore written in Swift
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
 - [steipete/Peekaboo](https://github.com/steipete/Peekaboo) - Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI mo
 - [paradiseduo/appdecrypt](https://github.com/paradiseduo/appdecrypt) - appdecrypt is a tool to make decrypt application encrypted binaries on macOS when SIP-enabled  (macOS 11.3 or below)
@@ -2806,6 +2826,7 @@
 
 ## TypeScript 
 
+- [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 - [tom-james-watson/wikitrivia](https://github.com/tom-james-watson/wikitrivia) - Wikidata as a trivia card game.
 - [simonhaenisch/md-to-pdf](https://github.com/simonhaenisch/md-to-pdf) - Hackable CLI tool for converting Markdown files to PDF using Node.js and headless Chrome.
 - [AmoyLab/Unla](https://github.com/AmoyLab/Unla) - 🧩 MCP Gateway - A lightweight gateway service that instantly transforms existing MCP Servers and APIs into MCP servers with zero code changes. Features Docker deployment and management UI, requiring n
