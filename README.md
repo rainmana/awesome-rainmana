@@ -819,7 +819,6 @@
 - [nasa/T-MATS](https://github.com/nasa/T-MATS) - An open source thermodynamic modeling package completed on behalf of NASA. The Toolbox for the Modeling and Analysis of Thermodynamic Systems (T-MATS) package offers a MATLAB/Simulink toolbox that giv
 - [minhhungit/github-action-rss-crawler](https://github.com/minhhungit/github-action-rss-crawler) - Auto crawl RSS feeds using Github Action
 - [spyboy-productions/r4ven](https://github.com/spyboy-productions/r4ven) - Track the GPS location of the user's smartphone or PC and capture a picture of the target, along with IP and device information.
-- [coffeeandsecurity/DakshSCRA](https://github.com/coffeeandsecurity/DakshSCRA) - 
 - [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 3rd Edition - Programming the Open Blockchain
 - [nevillegrech/gigahorse-toolchain](https://github.com/nevillegrech/gigahorse-toolchain) - A binary lifter and analysis framework for Ethereum smart contracts
 - [ustayready/CredSniper](https://github.com/ustayready/CredSniper) - CredSniper is a phishing framework written with the Python micro-framework Flask and Jinja2 templating which supports capturing 2FA tokens.
@@ -2207,6 +2206,7 @@
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
 - [microsoft/promptflow](https://github.com/microsoft/promptflow) - Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
 - [llm-attacks/llm-attacks](https://github.com/llm-attacks/llm-attacks) - Universal and Transferable Attacks on Aligned Language Models
+- [coffeeandsecurity/DakshSCRA](https://github.com/coffeeandsecurity/DakshSCRA) - 
 - [jakecreps/poastal](https://github.com/jakecreps/poastal) - Poastal - the Email OSINT tool
 - [volodymyrsmirnov/iCloud-API](https://github.com/volodymyrsmirnov/iCloud-API) - iClould Non Public API Implementation
 - [hackappcom/iloot](https://github.com/hackappcom/iloot) - OpenSource tool  for iCloud backup extraction
@@ -2346,7 +2346,7 @@
 - [MISP/MISPego](https://github.com/MISP/MISPego) - Maltego Transform to put entities into MISP events
 - [brianwarehime/munk](https://github.com/brianwarehime/munk) - Munk - Visualize Splunk Architecture in Maltego
 - [glennzw/Malty](https://github.com/glennzw/Malty) - Malty: Combine two Maltego .mtz files into one.
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+- [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [xpirt/img2sdat](https://github.com/xpirt/img2sdat) - Convert sparse EXT4 image to sparse Android data image
 - [xpirt/sdat2img](https://github.com/xpirt/sdat2img) - Convert sparse Android data image to filesystem ext4 image
 - [ViRb3/apk-utilities](https://github.com/ViRb3/apk-utilities) - 🛠 Tools and scripts to manipulate Android APKs
