@@ -352,6 +352,7 @@
 
 ## C++ 
 
+- [frida/cryptoshark](https://github.com/frida/cryptoshark) - Self-optimizing cross-platform code tracer based on dynamic recompilation
 - [swiftlang/swift](https://github.com/swiftlang/swift) - The Swift Programming Language
 - [vesoft-inc/nebula](https://github.com/vesoft-inc/nebula) - A distributed, fast open-source graph database featuring horizontal scalability and high availability
 - [avast/retdec](https://github.com/avast/retdec) - RetDec is a retargetable machine-code decompiler based on LLVM.
@@ -924,6 +925,7 @@
 
 ## JavaScript 
 
+- [adityatelange/frida-ui](https://github.com/adityatelange/frida-ui) - Interact with Frida devices, processes, and scripts directly from your browser.
 - [dopebase/react-native-recipes-app](https://github.com/dopebase/react-native-recipes-app) - Recipes App in React Native
 - [chr15m/bugout](https://github.com/chr15m/bugout) - Back end web app services over WebRTC.
 - [retrohacker/peerweb.js](https://github.com/retrohacker/peerweb.js) - A client side library for fetching and rendering a static website via torrent over WebRTC
@@ -1275,6 +1277,8 @@
 
 ## Others 
 
+- [onmyway133/awesome-swiftui](https://github.com/onmyway133/awesome-swiftui) - 🌮 Awesome resources, articles, libraries about SwiftUI
+- [Cy-clon3/awesome-ios-security](https://github.com/Cy-clon3/awesome-ios-security) - A curated list of awesome iOS application security resources.
 - [scrosseye/PeRDict-database](https://github.com/scrosseye/PeRDict-database) - The Perfect Rhymes Dictionary Database is housed here
 - [devploit/awesome-ctf-resources](https://github.com/devploit/awesome-ctf-resources) - A list of Capture The Flag (CTF) frameworks, libraries, resources and software for started/experienced CTF players 🚩
 - [neueda/awesome-neo4j](https://github.com/neueda/awesome-neo4j) - A curated list of Neo4j resources.
@@ -1664,6 +1668,8 @@
 
 ## Python 
 
+- [dhondta/python-sploitkit](https://github.com/dhondta/python-sploitkit) - Devkit for building Metasploit-like consoles
+- [jeremylaratro/purplesploit](https://github.com/jeremylaratro/purplesploit) - Purplesploit - a framework for ultimate pentesting workflow efficiency
 - [RUB-SysSec/redqueen](https://github.com/RUB-SysSec/redqueen) - 
 - [openai/openai-mcpkit](https://github.com/openai/openai-mcpkit) - 
 - [AlaBouali/bane](https://github.com/AlaBouali/bane) - The "bane" Python library stands out as a robust toolkit catering to a wide spectrum of cybersecurity and networking tasks. Its versatile range of functionalities covers various aspects, including bru
@@ -2059,7 +2065,7 @@
 - [Comfy-Org/ComfyUI-Manager](https://github.com/Comfy-Org/ComfyUI-Manager) - ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this 
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
-- [Zipstack/unstract](https://github.com/Zipstack/unstract) - No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents
+- [Zipstack/unstract](https://github.com/Zipstack/unstract) - LLM-Driven Extraction of Unstructured Data — Built for API Deployments & ETL Pipeline Workflows
 - [agent0ai/agent-zero](https://github.com/agent0ai/agent-zero) - Agent Zero AI framework
 - [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
 - [nsacyber/WALKOFF](https://github.com/nsacyber/WALKOFF) - A flexible, easy to use, automation framework allowing users to integrate their capabilities and devices to cut through the repetitive, tedious tasks slowing them down. #nsacyber
@@ -2337,7 +2343,7 @@
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data
 - [wagtail/wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience
 - [shaggyloris/boilerplate](https://github.com/shaggyloris/boilerplate) - 
-- [pyscript/pyscript](https://github.com/pyscript/pyscript) - PyScript is an open source platform for Python in the browser. Try PyScript: https://pyscript.com  Examples: https://tinyurl.com/pyscript-examples  Community: https://discord.gg/HxvBtukrg2
+- [pyscript/pyscript](https://github.com/pyscript/pyscript) - An open source platform for Python in the browser. https://pyscript.net Docs: https://docs.pyscript.net/ Try it: https://pyscript.com/ Community: https://discord.gg/HxvBtukrg2
 - [shawwn/openai-server](https://github.com/shawwn/openai-server) - OpenAI API webserver
 - [JonathanHolvey/sharepy](https://github.com/JonathanHolvey/sharepy) - Simple SharePoint authentication for Python
 - [jmcnamara/XlsxWriter](https://github.com/jmcnamara/XlsxWriter) - A Python module for creating Excel XLSX files.
@@ -2526,6 +2532,7 @@
 
 ## Ruby 
 
+- [theswiftdev/awesome-xcode-extensions](https://github.com/theswiftdev/awesome-xcode-extensions) - Awesome native Xcode extensions.
 - [Netflix-Skunkworks/Scumblr](https://github.com/Netflix-Skunkworks/Scumblr) - Web framework that allows performing periodic syncs of data sources and performing analysis on the identified results
 - [cenit-io/cenit](https://github.com/cenit-io/cenit) - :rocket: Cenit IO - 100% open source integration Platform (iPaaS)
 - [arkadiyt/aws_public_ips](https://github.com/arkadiyt/aws_public_ips) - Fetch all public IP addresses tied to your AWS account. Works with IPv4/IPv6, Classic/VPC networking, and across all AWS services
@@ -2557,6 +2564,7 @@
 
 ## Rust 
 
+- [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - [Pometry/Raphtory](https://github.com/Pometry/Raphtory) - Scalable graph analytics database powered by a multithreaded, vectorized temporal engine, written in Rust
 - [lbcdec/lbcdec](https://github.com/lbcdec/lbcdec) - A Lua 5.1 Bytecode Decompiler written in Rust
 - [pamburus/hl](https://github.com/pamburus/hl) - A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human-readable format.
@@ -2790,6 +2798,12 @@
 
 ## Swift 
 
+- [ShaftUI/Shaft](https://github.com/ShaftUI/Shaft) - A cross-platform GUI framework for Swift, built for demanding workloads and developer ergonomics
+- [SwiftUIX/SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) - An exhaustive expansion of the standard SwiftUI library.
+- [Charlyk/swift-theme-kit](https://github.com/Charlyk/swift-theme-kit) - SwiftThemeKit is a powerful and flexible design system framework for SwiftUI that enables you to create consistent, themeable user interfaces with ease. It provides a comprehensive set of components a
+- [artlasovsky/foundation-ui](https://github.com/artlasovsky/foundation-ui) - SwiftUI framework to speedup prototyping and development of user interfaces.
+- [SwiftfulThinking/SwiftfulUI](https://github.com/SwiftfulThinking/SwiftfulUI) - A collection of reusable SwiftUI components.
+- [Aeastr/SettingsKit](https://github.com/Aeastr/SettingsKit) - A declarative SwiftUI package for building settings interfaces with navigation, search, and customizable styling
 - [swiftlang/swift-package-manager](https://github.com/swiftlang/swift-package-manager) - The Package Manager for the Swift Programming Language
 - [dopebase/messenger-iOS-chat-swift-firestore](https://github.com/dopebase/messenger-iOS-chat-swift-firestore) - Messenger Clone - Real-time iOS Chat with Firebase Firestore written in Swift
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
@@ -2826,6 +2840,7 @@
 
 ## TypeScript 
 
+- [neil-wu/FridaSwiftDump](https://github.com/neil-wu/FridaSwiftDump) - FridaSwiftDump a Frida tool for retriving the Swift Object info from an running app.
 - [yavorsky/unbuilt.app](https://github.com/yavorsky/unbuilt.app) - Free and Open Source technology detection tool
 - [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 - [tom-james-watson/wikitrivia](https://github.com/tom-james-watson/wikitrivia) - Wikidata as a trivia card game.
