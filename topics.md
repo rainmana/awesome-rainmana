@@ -94,6 +94,7 @@
 - [es6](#es6)
 - [eslint](#eslint)
 - [ethereum](#ethereum)
+- [fastapi](#fastapi)
 - [finance](#finance)
 - [firebase](#firebase)
 - [firefox](#firefox)
@@ -737,6 +738,7 @@
 
 ## awesome 
 
+- [dustinspecker/awesome-eslint](https://github.com/dustinspecker/awesome-eslint) - A list of awesome ESLint plugins, configs, etc.
 - [onmyway133/awesome-swiftui](https://github.com/onmyway133/awesome-swiftui) - 🌮 Awesome resources, articles, libraries about SwiftUI
 - [Cy-clon3/awesome-ios-security](https://github.com/Cy-clon3/awesome-ios-security) - A curated list of awesome iOS application security resources.
 - [theswiftdev/awesome-xcode-extensions](https://github.com/theswiftdev/awesome-xcode-extensions) - Awesome native Xcode extensions.
@@ -857,6 +859,7 @@
 
 ## awesome-list 
 
+- [dustinspecker/awesome-eslint](https://github.com/dustinspecker/awesome-eslint) - A list of awesome ESLint plugins, configs, etc.
 - [Cy-clon3/awesome-ios-security](https://github.com/Cy-clon3/awesome-ios-security) - A curated list of awesome iOS application security resources.
 - [TuGraph-family/Awesome-Graphs](https://github.com/TuGraph-family/Awesome-Graphs) - Think Graphs Like A Graph.
 - [OneOffTech/awesome-pdf](https://github.com/OneOffTech/awesome-pdf) - A curated list of amazingly libraries, services and resources to work with PDF files
@@ -1006,6 +1009,7 @@
 
 ## babel 
 
+- [babel/babylon](https://github.com/babel/babylon) - PSA: moved into babel/babel as @babel/parser --&gt;
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 
 ## backend 
@@ -2101,10 +2105,15 @@
 
 ## es6 
 
+- [babel/babylon](https://github.com/babel/babylon) - PSA: moved into babel/babel as @babel/parser --&gt;
 - [xizon/poemkit](https://github.com/xizon/poemkit) - React toolkit for building a full website that also is a Micro-Frontend Architecture.
 
 ## eslint 
 
+- [eslint-community/eslint-plugin-security](https://github.com/eslint-community/eslint-plugin-security) - ESLint rules for Node Security
+- [nickdeis/eslint-plugin-no-secrets](https://github.com/nickdeis/eslint-plugin-no-secrets) - An eslint plugin to find strings that might be secrets/credentials
+- [dustinspecker/awesome-eslint](https://github.com/dustinspecker/awesome-eslint) - A list of awesome ESLint plugins, configs, etc.
+- [eslint/eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code.
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 
 ## ethereum 
@@ -2115,6 +2124,13 @@
 - [capstone-engine/capstone](https://github.com/capstone-engine/capstone) - Capstone disassembly/disassembler framework for ARM, ARM64 (ARMv8), Alpha, BPF, Ethereum VM, HPPA, LoongArch, M68K, M680X, Mips, MOS65XX, PPC, RISC-V(rv32G/rv64G), SH, Sparc, SystemZ, TMS320C64X, TriC
 - [nevillegrech/gigahorse-toolchain](https://github.com/nevillegrech/gigahorse-toolchain) - A binary lifter and analysis framework for Ethereum smart contracts
 - [crytic/rattle](https://github.com/crytic/rattle) - evm binary static analysis
+
+## fastapi 
+
+- [fastapi/fastapi-cli](https://github.com/fastapi/fastapi-cli) - Run and manage FastAPI apps from the command line with FastAPI CLI. 🚀
+- [pydantic/logfire](https://github.com/pydantic/logfire) - AI observability platform for production LLM and agent systems.
+- [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
+- [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 
 ## finance 
 
@@ -2990,6 +3006,13 @@
 
 ## javascript 
 
+- [eslint/eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code.
+- [dependents/node-source-walk](https://github.com/dependents/node-source-walk) - Execute a callback on every node of a source code's AST and stop walking whenever you see fit.
+- [estools/esquery](https://github.com/estools/esquery) - ECMAScript AST query library.
+- [estools/estraverse](https://github.com/estools/estraverse) - ECMAScript JS AST traversal functions
+- [babel/babylon](https://github.com/babel/babylon) - PSA: moved into babel/babel as @babel/parser --&gt;
+- [jquery/esprima](https://github.com/jquery/esprima) - ECMAScript parsing infrastructure for multipurpose analysis
+- [estree/estree](https://github.com/estree/estree) - The ESTree Spec
 - [dopebase/react-native-recipes-app](https://github.com/dopebase/react-native-recipes-app) - Recipes App in React Native
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
 - [remvze/moodist](https://github.com/remvze/moodist) - 🌲 Ambient sounds for focus and calm.
@@ -3454,6 +3477,7 @@
 
 ## mac 
 
+- [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
 - [paradiseduo/appdecrypt](https://github.com/paradiseduo/appdecrypt) - appdecrypt is a tool to make decrypt application encrypted binaries on macOS when SIP-enabled  (macOS 11.3 or below)
 - [cemolcay/MusicTheory](https://github.com/cemolcay/MusicTheory) - Universal music theory library for iOS, iPadOS, macOS, tvOS and watchOS in Swift
 - [mixxxdj/mixxx](https://github.com/mixxxdj/mixxx) - Mixxx is Free DJ software that gives you everything you need to perform live mixes.
@@ -3543,6 +3567,8 @@
 
 ## macos 
 
+- [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
+- [swiftbar/SwiftBar](https://github.com/swiftbar/SwiftBar) - Powerful macOS menu bar customization tool
 - [ShaftUI/Shaft](https://github.com/ShaftUI/Shaft) - A cross-platform GUI framework for Swift, built for demanding workloads and developer ergonomics
 - [SwiftUIX/SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) - An exhaustive expansion of the standard SwiftUI library.
 - [Charlyk/swift-theme-kit](https://github.com/Charlyk/swift-theme-kit) - SwiftThemeKit is a powerful and flexible design system framework for SwiftUI that enables you to create consistent, themeable user interfaces with ease. It provides a comprehensive set of components a
@@ -4223,6 +4249,15 @@
 
 ## others 
 
+- [CharlesWiltgen/Axiom](https://github.com/CharlesWiltgen/Axiom) - Battle-tested Claude Code skills for modern xOS (iOS, iPadOS, watchOS, tvOS) development
+- [microsoft/sarif-js-sdk](https://github.com/microsoft/sarif-js-sdk) - JavaScript code and supporting files for working with the 'Static Analysis Results Interchange Format' (SARIF, see https://github.com/oasis-tcs/sarif-spec)
+- [shuoshubao/eslint-formatter-html](https://github.com/shuoshubao/eslint-formatter-html) - eslint-formatter-html
+- [Rantanen/eslint-plugin-xss](https://github.com/Rantanen/eslint-plugin-xss) - ESLint plugin for XSS detection
+- [shiva-hack/eslint-plugin-pii](https://github.com/shiva-hack/eslint-plugin-pii) - PII linting rules for ESLint
+- [shapesecurity/shift-parser-js](https://github.com/shapesecurity/shift-parser-js) - ECMAScript parser that produces a Shift format AST
+- [eslint/js](https://github.com/eslint/js) - Monorepo for the JS language tools.
+- [acornjs/acorn](https://github.com/acornjs/acorn) - A small, fast, JavaScript-based JavaScript parser
+- [cowchimp/awesome-ast](https://github.com/cowchimp/awesome-ast) - A curated list of awesome AST resources
 - [SwiftfulThinking/SwiftfulUI](https://github.com/SwiftfulThinking/SwiftfulUI) - A collection of reusable SwiftUI components.
 - [Aeastr/SettingsKit](https://github.com/Aeastr/SettingsKit) - A declarative SwiftUI package for building settings interfaces with navigation, search, and customizable styling
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
@@ -5465,6 +5500,8 @@
 
 ## parsing 
 
+- [jquery/esprima](https://github.com/jquery/esprima) - ECMAScript parsing infrastructure for multipurpose analysis
+- [estree/estree](https://github.com/estree/estree) - The ESTree Spec
 - [lief-project/LIEF](https://github.com/lief-project/LIEF) - LIEF - Library to Instrument Executable Formats (C++, Python, Rust)
 - [bradjasper/ImportJSON](https://github.com/bradjasper/ImportJSON) - Import JSON into Google Sheets, this library adds various ImportJSON functions to your spreadsheet
 - [KINGSABRI/jwtear](https://github.com/KINGSABRI/jwtear) - Modular command-line tool to parse, create and manipulate JWT tokens for hackers
@@ -5689,6 +5726,7 @@
 
 ## productivity 
 
+- [swiftbar/SwiftBar](https://github.com/swiftbar/SwiftBar) - Powerful macOS menu bar customization tool
 - [remvze/moodist](https://github.com/remvze/moodist) - 🌲 Ambient sounds for focus and calm.
 - [codingtuto/LiteJsonDb](https://github.com/codingtuto/LiteJsonDb) - A lightweight JSON-based database system designed for simplicity and ease of use. It allows you to manage your data efficiently without the complexity of traditional databases. Code less, be productiv
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
@@ -6442,6 +6480,8 @@
 
 ## security 
 
+- [mozilla/eslint-plugin-no-unsanitized](https://github.com/mozilla/eslint-plugin-no-unsanitized) - Custom ESLint rule to disallows unsafe innerHTML, outerHTML, insertAdjacentHTML and alike
+- [nickdeis/eslint-plugin-no-secrets](https://github.com/nickdeis/eslint-plugin-no-secrets) - An eslint plugin to find strings that might be secrets/credentials
 - [jeremylaratro/purplesploit](https://github.com/jeremylaratro/purplesploit) - Purplesploit - a framework for ultimate pentesting workflow efficiency
 - [Cy-clon3/awesome-ios-security](https://github.com/Cy-clon3/awesome-ios-security) - A curated list of awesome iOS application security resources.
 - [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL) - A fuzzer for full VM kernel/driver targets
@@ -6596,6 +6636,7 @@
 
 ## security-tools 
 
+- [nickdeis/eslint-plugin-no-secrets](https://github.com/nickdeis/eslint-plugin-no-secrets) - An eslint plugin to find strings that might be secrets/credentials
 - [codebytemirza/LLMgrep](https://github.com/codebytemirza/LLMgrep) - LLMGrep combines the precision of Semgrep's static analysis with the power of Large Language Models to deliver comprehensive security scanning, interactive vulnerability discussions, and intelligent r
 - [opencybersecurityalliance/stix-shifter](https://github.com/opencybersecurityalliance/stix-shifter) - This project consists of an open source library allowing software to connect to data repositories using STIX Patterning, and return results as STIX Observations.
 - [gabrie30/ghorg](https://github.com/gabrie30/ghorg) - Quickly clone or backup an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🐇🥚
@@ -6882,6 +6923,7 @@
 
 ## swift 
 
+- [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
 - [ShaftUI/Shaft](https://github.com/ShaftUI/Shaft) - A cross-platform GUI framework for Swift, built for demanding workloads and developer ergonomics
 - [SwiftUIX/SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) - An exhaustive expansion of the standard SwiftUI library.
 - [Charlyk/swift-theme-kit](https://github.com/Charlyk/swift-theme-kit) - SwiftThemeKit is a powerful and flexible design system framework for SwiftUI that enables you to create consistent, themeable user interfaces with ease. It provides a comprehensive set of components a
