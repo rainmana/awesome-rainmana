@@ -925,6 +925,20 @@
 
 ## JavaScript 
 
+- [microsoft/sarif-js-sdk](https://github.com/microsoft/sarif-js-sdk) - JavaScript code and supporting files for working with the 'Static Analysis Results Interchange Format' (SARIF, see https://github.com/oasis-tcs/sarif-spec)
+- [shuoshubao/eslint-formatter-html](https://github.com/shuoshubao/eslint-formatter-html) - eslint-formatter-html
+- [Rantanen/eslint-plugin-xss](https://github.com/Rantanen/eslint-plugin-xss) - ESLint plugin for XSS detection
+- [eslint-community/eslint-plugin-security](https://github.com/eslint-community/eslint-plugin-security) - ESLint rules for Node Security
+- [shiva-hack/eslint-plugin-pii](https://github.com/shiva-hack/eslint-plugin-pii) - PII linting rules for ESLint
+- [mozilla/eslint-plugin-no-unsanitized](https://github.com/mozilla/eslint-plugin-no-unsanitized) - Custom ESLint rule to disallows unsafe innerHTML, outerHTML, insertAdjacentHTML and alike
+- [eslint/eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code.
+- [dependents/node-source-walk](https://github.com/dependents/node-source-walk) - Execute a callback on every node of a source code's AST and stop walking whenever you see fit.
+- [estools/esquery](https://github.com/estools/esquery) - ECMAScript AST query library.
+- [estools/estraverse](https://github.com/estools/estraverse) - ECMAScript JS AST traversal functions
+- [shapesecurity/shift-parser-js](https://github.com/shapesecurity/shift-parser-js) - ECMAScript parser that produces a Shift format AST
+- [eslint/js](https://github.com/eslint/js) - Monorepo for the JS language tools.
+- [babel/babylon](https://github.com/babel/babylon) - PSA: moved into babel/babel as @babel/parser --&gt;
+- [acornjs/acorn](https://github.com/acornjs/acorn) - A small, fast, JavaScript-based JavaScript parser
 - [adityatelange/frida-ui](https://github.com/adityatelange/frida-ui) - Interact with Frida devices, processes, and scripts directly from your browser.
 - [dopebase/react-native-recipes-app](https://github.com/dopebase/react-native-recipes-app) - Recipes App in React Native
 - [chr15m/bugout](https://github.com/chr15m/bugout) - Back end web app services over WebRTC.
@@ -1277,6 +1291,9 @@
 
 ## Others 
 
+- [dustinspecker/awesome-eslint](https://github.com/dustinspecker/awesome-eslint) - A list of awesome ESLint plugins, configs, etc.
+- [estree/estree](https://github.com/estree/estree) - The ESTree Spec
+- [cowchimp/awesome-ast](https://github.com/cowchimp/awesome-ast) - A curated list of awesome AST resources
 - [onmyway133/awesome-swiftui](https://github.com/onmyway133/awesome-swiftui) - 🌮 Awesome resources, articles, libraries about SwiftUI
 - [Cy-clon3/awesome-ios-security](https://github.com/Cy-clon3/awesome-ios-security) - A curated list of awesome iOS application security resources.
 - [scrosseye/PeRDict-database](https://github.com/scrosseye/PeRDict-database) - The Perfect Rhymes Dictionary Database is housed here
@@ -1771,7 +1788,6 @@
 - [hak5/wifipineapplepager-payloads](https://github.com/hak5/wifipineapplepager-payloads) - The Official WiFi Pineapple Pager Payload Repository
 - [dwave-examples/mutual-information-feature-selection](https://github.com/dwave-examples/mutual-information-feature-selection) - Use mutual information to select features in a Titanic data set
 - [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui) - A research prototype of a human-centered web agent
-- [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) - AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
 - [open-mmlab/Amphion](https://github.com/open-mmlab/Amphion) - Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, 
 - [YatingMusic/remi](https://github.com/YatingMusic/remi) - "Pop Music Transformer: Beat-based Modeling and Generation of Expressive Pop Piano Compositions", ACM Multimedia 2020
 - [ivcylc/OpenMusic](https://github.com/ivcylc/OpenMusic) - OpenMusic: SOTA Text-to-music (TTM) Generation
@@ -2798,6 +2814,7 @@
 
 ## Swift 
 
+- [swiftbar/SwiftBar](https://github.com/swiftbar/SwiftBar) - Powerful macOS menu bar customization tool
 - [ShaftUI/Shaft](https://github.com/ShaftUI/Shaft) - A cross-platform GUI framework for Swift, built for demanding workloads and developer ergonomics
 - [SwiftUIX/SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) - An exhaustive expansion of the standard SwiftUI library.
 - [Charlyk/swift-theme-kit](https://github.com/Charlyk/swift-theme-kit) - SwiftThemeKit is a powerful and flexible design system framework for SwiftUI that enables you to create consistent, themeable user interfaces with ease. It provides a comprehensive set of components a
@@ -2840,6 +2857,9 @@
 
 ## TypeScript 
 
+- [CharlesWiltgen/Axiom](https://github.com/CharlesWiltgen/Axiom) - Battle-tested Claude Code skills for modern xOS (iOS, iPadOS, watchOS, tvOS) development
+- [nickdeis/eslint-plugin-no-secrets](https://github.com/nickdeis/eslint-plugin-no-secrets) - An eslint plugin to find strings that might be secrets/credentials
+- [jquery/esprima](https://github.com/jquery/esprima) - ECMAScript parsing infrastructure for multipurpose analysis
 - [neil-wu/FridaSwiftDump](https://github.com/neil-wu/FridaSwiftDump) - FridaSwiftDump a Frida tool for retriving the Swift Object info from an running app.
 - [yavorsky/unbuilt.app](https://github.com/yavorsky/unbuilt.app) - Free and Open Source technology detection tool
 - [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
@@ -2867,6 +2887,7 @@
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
 - [AI-QL/tuui](https://github.com/AI-QL/tuui) - A desktop MCP client designed as a tool unitary utility integration, accelerating AI adoption through the Model Context Protocol (MCP) and enabling cross-vendor LLM API orchestration.
 - [agno-agi/agent-ui](https://github.com/agno-agi/agent-ui) - A modern chat interface for AI agents built with Next.js, Tailwind CSS, and TypeScript.
+- [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) - AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
 - [JNKKKK/pianochord.io](https://github.com/JNKKKK/pianochord.io) - A pure frontend Web Application for people to browse through a large collection of piano chords
 - [tonaljs/tonal](https://github.com/tonaljs/tonal) - A music theory library for Javascript
 - [ZaneH/piano-trainer](https://github.com/ZaneH/piano-trainer) - 🎹 Memorize piano scales with ease! A piano practice program w/ MIDI support. Consider it an interactive reference manual
