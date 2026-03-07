@@ -1414,6 +1414,7 @@
 
 ## clojure 
 
+- [CodeIntelligenceTesting/jazzer](https://github.com/CodeIntelligenceTesting/jazzer) - Coverage-guided, in-process fuzzing for the JVM
 - [clj-holmes/clj-holmes](https://github.com/clj-holmes/clj-holmes) - A CLI SAST (Static application security testing) tool which was built with the intent of finding vulnerable Clojure code via rules that use a simple pattern language.
 
 ## cloud 
@@ -1748,6 +1749,7 @@
 
 ## data-science 
 
+- [TeamHG-Memex/eli5](https://github.com/TeamHG-Memex/eli5) - A library for debugging/inspecting machine learning classifiers and explaining their predictions
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
@@ -2047,7 +2049,7 @@
 - [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard, primarily used by smaller private servers
 - [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
 - [ArchiveBox/electron-archivebox](https://github.com/ArchiveBox/electron-archivebox) - Desktop Electron app for ArchiveBox internet archiver. (ALPHA: not ready for general use)
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking tool. Capture thoughts instantly, own them completely — no tracking, no ads, no subscription fees.
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [metrue/fx](https://github.com/metrue/fx) - A Function as a Service tool makes a function as a  container-based service in seconds.
@@ -2425,7 +2427,7 @@
 - [gpustack/gguf-parser-go](https://github.com/gpustack/gguf-parser-go) - Review/Check GGUF files and estimate the memory usage and maximum tokens per second.
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking tool. Capture thoughts instantly, own them completely — no tracking, no ads, no subscription fees.
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application
 - [edoardottt/cariddi](https://github.com/edoardottt/cariddi) - Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more
@@ -2914,6 +2916,7 @@
 
 ## html 
 
+- [TeamHG-Memex/extract-html-diff](https://github.com/TeamHG-Memex/extract-html-diff) - extract difference between two html pages
 - [Kimeiga/bahunya](https://github.com/Kimeiga/bahunya) - 10KB classless CSS framework with a navbar and dark styling
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [TiddlyWiki/TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
@@ -3085,6 +3088,7 @@
 
 ## java 
 
+- [CodeIntelligenceTesting/jazzer](https://github.com/CodeIntelligenceTesting/jazzer) - Coverage-guided, in-process fuzzing for the JVM
 - [fuzzitdev/javafuzz](https://github.com/fuzzitdev/javafuzz) - coverage guided fuzz testing for java
 - [gephi/gephi](https://github.com/gephi/gephi) - Gephi - The Open Graph Viz Platform
 - [AsamK/signal-cli](https://github.com/AsamK/signal-cli) - signal-cli provides an unofficial commandline, JSON-RPC and dbus interface for the Signal messenger.
@@ -3289,6 +3293,7 @@
 
 ## kotlin 
 
+- [CodeIntelligenceTesting/jazzer](https://github.com/CodeIntelligenceTesting/jazzer) - Coverage-guided, in-process fuzzing for the JVM
 - [insidersec/insider](https://github.com/insidersec/insider) - Static Application Security Testing (SAST) engine focused on covering the OWASP Top 10, to make source code analysis to find vulnerabilities right in the source code, focused on a agile and easy to im
 - [google/android-classyshark](https://github.com/google/android-classyshark) - Android and Java bytecode viewer
 - [mrousavy/react-native-google-nearby-messages](https://github.com/mrousavy/react-native-google-nearby-messages) - 📲 Communicate with nearby devices using Bluetooth, BLE, WiFi and near-ultrasonic audio. Broadcast and receive small payloads (like strings) using the easy-to-use React Native API!
@@ -3613,6 +3618,7 @@
 
 ## machine-learning 
 
+- [TeamHG-Memex/eli5](https://github.com/TeamHG-Memex/eli5) - A library for debugging/inspecting machine learning classifiers and explaining their predictions
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [br0kej/bin2ml](https://github.com/br0kej/bin2ml) - A command line tool for extracting machine learning ready data from software binaries powered by Radare2
@@ -3787,7 +3793,7 @@
 - [johnroper100/dropplets](https://github.com/johnroper100/dropplets) - Welcome to an easier way to blog - A minimalist markdown blogging platform.
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking tool. Capture thoughts instantly, own them completely — no tracking, no ads, no subscription fees.
 - [MacDownApp/macdown](https://github.com/MacDownApp/macdown) - Open source Markdown editor for macOS.
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
@@ -4062,6 +4068,7 @@
 
 ## nlp 
 
+- [TeamHG-Memex/eli5](https://github.com/TeamHG-Memex/eli5) - A library for debugging/inspecting machine learning classifiers and explaining their predictions
 - [br0kej/bin2ml](https://github.com/br0kej/bin2ml) - A command line tool for extracting machine learning ready data from software binaries powered by Radare2
 - [amazon-science/recode](https://github.com/amazon-science/recode) - Releasing code for "ReCode: Robustness Evaluation of Code Generation Models"
 - [QData/TextAttack](https://github.com/QData/TextAttack) - TextAttack 🐙  is a Python framework for adversarial attacks, data augmentation, and model training in NLP https://textattack.readthedocs.io/en/master/
@@ -4387,6 +4394,94 @@
 
 ## others 
 
+- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - 
+- [zz4fap/scatter-phy](https://github.com/zz4fap/scatter-phy) - This repo contains the source code of the physical layer developed for the DARPA Spectrum Collaboration Challenge (SC2).
+- [CyberGrandChallenge/linux-source-3.13.2-cgc](https://github.com/CyberGrandChallenge/linux-source-3.13.2-cgc) - DARPA Cyber Grand Challenge Linux source code
+- [NeBula-Autonomy/nebula-odometry-dataset](https://github.com/NeBula-Autonomy/nebula-odometry-dataset) - Ready to test your SLAM system in challenging datasets from extreme environments? Try this out!  The dataset is provided by the Team CoSTAR that has been intensively testing multi-robot systems in rea
+- [ge-high-assurance/VERDICT](https://github.com/ge-high-assurance/VERDICT) - DARPA's Cyber Assured Systems Engineering (CASE) project named Verification Evidence and Resilient Design in Anticipation of Cybersecurity Threats (VERDICT)
+- [deptofdefense/gr-uaslink](https://github.com/deptofdefense/gr-uaslink) - DARPA HackFest
+- [ericwhyne/darpa_open_catalog](https://github.com/ericwhyne/darpa_open_catalog) - Meta information for the DARPA open catalog project.
+- [osrf/subt](https://github.com/osrf/subt) - This repostory contains software for the virtual track of the DARPA SubT Challenge. Within this repository you will find Gazebo simulation assets, ROS interfaces, support scripts and plugins, and docu
+- [pdf-association/safedocs](https://github.com/pdf-association/safedocs) - Artifacts from the DARPA-funded SafeDocs research program
+- [lungetech/cgc-corpus](https://github.com/lungetech/cgc-corpus) - DARPA CGC Corpus
+- [CyberGrandChallenge/magic-cgc](https://github.com/CyberGrandChallenge/magic-cgc) - DARPA Cyber Grand Challenge File Magic
+- [IBM/perfect-chisel](https://github.com/IBM/perfect-chisel) - Chisel artifacts developed under IBM's involvement with the DARPA PERFECT program
+- [CyberGrandChallenge/gdb](https://github.com/CyberGrandChallenge/gdb) - GNU Debugger with DARPA Cyber Grand Challenge CB support
+- [dchaplinsky/unshred](https://github.com/dchaplinsky/unshred) - Experiments on darpa shredder challenge tasks using python & opencv.
+- [ericwhyne/open-catalog-generator](https://github.com/ericwhyne/open-catalog-generator) - Code and templates required to build the DARPA open catalog.
+- [aglahe/vagrant-xdata](https://github.com/aglahe/vagrant-xdata) - DARPA XData Vagrant VM
+- [fuzzingbrain/afc-crs-all-you-need-is-a-fuzzing-brain](https://github.com/fuzzingbrain/afc-crs-all-you-need-is-a-fuzzing-brain) - LLM-powered system that discovered 62 zero-day vulnerabilities across 26 open source projects. 4th place, DARPA AIxCC.
+- [GallupGovt/multivac](https://github.com/GallupGovt/multivac) - MULTIVAC - A DARPA Automating Scientific Knowledge Extraction (ASKE) Artifical Intelligence Exploration (AIE) Program
+- [xastprl/DarpanX](https://github.com/xastprl/DarpanX) - DarpanX is a Python 3 package that provides functionality to compute reflectivity and other specular optical functions of a multilayer or single layer mirror for different energy and angles as well as
+- [LTU-RAI/darpa_subt_worlds](https://github.com/LTU-RAI/darpa_subt_worlds) - Virtual worlds from the DARPA subterranean challenge
+- [loonwerks/CASE](https://github.com/loonwerks/CASE) - DARPA CASE program
+- [deptofdefense/meta-darpahackfest](https://github.com/deptofdefense/meta-darpahackfest) - DARPA HackFest
+- [zenfish/ipmi](https://github.com/zenfish/ipmi) - IPMI stuff from DARPA work
+- [CyberGrandChallenge/libcgc](https://github.com/CyberGrandChallenge/libcgc) - DARPA Cyber Grand Challenge OS syscall library
+- [CyberGrandChallenge/cb-testing](https://github.com/CyberGrandChallenge/cb-testing) - DARPA Cyber Grand Challenge Challenge Binary Testing tools
+- [CyberGrandChallenge/binutils](https://github.com/CyberGrandChallenge/binutils) - GNU Binutils ported to support DARPA Cyber Grand Challenge
+- [aglahe/vagrant-memex](https://github.com/aglahe/vagrant-memex) - DARPA MEMEX project Vagrant VM
+- [CyberGrandChallenge/samples](https://github.com/CyberGrandChallenge/samples) - DARPA Cyber Grand Challenge Sample Challenges
+- [philipperemy/timit](https://github.com/philipperemy/timit) - The DARPA TIMIT Acoustic-Phonetic Continuous Speech Corpus.
+- [trailofbits/cb-multios](https://github.com/trailofbits/cb-multios) - DARPA Challenges Sets for Linux, Windows, and macOS
+- [CyberGrandChallenge/cgc-release-documentation](https://github.com/CyberGrandChallenge/cgc-release-documentation) - DARPA Cyber Grand Challenge Documentation
+- [ManavA/stanford_self_driving_car_code](https://github.com/ManavA/stanford_self_driving_car_code) - Stanford Code From Cars That Entered DARPA Grand Challenges
+- [DARPA-ASKEM/terarium](https://github.com/DARPA-ASKEM/terarium) - 
+- [DARPA-CRITICALMAAS/uncharted-ta1](https://github.com/DARPA-CRITICALMAAS/uncharted-ta1) - This repository contains Uncharted's TA1 contributions for DARPA's CriticalMAAS program. The main goals are automated feature extraction and georeferencing of geologic maps.
+- [cretz/javan-warty-pig](https://github.com/cretz/javan-warty-pig) - AFL-like fuzzer for the Java Virtual Machine
+- [tehmasta/jazzer-Java-Fuzzer-](https://github.com/tehmasta/jazzer-Java-Fuzzer-) - Coverage-guided, in-process fuzzing for the JVM
+- [isiko/Java-Fuzzer](https://github.com/isiko/Java-Fuzzer) - A simple tool to compare JAR files
+- [cphr/javafuzz](https://github.com/cphr/javafuzz) - JavaFuzz is a java classes fuzzer based on the the Java Reflection API
+- [shipilev/JavaFuzzer](https://github.com/shipilev/JavaFuzzer) - Java* Fuzzer for JVM
+- [TeamHG-Memex/memex-gate](https://github.com/TeamHG-Memex/memex-gate) - General Architecture for Text Engineering
+- [TeamHG-Memex/frontera-crawler](https://github.com/TeamHG-Memex/frontera-crawler) - Crawler-specific logic for Frontera
+- [TeamHG-Memex/rotating-proxy](https://github.com/TeamHG-Memex/rotating-proxy) - Rotating TOR proxy with Docker
+- [TeamHG-Memex/autoregister](https://github.com/TeamHG-Memex/autoregister) - 
+- [TeamHG-Memex/bk-string](https://github.com/TeamHG-Memex/bk-string) - A BK Tree based approach to storing and querying strings by Levenshtein Distance.
+- [TeamHG-Memex/common-crawl-mapreduce](https://github.com/TeamHG-Memex/common-crawl-mapreduce) - A naive scoring of commoncrawl's content using MR
+- [TeamHG-Memex/domainSpider](https://github.com/TeamHG-Memex/domainSpider) - Simple web crawler that sticks to a set list of domains. Work in progress.
+- [TeamHG-Memex/captcha-broad-crawl](https://github.com/TeamHG-Memex/captcha-broad-crawl) - Broad crawl of onion sites in search for captchas
+- [TeamHG-Memex/Datawake](https://github.com/TeamHG-Memex/Datawake) - Browser extension and backend services aimed at enhancing Internet search with domain specific knowledge, collaboration, and analysis.
+- [TeamHG-Memex/sitehound-backend](https://github.com/TeamHG-Memex/sitehound-backend) - Sitehound's backend
+- [TeamHG-Memex/privoxy](https://github.com/TeamHG-Memex/privoxy) - Privoxy HTTP Proxy based on jess/privoxy
+- [TeamHG-Memex/scrapy-cdr](https://github.com/TeamHG-Memex/scrapy-cdr) - Item definition and utils for storing items in CDR format for scrapy
+- [TeamHG-Memex/scrapy-dockerhub](https://github.com/TeamHG-Memex/scrapy-dockerhub) - [UNMAINTAINED] Deploy, run and monitor your Scrapy spiders.
+- [TeamHG-Memex/web-page-annotator](https://github.com/TeamHG-Memex/web-page-annotator) - Annotate parts of web pages in the browser
+- [TeamHG-Memex/tor-proxy](https://github.com/TeamHG-Memex/tor-proxy) - a tor socks proxy docker image
+- [TeamHG-Memex/docker-tor-rotator](https://github.com/TeamHG-Memex/docker-tor-rotator) - A rotating socks proxy using Tor, Delegate and Haproxy
+- [TeamHG-Memex/sitehound](https://github.com/TeamHG-Memex/sitehound) - This is the facade for installation and access to the individual components
+- [TeamHG-Memex/url-summary](https://github.com/TeamHG-Memex/url-summary) - Show summary of a large number of URLs in a Jupyter Notebook
+- [TeamHG-Memex/domain-discovery-crawler](https://github.com/TeamHG-Memex/domain-discovery-crawler) - Broad crawler for domain discovery
+- [TeamHG-Memex/imageSimilarity](https://github.com/TeamHG-Memex/imageSimilarity) - Given a new image, determine if it is likely derived from a known image.
+- [TeamHG-Memex/sitehound-frontend](https://github.com/TeamHG-Memex/sitehound-frontend) - Site Hound (previously THH) is a Domain Discovery Tool
+- [TeamHG-Memex/MaybeDont](https://github.com/TeamHG-Memex/MaybeDont) - A component that tries to avoid downloading duplicate content
+- [TeamHG-Memex/scrapy-kafka-export](https://github.com/TeamHG-Memex/scrapy-kafka-export) - Scrapy extension which writes crawled items to Kafka
+- [TeamHG-Memex/json-lines](https://github.com/TeamHG-Memex/json-lines) - Read JSON lines (jl) files, including gzipped and broken
+- [TeamHG-Memex/autologin-middleware](https://github.com/TeamHG-Memex/autologin-middleware) - Scrapy middleware for the autologin
+- [TeamHG-Memex/agnostic](https://github.com/TeamHG-Memex/agnostic) - Agnostic Database Migrations
+- [TeamHG-Memex/soft404](https://github.com/TeamHG-Memex/soft404) - A classifier for detecting soft 404 pages
+- [TeamHG-Memex/undercrawler](https://github.com/TeamHG-Memex/undercrawler) - A generic crawler
+- [TeamHG-Memex/scrapy-crawl-once](https://github.com/TeamHG-Memex/scrapy-crawl-once) - Scrapy middleware which allows to crawl only new content
+- [TeamHG-Memex/page-compare](https://github.com/TeamHG-Memex/page-compare) - Simple heuristic for measuring web page similarity (& data set)
+- [TeamHG-Memex/autopager](https://github.com/TeamHG-Memex/autopager) - Detect and classify pagination links
+- [TeamHG-Memex/Formasaurus](https://github.com/TeamHG-Memex/Formasaurus) - Formasaurus tells you the type of an HTML form and its fields using machine learning
+- [TeamHG-Memex/autologin](https://github.com/TeamHG-Memex/autologin) - A project to attempt to automatically login to a website given a single seed
+- [TeamHG-Memex/html-text](https://github.com/TeamHG-Memex/html-text) - Extract text from HTML
+- [TeamHG-Memex/arachnado](https://github.com/TeamHG-Memex/arachnado) - Web Crawling UI and HTTP API, based on Scrapy and Tornado
+- [TeamHG-Memex/deep-deep](https://github.com/TeamHG-Memex/deep-deep) - Adaptive crawler which uses Reinforcement Learning methods
+- [TeamHG-Memex/sklearn-crfsuite](https://github.com/TeamHG-Memex/sklearn-crfsuite) - scikit-learn inspired API for CRFsuite
+- [TeamHG-Memex/tensorboard_logger](https://github.com/TeamHG-Memex/tensorboard_logger) - Log TensorBoard events without touching TensorFlow
+- [darpa-i2o/synapse](https://github.com/darpa-i2o/synapse) - Distributed Key-Value Hypergraph Analysis Framework
+- [darpa-i2o/XAI-program-index](https://github.com/darpa-i2o/XAI-program-index) - 
+- [darpa-i2o/Transparent-Computing](https://github.com/darpa-i2o/Transparent-Computing) - Material from the DARPA Transparent Computing Program
+- [darpa-i2o/consec-WAM](https://github.com/darpa-i2o/consec-WAM) - Distributed whack-a-mole
+- [darpa-i2o/Fewshot-SMIS](https://github.com/darpa-i2o/Fewshot-SMIS) - Pytorch implementation of few-shot semantic image synthesis
+- [usc-isi-i2/dsbox-ta2](https://github.com/usc-isi-i2/dsbox-ta2) - The DSBox TA2 component
+- [darpa-i2o/d3m-program-index](https://github.com/darpa-i2o/d3m-program-index) - 
+- [darpa-i2o/sequencer](https://github.com/darpa-i2o/sequencer) - Sequencer: Deep LSTM for Image Classification
+- [darpa-i2o/monodepth2](https://github.com/darpa-i2o/monodepth2) - [ICCV 2019] Monocular depth estimation from a single image
+- [scrapinghub/splash](https://github.com/scrapinghub/splash) - Lightweight, scriptable browser as a service with an HTTP API
+- [darpa-i2o/memex-program-index](https://github.com/darpa-i2o/memex-program-index) - A list of memex-related tools and their repository URLs
 - [sravioli/wezterm](https://github.com/sravioli/wezterm) - My Wezterm configuration
 - [mfkp/skycards-export](https://github.com/mfkp/skycards-export) - A simple script to export your SkyCards data
 - [PortSwigger/hunt-scanner](https://github.com/PortSwigger/hunt-scanner) - 
@@ -5958,6 +6053,7 @@
 
 ## python 
 
+- [TeamHG-Memex/eli5](https://github.com/TeamHG-Memex/eli5) - A library for debugging/inspecting machine learning classifiers and explaining their predictions
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
 - [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, manage agentic software at scale.
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
@@ -6389,7 +6485,7 @@
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard, primarily used by smaller private servers
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking tool. Capture thoughts instantly, own them completely — no tracking, no ads, no subscription fees.
 - [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
 - [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - Low-code platform allows you to build business apps, enables you to quickly create internal tools such as dashboard, crud app, admin panel, crm, cms, etc. Supports PostgreSQL, MySQL, Supabase, GraphQL
@@ -6556,6 +6652,7 @@
 
 ## robotics 
 
+- [rmsander/lidar-lidar-cal](https://github.com/rmsander/lidar-lidar-cal) - A set of estimation, visualization, and evaluation modules for performing lidar-lidar calibration for autonomous vehicles and other robotic systems.  This framework was validated/built for analyzing p
 - [poboisvert/GPTARS_Interstellar](https://github.com/poboisvert/GPTARS_Interstellar) - TARS from Interstellar x ChatGPT
 - [hybridgroup/gobot](https://github.com/hybridgroup/gobot) - Golang framework for robotics, drones, and the Internet of Things (IoT)
 - [opencog/opencog](https://github.com/opencog/opencog) - A framework for integrated Artificial Intelligence & Artificial General Intelligence (AGI)
@@ -6654,10 +6751,12 @@
 
 ## scikit-learn 
 
+- [TeamHG-Memex/eli5](https://github.com/TeamHG-Memex/eli5) - A library for debugging/inspecting machine learning classifiers and explaining their predictions
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 
 ## security 
 
+- [CodeIntelligenceTesting/jazzer](https://github.com/CodeIntelligenceTesting/jazzer) - Coverage-guided, in-process fuzzing for the JVM
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [mozilla/eslint-plugin-no-unsanitized](https://github.com/mozilla/eslint-plugin-no-unsanitized) - Custom ESLint rule to disallows unsafe innerHTML, outerHTML, insertAdjacentHTML and alike
 - [nickdeis/eslint-plugin-no-secrets](https://github.com/nickdeis/eslint-plugin-no-secrets) - An eslint plugin to find strings that might be secrets/credentials
@@ -6898,7 +6997,7 @@
 - [reddec/trusted-cgi](https://github.com/reddec/trusted-cgi) - Lightweight runner for lambda functions/apps in CGI like mode
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [xarantolus/Collect](https://github.com/xarantolus/Collect) - A server to collect & archive websites that also supports video downloads
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking tool. Capture thoughts instantly, own them completely — no tracking, no ads, no subscription fees.
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes
 - [metrue/fx](https://github.com/metrue/fx) - A Function as a Service tool makes a function as a  container-based service in seconds.
@@ -7074,7 +7173,7 @@
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [savantskie/persistent-ai-memory](https://github.com/savantskie/persistent-ai-memory) - A persistent local memory for AI, LLMs, or Copilot in VS Code.
 - [yourselfhosted/slash](https://github.com/yourselfhosted/slash) - An open source, self-hosted platform for sharing and managing your most frequently used links. Easily create customizable, human-readable shortcuts to streamline your link management.
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking tool. Capture thoughts instantly, own them completely — no tracking, no ads, no subscription fees.
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - [pawelsalawa/sqlitestudio](https://github.com/pawelsalawa/sqlitestudio) - A free, open source, multi-platform SQLite database manager.
