@@ -585,6 +585,8 @@
 
 ## Go 
 
+- [nomasters/killcord](https://github.com/nomasters/killcord) - a censorship resistant deadman's switch
+- [hyprspace/hyprspace](https://github.com/hyprspace/hyprspace) - A Lightweight VPN Built on top of IPFS + Libp2p for Truly Distributed Networks (fork)
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
@@ -982,6 +984,7 @@
 
 ## JavaScript 
 
+- [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - Community list of awesome projects, apps, tools, pinning services and more related to IPFS.
 - [isiko/Java-Fuzzer](https://github.com/isiko/Java-Fuzzer) - A simple tool to compare JAR files
 - [TeamHG-Memex/Datawake](https://github.com/TeamHG-Memex/Datawake) - Browser extension and backend services aimed at enhancing Internet search with domain specific knowledge, collaboration, and analysis.
 - [liriliri/eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
@@ -2840,6 +2843,8 @@
 
 ## Shell 
 
+- [SomajitDey/ipfs-chat](https://github.com/SomajitDey/ipfs-chat) - Real-time P2P messenger using go-ipfs pubsub. TUI. End-to-end encrypted texting & file-sharing. NAT traversal.
+- [hcengineering/huly-selfhost](https://github.com/hcengineering/huly-selfhost) - Huly for Self Hosting
 - [aglahe/vagrant-xdata](https://github.com/aglahe/vagrant-xdata) - DARPA XData Vagrant VM
 - [TeamHG-Memex/sitehound](https://github.com/TeamHG-Memex/sitehound) - This is the facade for installation and access to the individual components
 - [anthropics/claude-agent-sdk-typescript](https://github.com/anthropics/claude-agent-sdk-typescript) - 
@@ -2958,6 +2963,7 @@
 
 ## Swift 
 
+- [Planetable/Planet](https://github.com/Planetable/Planet) - Build and host decentralized blogs and websites on your Mac
 - [ianyh/Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad.
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
 - [swiftbar/SwiftBar](https://github.com/swiftbar/SwiftBar) - Powerful macOS menu bar customization tool
@@ -3003,6 +3009,9 @@
 
 ## TypeScript 
 
+- [cppshane/orbit-chat](https://github.com/cppshane/orbit-chat) - Decentralized message client demo with OrbitDB and IPFS running on Angular
+- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
+- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - 
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
 - [catppuccin/bat](https://github.com/catppuccin/bat) - 🦇️ Soothing pastel theme for Bat
