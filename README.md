@@ -9,6 +9,7 @@
 - [Astro](#astro)
 - [AutoHotkey](#autohotkey)
 - [Batchfile](#batchfile)
+- [BitBake](#bitbake)
 - [BlitzBasic](#blitzbasic)
 - [C](#c)
 - [C#](#c#)
@@ -29,6 +30,7 @@
 - [Go](#go)
 - [HCL](#hcl)
 - [HTML](#html)
+- [Hack](#hack)
 - [Haskell](#haskell)
 - [Inno Setup](#inno-setup)
 - [Java](#java)
@@ -87,6 +89,8 @@
 
 ## Assembly 
 
+- [loonwerks/CASE](https://github.com/loonwerks/CASE) - DARPA CASE program
+- [CyberGrandChallenge/libcgc](https://github.com/CyberGrandChallenge/libcgc) - DARPA Cyber Grand Challenge OS syscall library
 - [below/HelloSilicon](https://github.com/below/HelloSilicon) - An introduction to ARM64 assembly on Apple Silicon Macs
 - [BlackVS/esp32knife](https://github.com/BlackVS/esp32knife) - Tools for ESP32 firmware dissection
 - [PacktPublishing/Binary-Analysis-Cookbook](https://github.com/PacktPublishing/Binary-Analysis-Cookbook) - Binary Analysis Cookbook, published by Packt
@@ -107,12 +111,23 @@
 
 - [SeenKid/flipper-zero-bad-usb](https://github.com/SeenKid/flipper-zero-bad-usb) - My collection of BadUSB scripts for the Flipper Zero. By downloading the files, you automatically agree to the license and the specific terms in the ReadMe.
 
+## BitBake 
+
+- [deptofdefense/meta-darpahackfest](https://github.com/deptofdefense/meta-darpahackfest) - DARPA HackFest
+
 ## BlitzBasic 
 
 - [1N3/IntruderPayloads](https://github.com/1N3/IntruderPayloads) - A collection of Burpsuite Intruder payloads, BurpBounty payloads, fuzz lists, malicious file uploads and web pentesting methodologies and checklists.
 
 ## C 
 
+- [zz4fap/scatter-phy](https://github.com/zz4fap/scatter-phy) - This repo contains the source code of the physical layer developed for the DARPA Spectrum Collaboration Challenge (SC2).
+- [CyberGrandChallenge/linux-source-3.13.2-cgc](https://github.com/CyberGrandChallenge/linux-source-3.13.2-cgc) - DARPA Cyber Grand Challenge Linux source code
+- [CyberGrandChallenge/gdb](https://github.com/CyberGrandChallenge/gdb) - GNU Debugger with DARPA Cyber Grand Challenge CB support
+- [CyberGrandChallenge/binutils](https://github.com/CyberGrandChallenge/binutils) - GNU Binutils ported to support DARPA Cyber Grand Challenge
+- [CyberGrandChallenge/samples](https://github.com/CyberGrandChallenge/samples) - DARPA Cyber Grand Challenge Sample Challenges
+- [trailofbits/cb-multios](https://github.com/trailofbits/cb-multios) - DARPA Challenges Sets for Linux, Windows, and macOS
+- [TeamHG-Memex/bk-string](https://github.com/TeamHG-Memex/bk-string) - A BK Tree based approach to storing and querying strings by Levenshtein Distance.
 - [smcameron/space-nerds-in-space](https://github.com/smcameron/space-nerds-in-space) - Multi-player spaceship bridge simulator game. Captain your starship through adventures with your friends.  See https://smcameron.github.io/space-nerds-in-space
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) - Fast and accurate automatic speech recognition (ASR) for edge devices
@@ -357,6 +372,8 @@
 
 ## C++ 
 
+- [osrf/subt](https://github.com/osrf/subt) - This repostory contains software for the virtual track of the DARPA SubT Challenge. Within this repository you will find Gazebo simulation assets, ROS interfaces, support scripts and plugins, and docu
+- [ManavA/stanford_self_driving_car_code](https://github.com/ManavA/stanford_self_driving_car_code) - Stanford Code From Cars That Entered DARPA Grand Challenges
 - [frida/cryptoshark](https://github.com/frida/cryptoshark) - Self-optimizing cross-platform code tracer based on dynamic recompilation
 - [swiftlang/swift](https://github.com/swiftlang/swift) - The Swift Programming Language
 - [vesoft-inc/nebula](https://github.com/vesoft-inc/nebula) - A distributed, fast open-source graph database featuring horizontal scalability and high availability
@@ -489,6 +506,7 @@
 
 ## CMake 
 
+- [LTU-RAI/darpa_subt_worlds](https://github.com/LTU-RAI/darpa_subt_worlds) - Virtual worlds from the DARPA subterranean challenge
 - [clayne/x64dbg-MiniDumpPlugin](https://github.com/clayne/x64dbg-MiniDumpPlugin) - Simple x64dbg plugin to save a full dump
 
 ## CSS 
@@ -538,6 +556,9 @@
 
 ## Dockerfile 
 
+- [TeamHG-Memex/privoxy](https://github.com/TeamHG-Memex/privoxy) - Privoxy HTTP Proxy based on jess/privoxy
+- [TeamHG-Memex/tor-proxy](https://github.com/TeamHG-Memex/tor-proxy) - a tor socks proxy docker image
+- [TeamHG-Memex/docker-tor-rotator](https://github.com/TeamHG-Memex/docker-tor-rotator) - A rotating socks proxy using Tor, Delegate and Haproxy
 - [thinkst/canarytokens-docker](https://github.com/thinkst/canarytokens-docker) - Docker configuration to quickly setup your own Canarytokens.
 - [iris-sast/iris](https://github.com/iris-sast/iris) - A neurosymbolic framework for vulnerability detection in code
 - [dreadnode/robopages](https://github.com/dreadnode/robopages) - A YAML based format for describing tools to LLMs, like man pages but for robots!
@@ -660,7 +681,7 @@
 - [taubyte/tau](https://github.com/taubyte/tau) - Fullstack Workspace for Humans & Machines
 - [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking tool. Capture thoughts instantly, own them completely — no tracking, no ads, no subscription fees.
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [metrue/fx](https://github.com/metrue/fx) - A Function as a Service tool makes a function as a  container-based service in seconds.
 - [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open device management
@@ -791,6 +812,16 @@
 
 ## HTML 
 
+- [lungetech/cgc-corpus](https://github.com/lungetech/cgc-corpus) - DARPA CGC Corpus
+- [ericwhyne/open-catalog-generator](https://github.com/ericwhyne/open-catalog-generator) - Code and templates required to build the DARPA open catalog.
+- [zenfish/ipmi](https://github.com/zenfish/ipmi) - IPMI stuff from DARPA work
+- [TeamHG-Memex/sitehound-backend](https://github.com/TeamHG-Memex/sitehound-backend) - Sitehound's backend
+- [TeamHG-Memex/sitehound-frontend](https://github.com/TeamHG-Memex/sitehound-frontend) - Site Hound (previously THH) is a Domain Discovery Tool
+- [TeamHG-Memex/extract-html-diff](https://github.com/TeamHG-Memex/extract-html-diff) - extract difference between two html pages
+- [TeamHG-Memex/page-compare](https://github.com/TeamHG-Memex/page-compare) - Simple heuristic for measuring web page similarity (& data set)
+- [TeamHG-Memex/autopager](https://github.com/TeamHG-Memex/autopager) - Detect and classify pagination links
+- [TeamHG-Memex/Formasaurus](https://github.com/TeamHG-Memex/Formasaurus) - Formasaurus tells you the type of an HTML form and its fields using machine learning
+- [TeamHG-Memex/html-text](https://github.com/TeamHG-Memex/html-text) - Extract text from HTML
 - [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.
 - [TuGraph-family/Awesome-Graphs](https://github.com/TuGraph-family/Awesome-Graphs) - Think Graphs Like A Graph.
 - [Kimeiga/bahunya](https://github.com/Kimeiga/bahunya) - 10KB classless CSS framework with a navbar and dark styling
@@ -856,6 +887,10 @@
 - [RootUp/BFuzz](https://github.com/RootUp/BFuzz) - Fuzzing Browsers
 - [securitytxt/security-txt](https://github.com/securitytxt/security-txt) - A proposed standard that allows websites to define security policies.
 
+## Hack 
+
+- [senpaiunrealskill/CrimeFlare111](https://github.com/senpaiunrealskill/CrimeFlare111) - This tool can help you to see the real IP behind CloudFlare protected websites.
+
 ## Haskell 
 
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
@@ -868,6 +903,13 @@
 
 ## Java 
 
+- [ge-high-assurance/VERDICT](https://github.com/ge-high-assurance/VERDICT) - DARPA's Cyber Assured Systems Engineering (CASE) project named Verification Evidence and Resilient Design in Anticipation of Cybersecurity Threats (VERDICT)
+- [DARPA-ASKEM/terarium](https://github.com/DARPA-ASKEM/terarium) - 
+- [cretz/javan-warty-pig](https://github.com/cretz/javan-warty-pig) - AFL-like fuzzer for the Java Virtual Machine
+- [tehmasta/jazzer-Java-Fuzzer-](https://github.com/tehmasta/jazzer-Java-Fuzzer-) - Coverage-guided, in-process fuzzing for the JVM
+- [cphr/javafuzz](https://github.com/cphr/javafuzz) - JavaFuzz is a java classes fuzzer based on the the Java Reflection API
+- [CodeIntelligenceTesting/jazzer](https://github.com/CodeIntelligenceTesting/jazzer) - Coverage-guided, in-process fuzzing for the JVM
+- [TeamHG-Memex/common-crawl-mapreduce](https://github.com/TeamHG-Memex/common-crawl-mapreduce) - A naive scoring of commoncrawl's content using MR
 - [fuzzitdev/javafuzz](https://github.com/fuzzitdev/javafuzz) - coverage guided fuzz testing for java
 - [techguy-bhushan/XssRequestFilters](https://github.com/techguy-bhushan/XssRequestFilters) - Light weight library for Filter the Cross-site scripting in request For Spring Framwork / Spring-Boot,  logic can be use for servlet based(without using spring framework) application
 - [JanusGraph/janusgraph](https://github.com/JanusGraph/janusgraph) - JanusGraph: an open-source, distributed graph database
@@ -940,6 +982,8 @@
 
 ## JavaScript 
 
+- [isiko/Java-Fuzzer](https://github.com/isiko/Java-Fuzzer) - A simple tool to compare JAR files
+- [TeamHG-Memex/Datawake](https://github.com/TeamHG-Memex/Datawake) - Browser extension and backend services aimed at enhancing Internet search with domain specific knowledge, collaboration, and analysis.
 - [liriliri/eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
@@ -1155,6 +1199,10 @@
 
 ## Jupyter Notebook 
 
+- [TeamHG-Memex/soft404](https://github.com/TeamHG-Memex/soft404) - A classifier for detecting soft 404 pages
+- [TeamHG-Memex/deep-deep](https://github.com/TeamHG-Memex/deep-deep) - Adaptive crawler which uses Reinforcement Learning methods
+- [TeamHG-Memex/eli5](https://github.com/TeamHG-Memex/eli5) - A library for debugging/inspecting machine learning classifiers and explaining their predictions
+- [darpa-i2o/monodepth2](https://github.com/darpa-i2o/monodepth2) - [ICCV 2019] Monocular depth estimation from a single image
 - [langchain-ai/langsmith-cookbook](https://github.com/langchain-ai/langsmith-cookbook) - 
 - [ddobrinskiy/streamlit-jupyter](https://github.com/ddobrinskiy/streamlit-jupyter) - Simple Python package to preview and develop streamlit apps in jupyter notebooks
 - [emptymalei/statisticalphysics](https://github.com/emptymalei/statisticalphysics) - open source E-book on statistical physics
@@ -1247,6 +1295,7 @@
 
 ## Makefile 
 
+- [CyberGrandChallenge/cgc-release-documentation](https://github.com/CyberGrandChallenge/cgc-release-documentation) - DARPA Cyber Grand Challenge Documentation
 - [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL) - A fuzzer for full VM kernel/driver targets
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [gschorcht/esp32-elf-rom](https://github.com/gschorcht/esp32-elf-rom) - ESP32 ROM blob to ELF convertor
@@ -1317,6 +1366,13 @@
 
 ## Others 
 
+- [NeBula-Autonomy/nebula-odometry-dataset](https://github.com/NeBula-Autonomy/nebula-odometry-dataset) - Ready to test your SLAM system in challenging datasets from extreme environments? Try this out!  The dataset is provided by the Team CoSTAR that has been intensively testing multi-robot systems in rea
+- [ericwhyne/darpa_open_catalog](https://github.com/ericwhyne/darpa_open_catalog) - Meta information for the DARPA open catalog project.
+- [philipperemy/timit](https://github.com/philipperemy/timit) - The DARPA TIMIT Acoustic-Phonetic Continuous Speech Corpus.
+- [darpa-i2o/XAI-program-index](https://github.com/darpa-i2o/XAI-program-index) - 
+- [darpa-i2o/Transparent-Computing](https://github.com/darpa-i2o/Transparent-Computing) - Material from the DARPA Transparent Computing Program
+- [darpa-i2o/d3m-program-index](https://github.com/darpa-i2o/d3m-program-index) - 
+- [darpa-i2o/memex-program-index](https://github.com/darpa-i2o/memex-program-index) - A list of memex-related tools and their repository URLs
 - [aalex954/tempest-sdr-demo](https://github.com/aalex954/tempest-sdr-demo) - TempestSDR attack performed using a HackRF, TempestSDR, and an HDMI 1.2 cable.
 - [HerringtonDarkholme/awesome-tree-sitter](https://github.com/HerringtonDarkholme/awesome-tree-sitter) - A curated list of tree-sitter resources.
 - [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻
@@ -1474,7 +1530,6 @@
 - [System00-Security/API-Key-regex](https://github.com/System00-Security/API-Key-regex) - extracting api key using grep
 - [BushidoUK/Open-source-tools-for-CTI](https://github.com/BushidoUK/Open-source-tools-for-CTI) - Public Repository of Open Source Tools for Cyber Threat Intelligence Analysts and Researchers
 - [itaymigdal/awesome-injection](https://github.com/itaymigdal/awesome-injection) - Centralized resource for listing and organizing known injection techniques and POCs
-- [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [burningtree/awesome-json](https://github.com/burningtree/awesome-json) - A curated list of awesome JSON libraries and resources.
 - [aerophile/awesome-deepfakes](https://github.com/aerophile/awesome-deepfakes) - Everything Deepfakes
 - [EmenstaNougat/ESP32-BlueJammer](https://github.com/EmenstaNougat/ESP32-BlueJammer) - The ESP32-BlueJammer (Bluetooth jammer, BLE jammer, WiFi jammer, RC jammer) disrupts 2.4GHz communications. Using an ESP32 and nRF24 modules, it generates noise and unnecessary packets, causing interf
@@ -1674,7 +1729,7 @@
 - [mandiant/commando-vm](https://github.com/mandiant/commando-vm) - Complete Mandiant Offensive VM (Commando VM), a fully customizable Windows-based pentesting virtual machine distribution. commandovm@mandiant.com
 - [mandiant/flare-vm](https://github.com/mandiant/flare-vm) - A collection of software installations scripts for Windows systems that allows you to easily setup and maintain a reverse engineering environment on a VM.
 - [aalex954/MSFT-IP-Tracker](https://github.com/aalex954/MSFT-IP-Tracker) - Tracks a range of Microsoft owned ASNs and publishes a daily release containing a list of IPv4 and IPv6 address in CIDR notation.
-- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debl
+- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize and improve your Windows experience. Win1
 - [zoicware/RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI) - Force Remove Copilot, Recall and More in Windows 11
 - [TonyPhipps/SIEM](https://github.com/TonyPhipps/SIEM) - SIEM Tactics, Techiques, and Procedures
 - [FalsePhilosopher/BadUSB-Playground](https://github.com/FalsePhilosopher/BadUSB-Playground) - Flipper Zero geared badusb playground
@@ -1717,6 +1772,45 @@
 
 ## Python 
 
+- [mrh0wl/Cloudmare](https://github.com/mrh0wl/Cloudmare) - Cloudflare, Sucuri, Incapsula real IP tracker.
+- [elefr3n/real_ip_discover](https://github.com/elefr3n/real_ip_discover) - Bypass Cloudflare getting real ip address bruteforcing ipv4 ranges
+- [rmsander/lidar-lidar-cal](https://github.com/rmsander/lidar-lidar-cal) - A set of estimation, visualization, and evaluation modules for performing lidar-lidar calibration for autonomous vehicles and other robotic systems.  This framework was validated/built for analyzing p
+- [deptofdefense/gr-uaslink](https://github.com/deptofdefense/gr-uaslink) - DARPA HackFest
+- [pdf-association/safedocs](https://github.com/pdf-association/safedocs) - Artifacts from the DARPA-funded SafeDocs research program
+- [CyberGrandChallenge/magic-cgc](https://github.com/CyberGrandChallenge/magic-cgc) - DARPA Cyber Grand Challenge File Magic
+- [dchaplinsky/unshred](https://github.com/dchaplinsky/unshred) - Experiments on darpa shredder challenge tasks using python & opencv.
+- [fuzzingbrain/afc-crs-all-you-need-is-a-fuzzing-brain](https://github.com/fuzzingbrain/afc-crs-all-you-need-is-a-fuzzing-brain) - LLM-powered system that discovered 62 zero-day vulnerabilities across 26 open source projects. 4th place, DARPA AIxCC.
+- [GallupGovt/multivac](https://github.com/GallupGovt/multivac) - MULTIVAC - A DARPA Automating Scientific Knowledge Extraction (ASKE) Artifical Intelligence Exploration (AIE) Program
+- [xastprl/DarpanX](https://github.com/xastprl/DarpanX) - DarpanX is a Python 3 package that provides functionality to compute reflectivity and other specular optical functions of a multilayer or single layer mirror for different energy and angles as well as
+- [CyberGrandChallenge/cb-testing](https://github.com/CyberGrandChallenge/cb-testing) - DARPA Cyber Grand Challenge Challenge Binary Testing tools
+- [DARPA-CRITICALMAAS/uncharted-ta1](https://github.com/DARPA-CRITICALMAAS/uncharted-ta1) - This repository contains Uncharted's TA1 contributions for DARPA's CriticalMAAS program. The main goals are automated feature extraction and georeferencing of geologic maps.
+- [TeamHG-Memex/frontera-crawler](https://github.com/TeamHG-Memex/frontera-crawler) - Crawler-specific logic for Frontera
+- [TeamHG-Memex/autoregister](https://github.com/TeamHG-Memex/autoregister) - 
+- [TeamHG-Memex/domainSpider](https://github.com/TeamHG-Memex/domainSpider) - Simple web crawler that sticks to a set list of domains. Work in progress.
+- [TeamHG-Memex/captcha-broad-crawl](https://github.com/TeamHG-Memex/captcha-broad-crawl) - Broad crawl of onion sites in search for captchas
+- [TeamHG-Memex/scrapy-cdr](https://github.com/TeamHG-Memex/scrapy-cdr) - Item definition and utils for storing items in CDR format for scrapy
+- [TeamHG-Memex/scrapy-dockerhub](https://github.com/TeamHG-Memex/scrapy-dockerhub) - [UNMAINTAINED] Deploy, run and monitor your Scrapy spiders.
+- [TeamHG-Memex/web-page-annotator](https://github.com/TeamHG-Memex/web-page-annotator) - Annotate parts of web pages in the browser
+- [TeamHG-Memex/url-summary](https://github.com/TeamHG-Memex/url-summary) - Show summary of a large number of URLs in a Jupyter Notebook
+- [TeamHG-Memex/domain-discovery-crawler](https://github.com/TeamHG-Memex/domain-discovery-crawler) - Broad crawler for domain discovery
+- [TeamHG-Memex/imageSimilarity](https://github.com/TeamHG-Memex/imageSimilarity) - Given a new image, determine if it is likely derived from a known image.
+- [TeamHG-Memex/MaybeDont](https://github.com/TeamHG-Memex/MaybeDont) - A component that tries to avoid downloading duplicate content
+- [TeamHG-Memex/scrapy-kafka-export](https://github.com/TeamHG-Memex/scrapy-kafka-export) - Scrapy extension which writes crawled items to Kafka
+- [TeamHG-Memex/json-lines](https://github.com/TeamHG-Memex/json-lines) - Read JSON lines (jl) files, including gzipped and broken
+- [TeamHG-Memex/autologin-middleware](https://github.com/TeamHG-Memex/autologin-middleware) - Scrapy middleware for the autologin
+- [TeamHG-Memex/agnostic](https://github.com/TeamHG-Memex/agnostic) - Agnostic Database Migrations
+- [TeamHG-Memex/undercrawler](https://github.com/TeamHG-Memex/undercrawler) - A generic crawler
+- [TeamHG-Memex/scrapy-crawl-once](https://github.com/TeamHG-Memex/scrapy-crawl-once) - Scrapy middleware which allows to crawl only new content
+- [TeamHG-Memex/autologin](https://github.com/TeamHG-Memex/autologin) - A project to attempt to automatically login to a website given a single seed
+- [TeamHG-Memex/arachnado](https://github.com/TeamHG-Memex/arachnado) - Web Crawling UI and HTTP API, based on Scrapy and Tornado
+- [TeamHG-Memex/sklearn-crfsuite](https://github.com/TeamHG-Memex/sklearn-crfsuite) - scikit-learn inspired API for CRFsuite
+- [TeamHG-Memex/tensorboard_logger](https://github.com/TeamHG-Memex/tensorboard_logger) - Log TensorBoard events without touching TensorFlow
+- [darpa-i2o/synapse](https://github.com/darpa-i2o/synapse) - Distributed Key-Value Hypergraph Analysis Framework
+- [darpa-i2o/consec-WAM](https://github.com/darpa-i2o/consec-WAM) - Distributed whack-a-mole
+- [darpa-i2o/Fewshot-SMIS](https://github.com/darpa-i2o/Fewshot-SMIS) - Pytorch implementation of few-shot semantic image synthesis
+- [usc-isi-i2/dsbox-ta2](https://github.com/usc-isi-i2/dsbox-ta2) - The DSBox TA2 component
+- [darpa-i2o/sequencer](https://github.com/darpa-i2o/sequencer) - Sequencer: Deep LSTM for Image Classification
+- [scrapinghub/splash](https://github.com/scrapinghub/splash) - Lightweight, scriptable browser as a service with an HTTP API
 - [PortSwigger/hunt-scanner](https://github.com/PortSwigger/hunt-scanner) - 
 - [newren/git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
 - [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]
@@ -2583,10 +2677,13 @@
 
 ## Rich Text Format 
 
+- [TeamHG-Memex/memex-gate](https://github.com/TeamHG-Memex/memex-gate) - General Architecture for Text Engineering
 - [MacDownApp/macdown](https://github.com/MacDownApp/macdown) - Open source Markdown editor for macOS.
 
 ## Ruby 
 
+- [shipilev/JavaFuzzer](https://github.com/shipilev/JavaFuzzer) - Java* Fuzzer for JVM
+- [TeamHG-Memex/rotating-proxy](https://github.com/TeamHG-Memex/rotating-proxy) - Rotating TOR proxy with Docker
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [theswiftdev/awesome-xcode-extensions](https://github.com/theswiftdev/awesome-xcode-extensions) - Awesome native Xcode extensions.
 - [Netflix-Skunkworks/Scumblr](https://github.com/Netflix-Skunkworks/Scumblr) - Web framework that allows performing periodic syncs of data sources and performing analysis on the identified results
@@ -2676,6 +2773,7 @@
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [mathetake/alvm](https://github.com/mathetake/alvm) - Run Linux ELF binary directly on macOS via hypervisor.framework
+- [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
 - [0x11DFE/file-unpumper](https://github.com/0x11DFE/file-unpumper) - Tool that can be used to trim useless things from a PE file such as the things a file pumper would add.
 - [MalwareSupportGroup/PolyDrop](https://github.com/MalwareSupportGroup/PolyDrop) - A BYOSI (Bring-Your-Own-Script-Interpreter) Rapid Payload Deployment Toolkit
@@ -2731,6 +2829,7 @@
 
 ## Scala 
 
+- [IBM/perfect-chisel](https://github.com/IBM/perfect-chisel) - Chisel artifacts developed under IBM's involvement with the DARPA PERFECT program
 - [joernio/joern](https://github.com/joernio/joern) - Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc
 - [lichess-org/lila](https://github.com/lichess-org/lila) - ♞ lichess.org: the forever free, adless and open source chess server ♞
 - [filodb/FiloDB](https://github.com/filodb/FiloDB) - Distributed Prometheus time series database
@@ -2741,6 +2840,8 @@
 
 ## Shell 
 
+- [aglahe/vagrant-xdata](https://github.com/aglahe/vagrant-xdata) - DARPA XData Vagrant VM
+- [TeamHG-Memex/sitehound](https://github.com/TeamHG-Memex/sitehound) - This is the facade for installation and access to the individual components
 - [anthropics/claude-agent-sdk-typescript](https://github.com/anthropics/claude-agent-sdk-typescript) - 
 - [pikpikcu/XRCross](https://github.com/pikpikcu/XRCross) - XRCross is a Reconstruction, Scanner, and a tool for penetration / BugBounty testing.  This tool was built to test (XSS|SSRF|CORS|SSTI|IDOR|RCE|LFI|SQLI) vulnerabilities
 - [dwisiswant0/findom-xss](https://github.com/dwisiswant0/findom-xss) - A fast DOM based XSS vulnerability scanner with simplicity.
@@ -2902,6 +3003,7 @@
 
 ## TypeScript 
 
+- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - 
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
 - [catppuccin/bat](https://github.com/catppuccin/bat) - 🦇️ Soothing pastel theme for Bat
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
@@ -3173,6 +3275,7 @@
 
 ## XSLT 
 
+- [aglahe/vagrant-memex](https://github.com/aglahe/vagrant-memex) - DARPA MEMEX project Vagrant VM
 - [Sonoisseurs/sonor](https://github.com/Sonoisseurs/sonor) - A collaborative effort to liberate Sonos devices from their cloudy masters.
 
 ## YARA 
