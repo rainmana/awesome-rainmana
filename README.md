@@ -586,6 +586,8 @@
 
 ## Go 
 
+- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
+- [tofutf/tofutf](https://github.com/tofutf/tofutf) - An open source alternative to terraform enterprise.
 - [yuin/goldmark](https://github.com/yuin/goldmark) - :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
 - [rainmana/tinythoughts](https://github.com/rainmana/tinythoughts) - A lightweight CLI tool for systematic thinking, mental models, and debugging approaches
 - [nomasters/killcord](https://github.com/nomasters/killcord) - a censorship resistant deadman's switch
