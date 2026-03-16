@@ -371,6 +371,7 @@
 
 ## C++ 
 
+- [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [osrf/subt](https://github.com/osrf/subt) - This repostory contains software for the virtual track of the DARPA SubT Challenge. Within this repository you will find Gazebo simulation assets, ROS interfaces, support scripts and plugins, and docu
 - [ManavA/stanford_self_driving_car_code](https://github.com/ManavA/stanford_self_driving_car_code) - Stanford Code From Cars That Entered DARPA Grand Challenges
 - [frida/cryptoshark](https://github.com/frida/cryptoshark) - Self-optimizing cross-platform code tracer based on dynamic recompilation
@@ -912,6 +913,7 @@
 
 ## Java 
 
+- [federicodotta/Brida](https://github.com/federicodotta/Brida) - The new bridge between Burp Suite and Frida!
 - [ge-high-assurance/VERDICT](https://github.com/ge-high-assurance/VERDICT) - DARPA's Cyber Assured Systems Engineering (CASE) project named Verification Evidence and Resilient Design in Anticipation of Cybersecurity Threats (VERDICT)
 - [DARPA-ASKEM/terarium](https://github.com/DARPA-ASKEM/terarium) - 
 - [cretz/javan-warty-pig](https://github.com/cretz/javan-warty-pig) - AFL-like fuzzer for the Java Virtual Machine
@@ -991,6 +993,7 @@
 
 ## JavaScript 
 
+- [frida/cloudspy](https://github.com/frida/cloudspy) - Proof-of-concept web app built on top of Frida
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
 - [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - Community list of awesome projects, apps, tools, pinning services and more related to IPFS.
 - [isiko/Java-Fuzzer](https://github.com/isiko/Java-Fuzzer) - A simple tool to compare JAR files
@@ -1270,7 +1273,7 @@
 - [dovecoteescapee/ByeDPIAndroid](https://github.com/dovecoteescapee/ByeDPIAndroid) - App to bypass censorship on Android
 - [efoncubierta/cloudspec](https://github.com/efoncubierta/cloudspec) - CloudSpec is an open source tool for validating your resources in your cloud providers using a logical language.
 - [PortSwigger/mcp-server](https://github.com/PortSwigger/mcp-server) - MCP Server for Burp
-- [demantz/RFAnalyzer](https://github.com/demantz/RFAnalyzer) - Analyze RF signals on Android with HackRF, RTL-SDR, Airspy and HydraSDR
+- [demantz/RFAnalyzer](https://github.com/demantz/RFAnalyzer) - Analyze RF signals on Android with HackRF, RTL-SDR, Airspy (HF+) and HydraSDR
 - [mrousavy/react-native-google-nearby-messages](https://github.com/mrousavy/react-native-google-nearby-messages) - 📲 Communicate with nearby devices using Bluetooth, BLE, WiFi and near-ultrasonic audio. Broadcast and receive small payloads (like strings) using the easy-to-use React Native API!
 
 ## Less 
@@ -1313,7 +1316,7 @@
 
 ## Markdown 
 
-- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 
 ## Meson 
@@ -1376,6 +1379,7 @@
 
 ## Others 
 
+- [sindresorhus/awesome-whisper](https://github.com/sindresorhus/awesome-whisper) - 🔊 Awesome list for Whisper — an open-source AI-powered speech recognition system developed by OpenAI
 - [hak5/wifipineapplepager](https://github.com/hak5/wifipineapplepager) - Collection of WiFi Pineapple Pager Repositories
 - [syntax-tree/mdast](https://github.com/syntax-tree/mdast) - Markdown Abstract Syntax Tree format
 - [mundimark/awesome-markdown-editors](https://github.com/mundimark/awesome-markdown-editors) - A collection of awesome markdown editors & (pre)viewers for Linux, Apple OS X, Microsoft Windows, the World Wide Web & more
@@ -1784,6 +1788,8 @@
 
 ## Python 
 
+- [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
+- [rajpdus/MeetingSummarizer](https://github.com/rajpdus/MeetingSummarizer) - Effortlessly record, transcribe, and summarize meetings with this user-friendly desktop utility powered by OpenAI's Whisper and GPT-3.5-turbo
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
 - [666ghj/MiroFish](https://github.com/666ghj/MiroFish) - A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
 - [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need throu
@@ -2732,6 +2738,7 @@
 
 ## Rust 
 
+- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
