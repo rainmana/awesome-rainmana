@@ -4427,6 +4427,7 @@
 
 ## others 
 
+- [buzzer-re/Rikugan](https://github.com/buzzer-re/Rikugan) - A reverse-engineering agent for IDA Pro and Binary Ninja
 - [federicodotta/Brida](https://github.com/federicodotta/Brida) - The new bridge between Burp Suite and Frida!
 - [frida/cloudspy](https://github.com/frida/cloudspy) - Proof-of-concept web app built on top of Frida
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
