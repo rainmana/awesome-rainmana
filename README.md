@@ -371,6 +371,7 @@
 
 ## C++ 
 
+- [BlathanAevon/ESP32_TOTP](https://github.com/BlathanAevon/ESP32_TOTP) - A simple ESP32-based TOTP device for everyday use
 - [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [osrf/subt](https://github.com/osrf/subt) - This repostory contains software for the virtual track of the DARPA SubT Challenge. Within this repository you will find Gazebo simulation assets, ROS interfaces, support scripts and plugins, and docu
 - [ManavA/stanford_self_driving_car_code](https://github.com/ManavA/stanford_self_driving_car_code) - Stanford Code From Cars That Entered DARPA Grand Challenges
@@ -1102,7 +1103,7 @@
 - [ddopson/underscore-cli](https://github.com/ddopson/underscore-cli) - Command-line utility-belt for hacking JSON and Javascript.
 - [divamgupta/diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) - Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed.
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configration.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.
 - [future-architect/cheetah-grid](https://github.com/future-architect/cheetah-grid) - The fastest open-source data table for web.
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
@@ -1378,6 +1379,8 @@
 
 ## Others 
 
+- [Goapiai/Suno-API](https://github.com/Goapiai/Suno-API) - Connect your generative AI apps with Suno API in seconds!
+- [Zizwar/Awesome-Suno](https://github.com/Zizwar/Awesome-Suno) - A curated list of awesome open-source AI projects related to the Suno Ai project.
 - [sindresorhus/awesome-whisper](https://github.com/sindresorhus/awesome-whisper) - 🔊 Awesome list for Whisper — an open-source AI-powered speech recognition system developed by OpenAI
 - [hak5/wifipineapplepager](https://github.com/hak5/wifipineapplepager) - Collection of WiFi Pineapple Pager Repositories
 - [syntax-tree/mdast](https://github.com/syntax-tree/mdast) - Markdown Abstract Syntax Tree format
@@ -1788,6 +1791,9 @@
 
 ## Python 
 
+- [albertan017/LLM4Decompile](https://github.com/albertan017/LLM4Decompile) - Reverse Engineering: Decompiling Binary Code with Large Language Models
+- [yihong0618/SunoSongsCreator](https://github.com/yihong0618/SunoSongsCreator) - About High quality songs generation by https://www.suno.ai/. Reverse engineered API.
+- [danny-englander/suno-ai-downloader](https://github.com/danny-englander/suno-ai-downloader) - A set of tools to download your music from Suno.ai with organized filenames and prompts.
 - [buzzer-re/Rikugan](https://github.com/buzzer-re/Rikugan) - A reverse-engineering agent for IDA Pro and Binary Ninja
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [rajpdus/MeetingSummarizer](https://github.com/rajpdus/MeetingSummarizer) - Effortlessly record, transcribe, and summarize meetings with this user-friendly desktop utility powered by OpenAI's Whisper and GPT-3.5-turbo
@@ -3031,6 +3037,12 @@
 
 ## TypeScript 
 
+- [Alvin-Liu/suno-music-generator](https://github.com/Alvin-Liu/suno-music-generator) - 基于 suno.ai 实现的文字快速创作音乐网站 (A text-based rapid music creation website based on suno.ai )
+- [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
+- [elizaos-plugins/plugin-suno](https://github.com/elizaos-plugins/plugin-suno) - Integrates Suno AI's music generation for creating custom music from text prompts with detailed controls.
+- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 10 opinionated tools that serve as CEO, Eng Manager, Release Manager, Doc Engineer, and QA
+- [excalidraw/excalidraw-mcp](https://github.com/excalidraw/excalidraw-mcp) - Fast and streamable Excalidraw MCP App
+- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [typora-community-plugin/typora-community-plugin](https://github.com/typora-community-plugin/typora-community-plugin) - Typora plugin system for enhancing your editing experience. | 增强 Typora 编辑体验的社区插件系统。
 - [cppshane/orbit-chat](https://github.com/cppshane/orbit-chat) - Decentralized message client demo with OrbitDB and IPFS running on Angular
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
