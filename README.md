@@ -3058,7 +3058,7 @@
 - [Alvin-Liu/suno-music-generator](https://github.com/Alvin-Liu/suno-music-generator) - 基于 suno.ai 实现的文字快速创作音乐网站 (A text-based rapid music creation website based on suno.ai )
 - [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 - [elizaos-plugins/plugin-suno](https://github.com/elizaos-plugins/plugin-suno) - Integrates Suno AI's music generation for creating custom music from text prompts with detailed controls.
-- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 10 opinionated tools that serve as CEO, Eng Manager, Release Manager, Doc Engineer, and QA
+- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 15 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [excalidraw/excalidraw-mcp](https://github.com/excalidraw/excalidraw-mcp) - Fast and streamable Excalidraw MCP App
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [typora-community-plugin/typora-community-plugin](https://github.com/typora-community-plugin/typora-community-plugin) - Typora plugin system for enhancing your editing experience. | 增强 Typora 编辑体验的社区插件系统。
