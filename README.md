@@ -121,6 +121,8 @@
 
 ## C 
 
+- [ufrisk/pcileech](https://github.com/ufrisk/pcileech) - Direct Memory Access (DMA) Attack Software
+- [ufrisk/MemProcFS](https://github.com/ufrisk/MemProcFS) - MemProcFS
 - [agentflare-ai/sqlite-graph](https://github.com/agentflare-ai/sqlite-graph) - SQLite Graph Extension
 - [zz4fap/scatter-phy](https://github.com/zz4fap/scatter-phy) - This repo contains the source code of the physical layer developed for the DARPA Spectrum Collaboration Challenge (SC2).
 - [CyberGrandChallenge/linux-source-3.13.2-cgc](https://github.com/CyberGrandChallenge/linux-source-3.13.2-cgc) - DARPA Cyber Grand Challenge Linux source code
@@ -378,7 +380,6 @@
 - [osrf/subt](https://github.com/osrf/subt) - This repostory contains software for the virtual track of the DARPA SubT Challenge. Within this repository you will find Gazebo simulation assets, ROS interfaces, support scripts and plugins, and docu
 - [ManavA/stanford_self_driving_car_code](https://github.com/ManavA/stanford_self_driving_car_code) - Stanford Code From Cars That Entered DARPA Grand Challenges
 - [frida/cryptoshark](https://github.com/frida/cryptoshark) - Self-optimizing cross-platform code tracer based on dynamic recompilation
-- [swiftlang/swift](https://github.com/swiftlang/swift) - The Swift Programming Language
 - [vesoft-inc/nebula](https://github.com/vesoft-inc/nebula) - A distributed, fast open-source graph database featuring horizontal scalability and high availability
 - [avast/retdec](https://github.com/avast/retdec) - RetDec is a retargetable machine-code decompiler based on LLVM.
 - [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
@@ -515,6 +516,8 @@
 
 ## CSS 
 
+- [halfmoonui/halfmoon](https://github.com/halfmoonui/halfmoon) - Halfmoon is a highly customizable, drop-in Bootstrap replacement. It comes with three built-in core themes, with dark mode support for all themes and components.
+- [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
 - [TEParsons/LCARS](https://github.com/TEParsons/LCARS) - 
 - [markdowncss/retro](https://github.com/markdowncss/retro) - A markdown CSS module that is a blast to the past.
 - [themepark-dev/theme.park](https://github.com/themepark-dev/theme.park) - A collection of themes/skins for 50 selfhosted apps!
@@ -662,7 +665,7 @@
 - [glem0/goGetBucket](https://github.com/glem0/goGetBucket) - A penetration testing tool to enumerate and analyse Amazon S3 Buckets owned by a domain.
 - [BishopFox/smogcloud](https://github.com/BishopFox/smogcloud) - Find cloud assets that no one wants exposed 🔎 ☁️
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob
-- [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replicatio
+- [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.
 - [kacakb/jsfinder](https://github.com/kacakb/jsfinder) - Fetches JavaScript files quickly and comprehensively.
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line
 - [rs/curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie.
@@ -825,6 +828,8 @@
 
 ## HTML 
 
+- [metakirby5/yorha](https://github.com/metakirby5/yorha) - :robot: CSS based on Nier Automata's interface design language.
+- [xz/new.css](https://github.com/xz/new.css) - A classless CSS framework to write modern websites using only HTML.
 - [lungetech/cgc-corpus](https://github.com/lungetech/cgc-corpus) - DARPA CGC Corpus
 - [ericwhyne/open-catalog-generator](https://github.com/ericwhyne/open-catalog-generator) - Code and templates required to build the DARPA open catalog.
 - [zenfish/ipmi](https://github.com/zenfish/ipmi) - IPMI stuff from DARPA work
@@ -1098,7 +1103,7 @@
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [ArchiveBox/electron-archivebox](https://github.com/ArchiveBox/electron-archivebox) - Desktop Electron app for ArchiveBox internet archiver. (ALPHA: not ready for general use)
-- [ArchiveBox/archivebox-browser-extension](https://github.com/ArchiveBox/archivebox-browser-extension) - Official ArchiveBox browser extension: automatically/manually preserve your browsing history using ArchiveBox.
+- [ArchiveBox/archivebox-browser-extension](https://github.com/ArchiveBox/archivebox-browser-extension) - 🖥️ Official ArchiveBox browser extension: automatically/manually preserve your browsing history using ArchiveBox.
 - [TheKaushikGoswami/thekaushikgoswami.github.io](https://github.com/TheKaushikGoswami/thekaushikgoswami.github.io) - The Open-Source code for My Personal Portfolio! A minimal and ambient portfolio template for Developers! ⚡
 - [OWASP/threat-dragon](https://github.com/OWASP/threat-dragon) - An open source threat modeling tool from OWASP
 - [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
@@ -1285,6 +1290,7 @@
 
 ## Lua 
 
+- [omacom-io/lumon.nvim](https://github.com/omacom-io/lumon.nvim) - Lumon Industries Neovim Theme
 - [sravioli/wezterm](https://github.com/sravioli/wezterm) - My Wezterm configuration
 - [Eric162/wezterm-agent-deck](https://github.com/Eric162/wezterm-agent-deck) - 
 - [catppuccin/wezterm](https://github.com/catppuccin/wezterm) - :shell: Soothing pastel theme for WezTerm
@@ -1382,6 +1388,7 @@
 
 ## Others 
 
+- [Mr-TechX/Exploit-Collector](https://github.com/Mr-TechX/Exploit-Collector) - Exploit Collector
 - [jetli/awesome-yew](https://github.com/jetli/awesome-yew) - 😎 A curated list of awesome things related to Yew / WebAssembly.
 - [uhub/awesome-php](https://github.com/uhub/awesome-php) - A curated list of awesome PHP frameworks, libraries and software.
 - [Goapiai/Suno-API](https://github.com/Goapiai/Suno-API) - Connect your generative AI apps with Suno API in seconds!
@@ -1592,7 +1599,7 @@
 - [danielmiessler/Source2URL](https://github.com/danielmiessler/Source2URL) - Parse source code directories and output list of URLs that are then sent through a proxy.
 - [the-xentropy/samlists](https://github.com/the-xentropy/samlists) - Free, libre, effective, and data-driven wordlists for all!
 - [Bo0oM/fuzz.txt](https://github.com/Bo0oM/fuzz.txt) - Potentially dangerous files
-- [coollabsio/safetyper](https://github.com/coollabsio/safetyper) - A Grammarly alternative where you own what you type on your keyboard.
+- [coollabsio/safetyper-delete-me](https://github.com/coollabsio/safetyper-delete-me) - A Grammarly alternative where you own what you type on your keyboard.
 - [LaurieWired/beautifying_android_native_code](https://github.com/LaurieWired/beautifying_android_native_code) - This repo contains the APK to follow along with my "Beautifying Android Native Code" Video on Youtube
 - [LaurieWired/ReverseEngineeringAndroidMalware](https://github.com/LaurieWired/ReverseEngineeringAndroidMalware) - This contains notes and slides for my talk on Reverse Engineering Android Malware
 - [LaurieWired/android_emulators_for_reverse_engineers](https://github.com/LaurieWired/android_emulators_for_reverse_engineers) - A guide to choosing between different Android Emulator options for Reverse Engineers
@@ -1802,6 +1809,9 @@
 
 ## Python 
 
+- [Luth1er/KitPloit_Arsenal](https://github.com/Luth1er/KitPloit_Arsenal) - It is a tool that brings together exploits and news about security and vulnerabilities, with the intention of contributing to the open source community, developed from the site http://www.kitploit.com
+- [palantir/pyspark-style-guide](https://github.com/palantir/pyspark-style-guide) - This is a guide to PySpark code style presenting common situations and the associated best practices based on the most frequent recurring topics across the PySpark repos we've encountered.
+- [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
 - [patman15/hdpv_ble](https://github.com/patman15/hdpv_ble) - A Home Assistant integration to support Hunter Douglas Powerview devices via Bluetooth
 - [interruptlabs/semgrep_bn](https://github.com/interruptlabs/semgrep_bn) - Binary Ninja plugin to automate the process of generating pseudo-C code, running Semgrep over the pseudo-C, and presenting the results.
 - [adrianherrera/binaryninja-gtirb](https://github.com/adrianherrera/binaryninja-gtirb) - Support for the GrammaTech Intermediate Representation for Binaries (GTIRB) format in Binary Ninja
@@ -2759,6 +2769,7 @@
 
 ## Rust 
 
+- [sanpii/oxfeed](https://github.com/sanpii/oxfeed) - A feed reader write in rust
 - [saschagrunert/webapp.rs](https://github.com/saschagrunert/webapp.rs) - A web application completely written in Rust. 🌍
 - [jetli/rust-yew-realworld-example-app](https://github.com/jetli/rust-yew-realworld-example-app) - Exemplary real world app built with Rust + Yew + WebAssembly, by Function Components + Hooks, also supports desktop by Tauri.
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
@@ -2865,6 +2876,7 @@
 
 ## SCSS 
 
+- [Spiderpig86/Cirrus](https://github.com/Spiderpig86/Cirrus) - :cloud: The SCSS framework for the modern web.
 - [pages-themes/architect](https://github.com/pages-themes/architect) - Architect is a Jekyll theme for GitHub Pages
 - [nasa/api-docs](https://github.com/nasa/api-docs) - api.nasa.gov
 - [sujaykundu777/devlopr-jekyll](https://github.com/sujaykundu777/devlopr-jekyll) - (FREE SITE GENERATOR) - A Customizable/Hackable portfolio jekyll theme where you can blog using Markdown or CMS :rocket: in minutes built for developers. (with CMS) ✨
@@ -3002,6 +3014,7 @@
 
 ## Svelte 
 
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [developersharif/untrace](https://github.com/developersharif/untrace) - Clean your images. Keep your identity.
 
@@ -3019,6 +3032,7 @@
 - [artlasovsky/foundation-ui](https://github.com/artlasovsky/foundation-ui) - SwiftUI framework to speedup prototyping and development of user interfaces.
 - [SwiftfulThinking/SwiftfulUI](https://github.com/SwiftfulThinking/SwiftfulUI) - A collection of reusable SwiftUI components.
 - [Aeastr/SettingsKit](https://github.com/Aeastr/SettingsKit) - A declarative SwiftUI package for building settings interfaces with navigation, search, and customizable styling
+- [swiftlang/swift](https://github.com/swiftlang/swift) - The Swift Programming Language
 - [swiftlang/swift-package-manager](https://github.com/swiftlang/swift-package-manager) - The Package Manager for the Swift Programming Language
 - [dopebase/messenger-iOS-chat-swift-firestore](https://github.com/dopebase/messenger-iOS-chat-swift-firestore) - Messenger Clone - Real-time iOS Chat with Firebase Firestore written in Swift
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
@@ -3055,6 +3069,14 @@
 
 ## TypeScript 
 
+- [FiligranHQ/filigran-ui](https://github.com/FiligranHQ/filigran-ui) - Filigran-UI: Design System, Component and Icon library
+- [elastic/eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌
+- [motiondivision/motion](https://github.com/motiondivision/motion) - A modern animation library for React and JavaScript
+- [palantir/plottable](https://github.com/palantir/plottable) - :bar_chart: A library of modular chart components built on D3
+- [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - Copy & Paste React components to build modern web applications.
+- [palantir/blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the web
+- [arwes/arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework.
+- [nrwl/nx](https://github.com/nrwl/nx) - The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time.
 - [Alvin-Liu/suno-music-generator](https://github.com/Alvin-Liu/suno-music-generator) - 基于 suno.ai 实现的文字快速创作音乐网站 (A text-based rapid music creation website based on suno.ai )
 - [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 - [elizaos-plugins/plugin-suno](https://github.com/elizaos-plugins/plugin-suno) - Integrates Suno AI's music generation for creating custom music from text prompts with detailed controls.
@@ -3276,7 +3298,7 @@
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, si
 - [skyra-project/star-wars-api](https://github.com/skyra-project/star-wars-api) - Star Wars GraphQL API
 - [rowyio/rowy](https://github.com/rowyio/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Build AI Agents the easy way. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀  AI Workflow toolkit
+- [Budibase/budibase](https://github.com/Budibase/budibase) - AI agents that run your operations. Model agnostic.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [krinql/vscode](https://github.com/krinql/vscode) - AI powered Suite of developer tools and integrations to help developers with mundane tasks
 - [APKLab/APKLab](https://github.com/APKLab/APKLab) - Android Reverse-Engineering Workbench for VS Code
@@ -3302,6 +3324,7 @@
 
 ## Verilog 
 
+- [ufrisk/pcileech-fpga](https://github.com/ufrisk/pcileech-fpga) - FPGA modules used together with the PCILeech Direct Memory Access (DMA) Attack Software
 - [defparam/21FX](https://github.com/defparam/21FX) - A bootloader for the SNES console
 - [google/CFU-Playground](https://github.com/google/CFU-Playground) - Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.git
 
@@ -3322,6 +3345,8 @@
 
 ## Vue 
 
+- [CosasDePuma/Masterchef](https://github.com/CosasDePuma/Masterchef) - 🍳 The most delicious pentesting tool
+- [beercss/beercss](https://github.com/beercss/beercss) - Build material design interfaces in record time... without stress for devs... 🍺💛
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [feedox/savee](https://github.com/feedox/savee) - A GenAI tool that helps fight online fake content with fact-based generations
