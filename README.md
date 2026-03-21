@@ -121,6 +121,8 @@
 
 ## C 
 
+- [init1lham/AirUx](https://github.com/init1lham/AirUx) - AirPlay For Linux
+- [philippe44/AirConnect](https://github.com/philippe44/AirConnect) - Use AirPlay to stream to UPnP/Sonos & Chromecast devices
 - [ufrisk/pcileech](https://github.com/ufrisk/pcileech) - Direct Memory Access (DMA) Attack Software
 - [ufrisk/MemProcFS](https://github.com/ufrisk/MemProcFS) - MemProcFS
 - [agentflare-ai/sqlite-graph](https://github.com/agentflare-ai/sqlite-graph) - SQLite Graph Extension
@@ -516,6 +518,7 @@
 
 ## CSS 
 
+- [tygzy/silicon](https://github.com/tygzy/silicon) - silicon - a classless, responsive CSS framework with a light and dark mode.
 - [halfmoonui/halfmoon](https://github.com/halfmoonui/halfmoon) - Halfmoon is a highly customizable, drop-in Bootstrap replacement. It comes with three built-in core themes, with dark mode support for all themes and components.
 - [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
 - [TEParsons/LCARS](https://github.com/TEParsons/LCARS) - 
@@ -593,6 +596,7 @@
 
 ## Go 
 
+- [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
 - [tofutf/tofutf](https://github.com/tofutf/tofutf) - An open source alternative to terraform enterprise.
 - [yuin/goldmark](https://github.com/yuin/goldmark) - :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
@@ -1388,6 +1392,11 @@
 
 ## Others 
 
+- [github/rest-api-description](https://github.com/github/rest-api-description) - An OpenAPI description for GitHub's REST API
+- [wasabeef/awesome-android-libraries](https://github.com/wasabeef/awesome-android-libraries) - This is an alphabetical list of libraries for Android development, the majority being actively maintained.
+- [thanhtoan1196/awesome-android-libraries](https://github.com/thanhtoan1196/awesome-android-libraries) - :sunglasses: A curated list of awesome Android libraries
+- [saeidshirazi/awesome-android-security](https://github.com/saeidshirazi/awesome-android-security) - A curated list of Android Security materials and resources For Pentesters and Bug Hunters
+- [Jenqyang/Awesome-AI-Agents](https://github.com/Jenqyang/Awesome-AI-Agents) - A collection of autonomous agents 🤖️ powered by LLM.
 - [Mr-TechX/Exploit-Collector](https://github.com/Mr-TechX/Exploit-Collector) - Exploit Collector
 - [jetli/awesome-yew](https://github.com/jetli/awesome-yew) - 😎 A curated list of awesome things related to Yew / WebAssembly.
 - [uhub/awesome-php](https://github.com/uhub/awesome-php) - A curated list of awesome PHP frameworks, libraries and software.
@@ -1720,6 +1729,7 @@
 
 ## PHP 
 
+- [paragonie/awesome-appsec](https://github.com/paragonie/awesome-appsec) - A curated list of resources for learning about application security
 - [mnapoli/silly](https://github.com/mnapoli/silly) - Silly CLI micro-framework based on Symfony Console
 - [minicli/demos](https://github.com/minicli/demos) - Minicli Demos
 - [minicli/minicli](https://github.com/minicli/minicli) - A minimal framework for command-line applications in PHP. Join our Discord: https://discord.gg/hY5UNC4XPf
@@ -1809,6 +1819,12 @@
 
 ## Python 
 
+- [georgezhao2010/apple_airplayer](https://github.com/georgezhao2010/apple_airplayer) - Make your AirPlay devices as TTS speakers
+- [parautenbach/hass-shairport-sync](https://github.com/parautenbach/hass-shairport-sync) - A custom media player for Home Assistant that allows you to control and get updates from a Shairport Sync installation using MQTT.
+- [idcrook/shairport-sync-mqtt-display](https://github.com/idcrook/shairport-sync-mqtt-display) - Display currently playing info, with remote control, using shairport-sync's MQTT support
+- [postlund/pyatv](https://github.com/postlund/pyatv) - A client library for Apple TV and AirPlay devices
+- [openairplay/airplay2-receiver](https://github.com/openairplay/airplay2-receiver) - AirPlay 2 Receiver - Python implementation
+- [openairplay/openairplay](https://github.com/openairplay/openairplay) - Enabling Airplay just like on Apple OSX on Ubuntu and possibly other non-apple OSes
 - [Luth1er/KitPloit_Arsenal](https://github.com/Luth1er/KitPloit_Arsenal) - It is a tool that brings together exploits and news about security and vulnerabilities, with the intention of contributing to the open source community, developed from the site http://www.kitploit.com
 - [palantir/pyspark-style-guide](https://github.com/palantir/pyspark-style-guide) - This is a guide to PySpark code style presenting common situations and the associated best practices based on the most frequent recurring topics across the PySpark repos we've encountered.
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
@@ -2876,6 +2892,7 @@
 
 ## SCSS 
 
+- [rilwis/bamboo](https://github.com/rilwis/bamboo) - A classless CSS utility for your HTML
 - [Spiderpig86/Cirrus](https://github.com/Spiderpig86/Cirrus) - :cloud: The SCSS framework for the modern web.
 - [pages-themes/architect](https://github.com/pages-themes/architect) - Architect is a Jekyll theme for GitHub Pages
 - [nasa/api-docs](https://github.com/nasa/api-docs) - api.nasa.gov
@@ -3020,6 +3037,7 @@
 
 ## Swift 
 
+- [feedfm/Airplay2ndScreen](https://github.com/feedfm/Airplay2ndScreen) - Example project for using Airplay via screen mirroring
 - [dkhamsing/news](https://github.com/dkhamsing/news) - 📰 iOS news app in the style of Apple News, CNN, BBC, Facebook, NYT, Reddit, X (Twitter) & more
 - [ronitsingh10/FineTune](https://github.com/ronitsingh10/FineTune) - FineTune, a macOS menu bar app for per-app volume control, multi-device output, audio routing, and 10-band EQ. Free and open-source alternative to SoundSource.
 - [Planetable/Planet](https://github.com/Planetable/Planet) - Build and host decentralized blogs and websites on your Mac
