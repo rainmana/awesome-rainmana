@@ -601,6 +601,7 @@
 
 ## Go 
 
+- [doxx/darkflare](https://github.com/doxx/darkflare) - DarkFlare Firewall Piercing (TCP over CDN)
 - [rainmana/hackyfeed](https://github.com/rainmana/hackyfeed) - cybersecurity and ethical pentesting GitHub repo and tools aggregator :D
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
@@ -1829,6 +1830,8 @@
 
 ## Python 
 
+- [fikrado/fikrado.py](https://github.com/fikrado/fikrado.py) - Facebook hacking Tools script super fast and user friendly
+- [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) - A full-stack AI Red Teaming platform securing AI ecosystems via OpenClaw Security Scan, Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.
 - [QIN2DIM/awesome-hugo-themes](https://github.com/QIN2DIM/awesome-hugo-themes) - 🐱‍🏍 A curated list of awesome things related to Hugo themes.
 - [georgezhao2010/apple_airplayer](https://github.com/georgezhao2010/apple_airplayer) - Make your AirPlay devices as TTS speakers
 - [parautenbach/hass-shairport-sync](https://github.com/parautenbach/hass-shairport-sync) - A custom media player for Home Assistant that allows you to control and get updates from a Shairport Sync installation using MQTT.
@@ -2926,6 +2929,8 @@
 
 ## Shell 
 
+- [jaykali/maskphish](https://github.com/jaykali/maskphish) - Introducing "URL Making Technology" to the world for the very FIRST TIME. Give a Mask to Phishing URL like a PRO.. A MUST have tool for Phishing.
+- [v1s1t0r1sh3r3/airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon) - This is a multi-use bash script for Linux systems to audit wireless networks.
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a
 - [SomajitDey/ipfs-chat](https://github.com/SomajitDey/ipfs-chat) - Real-time P2P messenger using go-ipfs pubsub. TUI. End-to-end encrypted texting & file-sharing. NAT traversal.
 - [hcengineering/huly-selfhost](https://github.com/hcengineering/huly-selfhost) - Huly for Self Hosting
