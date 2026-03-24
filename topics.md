@@ -359,6 +359,7 @@
 
 ## ai 
 
+- [sammcj/gollama](https://github.com/sammcj/gollama) - Go manage your Ollama models
 - [Fadi002/de4py](https://github.com/Fadi002/de4py) - The ultimate AI-powered toolkit for python reverse engineering
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
 - [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
@@ -611,6 +612,7 @@
 
 ## angular 
 
+- [belnadris/angular-electron](https://github.com/belnadris/angular-electron) - Ultra-fast bootstrapping with Angular and Electron :speedboat:
 - [nrwl/nx](https://github.com/nrwl/nx) - The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time.
 - [cppshane/orbit-chat](https://github.com/cppshane/orbit-chat) - Decentralized message client demo with OrbitDB and IPFS running on Angular
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. 
@@ -716,6 +718,7 @@
 - [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking, bug bounties, digital forensics and incident response (DFIR), AI security, vu
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [alirezamika/autoscraper](https://github.com/alirezamika/autoscraper) - A Smart, Automatic, Fast and Lightweight Web Scraper for Python
+- [lucidrains/DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch) - Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network,  in Pytorch
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
 - [e-m-b-a/emba](https://github.com/e-m-b-a/emba) - EMBA - The firmware security analyzer
 
@@ -1944,6 +1947,7 @@
 - [jfilter/split-folders](https://github.com/jfilter/split-folders) - 🗂 Split folders with files (i.e. images) into training, validation and test (dataset) folders
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 - [satellite-image-deep-learning/techniques](https://github.com/satellite-image-deep-learning/techniques) - Techniques for deep learning with satellite & aerial imagery
+- [lucidrains/DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch) - Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network,  in Pytorch
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
@@ -2187,6 +2191,9 @@
 
 ## electron 
 
+- [reZach/secure-electron-template](https://github.com/reZach/secure-electron-template) - The best way to build Electron apps with security in mind.
+- [belnadris/angular-electron](https://github.com/belnadris/angular-electron) - Ultra-fast bootstrapping with Angular and Electron :speedboat:
+- [cawa-93/vite-electron-builder](https://github.com/cawa-93/vite-electron-builder) - Secure boilerplate for Electron app based on Vite. TypeScript + Vue/React/Angular/Svelte/Vanilla
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 - [nylas/nylas-mail](https://github.com/nylas/nylas-mail) - :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
@@ -3225,6 +3232,7 @@
 
 ## javascript 
 
+- [cawa-93/vite-electron-builder](https://github.com/cawa-93/vite-electron-builder) - Secure boilerplate for Electron app based on Vite. TypeScript + Vue/React/Angular/Svelte/Vanilla
 - [palantir/plottable](https://github.com/palantir/plottable) - :bar_chart: A library of modular chart components built on D3
 - [nrwl/nx](https://github.com/nrwl/nx) - The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time.
 - [danny-englander/suno-ai-downloader](https://github.com/danny-englander/suno-ai-downloader) - A set of tools to download your music from Suno.ai with organized filenames and prompts.
@@ -3495,6 +3503,7 @@
 
 ## linux 
 
+- [sammcj/gollama](https://github.com/sammcj/gollama) - Go manage your Ollama models
 - [jaykali/maskphish](https://github.com/jaykali/maskphish) - Introducing "URL Making Technology" to the world for the very FIRST TIME. Give a Mask to Phishing URL like a PRO.. A MUST have tool for Phishing.
 - [fikrado/fikrado.py](https://github.com/fikrado/fikrado.py) - Facebook hacking Tools script super fast and user friendly
 - [v1s1t0r1sh3r3/airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon) - This is a multi-use bash script for Linux systems to audit wireless networks.
@@ -3585,6 +3594,7 @@
 
 ## llm 
 
+- [sammcj/gollama](https://github.com/sammcj/gollama) - Go manage your Ollama models
 - [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) - A full-stack AI Red Teaming platform securing AI ecosystems via OpenClaw Security Scan, Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.
 - [Jenqyang/Awesome-AI-Agents](https://github.com/Jenqyang/Awesome-AI-Agents) - A collection of autonomous agents 🤖️ powered by LLM.
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
@@ -3825,6 +3835,7 @@
 
 ## macos 
 
+- [sammcj/gollama](https://github.com/sammcj/gollama) - Go manage your Ollama models
 - [ronitsingh10/FineTune](https://github.com/ronitsingh10/FineTune) - FineTune, a macOS menu bar app for per-app volume control, multi-device output, audio routing, and 10-band EQ. Free and open-source alternative to SoundSource.
 - [Planetable/Planet](https://github.com/Planetable/Planet) - Build and host decentralized blogs and websites on your Mac
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows
@@ -4540,6 +4551,8 @@
 
 ## others 
 
+- [leftstick/generator-electron-naive](https://github.com/leftstick/generator-electron-naive) - Create desktop app for a website in one minute
+- [abulka/generator-electron-flask](https://github.com/abulka/generator-electron-flask) - Yoeman project generator to create an Electron app running a Flask server inside itself. Deployable via PyInstaller and Electron Forge packager.
 - [rainmana/hackyfeed](https://github.com/rainmana/hackyfeed) - cybersecurity and ethical pentesting GitHub repo and tools aggregator :D
 - [google/docsy](https://github.com/google/docsy) - Hugo theme for open source documentation
 - [tomfran/typo](https://github.com/tomfran/typo) - A simple Hugo theme
@@ -4912,7 +4925,6 @@
 - [huggingface/swift-huggingface](https://github.com/huggingface/swift-huggingface) - A Swift client for Hugging Face Hub and Inference Providers APIs
 - [terminaldotshop/the-standup](https://github.com/terminaldotshop/the-standup) - website for the standup
 - [terminaldotshop/crema](https://github.com/terminaldotshop/crema) - A stark black & white code theme with a shot of espresso. Built for terminals, editors, and anything that needs razor‑sharp contrast and a splash of Terminal orange.
-- [terminaldotshop/terminal](https://github.com/terminaldotshop/terminal) - 
 - [terminaldotshop/terminal-sdk-go](https://github.com/terminaldotshop/terminal-sdk-go) - 
 - [jgpeiro/esp32_ai_assistant](https://github.com/jgpeiro/esp32_ai_assistant) - 
 - [espressif/esp-box](https://github.com/espressif/esp-box) - The ESP-BOX is a new generation AIoT development platform released by Espressif Systems.
@@ -6683,6 +6695,8 @@
 
 ## react 
 
+- [reZach/secure-electron-template](https://github.com/reZach/secure-electron-template) - The best way to build Electron apps with security in mind.
+- [cawa-93/vite-electron-builder](https://github.com/cawa-93/vite-electron-builder) - Secure boilerplate for Electron app based on Vite. TypeScript + Vue/React/Angular/Svelte/Vanilla
 - [FiligranHQ/filigran-ui](https://github.com/FiligranHQ/filigran-ui) - Filigran-UI: Design System, Component and Icon library
 - [elastic/eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌
 - [motiondivision/motion](https://github.com/motiondivision/motion) - A modern animation library for React and JavaScript
@@ -6770,6 +6784,7 @@
 
 ## redux 
 
+- [reZach/secure-electron-template](https://github.com/reZach/secure-electron-template) - The best way to build Electron apps with security in mind.
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [will-stone/browserosaurus](https://github.com/will-stone/browserosaurus) - 🦖 The browser prompter for macOS
@@ -6987,6 +7002,7 @@
 
 ## sass 
 
+- [belnadris/angular-electron](https://github.com/belnadris/angular-electron) - Ultra-fast bootstrapping with Angular and Electron :speedboat:
 - [palantir/blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the web
 - [Spiderpig86/Cirrus](https://github.com/Spiderpig86/Cirrus) - :cloud: The SCSS framework for the modern web.
 
@@ -7003,6 +7019,7 @@
 
 ## security 
 
+- [reZach/secure-electron-template](https://github.com/reZach/secure-electron-template) - The best way to build Electron apps with security in mind.
 - [doxx/darkflare](https://github.com/doxx/darkflare) - DarkFlare Firewall Piercing (TCP over CDN)
 - [v1s1t0r1sh3r3/airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon) - This is a multi-use bash script for Linux systems to audit wireless networks.
 - [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) - A full-stack AI Red Teaming platform securing AI ecosystems via OpenClaw Security Scan, Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.
@@ -7469,6 +7486,7 @@
 
 ## svelte 
 
+- [cawa-93/vite-electron-builder](https://github.com/cawa-93/vite-electron-builder) - Secure boilerplate for Electron app based on Vite. TypeScript + Vue/React/Angular/Svelte/Vanilla
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [OvidijusParsiunas/deep-chat](https://github.com/OvidijusParsiunas/deep-chat) - Fully customizable AI chatbot component for your website
@@ -7679,6 +7697,7 @@
 
 ## tui 
 
+- [sammcj/gollama](https://github.com/sammcj/gollama) - Go manage your Ollama models
 - [SomajitDey/ipfs-chat](https://github.com/SomajitDey/ipfs-chat) - Real-time P2P messenger using go-ipfs pubsub. TUI. End-to-end encrypted texting & file-sharing. NAT traversal.
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -7706,6 +7725,7 @@
 
 ## typescript 
 
+- [belnadris/angular-electron](https://github.com/belnadris/angular-electron) - Ultra-fast bootstrapping with Angular and Electron :speedboat:
 - [palantir/plottable](https://github.com/palantir/plottable) - :bar_chart: A library of modular chart components built on D3
 - [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - Copy & Paste React components to build modern web applications.
 - [palantir/blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the web
@@ -7889,6 +7909,7 @@
 
 ## vue 
 
+- [cawa-93/vite-electron-builder](https://github.com/cawa-93/vite-electron-builder) - Secure boilerplate for Electron app based on Vite. TypeScript + Vue/React/Angular/Svelte/Vanilla
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
@@ -7979,6 +8000,8 @@
 
 ## webpack 
 
+- [reZach/secure-electron-template](https://github.com/reZach/secure-electron-template) - The best way to build Electron apps with security in mind.
+- [belnadris/angular-electron](https://github.com/belnadris/angular-electron) - Ultra-fast bootstrapping with Angular and Electron :speedboat:
 - [railsware/bozon](https://github.com/railsware/bozon) - 🛠 Command line tool for building, testing and publishing modern Electron applications
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 
