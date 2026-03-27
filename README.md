@@ -122,6 +122,7 @@
 
 ## C 
 
+- [xcellerator/linux_kernel_hacking](https://github.com/xcellerator/linux_kernel_hacking) - Linux Kernel Hacking
 - [memovai/mimiclaw](https://github.com/memovai/mimiclaw) - MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS. Hardware agents OS.
 - [tnm/zclaw](https://github.com/tnm/zclaw) - Your personal AI assistant at all-in 888KiB (~35KB in app code). Running on an ESP32. GPIO, cron, custom tools, memory, and more.
 - [init1lham/AirUx](https://github.com/init1lham/AirUx) - AirPlay For Linux
@@ -847,6 +848,7 @@
 
 ## HTML 
 
+- [armandinhox/Cisco_AnyConnect_VPN](https://github.com/armandinhox/Cisco_AnyConnect_VPN) - Cisco AnyConnect VPN Client LINUX / WINDOWS / MACOS
 - [HugoBlox/kit](https://github.com/HugoBlox/kit) - ⚡ The Open Research Copilot. Build high-perf Portfolios, Lab Sites & Docs in Markdown + Jupyter. 100% Data Control. 🦫 数据科学家的开源 Copilot。一键部署 👇
 - [tomfran/typo](https://github.com/tomfran/typo) - A simple Hugo theme
 - [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) - ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
@@ -1021,6 +1023,7 @@
 
 ## JavaScript 
 
+- [atiilla/gitrecon](https://github.com/atiilla/gitrecon) - This tool uses the GitHub API to scan repositories owned by a user for email addresses and associated names. It provides options to scan specific repositories and exclude forked repositories. Addition
 - [reZach/secure-electron-template](https://github.com/reZach/secure-electron-template) - The best way to build Electron apps with security in mind.
 - [leftstick/generator-electron-naive](https://github.com/leftstick/generator-electron-naive) - Create desktop app for a website in one minute
 - [abulka/generator-electron-flask](https://github.com/abulka/generator-electron-flask) - Yoeman project generator to create an Electron app running a Flask server inside itself. Deployable via PyInstaller and Electron Forge packager.
@@ -1848,6 +1851,8 @@
 
 ## Python 
 
+- [mschwager/gitem](https://github.com/mschwager/gitem) - A Github organization reconnaissance tool.
+- [GONZOsint/gitrecon](https://github.com/GONZOsint/gitrecon) - OSINT tool to get information from a Github and Gitlab profile and find user's email addresses leaked on commits.
 - [brendanhogan/hermitclaw](https://github.com/brendanhogan/hermitclaw) - 
 - [princezuda/safeclaw](https://github.com/princezuda/safeclaw) - Safeclaw is the alternative to openclaw.. You can naturally chat with it via text and voice, and you can choose not to use a language model., By default it picks up on intent and semantics..  No promp
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight OpenClaw"
@@ -3082,6 +3087,7 @@
 
 ## Swift 
 
+- [SwiftfulThinking/SwiftfulRouting](https://github.com/SwiftfulThinking/SwiftfulRouting) - Programmatic navigation for SwiftUI applications.
 - [feedfm/Airplay2ndScreen](https://github.com/feedfm/Airplay2ndScreen) - Example project for using Airplay via screen mirroring
 - [dkhamsing/news](https://github.com/dkhamsing/news) - 📰 iOS news app in the style of Apple News, CNN, BBC, Facebook, NYT, Reddit, X (Twitter) & more
 - [ronitsingh10/FineTune](https://github.com/ronitsingh10/FineTune) - FineTune, a macOS menu bar app for per-app volume control, multi-device output, audio routing, and 10-band EQ. Free and open-source alternative to SoundSource.
@@ -3242,7 +3248,6 @@
 - [Jonghakseo/chrome-extension-boilerplate-react-vite](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite) - Chrome Extension Boilerplate with React + Vite + Typescript
 - [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Less chaos. More flow.
 - [kac89/vulnrepo](https://github.com/kac89/vulnrepo) - VULNRΞPO - Free vulnerability report generator and repository, end-to-end encrypted! Templates of issues, CWE,CVE,MITRE ATT&CK,PCI DSS, import Nmap/Nessus/Burp/OpenVAS/Bugcrowd/Trivy, Jira export, TXT
-- [jaylikesbunda/ESPressoFlash](https://github.com/jaylikesbunda/ESPressoFlash) - Flash your ESP32 quickly and easily.
 - [ontola/atomic-server](https://github.com/ontola/atomic-server) - An open source headless CMS / real-time database. Powerful table editor, full-text search, and SDKs for JS / React / Svelte.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [petiky/mcp-manager](https://github.com/petiky/mcp-manager) - This is a visual client tool used to manage MCP (Model Context Protocol). With this tool, you can easily manage and operate the MCP environment without manually performing complex command-line operati
