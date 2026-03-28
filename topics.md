@@ -361,6 +361,7 @@
 
 ## ai 
 
+- [DareDev256/fcpxml-mcp-server](https://github.com/DareDev256/fcpxml-mcp-server) - 🎬 The first AI-powered MCP server for Final Cut Pro XML. Control your edits with natural language.
 - [warengonzaga/tinyclaw](https://github.com/warengonzaga/tinyclaw) - The original Tiny Claw as your personal autonomous AI companion. 🐜
 - [qhkm/zeptoclaw](https://github.com/qhkm/zeptoclaw) - Final form of claw family (Wannabe)
 - [princezuda/safeclaw](https://github.com/princezuda/safeclaw) - Safeclaw is the alternative to openclaw.. You can naturally chat with it via text and voice, and you can choose not to use a language model., By default it picks up on intent and semantics..  No promp
@@ -2457,7 +2458,7 @@
 - [user1342/Folly](https://github.com/user1342/Folly) - Open-source LLM Prompt-Injection and Jailbreaking Playground
 - [langchain-ai/langgraphjs](https://github.com/langchain-ai/langgraphjs) - Framework to build resilient language agents as graphs.
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
-- [Azure/PyRIT](https://github.com/Azure/PyRIT) - The Python Risk Identification Tool for generative AI (PyRIT) is an open source framework built to empower security professionals and engineers to proactively identify risks in generative AI systems.
+- [microsoft/PyRIT](https://github.com/microsoft/PyRIT) - The Python Risk Identification Tool for generative AI (PyRIT) is an open source framework built to empower security professionals and engineers to proactively identify risks in generative AI systems.
 - [poloclub/transformer-explainer](https://github.com/poloclub/transformer-explainer) - Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
@@ -4005,6 +4006,7 @@
 
 ## mcp 
 
+- [DareDev256/fcpxml-mcp-server](https://github.com/DareDev256/fcpxml-mcp-server) - 🎬 The first AI-powered MCP server for Final Cut Pro XML. Control your edits with natural language.
 - [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) - A full-stack AI Red Teaming platform securing AI ecosystems via OpenClaw Security Scan, Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
@@ -4600,6 +4602,7 @@
 
 ## others 
 
+- [alexcding/gemini-desktop-mac](https://github.com/alexcding/gemini-desktop-mac) - 
 - [xcellerator/linux_kernel_hacking](https://github.com/xcellerator/linux_kernel_hacking) - Linux Kernel Hacking
 - [armandinhox/Cisco_AnyConnect_VPN](https://github.com/armandinhox/Cisco_AnyConnect_VPN) - Cisco AnyConnect VPN Client LINUX / WINDOWS / MACOS
 - [brendanhogan/hermitclaw](https://github.com/brendanhogan/hermitclaw) - 
@@ -6339,6 +6342,7 @@
 
 ## python 
 
+- [DareDev256/fcpxml-mcp-server](https://github.com/DareDev256/fcpxml-mcp-server) - 🎬 The first AI-powered MCP server for Final Cut Pro XML. Control your edits with natural language.
 - [GONZOsint/gitrecon](https://github.com/GONZOsint/gitrecon) - OSINT tool to get information from a Github and Gitlab profile and find user's email addresses leaked on commits.
 - [Fadi002/de4py](https://github.com/Fadi002/de4py) - The ultimate AI-powered toolkit for python reverse engineering
 - [openairplay/openairplay](https://github.com/openairplay/openairplay) - Enabling Airplay just like on Apple OSX on Ubuntu and possibly other non-apple OSes
