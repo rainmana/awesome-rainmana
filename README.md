@@ -1416,6 +1416,7 @@
 
 ## Others 
 
+- [naqashmunir21/awesome-suno-prompts](https://github.com/naqashmunir21/awesome-suno-prompts) - 🎵 A curated collection of 1000+ professional Suno AI style prompts for creating chart-quality songs. Organized by genre with production tips. Free & open source.
 - [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - A community collection of OpenClaw use cases for making life easier.
 - [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞
 - [T31K/awesome-openclaw-alternatives](https://github.com/T31K/awesome-openclaw-alternatives) - 
@@ -1739,7 +1740,6 @@
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [nccgroup/FrisbeeLite](https://github.com/nccgroup/FrisbeeLite) - A GUI-based USB device fuzzer
 - [nomi-sec/PoC-in-GitHub](https://github.com/nomi-sec/PoC-in-GitHub) - 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.
-- [StephenCarras/CybersecurityResources](https://github.com/StephenCarras/CybersecurityResources) - A repository of cybersecurity resources and tools which will benefit people looking to enter the security industry or who are new to the field.
 - [kbandla/APTnotes](https://github.com/kbandla/APTnotes) - Various public documents, whitepapers and articles about APT campaigns
 - [hausec/Bloodhound-Custom-Queries](https://github.com/hausec/Bloodhound-Custom-Queries) - Custom Query list for the Bloodhound GUI based off my cheatsheet
 - [gtworek/Priv2Admin](https://github.com/gtworek/Priv2Admin) - Exploitation paths allowing you to (mis)use the Windows Privileges to elevate your rights within the OS.
