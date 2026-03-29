@@ -122,6 +122,7 @@
 
 ## C 
 
+- [coredevices/PebbleOS](https://github.com/coredevices/PebbleOS) - 
 - [xcellerator/linux_kernel_hacking](https://github.com/xcellerator/linux_kernel_hacking) - Linux Kernel Hacking
 - [memovai/mimiclaw](https://github.com/memovai/mimiclaw) - MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS. Hardware agents OS.
 - [tnm/zclaw](https://github.com/tnm/zclaw) - Your personal AI assistant at all-in 888KiB (~35KB in app code). Running on an ESP32. GPIO, cron, custom tools, memory, and more.
@@ -1851,6 +1852,8 @@
 
 ## Python 
 
+- [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
+- [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 - [DareDev256/fcpxml-mcp-server](https://github.com/DareDev256/fcpxml-mcp-server) - 🎬 The first AI-powered MCP server for Final Cut Pro XML. Control your edits with natural language.
 - [mschwager/gitem](https://github.com/mschwager/gitem) - A Github organization reconnaissance tool.
 - [GONZOsint/gitrecon](https://github.com/GONZOsint/gitrecon) - OSINT tool to get information from a Github and Gitlab profile and find user's email addresses leaked on commits.
@@ -2795,6 +2798,7 @@
 
 ## Ruby 
 
+- [lobsters/lobsters](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation and discussion
 - [shipilev/JavaFuzzer](https://github.com/shipilev/JavaFuzzer) - Java* Fuzzer for JVM
 - [TeamHG-Memex/rotating-proxy](https://github.com/TeamHG-Memex/rotating-proxy) - Rotating TOR proxy with Docker
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
@@ -2830,6 +2834,7 @@
 
 ## Rust 
 
+- [JaredStewart/coderlm](https://github.com/JaredStewart/coderlm) - Tree-sitter-powered code indexing server that gives LLM agents precise, on-demand access to symbols, implementations, callers, tests, and grep across multi-language projects - so they explore codebase
 - [qhkm/zeptoclaw](https://github.com/qhkm/zeptoclaw) - Final form of claw family (Wannabe)
 - [nearai/ironclaw](https://github.com/nearai/ironclaw) - IronClaw is OpenClaw inspired implementation in Rust focused on privacy and security
 - [openagen/zeroclaw](https://github.com/openagen/zeroclaw) - Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
