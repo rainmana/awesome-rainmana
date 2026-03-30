@@ -740,6 +740,7 @@
 
 ## atom 
 
+- [exaroth/liveboat](https://github.com/exaroth/liveboat) - Generate static pages from your RSS urls
 - [mipstian/catch](https://github.com/mipstian/catch) - Catch: Broadcatching made easy.
 
 ## automation 
@@ -795,6 +796,7 @@
 
 ## awesome 
 
+- [diegocard/awesome-html5](https://github.com/diegocard/awesome-html5) - :memo: A curated list of awesome HTML5 resources
 - [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞
 - [jakejarvis/awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries) - 🔍 A collection of interesting, funny, and depressing search queries to plug into shodan.io 👩‍💻
 - [kr1sp1n/awesome-gemini](https://github.com/kr1sp1n/awesome-gemini) - A collection of awesome things regarding the gemini protocol ecosystem.
@@ -927,6 +929,8 @@
 
 ## awesome-list 
 
+- [diegocard/awesome-html5](https://github.com/diegocard/awesome-html5) - :memo: A curated list of awesome HTML5 resources
+- [myles/awesome-static-generators](https://github.com/myles/awesome-static-generators) - A curated list of static web site generators.
 - [naqashmunir21/awesome-suno-prompts](https://github.com/naqashmunir21/awesome-suno-prompts) - 🎵 A curated collection of 1000+ professional Suno AI style prompts for creating chart-quality songs. Organized by genre with production tips. Free & open source.
 - [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - A community collection of OpenClaw use cases for making life easier.
 - [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞
@@ -1107,6 +1111,7 @@
 
 ## bash 
 
+- [rushhiii/bashfolio](https://github.com/rushhiii/bashfolio) - N Interactive terminal-style portfolio website with authentic CLI commands, multiple themes, and realistic typing animations.
 - [v1s1t0r1sh3r3/airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon) - This is a multi-use bash script for Linux systems to audit wireless networks.
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
@@ -1391,6 +1396,7 @@
 
 ## cli 
 
+- [rushhiii/bashfolio](https://github.com/rushhiii/bashfolio) - N Interactive terminal-style portfolio website with authentic CLI commands, multiple themes, and realistic typing animations.
 - [nrwl/nx](https://github.com/nrwl/nx) - The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time.
 - [mnapoli/silly](https://github.com/mnapoli/silly) - Silly CLI micro-framework based on Symfony Console
 - [minicli/minicli](https://github.com/minicli/minicli) - A minimal framework for command-line applications in PHP. Join our Discord: https://discord.gg/hY5UNC4XPf
@@ -1550,6 +1556,7 @@
 
 ## command-line 
 
+- [rushhiii/bashfolio](https://github.com/rushhiii/bashfolio) - N Interactive terminal-style portfolio website with authentic CLI commands, multiple themes, and realistic typing animations.
 - [minicli/minicli](https://github.com/minicli/minicli) - A minimal framework for command-line applications in PHP. Join our Discord: https://discord.gg/hY5UNC4XPf
 - [laravel-zero/laravel-zero](https://github.com/laravel-zero/laravel-zero) - A PHP framework for console artisans
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows
@@ -4321,6 +4328,7 @@
 
 ## node 
 
+- [andreasbm/readme](https://github.com/andreasbm/readme) - Automatically generate a beautiful best-practice README file based on the contents of your repository
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [mixn/carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
 - [djipco/webmidi](https://github.com/djipco/webmidi) - Tame the Web MIDI API. Send and receive MIDI messages with ease. Control instruments with user-friendly functions (playNote, sendPitchBend, etc.). React to MIDI input with simple event listeners (note
@@ -4338,6 +4346,7 @@
 
 ## nodejs 
 
+- [andreasbm/readme](https://github.com/andreasbm/readme) - Automatically generate a beautiful best-practice README file based on the contents of your repository
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [nrwl/nx](https://github.com/nrwl/nx) - The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
@@ -4614,6 +4623,7 @@
 
 ## others 
 
+- [heyalexej/awesome-images](https://github.com/heyalexej/awesome-images) - A curated list of amazingly awesome free (stock) photo resources inspired by all the other awesomes.
 - [robertguss/claude-code-toolkit](https://github.com/robertguss/claude-code-toolkit) - A collection of custom skills that extend Claude's capabilities with specialized workflows, methods, and domain knowledge.
 - [trailofbits/skills-curated](https://github.com/trailofbits/skills-curated) - Curated, community-vetted Claude Code plugin marketplace
 - [trailofbits/skills](https://github.com/trailofbits/skills) - Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows
@@ -6327,6 +6337,7 @@
 
 ## project-management 
 
+- [wrsmith108/linear-claude-skill](https://github.com/wrsmith108/linear-claude-skill) - Agent skill for managing Linear issues, projects, and teams. MCP tools, SDK automation, GraphQL API patterns.
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
@@ -7019,6 +7030,7 @@
 
 ## rust 
 
+- [exaroth/liveboat](https://github.com/exaroth/liveboat) - Generate static pages from your RSS urls
 - [qhkm/zeptoclaw](https://github.com/qhkm/zeptoclaw) - Final form of claw family (Wannabe)
 - [saschagrunert/webapp.rs](https://github.com/saschagrunert/webapp.rs) - A web application completely written in Rust. 🌍
 - [jetli/rust-yew-realworld-example-app](https://github.com/jetli/rust-yew-realworld-example-app) - Exemplary real world app built with Rust + Yew + WebAssembly, by Function Components + Hooks, also supports desktop by Tauri.
@@ -8072,6 +8084,7 @@
 
 ## web-development 
 
+- [rushhiii/bashfolio](https://github.com/rushhiii/bashfolio) - N Interactive terminal-style portfolio website with authentic CLI commands, multiple themes, and realistic typing animations.
 - [Spiderpig86/Cirrus](https://github.com/Spiderpig86/Cirrus) - :cloud: The SCSS framework for the modern web.
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 - [junfanz1/Cursor-FullStack-AI-App](https://github.com/junfanz1/Cursor-FullStack-AI-App) - Build E2E Micro SaaS AI application, takes in Github urls, generate json reports with AI powered insights and repo stats
@@ -8104,6 +8117,7 @@
 
 ## website 
 
+- [myles/awesome-static-generators](https://github.com/myles/awesome-static-generators) - A curated list of static web site generators.
 - [saschagrunert/webapp.rs](https://github.com/saschagrunert/webapp.rs) - A web application completely written in Rust. 🌍
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [JNKKKK/pianochord.io](https://github.com/JNKKKK/pianochord.io) - A pure frontend Web Application for people to browse through a large collection of piano chords
