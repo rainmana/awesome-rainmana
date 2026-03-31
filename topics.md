@@ -517,6 +517,7 @@
 - [aipotheosis-labs/gate22](https://github.com/aipotheosis-labs/gate22) - Open-source MCP gateway and control plane for teams to govern which tools agents can use, what they can do, and how it’s audited—across agentic IDEs like Cursor, or other agents and AI tools.
 - [beclab/Olares](https://github.com/beclab/Olares) - Olares: An Open-Source Personal Cloud to Reclaim Your Data
 - [scthornton/securecode-web](https://github.com/scthornton/securecode-web) - Real-World Security Conversations for AI Training
+- [Armur-Ai/Pentest-Swarm-AI](https://github.com/Armur-Ai/Pentest-Swarm-AI) - Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring
 - [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) - AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) - Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.
@@ -796,6 +797,9 @@
 
 ## awesome 
 
+- [Incendo/awesome-minecraft](https://github.com/Incendo/awesome-minecraft) - A curated list of awesome (free) open-source frameworks, libraries and software for Minecraft.
+- [tomodachi94/awesome-computercraft](https://github.com/tomodachi94/awesome-computercraft) - Useful libraries, programs, literature, and mods for ComputerCraft and its forks.
+- [bs-community/awesome-minecraft](https://github.com/bs-community/awesome-minecraft) - 📝 The curated list of awesome things related to Minecraft.
 - [diegocard/awesome-html5](https://github.com/diegocard/awesome-html5) - :memo: A curated list of awesome HTML5 resources
 - [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞
 - [jakejarvis/awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries) - 🔍 A collection of interesting, funny, and depressing search queries to plug into shodan.io 👩‍💻
@@ -929,6 +933,9 @@
 
 ## awesome-list 
 
+- [Incendo/awesome-minecraft](https://github.com/Incendo/awesome-minecraft) - A curated list of awesome (free) open-source frameworks, libraries and software for Minecraft.
+- [tomodachi94/awesome-computercraft](https://github.com/tomodachi94/awesome-computercraft) - Useful libraries, programs, literature, and mods for ComputerCraft and its forks.
+- [bs-community/awesome-minecraft](https://github.com/bs-community/awesome-minecraft) - 📝 The curated list of awesome things related to Minecraft.
 - [diegocard/awesome-html5](https://github.com/diegocard/awesome-html5) - :memo: A curated list of awesome HTML5 resources
 - [myles/awesome-static-generators](https://github.com/myles/awesome-static-generators) - A curated list of static web site generators.
 - [naqashmunir21/awesome-suno-prompts](https://github.com/naqashmunir21/awesome-suno-prompts) - 🎵 A curated collection of 1000+ professional Suno AI style prompts for creating chart-quality songs. Organized by genre with production tips. Free & open source.
@@ -1107,7 +1114,7 @@
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
-- [rowyio/rowy](https://github.com/rowyio/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
+- [buildship-ai/rowy](https://github.com/buildship-ai/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
 
 ## bash 
 
@@ -1261,6 +1268,7 @@
 
 ## c-plus-plus 
 
+- [luanti-org/luanti](https://github.com/luanti-org/luanti) - Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [grame-cncm/faust](https://github.com/grame-cncm/faust) - Functional programming language for signal processing and sound synthesis
 - [MTG/essentia](https://github.com/MTG/essentia) - C++ library for audio and music analysis, description and synthesis, including Python bindings
@@ -1528,7 +1536,7 @@
 - [terminusdb/terminusdb](https://github.com/terminusdb/terminusdb) - TerminusDB is a distributed, collaborative database designed for building, sharing, versioning, and reasoning on structured data.
 - [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
 - [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.  personal.management.system.inbox@gmail.com
-- [rowyio/rowy](https://github.com/rowyio/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
+- [buildship-ai/rowy](https://github.com/buildship-ai/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
 - [frappe/frappe](https://github.com/frappe/frappe) - Low code web framework for real world applications, in Python and Javascript
 - [wagtail/wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience
 
@@ -1640,6 +1648,7 @@
 
 ## cpp 
 
+- [musescore/MuseScore](https://github.com/musescore/MuseScore) - MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!
 - [vesoft-inc/nebula](https://github.com/vesoft-inc/nebula) - A distributed, fast open-source graph database featuring horizontal scalability and high availability
 - [zrythm/zrythm](https://github.com/zrythm/zrythm) - a highly automated and intuitive digital audio workstation - official mirror
 - [grame-cncm/faust](https://github.com/grame-cncm/faust) - Functional programming language for signal processing and sound synthesis
@@ -1750,6 +1759,7 @@
 - [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]
 - [Cy-clon3/awesome-ios-security](https://github.com/Cy-clon3/awesome-ios-security) - A curated list of awesome iOS application security resources.
 - [nateahess/awesome-recon-tools](https://github.com/nateahess/awesome-recon-tools) - A compiled list of tools for reconnaissance and footprinting
+- [Armur-Ai/Pentest-Swarm-AI](https://github.com/Armur-Ai/Pentest-Swarm-AI) - Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring
 - [NYU-LLM-CTF/nyuctf_agents](https://github.com/NYU-LLM-CTF/nyuctf_agents) - The D-CIPHER and NYU CTF baseline LLM Agents built for NYU CTF Bench
 - [opencybersecurityalliance/stix-shifter](https://github.com/opencybersecurityalliance/stix-shifter) - This project consists of an open source library allowing software to connect to data repositories using STIX Patterning, and return results as STIX Observations.
 - [mitre-attack/attack-navigator](https://github.com/mitre-attack/attack-navigator) - Web app that provides basic navigation and annotation of ATT&CK matrices
@@ -2346,7 +2356,7 @@
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [securisec/cliam](https://github.com/securisec/cliam) - Cloud agnostic IAM permissions enumerator
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
-- [rowyio/rowy](https://github.com/rowyio/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
+- [buildship-ai/rowy](https://github.com/buildship-ai/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
 - [wsmaragh/dAte](https://github.com/wsmaragh/dAte) - A dating app that creates meaningful connections through food (Push notifications, Firebase, Chat, Schedule Calendar, Onboarding, Social media Login)
 - [sujaykundu777/devlopr-jekyll](https://github.com/sujaykundu777/devlopr-jekyll) - (FREE SITE GENERATOR) - A Customizable/Hackable portfolio jekyll theme where you can blog using Markdown or CMS :rocket: in minutes built for developers. (with CMS) ✨
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
@@ -2453,6 +2463,7 @@
 
 ## game-engine 
 
+- [luanti-org/luanti](https://github.com/luanti-org/luanti) - Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation
 - [4ian/GDevelop](https://github.com/4ian/GDevelop) - 🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.
 
 ## gamedev 
@@ -2723,7 +2734,7 @@
 ## google-cloud 
 
 - [cloudcommunity/Cloud-Free-Tier-Comparison](https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison) - Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP, Oracle etc.
-- [rowyio/rowy](https://github.com/rowyio/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
+- [buildship-ai/rowy](https://github.com/buildship-ai/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
 
 ## gradle 
 
@@ -3780,7 +3791,7 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, si
 - [prest/prest](https://github.com/prest/prest) - PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new
-- [rowyio/rowy](https://github.com/rowyio/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
+- [buildship-ai/rowy](https://github.com/buildship-ai/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
 - [frappe/frappe](https://github.com/frappe/frappe) - Low code web framework for real world applications, in Python and Javascript
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [Budibase/budibase](https://github.com/Budibase/budibase) - AI agents that run your operations. Model agnostic.
@@ -3789,6 +3800,7 @@
 
 ## lua 
 
+- [luanti-org/luanti](https://github.com/luanti-org/luanti) - Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation
 - [Jeong-Min-Cho/unluac](https://github.com/Jeong-Min-Cho/unluac) - Lua decompiler for bytecode versions 5.0-5.4. Fork of the original unluac from SourceForge https://sourceforge.net/p/unluac/hgcode/ci/default/tree/
 - [sztupy/luadec51](https://github.com/sztupy/luadec51) - Lua Decompiler for Lua version 5.1
 - [viruscamp/luadec](https://github.com/viruscamp/luadec) - Lua Decompiler for lua 5.1 , 5.2 and 5.3
@@ -4102,6 +4114,9 @@
 
 ## minecraft 
 
+- [Incendo/awesome-minecraft](https://github.com/Incendo/awesome-minecraft) - A curated list of awesome (free) open-source frameworks, libraries and software for Minecraft.
+- [tomodachi94/awesome-computercraft](https://github.com/tomodachi94/awesome-computercraft) - Useful libraries, programs, literature, and mods for ComputerCraft and its forks.
+- [bs-community/awesome-minecraft](https://github.com/bs-community/awesome-minecraft) - 📝 The curated list of awesome things related to Minecraft.
 - [PaperMC/Paper](https://github.com/PaperMC/Paper) - The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
 - [itzg/docker-minecraft-bedrock-server](https://github.com/itzg/docker-minecraft-bedrock-server) - Containerized Minecraft Bedrock Dedicated Server with selectable version
 
@@ -4139,6 +4154,7 @@
 
 ## music 
 
+- [dn-m/MusicXML](https://github.com/dn-m/MusicXML) - Implementation of the musicXML specification in Swift
 - [orhun/linuxwave](https://github.com/orhun/linuxwave) - Generate music from the entropy of Linux 🐧🎵
 - [Natooz/MidiTok](https://github.com/Natooz/MidiTok) - MIDI / symbolic music tokenizers for Deep Learning models 🎶
 - [salu133445/musegan](https://github.com/salu133445/musegan) - An AI for Music Generation
@@ -4321,7 +4337,7 @@
 - [SamurAIGPT/Open-Custom-GPT](https://github.com/SamurAIGPT/Open-Custom-GPT) - Create Custom GPT and add/embed on your site using Assistants api
 - [nocode-js/sequential-workflow-designer](https://github.com/nocode-js/sequential-workflow-designer) - Customizable no-code component for building flow-based programming applications or workflow automation. 0 external dependencies. Check out https://nocode-js.com
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-- [rowyio/rowy](https://github.com/rowyio/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
+- [buildship-ai/rowy](https://github.com/buildship-ai/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [Budibase/budibase](https://github.com/Budibase/budibase) - AI agents that run your operations. Model agnostic.
 - [4ian/GDevelop](https://github.com/4ian/GDevelop) - 🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.
@@ -4623,6 +4639,10 @@
 
 ## others 
 
+- [ldrolez/free-midi-chords](https://github.com/ldrolez/free-midi-chords) - A collection of free MIDI chords and progressions ready to be used in your DAW, Akai MPC, or Roland MC-707/101
+- [redcanaryco/atomic-red-team](https://github.com/redcanaryco/atomic-red-team) - Small and highly portable detection tests based on MITRE's ATT&CK.
+- [ClassiCube/ClassiCube](https://github.com/ClassiCube/ClassiCube) - Custom Minecraft Classic / ClassiCube client written in C  from scratch (formerly ClassicalSharp in C#)
+- [ddevault/TrueCraft](https://github.com/ddevault/TrueCraft) - Minecraft for hipsters
 - [heyalexej/awesome-images](https://github.com/heyalexej/awesome-images) - A curated list of amazingly awesome free (stock) photo resources inspired by all the other awesomes.
 - [robertguss/claude-code-toolkit](https://github.com/robertguss/claude-code-toolkit) - A collection of custom skills that extend Claude's capabilities with specialized workflows, methods, and domain knowledge.
 - [trailofbits/skills-curated](https://github.com/trailofbits/skills-curated) - Curated, community-vetted Claude Code plugin marketplace
@@ -4647,7 +4667,7 @@
 - [rainmana/fabric](https://github.com/rainmana/fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [leftstick/generator-electron-naive](https://github.com/leftstick/generator-electron-naive) - Create desktop app for a website in one minute
 - [abulka/generator-electron-flask](https://github.com/abulka/generator-electron-flask) - Yoeman project generator to create an Electron app running a Flask server inside itself. Deployable via PyInstaller and Electron Forge packager.
-- [rainmana/hackyfeed](https://github.com/rainmana/hackyfeed) - cybersecurity and ethical pentesting GitHub repo and tools aggregator :D
+- [rainmana/hackyfeed](https://github.com/rainmana/hackyfeed) - cybersecurity and ethical pentesting GitHub repo and tools aggregator :D https://rainmana.github.io/hackyfeed/
 - [google/docsy](https://github.com/google/docsy) - Hugo theme for open source documentation
 - [tomfran/typo](https://github.com/tomfran/typo) - A simple Hugo theme
 - [danapixels/digio-theme](https://github.com/danapixels/digio-theme) - A pixel, ASCII, and retro Hugo theme.
@@ -4678,7 +4698,7 @@
 - [elizaos-plugins/plugin-suno](https://github.com/elizaos-plugins/plugin-suno) - Integrates Suno AI's music generation for creating custom music from text prompts with detailed controls.
 - [yihong0618/SunoSongsCreator](https://github.com/yihong0618/SunoSongsCreator) - About High quality songs generation by https://www.suno.ai/. Reverse engineered API.
 - [Zizwar/Awesome-Suno](https://github.com/Zizwar/Awesome-Suno) - A curated list of awesome open-source AI projects related to the Suno Ai project.
-- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 15 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
+- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [excalidraw/excalidraw-mcp](https://github.com/excalidraw/excalidraw-mcp) - Fast and streamable Excalidraw MCP App
 - [BlathanAevon/ESP32_TOTP](https://github.com/BlathanAevon/ESP32_TOTP) - A simple ESP32-based TOTP device for everyday use
 - [buzzer-re/Rikugan](https://github.com/buzzer-re/Rikugan) - A reverse-engineering agent for IDA Pro and Binary Ninja
@@ -4948,7 +4968,6 @@
 - [oxygen-hunter/SoK-Code-Obfuscation-in-LLM-VD-arxiv](https://github.com/oxygen-hunter/SoK-Code-Obfuscation-in-LLM-VD-arxiv) - Repo for arxiv paper "A Systematic Study of Code Obfuscation Against LLM-based Vulnerability Detection".
 - [anh56/dl4sa](https://github.com/anh56/dl4sa) - Automated Code-centric Software Vulnerability Assessment: How Far Are We? An Empirical Study in C/C++
 - [lifan0127/ai-research-assistant](https://github.com/lifan0127/ai-research-assistant) - Aria is Your AI Research Assistant Powered by GPT Large Language Models
-- [Armur-Ai/Pentest-Swarm-AI](https://github.com/Armur-Ai/Pentest-Swarm-AI) - Swarms of AI Agents, Pentesting your software in real-time. Orchstrate machine-speed collaborative attacks to find vulnerabilites in your software.
 - [rainmana/sasquatch](https://github.com/rainmana/sasquatch) - 
 - [coreutils/coreutils](https://github.com/coreutils/coreutils) - upstream mirror
 - [openbsd/src](https://github.com/openbsd/src) - Read-only git conversion of OpenBSD's official CVS src repository. Pull requests not accepted - send diffs to the tech@ mailing list.
@@ -5129,8 +5148,8 @@
 - [niceboygithub/XiaomiGateway3fw](https://github.com/niceboygithub/XiaomiGateway3fw) - Provide several firmwares for Xiaomi Gateway 3 (ZNDMWG03LM, ZNDMWG02LM). And bin uitls, boot_ctrl (enhanced), more function of busybox, dropbearmulti for ssh.
 - [niceboygithub/AqaraCameraHubfw](https://github.com/niceboygithub/AqaraCameraHubfw) - Aqara Camera Hub G2/G2H and Aqara Hub E1 firmwares
 - [Matheus-Garbelini/sweyntooth_bluetooth_low_energy_attacks](https://github.com/Matheus-Garbelini/sweyntooth_bluetooth_low_energy_attacks) - Proof of Concept of Sweyntooth Bluetooth Low Energy (BLE) vulnerabilities.
-- [NordicSemiconductor/IOS-DFU-Library](https://github.com/NordicSemiconductor/IOS-DFU-Library) - OTA DFU Library for Mac and iOS, compatible with nRF5x SoCs
-- [NordicSemiconductor/Android-DFU-Library](https://github.com/NordicSemiconductor/Android-DFU-Library) - Device Firmware Update library and Android app
+- [nordicsemi/IOS-DFU-Library](https://github.com/nordicsemi/IOS-DFU-Library) - OTA DFU Library for Mac and iOS, compatible with nRF5x SoCs
+- [nordicsemi/Android-DFU-Library](https://github.com/nordicsemi/Android-DFU-Library) - Device Firmware Update library and Android app
 - [TarlogicSecurity/BlueSpy](https://github.com/TarlogicSecurity/BlueSpy) - PoC to record audio from a Bluetooth device
 - [dariuszseweryn/RxAndroidBle](https://github.com/dariuszseweryn/RxAndroidBle) - An Android Bluetooth Low Energy (BLE) Library with RxJava3 interface
 - [kac89/vulnrepo-server](https://github.com/kac89/vulnrepo-server) - Sample API server for VULNRΞPO
@@ -5440,7 +5459,7 @@
 - [openstack/swift](https://github.com/openstack/swift) - OpenStack Storage (Swift). Mirror of code maintained at opendev.org.
 - [uber/h3](https://github.com/uber/h3) - Hexagonal hierarchical geospatial indexing system
 - [Drew-Sec/EvilSlackbot](https://github.com/Drew-Sec/EvilSlackbot) - A Slack bot phishing framework for Red Teaming exercises
-- [Rizer0/Ropdump](https://github.com/Rizer0/Ropdump) - ROPDump is a command-line tool designed to analyze binary executables for potential Return-Oriented Programming (ROP) gadgets, buffer overflow vulnerabilities, and memory leaks.
+- [Nullbyte0x/Ropdump](https://github.com/Nullbyte0x/Ropdump) - ROPDump is a command-line tool designed to analyze binary executables for potential Return-Oriented Programming (ROP) gadgets, buffer overflow vulnerabilities, and memory leaks.
 - [citizenlab/web-censorship](https://github.com/citizenlab/web-censorship) - Collection of data about URL filtering in various countries
 - [citizenlab/malware-indicators](https://github.com/citizenlab/malware-indicators) - Citizen Lab Malware Reports
 - [citizenlab/test-lists](https://github.com/citizenlab/test-lists) - URL testing lists intended for discovering website censorship
@@ -6061,6 +6080,7 @@
 - [ssl/ezXSS](https://github.com/ssl/ezXSS) - ezXSS is an easy way for penetration testers and bug bounty hunters to test (blind) Cross Site Scripting.
 - [mandiant/commando-vm](https://github.com/mandiant/commando-vm) - Complete Mandiant Offensive VM (Commando VM), a fully customizable Windows-based pentesting virtual machine distribution. commandovm@mandiant.com
 - [user1342/Awesome-LLM-Red-Teaming](https://github.com/user1342/Awesome-LLM-Red-Teaming) - A curated list of awesome LLM Red Teaming training, resources, and tools.
+- [Armur-Ai/Pentest-Swarm-AI](https://github.com/Armur-Ai/Pentest-Swarm-AI) - Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring
 - [rainmana/tinybrain](https://github.com/rainmana/tinybrain) - LLM local persistent storage for security nerds
 - [aalex954/MSFT-IP-Tracker](https://github.com/aalex954/MSFT-IP-Tracker) - Tracks a range of Microsoft owned ASNs and publishes a daily release containing a list of IPv4 and IPv6 address in CIDR notation.
 - [engn33r/awesome-bluetooth-security](https://github.com/engn33r/awesome-bluetooth-security) - List of Bluetooth BR/EDR/LE security resources
@@ -6716,6 +6736,7 @@
 
 ## qt 
 
+- [musescore/MuseScore](https://github.com/musescore/MuseScore) - MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!
 - [openairplay/openairplay](https://github.com/openairplay/openairplay) - Enabling Airplay just like on Apple OSX on Ubuntu and possibly other non-apple OSes
 - [ossia/score](https://github.com/ossia/score) - ossia score, an interactive sequencer for the intermedia arts
 - [mixxxdj/mixxx](https://github.com/mixxxdj/mixxx) - Mixxx is Free DJ software that gives you everything you need to perform live mixes.
@@ -6848,7 +6869,7 @@
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. 
-- [rowyio/rowy](https://github.com/rowyio/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
+- [buildship-ai/rowy](https://github.com/buildship-ai/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data
 - [KTZgraph/sarenka](https://github.com/KTZgraph/sarenka) - OSINT tool - gets data from services like shodan, censys etc. in one app
@@ -7602,6 +7623,7 @@
 
 ## swift 
 
+- [dn-m/MusicXML](https://github.com/dn-m/MusicXML) - Implementation of the musicXML specification in Swift
 - [SwiftfulThinking/SwiftfulRouting](https://github.com/SwiftfulThinking/SwiftfulRouting) - Programmatic navigation for SwiftUI applications.
 - [dkhamsing/news](https://github.com/dkhamsing/news) - 📰 iOS news app in the style of Apple News, CNN, BBC, Facebook, NYT, Reddit, X (Twitter) & more
 - [ronitsingh10/FineTune](https://github.com/ronitsingh10/FineTune) - FineTune, a macOS menu bar app for per-app volume control, multi-device output, audio routing, and 10-band EQ. Free and open-source alternative to SoundSource.
@@ -7890,7 +7912,7 @@
 - [lukehaas/RunJS](https://github.com/lukehaas/RunJS) - RunJS is a JavaScript playground for macOS, Windows and Linux. Write code with instant feedback and access to Node.js and browser APIs.
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, si
 - [skyra-project/star-wars-api](https://github.com/skyra-project/star-wars-api) - Star Wars GraphQL API
-- [rowyio/rowy](https://github.com/rowyio/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
+- [buildship-ai/rowy](https://github.com/buildship-ai/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [lichess-org/lila](https://github.com/lichess-org/lila) - ♞ lichess.org: the forever free, adless and open source chess server ♞
