@@ -38,6 +38,7 @@
 - [Jinja](#jinja)
 - [Julia](#julia)
 - [Jupyter Notebook](#jupyter-notebook)
+- [Just](#just)
 - [Kaitai Struct](#kaitai-struct)
 - [Kotlin](#kotlin)
 - [Less](#less)
@@ -122,6 +123,8 @@
 
 ## C 
 
+- [redcanaryco/atomic-red-team](https://github.com/redcanaryco/atomic-red-team) - Small and highly portable detection tests based on MITRE's ATT&CK.
+- [ClassiCube/ClassiCube](https://github.com/ClassiCube/ClassiCube) - Custom Minecraft Classic / ClassiCube client written in C  from scratch (formerly ClassicalSharp in C#)
 - [coredevices/PebbleOS](https://github.com/coredevices/PebbleOS) - 
 - [xcellerator/linux_kernel_hacking](https://github.com/xcellerator/linux_kernel_hacking) - Linux Kernel Hacking
 - [memovai/mimiclaw](https://github.com/memovai/mimiclaw) - MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS. Hardware agents OS.
@@ -306,6 +309,7 @@
 
 ## C# # 
 
+- [ddevault/TrueCraft](https://github.com/ddevault/TrueCraft) - Minecraft for hipsters
 - [AssetRipper/AssetRipper](https://github.com/AssetRipper/AssetRipper) - GUI Application to work with engine assets, asset bundles, and serialized files
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types t
@@ -382,6 +386,8 @@
 
 ## C++ 
 
+- [musescore/MuseScore](https://github.com/musescore/MuseScore) - MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!
+- [luanti-org/luanti](https://github.com/luanti-org/luanti) - Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation
 - [GrammaTech/gtirb](https://github.com/GrammaTech/gtirb) - Intermediate Representation for Binary analysis and transformation
 - [BlathanAevon/ESP32_TOTP](https://github.com/BlathanAevon/ESP32_TOTP) - A simple ESP32-based TOTP device for everyday use
 - [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
@@ -612,7 +618,7 @@
 - [rainmana/fabric](https://github.com/rainmana/fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [sammcj/gollama](https://github.com/sammcj/gollama) - Go manage your Ollama models
 - [doxx/darkflare](https://github.com/doxx/darkflare) - DarkFlare Firewall Piercing (TCP over CDN)
-- [rainmana/hackyfeed](https://github.com/rainmana/hackyfeed) - cybersecurity and ethical pentesting GitHub repo and tools aggregator :D
+- [rainmana/hackyfeed](https://github.com/rainmana/hackyfeed) - cybersecurity and ethical pentesting GitHub repo and tools aggregator :D https://rainmana.github.io/hackyfeed/
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
 - [tofutf/tofutf](https://github.com/tofutf/tofutf) - An open source alternative to terraform enterprise.
@@ -637,7 +643,7 @@
 - [duanemay/chatgpt-cli](https://github.com/duanemay/chatgpt-cli) - Interact with ChatGPT directly from your command line
 - [slimm609/checksec](https://github.com/slimm609/checksec) - Checksec
 - [onsi/ginkgo](https://github.com/onsi/ginkgo) - A Modern Testing Framework for Go
-- [Armur-Ai/Pentest-Swarm-AI](https://github.com/Armur-Ai/Pentest-Swarm-AI) - Swarms of AI Agents, Pentesting your software in real-time. Orchstrate machine-speed collaborative attacks to find vulnerabilites in your software.
+- [Armur-Ai/Pentest-Swarm-AI](https://github.com/Armur-Ai/Pentest-Swarm-AI) - Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring
 - [mandiant/GoReSym](https://github.com/mandiant/GoReSym) - Go symbol recovery tool
 - [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - high-performance graph database for real-time use cases
 - [cayleygraph/cayley](https://github.com/cayleygraph/cayley) - An open-source graph database
@@ -974,7 +980,7 @@
 - [jQAssistant/jqassistant](https://github.com/jQAssistant/jqassistant) - Your Software. Your Structures. Your Rules.
 - [BiglySoftware/BiglyBT](https://github.com/BiglySoftware/BiglyBT) - Feature-filled Bittorrent client based on the Azureus open source project
 - [NordicSemiconductor/Android-Scanner-Compat-Library](https://github.com/NordicSemiconductor/Android-Scanner-Compat-Library) - A compat library for Bluetooth Low Energy scanning on Android.
-- [NordicSemiconductor/Android-DFU-Library](https://github.com/NordicSemiconductor/Android-DFU-Library) - Device Firmware Update library and Android app
+- [nordicsemi/Android-DFU-Library](https://github.com/nordicsemi/Android-DFU-Library) - Device Firmware Update library and Android app
 - [dariuszseweryn/RxAndroidBle](https://github.com/dariuszseweryn/RxAndroidBle) - An Android Bluetooth Low Energy (BLE) Library with RxJava3 interface
 - [graphfoundation/ongdb](https://github.com/graphfoundation/ongdb) - ONgDB is an independent fork of Neo4j® Enterprise Edition version 3.4.0.rc02 licensed under AGPLv3 and/or Community Edition licensed under GPLv3
 - [neo4j/neo4j](https://github.com/neo4j/neo4j) - Graphs for Everyone
@@ -1143,7 +1149,6 @@
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.
 - [future-architect/cheetah-grid](https://github.com/future-architect/cheetah-grid) - The fastest open-source data table for web.
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [TheRealJoelmatic/RemoveAdblockThing](https://github.com/TheRealJoelmatic/RemoveAdblockThing) - The intrusive "Ad blocker are not allowed on YouTube"  message is annoying. This open-source project aims to address this issue by providing a solution to bypass YouTube's ad blocker detection
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [R-s0n/ars0n-framework](https://github.com/R-s0n/ars0n-framework) - A Modern Framework for Bug Bounty Hunting
@@ -1299,6 +1304,10 @@
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [RoyalVeterinaryCollege/detecting_false_positives](https://github.com/RoyalVeterinaryCollege/detecting_false_positives) - Publicly-available source code for paper entitled "Detecting false positive disease references in veterinary clinical notes without manual annotations"
 
+## Just 
+
+- [tomodachi94/awesome-computercraft](https://github.com/tomodachi94/awesome-computercraft) - Useful libraries, programs, literature, and mods for ComputerCraft and its forks.
+
 ## Kaitai Struct 
 
 - [Antonin-Deniau/cave_miner](https://github.com/Antonin-Deniau/cave_miner) - Search for code cave in all binaries
@@ -1418,6 +1427,8 @@
 
 ## Others 
 
+- [Incendo/awesome-minecraft](https://github.com/Incendo/awesome-minecraft) - A curated list of awesome (free) open-source frameworks, libraries and software for Minecraft.
+- [bs-community/awesome-minecraft](https://github.com/bs-community/awesome-minecraft) - 📝 The curated list of awesome things related to Minecraft.
 - [diegocard/awesome-html5](https://github.com/diegocard/awesome-html5) - :memo: A curated list of awesome HTML5 resources
 - [heyalexej/awesome-images](https://github.com/heyalexej/awesome-images) - A curated list of amazingly awesome free (stock) photo resources inspired by all the other awesomes.
 - [myles/awesome-static-generators](https://github.com/myles/awesome-static-generators) - A curated list of static web site generators.
@@ -1856,6 +1867,7 @@
 
 ## Python 
 
+- [ldrolez/free-midi-chords](https://github.com/ldrolez/free-midi-chords) - A collection of free MIDI chords and progressions ready to be used in your DAW, Akai MPC, or Roland MC-707/101
 - [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) - A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.
 - [trailofbits/skills-curated](https://github.com/trailofbits/skills-curated) - Curated, community-vetted Claude Code plugin marketplace
 - [trailofbits/skills](https://github.com/trailofbits/skills) - Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows
@@ -2372,7 +2384,7 @@
 - [openstack/swift](https://github.com/openstack/swift) - OpenStack Storage (Swift). Mirror of code maintained at opendev.org.
 - [Drew-Sec/EvilSlackbot](https://github.com/Drew-Sec/EvilSlackbot) - A Slack bot phishing framework for Red Teaming exercises
 - [CERT-Polska/hfinger](https://github.com/CERT-Polska/hfinger) - Hfinger - fingerprinting HTTP requests
-- [Rizer0/Ropdump](https://github.com/Rizer0/Ropdump) - ROPDump is a command-line tool designed to analyze binary executables for potential Return-Oriented Programming (ROP) gadgets, buffer overflow vulnerabilities, and memory leaks.
+- [Nullbyte0x/Ropdump](https://github.com/Nullbyte0x/Ropdump) - ROPDump is a command-line tool designed to analyze binary executables for potential Return-Oriented Programming (ROP) gadgets, buffer overflow vulnerabilities, and memory leaks.
 - [joshkar/X-Recon](https://github.com/joshkar/X-Recon) - A utility for detecting webpage inputs and conducting XSS scans.
 - [citizenlab/test-lists](https://github.com/citizenlab/test-lists) - URL testing lists intended for discovering website censorship
 - [Chainlit/cookbook](https://github.com/Chainlit/cookbook) - Chainlit's cookbook repo
@@ -3102,6 +3114,7 @@
 
 ## Swift 
 
+- [dn-m/MusicXML](https://github.com/dn-m/MusicXML) - Implementation of the musicXML specification in Swift
 - [alexcding/gemini-desktop-mac](https://github.com/alexcding/gemini-desktop-mac) - 
 - [SwiftfulThinking/SwiftfulRouting](https://github.com/SwiftfulThinking/SwiftfulRouting) - Programmatic navigation for SwiftUI applications.
 - [feedfm/Airplay2ndScreen](https://github.com/feedfm/Airplay2ndScreen) - Example project for using Airplay via screen mirroring
@@ -3131,11 +3144,12 @@
 - [sebj/Steam](https://github.com/sebj/Steam) - A Swift package to interact directly with Steam.
 - [gluonfield/enchanted](https://github.com/gluonfield/enchanted) - Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama.
 - [1amageek/Bleu](https://github.com/1amageek/Bleu) - BLE (Bluetooth LE) for U🎁 Bleu is the best in the Bluetooth library.
-- [NordicSemiconductor/IOS-DFU-Library](https://github.com/NordicSemiconductor/IOS-DFU-Library) - OTA DFU Library for Mac and iOS, compatible with nRF5x SoCs
+- [nordicsemi/IOS-DFU-Library](https://github.com/nordicsemi/IOS-DFU-Library) - OTA DFU Library for Mac and iOS, compatible with nRF5x SoCs
 - [chuongtrh/palette-from-image](https://github.com/chuongtrh/palette-from-image) - Inspire from https://earthview.withgoogle.com/
 - [EbrahimTahernejad/Tun2SocksKit](https://github.com/EbrahimTahernejad/Tun2SocksKit) - Tun2Socks Solution for Apple Devices
 - [nicklockwood/Swiftenstein](https://github.com/nicklockwood/Swiftenstein) - Simple Wolfenstein 3D clone written in Swift
 - [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [Brandon7CC/mac-monitor](https://github.com/Brandon7CC/mac-monitor) - "The missing ProcMon for macOS": Mac Monitor records Endpoint Security events and displays them for analysis.
 - [37MobileTeam/iChatGPT](https://github.com/37MobileTeam/iChatGPT) - OpenAI ChatGPT SwiftUI app for iOS, iPadOS, macOS
 - [JohnCoates/flexdecrypt](https://github.com/JohnCoates/flexdecrypt) - Decrypt iOS Apps and Mach-O binaries
@@ -3173,7 +3187,7 @@
 - [nrwl/nx](https://github.com/nrwl/nx) - The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time.
 - [Alvin-Liu/suno-music-generator](https://github.com/Alvin-Liu/suno-music-generator) - 基于 suno.ai 实现的文字快速创作音乐网站 (A text-based rapid music creation website based on suno.ai )
 - [elizaos-plugins/plugin-suno](https://github.com/elizaos-plugins/plugin-suno) - Integrates Suno AI's music generation for creating custom music from text prompts with detailed controls.
-- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 15 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
+- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [excalidraw/excalidraw-mcp](https://github.com/excalidraw/excalidraw-mcp) - Fast and streamable Excalidraw MCP App
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [typora-community-plugin/typora-community-plugin](https://github.com/typora-community-plugin/typora-community-plugin) - Typora plugin system for enhancing your editing experience. | 增强 Typora 编辑体验的社区插件系统。
@@ -3387,7 +3401,7 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, si
 - [skyra-project/star-wars-api](https://github.com/skyra-project/star-wars-api) - Star Wars GraphQL API
-- [rowyio/rowy](https://github.com/rowyio/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
+- [buildship-ai/rowy](https://github.com/buildship-ai/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
 - [Budibase/budibase](https://github.com/Budibase/budibase) - AI agents that run your operations. Model agnostic.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [krinql/vscode](https://github.com/krinql/vscode) - AI powered Suite of developer tools and integrations to help developers with mundane tasks
