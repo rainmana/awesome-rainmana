@@ -124,6 +124,8 @@
 
 ## C 
 
+- [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
+- [seemoo-lab/owl](https://github.com/seemoo-lab/owl) - An open Apple Wireless Direct Link (AWDL) implementation written in C
 - [redcanaryco/atomic-red-team](https://github.com/redcanaryco/atomic-red-team) - Small and highly portable detection tests based on MITRE's ATT&CK.
 - [ClassiCube/ClassiCube](https://github.com/ClassiCube/ClassiCube) - Custom Minecraft Classic / ClassiCube client written in C  from scratch (formerly ClassicalSharp in C#)
 - [coredevices/PebbleOS](https://github.com/coredevices/PebbleOS) - 
@@ -1004,6 +1006,7 @@
 - [Battelle/cantordust](https://github.com/Battelle/cantordust) - Public repository for Cantordust Ghidra plugin.
 - [LaurieWired/JADXecute](https://github.com/LaurieWired/JADXecute) - JADX-gui scripting plugin for dynamic decompiler manipulation
 - [ngageoint/mrgeo](https://github.com/ngageoint/mrgeo) - MrGeo is a geospatial toolkit designed to provide raster-based geospatial capabilities that can be performed at scale. MrGeo is built upon Apache Spark and the Hadoop ecosystem to leverage the storage
+- [TAK-Product-Center/Server](https://github.com/TAK-Product-Center/Server) - TAK Server
 - [java-decompiler/jd-gui](https://github.com/java-decompiler/jd-gui) - A standalone Java Decompiler GUI
 - [java-decompiler/jd-eclipse](https://github.com/java-decompiler/jd-eclipse) - A Java Decompiler Eclipse plugin
 - [java-decompiler/jd-core](https://github.com/java-decompiler/jd-core) - JD-Core is a JAVA decompiler written in JAVA.
@@ -1159,7 +1162,6 @@
 - [R-s0n/ars0n-framework](https://github.com/R-s0n/ars0n-framework) - A Modern Framework for Bug Bounty Hunting
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) - ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)
-- [TAK-Product-Center/Server](https://github.com/TAK-Product-Center/Server) - TAK Server
 - [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
 - [metavoiceio/MetaVoiceLive](https://github.com/metavoiceio/MetaVoiceLive) - 
 - [0x742/noia](https://github.com/0x742/noia) - [WIP] Simple mobile applications sandbox file browser tool. Powered with [frida.re](https://www.frida.re).
@@ -1415,6 +1417,7 @@
 
 ## Objective-C 
 
+- [seemoo-lab/airdrop-keychain-extractor](https://github.com/seemoo-lab/airdrop-keychain-extractor) - Extracting Apple ID Validation Record, Certificate, and Key for AirDrop
 - [khanhduytran0/MacWSBootingGuide](https://github.com/khanhduytran0/MacWSBootingGuide) - Booting macOS's WindowServer on your jailbroken iDevice for real
 - [chrisballinger/BLEMeshChat](https://github.com/chrisballinger/BLEMeshChat) - Bluetooth LE Mesh Chat for iOS and Android
 - [hanks/HHKBAssistant_for_mac](https://github.com/hanks/HHKBAssistant_for_mac) - A funny helper tool for HHKB professional keyboard on mac. Its main job is that it can auto detect the HHKB professional keyboard plugged in and out, and do some actions you want.
@@ -1881,6 +1884,9 @@
 
 ## Python 
 
+- [seemoo-lab/opendrop](https://github.com/seemoo-lab/opendrop) - An open Apple AirDrop implementation written in Python
+- [0cyn/bn-dyldsharedcache](https://github.com/0cyn/bn-dyldsharedcache) - dyld_shared_cache processing / Single-Image loading for BinaryNinja
+- [rainmana/rainmana-binja-scripts](https://github.com/rainmana/rainmana-binja-scripts) - Smol, (likely) dumb, and simple scripts I use to improve my life in Binja
 - [ldrolez/free-midi-chords](https://github.com/ldrolez/free-midi-chords) - A collection of free MIDI chords and progressions ready to be used in your DAW, Akai MPC, or Roland MC-707/101
 - [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) - A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.
 - [trailofbits/skills-curated](https://github.com/trailofbits/skills-curated) - Curated, community-vetted Claude Code plugin marketplace
@@ -1892,7 +1898,7 @@
 - [GONZOsint/gitrecon](https://github.com/GONZOsint/gitrecon) - OSINT tool to get information from a Github and Gitlab profile and find user's email addresses leaked on commits.
 - [brendanhogan/hermitclaw](https://github.com/brendanhogan/hermitclaw) - 
 - [princezuda/safeclaw](https://github.com/princezuda/safeclaw) - Safeclaw is the alternative to openclaw.. You can naturally chat with it via text and voice, and you can choose not to use a language model., By default it picks up on intent and semantics..  No promp
-- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight OpenClaw"
+- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight Personal AI Assistant"
 - [octotools/octotools](https://github.com/octotools/octotools) - OctoTools: An agentic framework with extensible tools for complex reasoning
 - [Fadi002/de4py](https://github.com/Fadi002/de4py) - The ultimate AI-powered toolkit for python reverse engineering
 - [fikrado/fikrado.py](https://github.com/fikrado/fikrado.py) - Facebook hacking Tools script super fast and user friendly
@@ -2871,6 +2877,8 @@
 
 ## Rust 
 
+- [ultraworkers/claw-code-parity](https://github.com/ultraworkers/claw-code-parity) - claw-code Rust port parity work - it is temporary work while claw-code repo is doing migration
+- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - [Notice] The repo temporarily locked while ownership transfer. in the meantime we maintain on here: https://github.com/ultraworkers/claw-code-parity. The fastest repo in history to surpass 100K stars 
 - [huggingface/hf-mount](https://github.com/huggingface/hf-mount) - Mount Hugging Face Buckets and repos as local filesystems. No download, no copy, no waiting.
 - [exaroth/liveboat](https://github.com/exaroth/liveboat) - Generate static pages from your RSS urls
 - [JaredStewart/coderlm](https://github.com/JaredStewart/coderlm) - Tree-sitter-powered code indexing server that gives LLM agents precise, on-demand access to symbols, implementations, callers, tests, and grep across multi-language projects - so they explore codebase
@@ -3130,6 +3138,8 @@
 
 ## Swift 
 
+- [seemoo-lab/BTLEmap](https://github.com/seemoo-lab/BTLEmap) - Nmap for Bluetooth Low Energy
+- [seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack) - Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.
 - [Yalantis/StarWars.iOS](https://github.com/Yalantis/StarWars.iOS) - This component implements transition animation to crumble view-controller into tiny pieces.
 - [dn-m/MusicXML](https://github.com/dn-m/MusicXML) - Implementation of the musicXML specification in Swift
 - [alexcding/gemini-desktop-mac](https://github.com/alexcding/gemini-desktop-mac) - 
@@ -3424,7 +3434,7 @@
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, si
 - [skyra-project/star-wars-api](https://github.com/skyra-project/star-wars-api) - Star Wars GraphQL API
 - [buildship-ai/rowy](https://github.com/buildship-ai/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
-- [Budibase/budibase](https://github.com/Budibase/budibase) - AI agents that run your operations. Model agnostic.
+- [Budibase/budibase](https://github.com/Budibase/budibase) - AI agents, automations and apps that run your operations. Model agnostic.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [krinql/vscode](https://github.com/krinql/vscode) - AI powered Suite of developer tools and integrations to help developers with mundane tasks
 - [APKLab/APKLab](https://github.com/APKLab/APKLab) - Android Reverse-Engineering Workbench for VS Code
