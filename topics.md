@@ -4687,6 +4687,7 @@
 
 ## others 
 
+- [rainmana/DuckDuckBurp](https://github.com/rainmana/DuckDuckBurp) - Front Burp data with DuckDB to enable super fast and awesome querying and AI integration
 - [seemoo-lab/BTLEmap](https://github.com/seemoo-lab/BTLEmap) - Nmap for Bluetooth Low Energy
 - [0cyn/bn-dyldsharedcache](https://github.com/0cyn/bn-dyldsharedcache) - dyld_shared_cache processing / Single-Image loading for BinaryNinja
 - [rainmana/rainmana-binja-scripts](https://github.com/rainmana/rainmana-binja-scripts) - Smol, (likely) dumb, and simple scripts I use to improve my life in Binja
