@@ -956,6 +956,7 @@
 
 ## Java 
 
+- [vsch/flexmark-java](https://github.com/vsch/flexmark-java) - CommonMark/Markdown Java parser with source level AST. CommonMark 0.28, emulation of: pegdown, kramdown, markdown.pl, MultiMarkdown. With HTML to MD, MD to PDF, MD to DOCX  conversion modules.
 - [Yalantis/StarWars.Android](https://github.com/Yalantis/StarWars.Android) - This component implements transition animation to crumble view into tiny pieces.
 - [federicodotta/Brida](https://github.com/federicodotta/Brida) - The new bridge between Burp Suite and Frida!
 - [ge-high-assurance/VERDICT](https://github.com/ge-high-assurance/VERDICT) - DARPA's Cyber Assured Systems Engineering (CASE) project named Verification Evidence and Resilient Design in Anticipation of Cybersecurity Threats (VERDICT)
@@ -2392,7 +2393,7 @@
 - [Dman95/SASM](https://github.com/Dman95/SASM) - SASM - simple crossplatform IDE for NASM, MASM, GAS and FASM assembly languages
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler with built-in NumPy support
 - [latchset/jwcrypto](https://github.com/latchset/jwcrypto) - Implements JWK,JWS,JWE specifications using python-cryptography
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth Studio is a web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth Studio is a web UI for training and running open models like Qwen3.5, Gemma 4, DeepSeek, gpt-oss locally.
 - [mesop-dev/mesop](https://github.com/mesop-dev/mesop) - Rapidly build AI apps in Python
 - [lanjelot/patator](https://github.com/lanjelot/patator) - Patator is a multi-purpose brute-forcer, with a modular design and a flexible usage.
 - [galkan/crowbar](https://github.com/galkan/crowbar) - Crowbar is brute forcing tool that can be used during penetration tests. It is developed to support protocols that are not currently supported by thc-hydra and other popular brute forcing tools.
@@ -2873,11 +2874,12 @@
 - [jameslafa/Scrapify](https://github.com/jameslafa/Scrapify) - A bunch of website scraping scripts
 - [Arachni/arachni](https://github.com/Arachni/arachni) - Web Application Security Scanner Framework
 - [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) - Metasploit Framework
+- [mitre/vulcan](https://github.com/mitre/vulcan) - A web application to streamline the development of STIGs from SRGs
 - [freshshell/fresh](https://github.com/freshshell/fresh) - Keep your dotfiles fresh.
 
 ## Rust 
 
-- [ultraworkers/claw-code-parity](https://github.com/ultraworkers/claw-code-parity) - claw-code Rust port parity work - it is temporary work while claw-code repo is doing migration
+- [ultraworkers/claw-code-parity](https://github.com/ultraworkers/claw-code-parity) - Join Discord: https://discord.gg/5TUQKqFWd /  claw-code Rust port parity work - it is temporary work while claw-code repo is doing migration
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - [Notice] The repo temporarily locked while ownership transfer. in the meantime we maintain on here: https://github.com/ultraworkers/claw-code-parity. The fastest repo in history to surpass 100K stars 
 - [huggingface/hf-mount](https://github.com/huggingface/hf-mount) - Mount Hugging Face Buckets and repos as local filesystems. No download, no copy, no waiting.
 - [exaroth/liveboat](https://github.com/exaroth/liveboat) - Generate static pages from your RSS urls
@@ -3493,7 +3495,6 @@
 - [bufferhead-code/opencraft](https://github.com/bufferhead-code/opencraft) - An open-source clone of infinite-craft
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [chaitin/passionfruit](https://github.com/chaitin/passionfruit) - [WIP] Crappy iOS app analyzer
-- [mitre/vulcan](https://github.com/mitre/vulcan) - A web application to streamline the development of STIGs from SRGs
 - [louh/lcars](https://github.com/louh/lcars) - A responsive layout for Star Trek's LCARS user interface made completely in HTML/CSS/JavaScript.
 
 ## XSLT 
