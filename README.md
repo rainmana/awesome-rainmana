@@ -957,6 +957,7 @@
 ## Java 
 
 - [vsch/flexmark-java](https://github.com/vsch/flexmark-java) - CommonMark/Markdown Java parser with source level AST. CommonMark 0.28, emulation of: pegdown, kramdown, markdown.pl, MultiMarkdown. With HTML to MD, MD to PDF, MD to DOCX  conversion modules.
+- [rainmana/DuckDuckBurp](https://github.com/rainmana/DuckDuckBurp) - Front Burp data with DuckDB to enable super fast and awesome querying and AI integration
 - [Yalantis/StarWars.Android](https://github.com/Yalantis/StarWars.Android) - This component implements transition animation to crumble view into tiny pieces.
 - [federicodotta/Brida](https://github.com/federicodotta/Brida) - The new bridge between Burp Suite and Frida!
 - [ge-high-assurance/VERDICT](https://github.com/ge-high-assurance/VERDICT) - DARPA's Cyber Assured Systems Engineering (CASE) project named Verification Evidence and Resilient Design in Anticipation of Cybersecurity Threats (VERDICT)
