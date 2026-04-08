@@ -1340,6 +1340,7 @@
 
 ## Lua 
 
+- [coder/claudecode.nvim](https://github.com/coder/claudecode.nvim) - 🧩 Claude Code Neovim IDE Extension
 - [KevinSilvester/wezterm-config](https://github.com/KevinSilvester/wezterm-config) - My WezTerm Config
 - [yriveiro/wezterm-tabs](https://github.com/yriveiro/wezterm-tabs) - WezTerm to configure tabs look and feel
 - [rootiest/battery.wez](https://github.com/rootiest/battery.wez) - WezTerm plugin for battery stats
@@ -1889,6 +1890,7 @@
 
 ## Python 
 
+- [mitre-attack/attack-stix-data](https://github.com/mitre-attack/attack-stix-data) - STIX data representing MITRE ATT&CK
 - [OpenBMB/XAgent](https://github.com/OpenBMB/XAgent) - An Autonomous LLM Agent for Complex Task Solving
 - [Josh-XT/AGiXT](https://github.com/Josh-XT/AGiXT) - AGiXT is a dynamic AI Agent Automation Platform that seamlessly orchestrates instruction management and complex task execution across diverse AI providers. Combining adaptive memory, smart features, a
 - [Kiln-AI/Kiln](https://github.com/Kiln-AI/Kiln) - Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation, dataset management, MCP, and more.
@@ -3208,6 +3210,7 @@
 
 ## TypeScript 
 
+- [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc) - Customize Claude Code's system prompts, create custom toolsets, input pattern highlighters, themes/thinking verbs/spinners, customize input box & user message styling, support AGENTS.md, unlock privat
 - [LangGraph-GUI/LangGraph-GUI](https://github.com/LangGraph-GUI/LangGraph-GUI) - Visual node-edge graph GUI editor for LangGraph and run with local LLM or online API
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before
 - [opensheetmusicdisplay/opensheetmusicdisplay](https://github.com/opensheetmusicdisplay/opensheetmusicdisplay) - OpenSheetMusicDisplay renders sheet music in MusicXML format in your web browser based on VexFlow. OSMD is brought to you by PhonicScore.com.
@@ -3378,7 +3381,7 @@
 - [XeroxDev/Stream-Deck-TS-SDK](https://github.com/XeroxDev/Stream-Deck-TS-SDK) - This SDK will help you create easy stream deck plugins
 - [sebinside/StreamAwesome](https://github.com/sebinside/StreamAwesome) - Stream Awesome - The Stream Deck Icon Generator using Font Awesome
 - [niklashigi/apk-mitm](https://github.com/niklashigi/apk-mitm) - 🤖 A CLI application that automatically prepares Android APK files for HTTPS inspection
-- [browserbase/stagehand](https://github.com/browserbase/stagehand) - The AI Browser Automation Framework
+- [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK For Browser Agents
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
