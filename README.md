@@ -101,6 +101,7 @@
 
 ## Astro 
 
+- [elstron/astro-portfolio](https://github.com/elstron/astro-portfolio) - Porfolio template for Astro
 - [proyecto26/proyecto26.github.io](https://github.com/proyecto26/proyecto26.github.io) - The Proyecto26 github homepage.
 - [terminaldotshop/the-standup](https://github.com/terminaldotshop/the-standup) - website for the standup
 - [fracalo/astro-supabase-ss](https://github.com/fracalo/astro-supabase-ss) - Opinionated Supabase + Astro template
@@ -2366,6 +2367,7 @@
 - [yl4579/StyleTTS2](https://github.com/yl4579/StyleTTS2) - StyleTTS 2: Towards Human-Level Text-to-Speech through Style Diffusion and Adversarial Training with Large Speech Language Models
 - [aapooksman/certmitm](https://github.com/aapooksman/certmitm) - A tool for testing for certificate validation vulnerabilities of TLS connections made by a client device or an application.
 - [rootbsd/fridump3](https://github.com/rootbsd/fridump3) - A universal memory dumper using Frida for Python 3
+- [0xKayala/NucleiFuzzer](https://github.com/0xKayala/NucleiFuzzer) - NucleiFuzzer is a robust automation tool that efficiently detects web application vulnerabilities, including XSS, SQLi, SSRF, and Open Redirects, leveraging advanced scanning and URL enumeration techn
 - [fportantier/habu](https://github.com/fportantier/habu) - Hacking Toolkit
 - [tisu19021997/snipai](https://github.com/tisu19021997/snipai) - Capture, tag, and search images locally with OSS models.
 - [KerfuffleV2/gguf-tools](https://github.com/KerfuffleV2/gguf-tools) - Some random tools for working with the GGUF file format
@@ -3103,7 +3105,6 @@
 - [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines
 - [lquesada/ComfyUI-Starter-Workflows](https://github.com/lquesada/ComfyUI-Starter-Workflows) - A collection of simple but powerful ComfyUI workflows with curated settings.
 - [nmatt0/mitmrouter](https://github.com/nmatt0/mitmrouter) - Bash script to automate setup of Linux router useful for IoT device traffic analysis and SSL mitm
-- [0xKayala/NucleiFuzzer](https://github.com/0xKayala/NucleiFuzzer) - NucleiFuzzer is a robust automation tool that efficiently detects web application vulnerabilities, including XSS, SQLi, SSRF, and Open Redirects, leveraging advanced scanning and URL enumeration techn
 - [notmarek/LanguageBreak](https://github.com/notmarek/LanguageBreak) - A kindle &lt;=5.16.2.1.1 jailbreak
 - [nextcloud/nextcloudpi](https://github.com/nextcloud/nextcloudpi) - 📦 Build code for NextcloudPi: Raspberry Pi, Odroid, Rock64, curl installer...
 - [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) - Hyprland configuration files or dotfiles - This repo is used as main repo for all my Distro-Hyprland Install Scripts. See the readme
@@ -3244,6 +3245,7 @@
 
 ## TypeScript 
 
+- [estruyf/vscode-front-matter](https://github.com/estruyf/vscode-front-matter) - Front Matter is a CMS running straight in Visual Studio Code. Can be used with static site generators like Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more...
 - [langchain-ai/deepagentsjs](https://github.com/langchain-ai/deepagentsjs) - Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.
 - [saltyshiomix/nextron](https://github.com/saltyshiomix/nextron) - ⚡ Next.js + Electron ⚡
 - [mskayyali/nodepad](https://github.com/mskayyali/nodepad) - A spatial research tool that explores using AI to augment thinking, not replace it.
