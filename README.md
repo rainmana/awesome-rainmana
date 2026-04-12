@@ -124,6 +124,7 @@
 
 ## C 
 
+- [ImVexed/muon](https://github.com/ImVexed/muon) - GPU based Electron on a diet
 - [superolmo/BigFiles](https://github.com/superolmo/BigFiles) - Notepad++ Plugin for reading large files
 - [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
 - [seemoo-lab/owl](https://github.com/seemoo-lab/owl) - An open Apple Wireless Direct Link (AWDL) implementation written in C
@@ -396,6 +397,8 @@
 
 ## C++ 
 
+- [naqvis/webview](https://github.com/naqvis/webview) - Crystal bindings to Webview library
+- [saucer/saucer](https://github.com/saucer/saucer) - 🛸 A modern, cross-platform C++ webview library
 - [grayj/Jedi-Academy](https://github.com/grayj/Jedi-Academy) - Star Wars Jedi Knight: Jedi Academy
 - [musescore/MuseScore](https://github.com/musescore/MuseScore) - MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!
 - [luanti-org/luanti](https://github.com/luanti-org/luanti) - Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation
@@ -586,6 +589,7 @@
 
 ## Dart 
 
+- [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [jagandeepbrar/lunasea](https://github.com/jagandeepbrar/lunasea) - Self-hosted software controller built using Flutter
 - [ArmchairDevelopers/Kyber](https://github.com/ArmchairDevelopers/Kyber) - A unified game launcher for STAR WARS Battlefront II (EA) that adds community-hosted multiplayer with full mod support, a server browser, private games, and more.
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
@@ -624,6 +628,7 @@
 
 ## Go 
 
+- [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
 - [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
 - [open-policy-agent/opa](https://github.com/open-policy-agent/opa) - Open Policy Agent (OPA) is an open source, general-purpose policy engine.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
@@ -1050,6 +1055,9 @@
 
 ## JavaScript 
 
+- [Elanis/web-to-desktop-framework-comparison](https://github.com/Elanis/web-to-desktop-framework-comparison) - An objective comparison of multiple frameworks that allow us to "transform" our web apps to desktop applications.
+- [meteor/examples](https://github.com/meteor/examples) - Project examples with Meteor
+- [thmsbfft/electron-wrap](https://github.com/thmsbfft/electron-wrap) - Package any local/static website folder into a desktop application (electron/macOS).
 - [Coding-Solo/godot-mcp](https://github.com/Coding-Solo/godot-mcp) - MCP server for interfacing with Godot game engine. Provides tools for launching the editor, running projects, and capturing debug output.
 - [rushhiii/bashfolio](https://github.com/rushhiii/bashfolio) - N Interactive terminal-style portfolio website with authentic CLI commands, multiple themes, and realistic typing animations.
 - [atiilla/gitrecon](https://github.com/atiilla/gitrecon) - This tool uses the GitHub API to scan repositories owned by a user for email addresses and associated names. It provides options to scan specific repositories and exclude forked repositories. Addition
@@ -1382,6 +1390,7 @@
 
 ## Makefile 
 
+- [Rafi993/tiny](https://github.com/Rafi993/tiny) - Tiny alternative to electron
 - [CyberGrandChallenge/cgc-release-documentation](https://github.com/CyberGrandChallenge/cgc-release-documentation) - DARPA Cyber Grand Challenge Documentation
 - [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL) - A fuzzer for full VM kernel/driver targets
 - [gschorcht/esp32-elf-rom](https://github.com/gschorcht/esp32-elf-rom) - ESP32 ROM blob to ELF convertor
@@ -1390,6 +1399,7 @@
 
 ## Markdown 
 
+- [zeelsheladiya/Awesome-IDEs](https://github.com/zeelsheladiya/Awesome-IDEs) - A curated list of Integrated Development Environments (IDEs) and related tools that can enhance your coding experience and boost your productivity.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 
@@ -1455,6 +1465,8 @@
 
 ## Others 
 
+- [mherrmann/electron-alternatives](https://github.com/mherrmann/electron-alternatives) - Few Cross platform desktop GUI App development options are listed here
+- [kendofriendo/positron](https://github.com/kendofriendo/positron) - List of electron apps so I can avoid them, and some alternatives to use instead
 - [PortSwigger/extension-portal](https://github.com/PortSwigger/extension-portal) - Submit Burp Suite extensions and updates to the BApp Store.
 - [vincentkoc/awesome-openclaw](https://github.com/vincentkoc/awesome-openclaw) - Curated awesome list for OpenClaw (formerly Moltbot/Clawdbot): skills, plugins, memory systems, MCP tools, deployment stacks, ecosystem platforms, and developer tooling.
 - [davisonio/awesome-irc](https://github.com/davisonio/awesome-irc) - A curated list of awesome IRC resources.
@@ -1906,9 +1918,10 @@
 
 ## Python 
 
+- [pnlong/PDMX](https://github.com/pnlong/PDMX) - PDMX: A Large-Scale Public Domain MusicXML Dataset for Symbolic Music Processing
 - [simonholliday/subsequence](https://github.com/simonholliday/subsequence) - A stateful generative MIDI sequencer and algorithmic composition engine for Python. Euclidean rhythms, cellular automata, L-systems, Markov chains. Patterns that evolve, remember, and react.
 - [BrownFineSecurity/iothackbot](https://github.com/BrownFineSecurity/iothackbot) - IoT HackBot: A collection of Claude Skills and custom tooling for hybrid IoT pentesting
-- [milla-jovovich/mempalace](https://github.com/milla-jovovich/mempalace) - The highest-scoring AI memory system ever benchmarked. And it's free.
+- [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The highest-scoring AI memory system ever benchmarked. And it's free.
 - [mitre-attack/attack-stix-data](https://github.com/mitre-attack/attack-stix-data) - STIX data representing MITRE ATT&CK
 - [OpenBMB/XAgent](https://github.com/OpenBMB/XAgent) - An Autonomous LLM Agent for Complex Task Solving
 - [Josh-XT/AGiXT](https://github.com/Josh-XT/AGiXT) - AGiXT is a dynamic AI Agent Automation Platform that seamlessly orchestrates instruction management and complex task execution across diverse AI providers. Combining adaptive memory, smart features, a
@@ -2070,7 +2083,6 @@
 - [user1342/Tomato](https://github.com/user1342/Tomato) - LLM steganography with minimum-entropy coupling - Hiding encrypted messages in natural language.
 - [bkerler/annotate](https://github.com/bkerler/annotate) - Binary Ninja plugin for annotation of arguments for functions
 - [Vector35/community-plugins](https://github.com/Vector35/community-plugins) - Repository for community provided Binary Ninja plugins
-- [DIABL0-SEC/Atlas-AI](https://github.com/DIABL0-SEC/Atlas-AI) - Advanced Security Analysis for Burp Suite
 - [certik/theoretical-physics](https://github.com/certik/theoretical-physics) - Source code of the Theoretical Physics Reference online book
 - [optimatch/optimatch](https://github.com/optimatch/optimatch) - 
 - [lancopku/Embedding-Poisoning](https://github.com/lancopku/Embedding-Poisoning) - Code for the paper "Be Careful about Poisoned Word Embeddings: Exploring the Vulnerability of the Embedding Layers in NLP Models" (NAACL-HLT 2021)
