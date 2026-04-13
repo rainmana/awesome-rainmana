@@ -367,6 +367,7 @@
 
 ## ai 
 
+- [Curated-Awesome-Lists/awesome-ai-music-generation](https://github.com/Curated-Awesome-Lists/awesome-ai-music-generation) - A curated compilation of AI-driven generative music resources and projects. Explore the blend of machine learning algorithms and musical creativity.
 - [langchain-ai/deepagentsjs](https://github.com/langchain-ai/deepagentsjs) - Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - Data infrastructure for AI
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The highest-scoring AI memory system ever benchmarked. And it's free.
@@ -727,6 +728,7 @@
 
 ## artificial-intelligence 
 
+- [yuniko-software/minecraft-mcp-server](https://github.com/yuniko-software/minecraft-mcp-server) - A Minecraft MCP Server powered by Mineflayer API. It allows to control a Minecraft character in real-time, allowing AI assistants to build structures, explore the world, and interact with the game env
 - [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
 - [warengonzaga/tinyclaw](https://github.com/warengonzaga/tinyclaw) - The original Tiny Claw as your personal autonomous AI companion. 🐜
@@ -828,6 +830,7 @@
 
 ## awesome 
 
+- [Curated-Awesome-Lists/awesome-ai-music-generation](https://github.com/Curated-Awesome-Lists/awesome-ai-music-generation) - A curated compilation of AI-driven generative music resources and projects. Explore the blend of machine learning algorithms and musical creativity.
 - [zeelsheladiya/Awesome-IDEs](https://github.com/zeelsheladiya/Awesome-IDEs) - A curated list of Integrated Development Environments (IDEs) and related tools that can enhance your coding experience and boost your productivity.
 - [davisonio/awesome-irc](https://github.com/davisonio/awesome-irc) - A curated list of awesome IRC resources.
 - [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code
@@ -968,6 +971,7 @@
 
 ## awesome-list 
 
+- [Curated-Awesome-Lists/awesome-ai-music-generation](https://github.com/Curated-Awesome-Lists/awesome-ai-music-generation) - A curated compilation of AI-driven generative music resources and projects. Explore the blend of machine learning algorithms and musical creativity.
 - [zeelsheladiya/Awesome-IDEs](https://github.com/zeelsheladiya/Awesome-IDEs) - A curated list of Integrated Development Environments (IDEs) and related tools that can enhance your coding experience and boost your productivity.
 - [vincentkoc/awesome-openclaw](https://github.com/vincentkoc/awesome-openclaw) - Curated awesome list for OpenClaw (formerly Moltbot/Clawdbot): skills, plugins, memory systems, MCP tools, deployment stacks, ecosystem platforms, and developer tooling.
 - [davisonio/awesome-irc](https://github.com/davisonio/awesome-irc) - A curated list of awesome IRC resources.
@@ -1447,6 +1451,7 @@
 
 ## claude-code 
 
+- [bitwize-music-studio/claude-ai-music-skills](https://github.com/bitwize-music-studio/claude-ai-music-skills) - Human + AI music production workflow for Suno - skills, templates, and tools
 - [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) - Teams-first Multi-agent orchestration for Claude Code
 - [ivan-magda/claude-code-plugin-template](https://github.com/ivan-magda/claude-code-plugin-template) - GitHub template for creating Claude Code plugin marketplaces. Includes plugin scaffolding, validation commands, hooks, skills, agents, and CI/CD workflows. Ready-to-use toolkit for teams distributing 
 - [bdmorin/the-no-shop](https://github.com/bdmorin/the-no-shop) - Ixian technology for Claude Code. Invisible marketplace where you get tech that probably bends the rules.
@@ -2599,6 +2604,7 @@
 
 ## generative-ai 
 
+- [Curated-Awesome-Lists/awesome-ai-music-generation](https://github.com/Curated-Awesome-Lists/awesome-ai-music-generation) - A curated compilation of AI-driven generative music resources and projects. Explore the blend of machine learning algorithms and musical creativity.
 - [stakpak/agent](https://github.com/stakpak/agent) - Ship your code, on autopilot. An open source agent that lives on your machines 24/7 and keeps your apps running. 🦀
 - [weitianxin/Awesome-Agentic-Reasoning](https://github.com/weitianxin/Awesome-Agentic-Reasoning) - A curated list of papers and resources based on the survey "Agentic Reasoning for Large Language Models"
 - [user1342/Folly](https://github.com/user1342/Folly) - Open-source LLM Prompt-Injection and Jailbreaking Playground
@@ -3440,6 +3446,7 @@
 
 ## javascript 
 
+- [yuniko-software/minecraft-mcp-server](https://github.com/yuniko-software/minecraft-mcp-server) - A Minecraft MCP Server powered by Mineflayer API. It allows to control a Minecraft character in real-time, allowing AI assistants to build structures, explore the world, and interact with the game env
 - [meteor/examples](https://github.com/meteor/examples) - Project examples with Meteor
 - [appcypher/awesome-wasm-runtimes](https://github.com/appcypher/awesome-wasm-runtimes) - A list of webassemby runtimes
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
@@ -4202,6 +4209,7 @@
 
 ## mcp 
 
+- [yuniko-software/minecraft-mcp-server](https://github.com/yuniko-software/minecraft-mcp-server) - A Minecraft MCP Server powered by Mineflayer API. It allows to control a Minecraft character in real-time, allowing AI assistants to build structures, explore the world, and interact with the game env
 - [vincentkoc/awesome-openclaw](https://github.com/vincentkoc/awesome-openclaw) - Curated awesome list for OpenClaw (formerly Moltbot/Clawdbot): skills, plugins, memory systems, MCP tools, deployment stacks, ecosystem platforms, and developer tooling.
 - [ivan-magda/claude-code-plugin-template](https://github.com/ivan-magda/claude-code-plugin-template) - GitHub template for creating Claude Code plugin marketplaces. Includes plugin scaffolding, validation commands, hooks, skills, agents, and CI/CD workflows. Ready-to-use toolkit for teams distributing 
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The highest-scoring AI memory system ever benchmarked. And it's free.
@@ -4288,6 +4296,7 @@
 
 ## minecraft 
 
+- [yuniko-software/minecraft-mcp-server](https://github.com/yuniko-software/minecraft-mcp-server) - A Minecraft MCP Server powered by Mineflayer API. It allows to control a Minecraft character in real-time, allowing AI assistants to build structures, explore the world, and interact with the game env
 - [modrinth/code](https://github.com/modrinth/code) - The Modrinth monorepo containing all code which powers Modrinth!
 - [Incendo/awesome-minecraft](https://github.com/Incendo/awesome-minecraft) - A curated list of awesome (free) open-source frameworks, libraries and software for Minecraft.
 - [tomodachi94/awesome-computercraft](https://github.com/tomodachi94/awesome-computercraft) - Useful libraries, programs, literature, and mods for ComputerCraft and its forks.
@@ -4331,6 +4340,7 @@
 
 ## music 
 
+- [bitwize-music-studio/claude-ai-music-skills](https://github.com/bitwize-music-studio/claude-ai-music-skills) - Human + AI music production workflow for Suno - skills, templates, and tools
 - [pnlong/PDMX](https://github.com/pnlong/PDMX) - PDMX: A Large-Scale Public Domain MusicXML Dataset for Symbolic Music Processing
 - [simonholliday/subsequence](https://github.com/simonholliday/subsequence) - A stateful generative MIDI sequencer and algorithmic composition engine for Python. Euclidean rhythms, cellular automata, L-systems, Markov chains. Patterns that evolve, remember, and react.
 - [opensheetmusicdisplay/opensheetmusicdisplay](https://github.com/opensheetmusicdisplay/opensheetmusicdisplay) - OpenSheetMusicDisplay renders sheet music in MusicXML format in your web browser based on VexFlow. OSMD is brought to you by PhonicScore.com.
@@ -4403,6 +4413,7 @@
 
 ## natural-language-processing 
 
+- [yuniko-software/minecraft-mcp-server](https://github.com/yuniko-software/minecraft-mcp-server) - A Minecraft MCP Server powered by Mineflayer API. It allows to control a Minecraft character in real-time, allowing AI assistants to build structures, explore the world, and interact with the game env
 - [QData/TextAttack](https://github.com/QData/TextAttack) - TextAttack 🐙  is a Python framework for adversarial attacks, data augmentation, and model training in NLP https://textattack.readthedocs.io/en/master/
 - [ashishpatel26/Treasure-of-Transformers](https://github.com/ashishpatel26/Treasure-of-Transformers) - 💁 Awesome Treasure of Transformers Models for Natural Language processing contains papers, videos, blogs, official repo along with colab Notebooks. 🛫☑️
 - [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Low-code framework for building custom LLMs, neural networks, and other AI models
@@ -4544,6 +4555,7 @@
 
 ## nodejs 
 
+- [yuniko-software/minecraft-mcp-server](https://github.com/yuniko-software/minecraft-mcp-server) - A Minecraft MCP Server powered by Mineflayer API. It allows to control a Minecraft character in real-time, allowing AI assistants to build structures, explore the world, and interact with the game env
 - [andreasbm/readme](https://github.com/andreasbm/readme) - Automatically generate a beautiful best-practice README file based on the contents of your repository
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [nrwl/nx](https://github.com/nrwl/nx) - The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time.
@@ -7540,6 +7552,7 @@
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before
 - [jakejarvis/awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries) - 🔍 A collection of interesting, funny, and depressing search queries to plug into shodan.io 👩‍💻
 - [doxx/darkflare](https://github.com/doxx/darkflare) - DarkFlare Firewall Piercing (TCP over CDN)
+- [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) - A full-stack AI Red Teaming platform securing AI ecosystems via OpenClaw Security Scan, Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.
 - [nickdeis/eslint-plugin-no-secrets](https://github.com/nickdeis/eslint-plugin-no-secrets) - An eslint plugin to find strings that might be secrets/credentials
 - [codebytemirza/LLMgrep](https://github.com/codebytemirza/LLMgrep) - LLMGrep combines the precision of Semgrep's static analysis with the power of Large Language Models to deliver comprehensive security scanning, interactive vulnerability discussions, and intelligent r
 - [opencybersecurityalliance/stix-shifter](https://github.com/opencybersecurityalliance/stix-shifter) - This project consists of an open source library allowing software to connect to data repositories using STIX Patterning, and return results as STIX Observations.
@@ -8097,6 +8110,7 @@
 
 ## typescript 
 
+- [yuniko-software/minecraft-mcp-server](https://github.com/yuniko-software/minecraft-mcp-server) - A Minecraft MCP Server powered by Mineflayer API. It allows to control a Minecraft character in real-time, allowing AI assistants to build structures, explore the world, and interact with the game env
 - [saltyshiomix/nextron](https://github.com/saltyshiomix/nextron) - ⚡ Next.js + Electron ⚡
 - [opensheetmusicdisplay/opensheetmusicdisplay](https://github.com/opensheetmusicdisplay/opensheetmusicdisplay) - OpenSheetMusicDisplay renders sheet music in MusicXML format in your web browser based on VexFlow. OSMD is brought to you by PhonicScore.com.
 - [belnadris/angular-electron](https://github.com/belnadris/angular-electron) - Ultra-fast bootstrapping with Angular and Electron :speedboat:
