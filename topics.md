@@ -1972,6 +1972,7 @@
 
 ## database 
 
+- [harlaksh/ultimate-duckdb](https://github.com/harlaksh/ultimate-duckdb) - Ultimate list of all things DuckDB. Quack Quack 🦆
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - Data infrastructure for AI
 - [arun1729/cog](https://github.com/arun1729/cog) - Embedded Graph Database for Python. Lives inside your Python process. Quick setup. No server. Runs in notebooks, apps, even your browser.
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
@@ -4826,6 +4827,7 @@
 
 ## others 
 
+- [oganm/dnddata](https://github.com/oganm/dnddata) - A dataset of D&D characters submitted to https://oganm.com/shiny/printSheetApp and https://oganm.com/shiny/interactiveSheet. A superset of characters used in oganm/dndstats
 - [elstron/astro-portfolio](https://github.com/elstron/astro-portfolio) - Porfolio template for Astro
 - [mherrmann/electron-alternatives](https://github.com/mherrmann/electron-alternatives) - Few Cross platform desktop GUI App development options are listed here
 - [kendofriendo/positron](https://github.com/kendofriendo/positron) - List of electron apps so I can avoid them, and some alternatives to use instead
@@ -5374,6 +5376,7 @@
 - [Kneicik/esp32-firmware-hacking](https://github.com/Kneicik/esp32-firmware-hacking) - 
 - [chuongtrh/palette-from-image](https://github.com/chuongtrh/palette-from-image) - Inspire from https://earthview.withgoogle.com/
 - [TankMan649/camtruder](https://github.com/TankMan649/camtruder) - 
+- [jaylikesbunda/ESPressoFlash](https://github.com/jaylikesbunda/ESPressoFlash) - Flash your ESP32 quickly and easily.
 - [graphfoundation/ongdb](https://github.com/graphfoundation/ongdb) - ONgDB is an independent fork of Neo4j® Enterprise Edition version 3.4.0.rc02 licensed under AGPLv3 and/or Community Edition licensed under GPLv3
 - [petiky/mcp-manager](https://github.com/petiky/mcp-manager) - This is a visual client tool used to manage MCP (Model Context Protocol). With this tool, you can easily manage and operate the MCP environment without manually performing complex command-line operati
 - [Giraut/flipper_zero_hc11_wireless_modem](https://github.com/Giraut/flipper_zero_hc11_wireless_modem) - HC-11 wireless modem emulator for the Flipper Zero
@@ -7769,6 +7772,7 @@
 
 ## sql 
 
+- [mattf96s/QuackDB](https://github.com/mattf96s/QuackDB) - Open-source in-browser DuckDB SQL editor
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
