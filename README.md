@@ -149,7 +149,7 @@
 - [TeamHG-Memex/bk-string](https://github.com/TeamHG-Memex/bk-string) - A BK Tree based approach to storing and querying strings by Levenshtein Distance.
 - [smcameron/space-nerds-in-space](https://github.com/smcameron/space-nerds-in-space) - Multi-player spaceship bridge simulator game. Captain your starship through adventures with your friends.  See https://smcameron.github.io/space-nerds-in-space
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
-- [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) - Fast and accurate automatic speech recognition (ASR) for edge devices
+- [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) - Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces
 - [guinmoon/LLMFarm](https://github.com/guinmoon/LLMFarm) - llama and other  large language models on iOS and MacOS offline using GGML library.
 - [radareorg/radare2-mcp](https://github.com/radareorg/radare2-mcp) - MCP stdio server for radare2
 - [radareorg/radare2-extras](https://github.com/radareorg/radare2-extras) - Source graveyard and random candy for radare2
@@ -398,6 +398,7 @@
 
 ## C++ 
 
+- [spotify/pedalboard](https://github.com/spotify/pedalboard) - 🎛 🔊 A Python library for audio.
 - [naqvis/webview](https://github.com/naqvis/webview) - Crystal bindings to Webview library
 - [saucer/saucer](https://github.com/saucer/saucer) - 🛸 A modern, cross-platform C++ webview library
 - [grayj/Jedi-Academy](https://github.com/grayj/Jedi-Academy) - Star Wars Jedi Knight: Jedi Academy
@@ -1466,6 +1467,7 @@
 
 ## Others 
 
+- [Curated-Awesome-Lists/awesome-ai-music-generation](https://github.com/Curated-Awesome-Lists/awesome-ai-music-generation) - A curated compilation of AI-driven generative music resources and projects. Explore the blend of machine learning algorithms and musical creativity.
 - [harlaksh/ultimate-duckdb](https://github.com/harlaksh/ultimate-duckdb) - Ultimate list of all things DuckDB. Quack Quack 🦆
 - [mherrmann/electron-alternatives](https://github.com/mherrmann/electron-alternatives) - Few Cross platform desktop GUI App development options are listed here
 - [kendofriendo/positron](https://github.com/kendofriendo/positron) - List of electron apps so I can avoid them, and some alternatives to use instead
@@ -1920,6 +1922,10 @@
 
 ## Python 
 
+- [MuziekMagie/ComfyUI-Matchering](https://github.com/MuziekMagie/ComfyUI-Matchering) - Matchering implementation in ComfyUI for audio
+- [sergree/matchering](https://github.com/sergree/matchering) - 🎚️ Open Source Audio Matching and Mastering
+- [BrainBlend-AI/atomic-agents](https://github.com/BrainBlend-AI/atomic-agents) - Building AI agents, atomically
+- [bitwize-music-studio/claude-ai-music-skills](https://github.com/bitwize-music-studio/claude-ai-music-skills) - Human + AI music production workflow for Suno - skills, templates, and tools
 - [pnlong/PDMX](https://github.com/pnlong/PDMX) - PDMX: A Large-Scale Public Domain MusicXML Dataset for Symbolic Music Processing
 - [simonholliday/subsequence](https://github.com/simonholliday/subsequence) - A stateful generative MIDI sequencer and algorithmic composition engine for Python. Euclidean rhythms, cellular automata, L-systems, Markov chains. Patterns that evolve, remember, and react.
 - [BrownFineSecurity/iothackbot](https://github.com/BrownFineSecurity/iothackbot) - IoT HackBot: A collection of Claude Skills and custom tooling for hybrid IoT pentesting
@@ -3247,6 +3253,7 @@
 
 ## TypeScript 
 
+- [yuniko-software/minecraft-mcp-server](https://github.com/yuniko-software/minecraft-mcp-server) - A Minecraft MCP Server powered by Mineflayer API. It allows to control a Minecraft character in real-time, allowing AI assistants to build structures, explore the world, and interact with the game env
 - [mattf96s/QuackDB](https://github.com/mattf96s/QuackDB) - Open-source in-browser DuckDB SQL editor
 - [estruyf/vscode-front-matter](https://github.com/estruyf/vscode-front-matter) - Front Matter is a CMS running straight in Visual Studio Code. Can be used with static site generators like Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more...
 - [langchain-ai/deepagentsjs](https://github.com/langchain-ai/deepagentsjs) - Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.
