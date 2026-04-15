@@ -367,6 +367,7 @@
 
 ## ai 
 
+- [Michal1993r/ai-helper.wezterm](https://github.com/Michal1993r/ai-helper.wezterm) - simple ai agent for wezterm
 - [BrainBlend-AI/atomic-agents](https://github.com/BrainBlend-AI/atomic-agents) - Building AI agents, atomically
 - [Curated-Awesome-Lists/awesome-ai-music-generation](https://github.com/Curated-Awesome-Lists/awesome-ai-music-generation) - A curated compilation of AI-driven generative music resources and projects. Explore the blend of machine learning algorithms and musical creativity.
 - [langchain-ai/deepagentsjs](https://github.com/langchain-ai/deepagentsjs) - Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.
@@ -4212,6 +4213,7 @@
 
 ## mcp 
 
+- [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients.
 - [yuniko-software/minecraft-mcp-server](https://github.com/yuniko-software/minecraft-mcp-server) - A Minecraft MCP Server powered by Mineflayer API. It allows to control a Minecraft character in real-time, allowing AI assistants to build structures, explore the world, and interact with the game env
 - [vincentkoc/awesome-openclaw](https://github.com/vincentkoc/awesome-openclaw) - Curated awesome list for OpenClaw (formerly Moltbot/Clawdbot): skills, plugins, memory systems, MCP tools, deployment stacks, ecosystem platforms, and developer tooling.
 - [ivan-magda/claude-code-plugin-template](https://github.com/ivan-magda/claude-code-plugin-template) - GitHub template for creating Claude Code plugin marketplaces. Includes plugin scaffolding, validation commands, hooks, skills, agents, and CI/CD workflows. Ready-to-use toolkit for teams distributing 
@@ -4429,6 +4431,7 @@
 
 ## neovim 
 
+- [mrjones2014/smart-splits.nvim](https://github.com/mrjones2014/smart-splits.nvim) - 🧠 Smart, seamless, directional navigation and resizing of Neovim + terminal multiplexer splits. Supports Zellij, Tmux, Wezterm, and Kitty. Think about splits in terms of "up/down/left/right".
 - [coder/claudecode.nvim](https://github.com/coder/claudecode.nvim) - 🧩 Claude Code Neovim IDE Extension
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [codesnap-rs/codesnap](https://github.com/codesnap-rs/codesnap) - 🦀️📸 Pure Rust tool to generate beautiful code snapshots, provide CLI and Library
@@ -4845,6 +4848,7 @@
 
 ## others 
 
+- [dimao/ai-commander.wezterm](https://github.com/dimao/ai-commander.wezterm) - Integrates with AI providers (Anthropic Claude and OpenAI GPT) to generate and select bash commands based on natural language prompts.
 - [MuziekMagie/ComfyUI-Matchering](https://github.com/MuziekMagie/ComfyUI-Matchering) - Matchering implementation in ComfyUI for audio
 - [oganm/dnddata](https://github.com/oganm/dnddata) - A dataset of D&D characters submitted to https://oganm.com/shiny/printSheetApp and https://oganm.com/shiny/interactiveSheet. A superset of characters used in oganm/dndstats
 - [elstron/astro-portfolio](https://github.com/elstron/astro-portfolio) - Porfolio template for Astro
@@ -4860,7 +4864,7 @@
 - [JoyHak/awesome-notepad-plus-plus](https://github.com/JoyHak/awesome-notepad-plus-plus) - Customized version of the Notepad++
 - [superolmo/BigFiles](https://github.com/superolmo/BigFiles) - Notepad++ Plugin for reading large files
 - [TheSerioliOfNosgoth/SoulSpiral-Official](https://github.com/TheSerioliOfNosgoth/SoulSpiral-Official) - Soul Spiral is a utility for unpacking the contents of the bigfile.dat format used by many Crystal Dynamics games based on the engine from Gex. It can also read the pill.big data file from the PC and 
-- [GitFrog1111/badclaude](https://github.com/GitFrog1111/badclaude) - 
+- [GitFrog1111/OpenWhip](https://github.com/GitFrog1111/OpenWhip) - 
 - [BrownFineSecurity/iothackbot](https://github.com/BrownFineSecurity/iothackbot) - IoT HackBot: A collection of Claude Skills and custom tooling for hybrid IoT pentesting
 - [neuledge/context](https://github.com/neuledge/context) - Local-first documentation for AI agents
 - [OpenBMB/XAgent](https://github.com/OpenBMB/XAgent) - An Autonomous LLM Agent for Complex Task Solving
@@ -5825,7 +5829,6 @@
 - [defparam/21FX](https://github.com/defparam/21FX) - A bootloader for the SNES console
 - [defparam/smuggler](https://github.com/defparam/smuggler) - Smuggler - An HTTP Request Smuggling / Desync testing tool written in Python 3
 - [helviojunior/knowsmore](https://github.com/helviojunior/knowsmore) - KnowsMore is a swiss army knife tool for pentesting Microsoft Active Directory (NTLM Hashes, BloodHound, NTDS and DCSync).
-- [beigeworm/Powershell-Tools-and-Toys](https://github.com/beigeworm/Powershell-Tools-and-Toys) - 50+ Powershell Scripts, Ranging from Pranks to Red-Team Tools
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration
 - [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models) - Generative Models by Stability AI
 - [SysSec-KAIST/LTESniffer](https://github.com/SysSec-KAIST/LTESniffer) - An Open-source LTE Downlink/Uplink Eavesdropper
@@ -6626,6 +6629,7 @@
 
 ## python 
 
+- [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients.
 - [sergree/matchering](https://github.com/sergree/matchering) - 🎚️ Open Source Audio Matching and Mastering
 - [spotify/pedalboard](https://github.com/spotify/pedalboard) - 🎛 🔊 A Python library for audio.
 - [simonholliday/subsequence](https://github.com/simonholliday/subsequence) - A stateful generative MIDI sequencer and algorithmic composition engine for Python. Euclidean rhythms, cellular automata, L-systems, Markov chains. Patterns that evolve, remember, and react.
@@ -8252,6 +8256,7 @@
 
 ## vim 
 
+- [MLFlexer/modal.wezterm](https://github.com/MLFlexer/modal.wezterm) - Vim-like modal keybindings for your terminal! ✌️
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
