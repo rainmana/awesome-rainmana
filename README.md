@@ -400,6 +400,7 @@
 
 ## C++ 
 
+- [TileDB-Inc/TileDB](https://github.com/TileDB-Inc/TileDB) - The Universal Storage Engine
 - [ydb-platform/ydb](https://github.com/ydb-platform/ydb) - YDB is an open source Distributed SQL Database that combines high availability and scalability with strong consistency and ACID transactions
 - [stfwi/srecord-cc](https://github.com/stfwi/srecord-cc) - C++ Morotola S-Record parser/composer/modification class template
 - [spotify/pedalboard](https://github.com/spotify/pedalboard) - 🎛 🔊 A Python library for audio.
@@ -635,6 +636,8 @@
 
 ## Go 
 
+- [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
+- [brimdata/super](https://github.com/brimdata/super) - An analytics database that puts JSON and relational tables on equal footing
 - [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
 - [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
 - [open-policy-agent/opa](https://github.com/open-policy-agent/opa) - Open Policy Agent (OPA) is an open source, general-purpose policy engine.
@@ -977,6 +980,8 @@
 
 ## Java 
 
+- [scalar-labs/scalardb](https://github.com/scalar-labs/scalardb) - Universal HTAP Engine
+- [linkedin/databus](https://github.com/linkedin/databus) - Source-agnostic distributed change data capture system
 - [apache/netbeans](https://github.com/apache/netbeans) - Apache NetBeans
 - [jhipster/prettier-java](https://github.com/jhipster/prettier-java) - Prettier Java Plugin
 - [vsch/flexmark-java](https://github.com/vsch/flexmark-java) - CommonMark/Markdown Java parser with source level AST. CommonMark 0.28, emulation of: pegdown, kramdown, markdown.pl, MultiMarkdown. With HTML to MD, MD to PDF, MD to DOCX  conversion modules.
@@ -1063,6 +1068,7 @@
 
 ## JavaScript 
 
+- [idaholab/DISCOverflow](https://github.com/idaholab/DISCOverflow) - A framework to automate disassembly of binary files in to a graph database.
 - [marmooo/free-soundfonts](https://github.com/marmooo/free-soundfonts) - Free soundfont collection optimized for playback on the web.
 - [Elanis/web-to-desktop-framework-comparison](https://github.com/Elanis/web-to-desktop-framework-comparison) - An objective comparison of multiple frameworks that allow us to "transform" our web apps to desktop applications.
 - [meteor/examples](https://github.com/meteor/examples) - Project examples with Meteor
@@ -1479,6 +1485,9 @@
 
 ## Others 
 
+- [oxnr/awesome-bigdata](https://github.com/oxnr/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
+- [agarcialeon/awesome-database](https://github.com/agarcialeon/awesome-database) - A curated list of amazingly awesome database libraries, resources.
+- [mrin9/northwind](https://github.com/mrin9/northwind) - Database agnostic DB Script to create Northwind Data Model with some sample data
 - [Curated-Awesome-Lists/awesome-ai-music-generation](https://github.com/Curated-Awesome-Lists/awesome-ai-music-generation) - A curated compilation of AI-driven generative music resources and projects. Explore the blend of machine learning algorithms and musical creativity.
 - [harlaksh/ultimate-duckdb](https://github.com/harlaksh/ultimate-duckdb) - Ultimate list of all things DuckDB. Quack Quack 🦆
 - [mherrmann/electron-alternatives](https://github.com/mherrmann/electron-alternatives) - Few Cross platform desktop GUI App development options are listed here
@@ -1604,7 +1613,6 @@
 - [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) - Integrate the DeepSeek API into popular software
-- [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses with certifications. Also available at https://free-certifications.com/
 - [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
 - [akullpp/awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome frameworks, libraries and software for the Java programming language.
@@ -1659,7 +1667,6 @@
 - [eon01/awesome-chatgpt](https://github.com/eon01/awesome-chatgpt) - 🧠 A curated list of awesome ChatGPT resources, including libraries, SDKs, APIs, and more. 🌟 Please consider supporting this project by giving it a star.
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [87andrewh/WeirdAntiCheatIdeas](https://github.com/87andrewh/WeirdAntiCheatIdeas) - A collection of anti-cheat ideas
-- [cloudcommunity/Cloud-Free-Tier-Comparison](https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison) - Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP, Oracle etc.
 - [danielmiessler/Telos](https://github.com/danielmiessler/Telos) - Telos is an open-sourced framework for creating Deep Context about things that matter to humans.
 - [Corcules/KMlink](https://github.com/Corcules/KMlink) - Streamdeck plugin to drive Keyboard Maestro
 - [mishmanners/stream-deck-template](https://github.com/mishmanners/stream-deck-template) - Template for the Elgato Stream Deck's standby screen/screensaver.
@@ -1932,6 +1939,7 @@
 
 ## Python 
 
+- [cognica-io/uqa](https://github.com/cognica-io/uqa) - UQA — Unified Query Algebra: a multi-paradigm database engine unifying relational, text retrieval, vector search, graph query, and geospatial paradigms under a single algebraic structure
 - [onekey-sec/jefferson](https://github.com/onekey-sec/jefferson) - JFFS2 filesystem extraction tool
 - [sinshu/py-meltysynth](https://github.com/sinshu/py-meltysynth) - A SoundFont MIDI synthesizer written in pure Python
 - [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients.
@@ -2948,6 +2956,8 @@
 
 ## Rust 
 
+- [AutomataNexus/Aegis-DB](https://github.com/AutomataNexus/Aegis-DB) - Multi-paradigm distributed database: SQL, Document, Graph, Key-Value, Time Series & Streaming in one platform. Built in Rust.
+- [cozodb/cozo](https://github.com/cozodb/cozo) - A transactional, relational-graph-vector database that uses Datalog for query. The hippocampus for AI!
 - [chrishayuk/larql](https://github.com/chrishayuk/larql) - 
 - [stakpak/agent](https://github.com/stakpak/agent) - Ship your code, on autopilot. An open source agent that lives on your machines 24/7 and keeps your apps running. 🦀
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - Data infrastructure for AI
