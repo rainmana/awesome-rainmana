@@ -128,6 +128,7 @@
 - [gradle](#gradle)
 - [graphql](#graphql)
 - [gui](#gui)
+- [hack](#hack)
 - [hackathon](#hackathon)
 - [hacking](#hacking)
 - [hacking-tool](#hacking-tool)
@@ -494,7 +495,6 @@
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) - PraisonAI 🦞 — Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous agents that research, plan, code, and execute tasks. Deployed in 5 lines of code with built-in memory, RA
 - [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
-- [coollabsio/safetyper-delete-me](https://github.com/coollabsio/safetyper-delete-me) - A Grammarly alternative where you own what you type on your keyboard.
 - [lavague-ai/LaVague](https://github.com/lavague-ai/LaVague) - Large Action Model framework to develop AI Web Agents
 - [modular/modular](https://github.com/modular/modular) - The Modular Platform (includes MAX & Mojo)
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI
@@ -1587,7 +1587,7 @@
 
 - [jakejarvis/awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries) - 🔍 A collection of interesting, funny, and depressing search queries to plug into shodan.io 👩‍💻
 - [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device management, data collection, processing and visualization.
-- [cozystack/cozystack](https://github.com/cozystack/cozystack) - Free and Open Source PaaS framework for seamless management of virtual machines, managed Kubernetes, and Databases-as-a-Service
+- [cozystack/cozystack](https://github.com/cozystack/cozystack) - Cozystack: Free Cloud Platform based on Kubernetes
 - [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️
 - [nullfuzz-pentest/shodan-dorks](https://github.com/nullfuzz-pentest/shodan-dorks) - Shodan Dorks
 - [securisec/cliam](https://github.com/securisec/cliam) - Cloud agnostic IAM permissions enumerator
@@ -1731,6 +1731,7 @@
 
 ## cpp 
 
+- [ydb-platform/ydb](https://github.com/ydb-platform/ydb) - YDB is an open source Distributed SQL Database that combines high availability and scalability with strong consistency and ACID transactions
 - [saucer/saucer](https://github.com/saucer/saucer) - 🛸 A modern, cross-platform C++ webview library
 - [musescore/MuseScore](https://github.com/musescore/MuseScore) - MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!
 - [vesoft-inc/nebula](https://github.com/vesoft-inc/nebula) - A distributed, fast open-source graph database featuring horizontal scalability and high availability
@@ -1981,6 +1982,7 @@
 
 ## database 
 
+- [ydb-platform/ydb](https://github.com/ydb-platform/ydb) - YDB is an open source Distributed SQL Database that combines high availability and scalability with strong consistency and ACID transactions
 - [harlaksh/ultimate-duckdb](https://github.com/harlaksh/ultimate-duckdb) - Ultimate list of all things DuckDB. Quack Quack 🦆
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - Data infrastructure for AI
 - [arun1729/cog](https://github.com/arun1729/cog) - Embedded Graph Database for Python. Lives inside your Python process. Quick setup. No server. Runs in notebooks, apps, even your browser.
@@ -2920,6 +2922,15 @@
 - [rizinorg/cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
 - [opnsense/core](https://github.com/opnsense/core) - OPNsense GUI, API and systems backend
 
+## hack 
+
+- [jaykali/maskphish](https://github.com/jaykali/maskphish) - Introducing "URL Making Technology" to the world for the very FIRST TIME. Give a Mask to Phishing URL like a PRO.. A MUST have tool for Phishing.
+- [gmh5225/awesome-game-security](https://github.com/gmh5225/awesome-game-security) - awesome game security [Welcome to PR]
+- [LazoVelko/Windows-Hacks](https://github.com/LazoVelko/Windows-Hacks) - Creative and unusual things that can be done with the Windows API.
+- [Arachni/arachni](https://github.com/Arachni/arachni) - Web Application Security Scanner Framework
+- [Telefonica/HomePWN](https://github.com/Telefonica/HomePWN) - HomePwn - Swiss Army Knife for Pentesting of IoT Devices
+- [momo5502/cod-exploits](https://github.com/momo5502/cod-exploits) - ☠️ Call of Duty - Vulnerabilities and proof-of-concepts
+
 ## hackathon 
 
 - [soxoj/bellingcat-hackathon-watchcats](https://github.com/soxoj/bellingcat-hackathon-watchcats) - 📊 Adana - 1-click analytical dashboard for OSINT researchers
@@ -3079,7 +3090,7 @@
 - [vispy/vispy](https://github.com/vispy/vispy) - Main repository for Vispy
 - [alda-lang/alda](https://github.com/alda-lang/alda) - A music programming language for musicians. :notes:
 - [itzg/docker-minecraft-bedrock-server](https://github.com/itzg/docker-minecraft-bedrock-server) - Containerized Minecraft Bedrock Dedicated Server with selectable version
-- [cozystack/cozystack](https://github.com/cozystack/cozystack) - Free and Open Source PaaS framework for seamless management of virtual machines, managed Kubernetes, and Databases-as-a-Service
+- [cozystack/cozystack](https://github.com/cozystack/cozystack) - Cozystack: Free Cloud Platform based on Kubernetes
 - [tsuru/tsuru](https://github.com/tsuru/tsuru) - Open source and extensible Platform as a Service (PaaS).
 - [Yacht-sh/Yacht](https://github.com/Yacht-sh/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
 - [angr/angr-management](https://github.com/angr/angr-management) - The official angr GUI.
@@ -3658,7 +3669,7 @@
 - [r2c-CSE/semgrep-utilities](https://github.com/r2c-CSE/semgrep-utilities) - A non-official public repository with Semgrep Utilities
 - [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
 - [OpenFunction/OpenFunction](https://github.com/OpenFunction/OpenFunction) - Cloud Native Function-as-a-Service Platform (CNCF Sandbox Project)
-- [cozystack/cozystack](https://github.com/cozystack/cozystack) - Free and Open Source PaaS framework for seamless management of virtual machines, managed Kubernetes, and Databases-as-a-Service
+- [cozystack/cozystack](https://github.com/cozystack/cozystack) - Cozystack: Free Cloud Platform based on Kubernetes
 - [tsuru/tsuru](https://github.com/tsuru/tsuru) - Open source and extensible Platform as a Service (PaaS).
 - [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper) - Open Source Cloud Native Application Protection Platform (CNAPP)
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.
@@ -4849,6 +4860,12 @@
 
 ## others 
 
+- [dominikhei/Local-Data-LakeHouse](https://github.com/dominikhei/Local-Data-LakeHouse) - Sample Data Lakehouse deployed in Docker containers using Apache Iceberg, Minio, Trino and a Hive Metastore. Can be used for local testing.
+- [nxyd/srecord](https://github.com/nxyd/srecord) - Motorola S-record for Visual Studio Code
+- [BGriffy78/srecordizer](https://github.com/BGriffy78/srecordizer) - Motorola S-Record File Editor
+- [stfwi/srecord-cc](https://github.com/stfwi/srecord-cc) - C++ Morotola S-Record parser/composer/modification class template
+- [onekey-sec/jefferson](https://github.com/onekey-sec/jefferson) - JFFS2 filesystem extraction tool
+- [chrishayuk/larql](https://github.com/chrishayuk/larql) - 
 - [Mrtenz/soundfont2](https://github.com/Mrtenz/soundfont2) - A SoundFont2 parser for Node.js and web browsers
 - [marmooo/free-soundfonts](https://github.com/marmooo/free-soundfonts) - Free soundfont collection optimized for playback on the web.
 - [dimao/ai-commander.wezterm](https://github.com/dimao/ai-commander.wezterm) - Integrates with AI providers (Anthropic Claude and OpenAI GPT) to generate and select bash commands based on natural language prompts.
@@ -6529,7 +6546,6 @@
 - [Trusted-AI/adversarial-robustness-toolbox](https://github.com/Trusted-AI/adversarial-robustness-toolbox) - Adversarial Robustness Toolbox (ART) - Python Library for Machine Learning Security - Evasion, Poisoning, Extraction, Inference - Red and Blue Teams
 - [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
 - [owerdogan/whoami-project](https://github.com/owerdogan/whoami-project) - Whoami provides enhanced privacy, anonymity for Debian and Arch based linux distributions
-- [coollabsio/safetyper-delete-me](https://github.com/coollabsio/safetyper-delete-me) - A Grammarly alternative where you own what you type on your keyboard.
 - [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.  personal.management.system.inbox@gmail.com
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [xelis-project/xelis-blockchain](https://github.com/xelis-project/xelis-blockchain) - A private blockDAG with Homomorphic Encryption and Smart Contracts
@@ -6691,7 +6707,7 @@
 - [JeanExtreme002/FlightRadarAPI](https://github.com/JeanExtreme002/FlightRadarAPI) - :airplane: Unofficial SDK for FlightRadar24 for Python 3 and NodeJS
 - [PowerBroker2/WarThunder](https://github.com/PowerBroker2/WarThunder) - Python package to query and access vehicle telemetry data while in War Thunder battles
 - [scogonw/sheetstack](https://github.com/scogonw/sheetstack) - Transform Google Sheets into powerful REST APIs instantly with filtering, sorting, and search capabilities
-- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
 - [sabnzbd/sabnzbd](https://github.com/sabnzbd/sabnzbd) - SABnzbd - The automated Usenet download tool
 - [anasty17/mirror-leech-telegram-bot](https://github.com/anasty17/mirror-leech-telegram-bot) - Official Repository: Telegram bot which can download direct links, torrents, nzb, google drive, telegram document, any file/folder from rclone supported clouds, all yt-dlp supported sites and jdownloa
 - [tursodatabase/libsql-python](https://github.com/tursodatabase/libsql-python) - Python bindings for the libSQL database library
@@ -7022,7 +7038,7 @@
 - [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 - [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need throu
 - [AnkitNayak-eth/EpsteinFiles-RAG](https://github.com/AnkitNayak-eth/EpsteinFiles-RAG) - A RAG pipeline implementation built on the 'Epstein Files 20K' dataset from Hugging Face (Teyler).
-- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
 - [memodb-io/memobase](https://github.com/memodb-io/memobase) - User Profile-Based Long-Term Memory for AI Chatbot Applications.
 - [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and
 - [aws-samples/serverless-rag-demo](https://github.com/aws-samples/serverless-rag-demo) - Amazon Bedrock Foundation models with Amazon Opensearch Serverless as a Vector DB
@@ -7646,7 +7662,7 @@
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
-- [cozystack/cozystack](https://github.com/cozystack/cozystack) - Free and Open Source PaaS framework for seamless management of virtual machines, managed Kubernetes, and Databases-as-a-Service
+- [cozystack/cozystack](https://github.com/cozystack/cozystack) - Cozystack: Free Cloud Platform based on Kubernetes
 - [YunoHost/yunohost](https://github.com/YunoHost/yunohost) - YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash.
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - An elegant home server OS. Run OpenClaw, store your files and photos, run a Bitcoin node, and do more with over 300 apps in the Umbrel App Store.
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
@@ -7804,6 +7820,7 @@
 
 ## sql 
 
+- [ydb-platform/ydb](https://github.com/ydb-platform/ydb) - YDB is an open source Distributed SQL Database that combines high availability and scalability with strong consistency and ACID transactions
 - [mattf96s/QuackDB](https://github.com/mattf96s/QuackDB) - Open-source in-browser DuckDB SQL editor
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
