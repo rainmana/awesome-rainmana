@@ -1939,6 +1939,7 @@
 
 ## Python 
 
+- [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent
 - [cognica-io/uqa](https://github.com/cognica-io/uqa) - UQA — Unified Query Algebra: a multi-paradigm database engine unifying relational, text retrieval, vector search, graph query, and geospatial paradigms under a single algebraic structure
 - [onekey-sec/jefferson](https://github.com/onekey-sec/jefferson) - JFFS2 filesystem extraction tool
 - [sinshu/py-meltysynth](https://github.com/sinshu/py-meltysynth) - A SoundFont MIDI synthesizer written in pure Python
