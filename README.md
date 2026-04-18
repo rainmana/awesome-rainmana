@@ -125,6 +125,7 @@
 
 ## C 
 
+- [dayanch96/YTMusicUltimate](https://github.com/dayanch96/YTMusicUltimate) - The best tweak for YouTube Music iOS.
 - [nwhitehead/tinysoundfont-pybind](https://github.com/nwhitehead/tinysoundfont-pybind) - Python bindings for TinySoundFont, a SoundFont MIDI synthesizer.
 - [ImVexed/muon](https://github.com/ImVexed/muon) - GPU based Electron on a diet
 - [superolmo/BigFiles](https://github.com/superolmo/BigFiles) - Notepad++ Plugin for reading large files
@@ -1068,6 +1069,11 @@
 
 ## JavaScript 
 
+- [PolychronMidi/Polychron](https://github.com/PolychronMidi/Polychron) - Polychron MIDI patch enables inclusivity of diverse and marginalized time signatures. Take back time from the establishment chronophobes. Other dynamics enhancements include: unrestricted polyphony, u
+- [lexcast/orchestra](https://github.com/lexcast/orchestra) - See how instruments enter into action with a classical music piece.
+- [rjsalvadorr/autocomposer-js](https://github.com/rjsalvadorr/autocomposer-js) - A web app that automagically creates musical melodies
+- [grimmdude/MidiPlayerJS](https://github.com/grimmdude/MidiPlayerJS) - ♬ MIDI parser & player engine for browser or Node.  As a parser converts MIDI events into JSON.  Works well with single or multitrack MIDI files.
+- [grimmdude/MidiWriterJS](https://github.com/grimmdude/MidiWriterJS) - ♬ A JavaScript library which provides an API for programmatically generating and creating expressive multi-track MIDI files and JSON.
 - [idaholab/DISCOverflow](https://github.com/idaholab/DISCOverflow) - A framework to automate disassembly of binary files in to a graph database.
 - [marmooo/free-soundfonts](https://github.com/marmooo/free-soundfonts) - Free soundfont collection optimized for playback on the web.
 - [Elanis/web-to-desktop-framework-comparison](https://github.com/Elanis/web-to-desktop-framework-comparison) - An objective comparison of multiple frameworks that allow us to "transform" our web apps to desktop applications.
@@ -1939,6 +1945,7 @@
 
 ## Python 
 
+- [Vector35/community-themes](https://github.com/Vector35/community-themes) - Community provided themes for the reverse engineering tool Binary Ninja
 - [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent
 - [cognica-io/uqa](https://github.com/cognica-io/uqa) - UQA — Unified Query Algebra: a multi-paradigm database engine unifying relational, text retrieval, vector search, graph query, and geospatial paradigms under a single algebraic structure
 - [onekey-sec/jefferson](https://github.com/onekey-sec/jefferson) - JFFS2 filesystem extraction tool
@@ -3279,6 +3286,7 @@
 
 ## TypeScript 
 
+- [lukehorvat/super-oscillator](https://github.com/lukehorvat/super-oscillator) - Open-source 3D synthesizer for the Web.
 - [nxyd/srecord](https://github.com/nxyd/srecord) - Motorola S-record for Visual Studio Code
 - [Mrtenz/soundfont2](https://github.com/Mrtenz/soundfont2) - A SoundFont2 parser for Node.js and web browsers
 - [yuniko-software/minecraft-mcp-server](https://github.com/yuniko-software/minecraft-mcp-server) - A Minecraft MCP Server powered by Mineflayer API. It allows to control a Minecraft character in real-time, allowing AI assistants to build structures, explore the world, and interact with the game env
