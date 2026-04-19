@@ -1611,7 +1611,7 @@
 ## cms 
 
 - [estruyf/vscode-front-matter](https://github.com/estruyf/vscode-front-matter) - Front Matter is a CMS running straight in Visual Studio Code. Can be used with static site generators like Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more...
-- [HugoBlox/kit](https://github.com/HugoBlox/kit) - ⚡ The Open Research Copilot. Build high-perf Portfolios, Lab Sites & Docs in Markdown + Jupyter. 100% Data Control. 🦫 数据科学家的开源 Copilot。一键部署 👇
+- [HugoBlox/kit](https://github.com/HugoBlox/kit) - 🧱 Describe your site, AI builds it, you own it as Markdown. Snap together Tailwind blocks like Lego — landing pages, blogs, portfolios, docs & more. No AI slop. Free to deploy anywhere 👇
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [terminusdb/terminusdb](https://github.com/terminusdb/terminusdb) - TerminusDB is a distributed, collaborative database designed for building, sharing, versioning, and reasoning on structured data.
@@ -1948,7 +1948,7 @@
 
 - [oxnr/awesome-bigdata](https://github.com/oxnr/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
 - [TileDB-Inc/TileDB](https://github.com/TileDB-Inc/TileDB) - The Universal Storage Engine
-- [HugoBlox/kit](https://github.com/HugoBlox/kit) - ⚡ The Open Research Copilot. Build high-perf Portfolios, Lab Sites & Docs in Markdown + Jupyter. 100% Data Control. 🦫 数据科学家的开源 Copilot。一键部署 👇
+- [HugoBlox/kit](https://github.com/HugoBlox/kit) - 🧱 Describe your site, AI builds it, you own it as Markdown. Snap together Tailwind blocks like Lego — landing pages, blogs, portfolios, docs & more. No AI slop. Free to deploy anywhere 👇
 - [TeamHG-Memex/eli5](https://github.com/TeamHG-Memex/eli5) - A library for debugging/inspecting machine learning classifiers and explaining their predictions
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
@@ -7062,7 +7062,7 @@
 
 ## r 
 
-- [HugoBlox/kit](https://github.com/HugoBlox/kit) - ⚡ The Open Research Copilot. Build high-perf Portfolios, Lab Sites & Docs in Markdown + Jupyter. 100% Data Control. 🦫 数据科学家的开源 Copilot。一键部署 👇
+- [HugoBlox/kit](https://github.com/HugoBlox/kit) - 🧱 Describe your site, AI builds it, you own it as Markdown. Snap together Tailwind blocks like Lego — landing pages, blogs, portfolios, docs & more. No AI slop. Free to deploy anywhere 👇
 - [yusuzech/r-web-scraping-cheat-sheet](https://github.com/yusuzech/r-web-scraping-cheat-sheet) - Guide, reference and cheatsheet on web scraping using rvest, httr and Rselenium.
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [mitre/fhir-exercises](https://github.com/mitre/fhir-exercises) - 
