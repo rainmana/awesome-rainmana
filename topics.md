@@ -4885,6 +4885,7 @@
 
 ## others 
 
+- [cuspymd/mcp-server-mod](https://github.com/cuspymd/mcp-server-mod) - A Fabric mod that implements a Model Context Protocol (MCP) server, enabling AI assistants like Claude to interact with Minecraft through structured commands.
 - [PolychronMidi/Polychron](https://github.com/PolychronMidi/Polychron) - Polychron MIDI patch enables inclusivity of diverse and marginalized time signatures. Take back time from the establishment chronophobes. Other dynamics enhancements include: unrestricted polyphony, u
 - [lukehorvat/super-oscillator](https://github.com/lukehorvat/super-oscillator) - Open-source 3D synthesizer for the Web.
 - [rjsalvadorr/autocomposer-js](https://github.com/rjsalvadorr/autocomposer-js) - A web app that automagically creates musical melodies
