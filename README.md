@@ -981,6 +981,7 @@
 
 ## Java 
 
+- [cuspymd/mcp-server-mod](https://github.com/cuspymd/mcp-server-mod) - A Fabric mod that implements a Model Context Protocol (MCP) server, enabling AI assistants like Claude to interact with Minecraft through structured commands.
 - [scalar-labs/scalardb](https://github.com/scalar-labs/scalardb) - Universal HTAP Engine
 - [linkedin/databus](https://github.com/linkedin/databus) - Source-agnostic distributed change data capture system
 - [apache/netbeans](https://github.com/apache/netbeans) - Apache NetBeans
