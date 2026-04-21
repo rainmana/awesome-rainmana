@@ -32,7 +32,6 @@
 - [HTML](#html)
 - [Hack](#hack)
 - [Haskell](#haskell)
-- [Inno Setup](#inno-setup)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
@@ -155,6 +154,7 @@
 - [guinmoon/LLMFarm](https://github.com/guinmoon/LLMFarm) - llama and other  large language models on iOS and MacOS offline using GGML library.
 - [radareorg/radare2-mcp](https://github.com/radareorg/radare2-mcp) - MCP stdio server for radare2
 - [radareorg/radare2-extras](https://github.com/radareorg/radare2-extras) - Source graveyard and random candy for radare2
+- [radareorg/r2ai](https://github.com/radareorg/r2ai) - LLM-based reversing for radare2
 - [rizinorg/rizin](https://github.com/rizinorg/rizin) - UNIX-like reverse engineering framework and command-line toolset.
 - [sztupy/luadec51](https://github.com/sztupy/luadec51) - Lua Decompiler for Lua version 5.1
 - [ahrm/sioyek](https://github.com/ahrm/sioyek) - Sioyek is a PDF viewer with a focus on textbooks and research papers
@@ -439,6 +439,7 @@
 - [grame-cncm/faust](https://github.com/grame-cncm/faust) - Functional programming language for signal processing and sound synthesis
 - [buzzinglight/IanniX](https://github.com/buzzinglight/IanniX) - IanniX is a graphical open-source sequencer, based on Iannis Xenakis works, for digital art. IanniX syncs via Open Sound Control (OSC) events and curves to your real-time environment.
 - [MTG/essentia](https://github.com/MTG/essentia) - C++ library for audio and music analysis, description and synthesis, including Python bindings
+- [leapbtw/uxplay-windows](https://github.com/leapbtw/uxplay-windows) - FREE AirPlay to Windows PC
 - [Lat0ur/WarThunderHack](https://github.com/Lat0ur/WarThunderHack) - A WarThunder Hack;
 - [nzbget/nzbget](https://github.com/nzbget/nzbget) - Efficient Usenet Downloader
 - [ch4ncellor/EAC-Reversal](https://github.com/ch4ncellor/EAC-Reversal) - 09/2021 reversal of EasyAntiCheat driver
@@ -492,7 +493,7 @@
 - [nasa/HDTN](https://github.com/nasa/HDTN) - High-rate Delay Tolerant Network (HDTN) Software
 - [nasa/meshNetwork](https://github.com/nasa/meshNetwork) - 
 - [nasa/europa](https://github.com/nasa/europa) - 
-- [MandConsultingGroup/ring3-kit](https://github.com/MandConsultingGroup/ring3-kit) - Hides Process From Task Manager Using NT API Hooking (NtQuerySystemInformation)
+- [WatchDogSecurity/ring3-kit](https://github.com/WatchDogSecurity/ring3-kit) - Hides Process From Task Manager Using NT API Hooking (NtQuerySystemInformation)
 - [SysSec-KAIST/LTESniffer](https://github.com/SysSec-KAIST/LTESniffer) - An Open-source LTE Downlink/Uplink Eavesdropper
 - [ByteWelder/Decktility](https://github.com/ByteWelder/Decktility) - A handheld PC
 - [Soulghost/iblessing](https://github.com/Soulghost/iblessing) - iblessing is an iOS security exploiting toolkit, it mainly includes application information gathering, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and
@@ -637,6 +638,7 @@
 
 ## Go 
 
+- [docker/docker-agent](https://github.com/docker/docker-agent) - AI Agent Builder and Runtime by Docker Engineering
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
 - [brimdata/super](https://github.com/brimdata/super) - An analytics database that puts JSON and relational tables on equal footing
 - [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
@@ -659,6 +661,7 @@
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
+- [CharlesWiltgen/Axiom](https://github.com/CharlesWiltgen/Axiom) - Battle-tested Claude Code skills for modern xOS (iOS, iPadOS, watchOS, tvOS) development
 - [mandiant/gocrack](https://github.com/mandiant/gocrack) - GoCrack is a management frontend for password cracking tools written in Go
 - [homeport/termshot](https://github.com/homeport/termshot) - Creates screenshots based on terminal command output
 - [beeper/registration-relay](https://github.com/beeper/registration-relay) - Relay for your iDevice's registration data
@@ -975,12 +978,10 @@
 - [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 
-## Inno Setup 
-
-- [leapbtw/uxplay-windows](https://github.com/leapbtw/uxplay-windows) - FREE AirPlay to Windows PC
-
 ## Java 
 
+- [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA & IntelliJ Platform
+- [MinecraftForge/MinecraftForge](https://github.com/MinecraftForge/MinecraftForge) - Modifications to the Minecraft base files to assist in compatibility between mods. New Discord: https://discord.minecraftforge.net/
 - [cuspymd/mcp-server-mod](https://github.com/cuspymd/mcp-server-mod) - A Fabric mod that implements a Model Context Protocol (MCP) server, enabling AI assistants like Claude to interact with Minecraft through structured commands.
 - [scalar-labs/scalardb](https://github.com/scalar-labs/scalardb) - Universal HTAP Engine
 - [linkedin/databus](https://github.com/linkedin/databus) - Source-agnostic distributed change data capture system
@@ -1366,6 +1367,7 @@
 
 ## Kotlin 
 
+- [minecraft-dev/MinecraftDev](https://github.com/minecraft-dev/MinecraftDev) - Plugin for IntelliJ IDEA that gives special support for Minecraft modding projects.
 - [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple's ecosystem.
 - [dovecoteescapee/ByeDPIAndroid](https://github.com/dovecoteescapee/ByeDPIAndroid) - App to bypass censorship on Android
 - [efoncubierta/cloudspec](https://github.com/efoncubierta/cloudspec) - CloudSpec is an open source tool for validating your resources in your cloud providers using a logical language.
@@ -1491,6 +1493,7 @@
 
 ## Others 
 
+- [devcontainers/spec](https://github.com/devcontainers/spec) - Development Containers: Use a container as a full-featured development environment.
 - [oxnr/awesome-bigdata](https://github.com/oxnr/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
 - [agarcialeon/awesome-database](https://github.com/agarcialeon/awesome-database) - A curated list of amazingly awesome database libraries, resources.
 - [mrin9/northwind](https://github.com/mrin9/northwind) - Database agnostic DB Script to create Northwind Data Model with some sample data
@@ -1946,6 +1949,7 @@
 
 ## Python 
 
+- [smittix/intercept](https://github.com/smittix/intercept) - iNTERCEPT, a free and open-source platform that unites the best signal intelligence tools into a single, accessible interface.
 - [Vector35/community-themes](https://github.com/Vector35/community-themes) - Community provided themes for the reverse engineering tool Binary Ninja
 - [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent
 - [cognica-io/uqa](https://github.com/cognica-io/uqa) - UQA — Unified Query Algebra: a multi-paradigm database engine unifying relational, text retrieval, vector search, graph query, and geospatial paradigms under a single algebraic structure
@@ -2073,7 +2077,6 @@
 - [fastapi/fastapi-cli](https://github.com/fastapi/fastapi-cli) - Run and manage FastAPI apps from the command line with FastAPI CLI. 🚀
 - [fastapi/asyncer](https://github.com/fastapi/asyncer) - Asyncer, async and await, focused on developer experience.
 - [tiangolo/tiangolo.com](https://github.com/tiangolo/tiangolo.com) - 
-- [radareorg/r2ai](https://github.com/radareorg/r2ai) - LLM-based reversing for radare2
 - [firmadyne/scraper](https://github.com/firmadyne/scraper) - Firmware scraper
 - [agentic-community/mcp-gateway-registry](https://github.com/agentic-community/mcp-gateway-registry) - Enterprise-ready MCP Gateway & Registry that centralizes AI development tools with secure OAuth authentication, dynamic tool discovery, and unified access for both autonomous AI agents and AI coding a
 - [aarora79/mcp-gateway](https://github.com/aarora79/mcp-gateway) - MCP Gateway and Registry
@@ -2477,7 +2480,7 @@
 - [Dman95/SASM](https://github.com/Dman95/SASM) - SASM - simple crossplatform IDE for NASM, MASM, GAS and FASM assembly languages
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler with built-in NumPy support
 - [latchset/jwcrypto](https://github.com/latchset/jwcrypto) - Implements JWK,JWS,JWE specifications using python-cryptography
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.5, DeepSeek, gpt-oss locally.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Web UI for training and running open models like Gemma 4, Qwen3.5, DeepSeek, gpt-oss locally.
 - [mesop-dev/mesop](https://github.com/mesop-dev/mesop) - Rapidly build AI apps in Python
 - [lanjelot/patator](https://github.com/lanjelot/patator) - Patator is a multi-purpose brute-forcer, with a modular design and a flexible usage.
 - [galkan/crowbar](https://github.com/galkan/crowbar) - Crowbar is brute forcing tool that can be used during penetration tests. It is developed to support protocols that are not currently supported by thc-hydra and other popular brute forcing tools.
@@ -2561,7 +2564,7 @@
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration
 - [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models) - Generative Models by Stability AI
 - [fortra/impacket](https://github.com/fortra/impacket) - Impacket is a collection of Python classes for working with network protocols.
-- [MandConsultingGroup/porch-pirate](https://github.com/MandConsultingGroup/porch-pirate) - Porch Pirate is the most comprehensive Postman recon / OSINT client and framework that facilitates the automated discovery and exploitation of API endpoints and secrets committed to workspaces, collec
+- [WatchDogSecurity/porch-pirate](https://github.com/WatchDogSecurity/porch-pirate) - Porch Pirate is the most comprehensive Postman recon / OSINT client and framework that facilitates the automated discovery and exploitation of API endpoints and secrets committed to workspaces, collec
 - [ntdiff/ntdiff](https://github.com/ntdiff/ntdiff) - 
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [Sanster/IOPaint](https://github.com/Sanster/IOPaint) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
@@ -3339,7 +3342,6 @@
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
 - [Kastalien-Research/thoughtbox](https://github.com/Kastalien-Research/thoughtbox) - Thoughtbox is an intention ledger for agents. Evaluate AI's decisions against its decision-making.
-- [CharlesWiltgen/Axiom](https://github.com/CharlesWiltgen/Axiom) - Battle-tested Claude Code skills for modern xOS (iOS, iPadOS, watchOS, tvOS) development
 - [nickdeis/eslint-plugin-no-secrets](https://github.com/nickdeis/eslint-plugin-no-secrets) - An eslint plugin to find strings that might be secrets/credentials
 - [jquery/esprima](https://github.com/jquery/esprima) - ECMAScript parsing infrastructure for multipurpose analysis
 - [neil-wu/FridaSwiftDump](https://github.com/neil-wu/FridaSwiftDump) - FridaSwiftDump a Frida tool for retriving the Swift Object info from an running app.
