@@ -15,6 +15,7 @@
 - [C#](#c#)
 - [C++](#c++)
 - [CMake](#cmake)
+- [COBOL](#cobol)
 - [CSS](#css)
 - [Clojure](#clojure)
 - [CodeQL](#codeql)
@@ -401,6 +402,8 @@
 
 ## C++ 
 
+- [GarageGames/Torque2D](https://github.com/GarageGames/Torque2D) - MIT Licensed Open Source version of Torque 2D game engine from GarageGames
+- [anura-engine/anura](https://github.com/anura-engine/anura) - Anura Engine
 - [TileDB-Inc/TileDB](https://github.com/TileDB-Inc/TileDB) - The Universal Storage Engine
 - [ydb-platform/ydb](https://github.com/ydb-platform/ydb) - YDB is an open source Distributed SQL Database that combines high availability and scalability with strong consistency and ACID transactions
 - [stfwi/srecord-cc](https://github.com/stfwi/srecord-cc) - C++ Morotola S-Record parser/composer/modification class template
@@ -550,6 +553,10 @@
 
 - [LTU-RAI/darpa_subt_worlds](https://github.com/LTU-RAI/darpa_subt_worlds) - Virtual worlds from the DARPA subterranean challenge
 - [clayne/x64dbg-MiniDumpPlugin](https://github.com/clayne/x64dbg-MiniDumpPlugin) - Simple x64dbg plugin to save a full dump
+
+## COBOL 
+
+- [meyfa/CobolCraft](https://github.com/meyfa/CobolCraft) - A Minecraft server written in COBOL
 
 ## CSS 
 
@@ -785,7 +792,7 @@
 - [devpwn/xmlrpc-scan](https://github.com/devpwn/xmlrpc-scan) - golang tool to scan domains or single domains with know security issues against xmlrpc
 - [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [corellium/corellium-android-unpacking](https://github.com/corellium/corellium-android-unpacking) - Android Unpacking Automation using Corellium Devices
-- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.
+- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructur
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
@@ -1493,6 +1500,7 @@
 
 ## Others 
 
+- [tajmone/pixel-art-supplies](https://github.com/tajmone/pixel-art-supplies) - Wholesale Pixel-Art resources (for free!) …
 - [devcontainers/spec](https://github.com/devcontainers/spec) - Development Containers: Use a container as a full-featured development environment.
 - [oxnr/awesome-bigdata](https://github.com/oxnr/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
 - [agarcialeon/awesome-database](https://github.com/agarcialeon/awesome-database) - A curated list of amazingly awesome database libraries, resources.
@@ -1612,7 +1620,7 @@
 - [loneicewolf/Stuxnet-Source](https://github.com/loneicewolf/Stuxnet-Source) - stuxnet Source & Binaries. (+PLC ROOTKIT) ONLY FOR ACADEMICAL RESEARCH AND EDUCATIONAL PURPOSES! Includes: Source files, Binaries, PLC Samples,Fanny Added in another repo.
 - [nicholasaleks/reverse-shells](https://github.com/nicholasaleks/reverse-shells) - A collection of reverse shell commands and payloads
 - [tugkanboz/awesome-cursorrules](https://github.com/tugkanboz/awesome-cursorrules) - A curated list of awesome .cursorrules files for enhancing your Cursor AI experience.
-- [jparkerweb/ai-assistant-prompts](https://github.com/jparkerweb/ai-assistant-prompts) - 📏 collection of prompts/rules to use with an AI IDE
+- [jparkerweb/ai-assistant-prompts](https://github.com/jparkerweb/ai-assistant-prompts) - 📏 Collection of prompts/rules for use within AI Agent settings
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) - 500 AI Machine learning Deep learning Computer vision NLP Projects with code
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
@@ -2931,6 +2939,7 @@
 
 ## Ruby 
 
+- [frogatto/frogatto](https://github.com/frogatto/frogatto) - Frogatto & Friends is an action-adventure game, starring a certain quixotic frog.
 - [lobsters/lobsters](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation and discussion
 - [shipilev/JavaFuzzer](https://github.com/shipilev/JavaFuzzer) - Java* Fuzzer for JVM
 - [TeamHG-Memex/rotating-proxy](https://github.com/TeamHG-Memex/rotating-proxy) - Rotating TOR proxy with Docker
@@ -2968,6 +2977,7 @@
 
 ## Rust 
 
+- [SergiusIW/gate](https://github.com/SergiusIW/gate) - A specialized 2D game library
 - [AutomataNexus/Aegis-DB](https://github.com/AutomataNexus/Aegis-DB) - Multi-paradigm distributed database: SQL, Document, Graph, Key-Value, Time Series & Streaming in one platform. Built in Rust.
 - [cozodb/cozo](https://github.com/cozodb/cozo) - A transactional, relational-graph-vector database that uses Datalog for query. The hippocampus for AI!
 - [chrishayuk/larql](https://github.com/chrishayuk/larql) - 
