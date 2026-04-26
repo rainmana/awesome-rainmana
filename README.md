@@ -319,6 +319,7 @@
 
 ## C# # 
 
+- [tryashtar/nbt-studio](https://github.com/tryashtar/nbt-studio) - An up-to-date NBT viewer and editor with lots of new features
 - [BGriffy78/srecordizer](https://github.com/BGriffy78/srecordizer) - Motorola S-Record File Editor
 - [madskristensen/WebCompiler](https://github.com/madskristensen/WebCompiler) - Visual Studio extension for compiling LESS and Sass files
 - [formulahendry/CodeRunnerVS](https://github.com/formulahendry/CodeRunnerVS) - Code Runner for Visual Studio
@@ -3307,6 +3308,8 @@
 
 ## TypeScript 
 
+- [BoringBoredom/UEFI-Editor](https://github.com/BoringBoredom/UEFI-Editor) - Aptio V UEFI Editor: an alternative to AMIBCP
+- [ThallesP/railway-minecraft-template](https://github.com/ThallesP/railway-minecraft-template) - 
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [lukehorvat/super-oscillator](https://github.com/lukehorvat/super-oscillator) - Open-source 3D synthesizer for the Web.
 - [nxyd/srecord](https://github.com/nxyd/srecord) - Motorola S-record for Visual Studio Code
@@ -3529,7 +3532,7 @@
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+- [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [victordibia/autogen-ui](https://github.com/victordibia/autogen-ui) - Web UI for AutoGen (A Framework Multi-Agent LLM Applications)
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
