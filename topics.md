@@ -844,6 +844,7 @@
 
 ## awesome 
 
+- [tajmone/awesome-interactive-fiction](https://github.com/tajmone/awesome-interactive-fiction) - A list of interactive fiction frameworks, tools, and resources
 - [ProjectRecon/awesome-ai-agents-security](https://github.com/ProjectRecon/awesome-ai-agents-security) - A living map of the AI agent security ecosystem.
 - [oxnr/awesome-bigdata](https://github.com/oxnr/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
 - [ad-si/awesome-soundfonts](https://github.com/ad-si/awesome-soundfonts) - A curated list of awesome soundfont software, libraries, and resources.
@@ -987,6 +988,7 @@
 
 ## awesome-list 
 
+- [tajmone/awesome-interactive-fiction](https://github.com/tajmone/awesome-interactive-fiction) - A list of interactive fiction frameworks, tools, and resources
 - [ProjectRecon/awesome-ai-agents-security](https://github.com/ProjectRecon/awesome-ai-agents-security) - A living map of the AI agent security ecosystem.
 - [oxnr/awesome-bigdata](https://github.com/oxnr/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
 - [Curated-Awesome-Lists/awesome-ai-music-generation](https://github.com/Curated-Awesome-Lists/awesome-ai-music-generation) - A curated compilation of AI-driven generative music resources and projects. Explore the blend of machine learning algorithms and musical creativity.
@@ -4923,6 +4925,7 @@
 
 ## others 
 
+- [Aricwithana/LCARS-SDK](https://github.com/Aricwithana/LCARS-SDK) - A development kit and environment umbrella designed specifically for creating a functional implementation of the LCARS methodology
 - [uiuc-kang-lab/cve-bench](https://github.com/uiuc-kang-lab/cve-bench) - CVE-Bench: A Benchmark for AI Agents’ Ability to Exploit Real-World Web Application Vulnerabilities
 - [aws-samples/centralized-custom-checkov-sast](https://github.com/aws-samples/centralized-custom-checkov-sast) - 
 - [duckdb/duckdb-skills](https://github.com/duckdb/duckdb-skills) - 
