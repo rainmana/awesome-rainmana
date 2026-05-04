@@ -1230,7 +1230,6 @@
 - [nasa/earthdata-search](https://github.com/nasa/earthdata-search) - Earthdata Search is a web application developed by NASA EOSDIS to enable data discovery, search, comparison, visualization, and access across EOSDIS' Earth Science data holdings.
 - [nasa/openmct](https://github.com/nasa/openmct) - A web based mission control framework.
 - [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) - Community curated list of templates for the nuclei engine to find security vulnerabilities.
-- [tdurieux/anonymous_github](https://github.com/tdurieux/anonymous_github) - Anonymous Github is a proxy server to support anonymous browsing of Github repositories for open-science code and data.
 - [Promptly-Technologies-LLC/rss-fetch-action](https://github.com/Promptly-Technologies-LLC/rss-fetch-action) - Github Action to scrape an RSS feed to display on a Github Pages website
 - [samhocevar/no-fucking-thanks](https://github.com/samhocevar/no-fucking-thanks) - Expose NFTs
 - [Shuffle/Shuffle](https://github.com/Shuffle/Shuffle) - Shuffle: A general purpose security automation platform. Our focus is on collaboration and resource sharing.
@@ -3389,7 +3388,7 @@
 - [punkpeye/fastmcp](https://github.com/punkpeye/fastmcp) - A TypeScript framework for building MCP servers.
 - [appledragon/DumpStorm](https://github.com/appledragon/DumpStorm) - Powerful crash dump analyzer for debugging native applications. Analyze minidump files (.dmp), extract symbols, enhance stack traces, and debug crashes with register tooltips and multilingual support.
 - [mixn/carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
-- [requestly/requestly](https://github.com/requestly/requestly) - Free and open-source API Client & Interceptor.
+- [requestly/requestly](https://github.com/requestly/requestly) - Open-Source HTTP Interceptor & Mocking Tool
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [steipete/mcporter](https://github.com/steipete/mcporter) - Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
@@ -3557,6 +3556,7 @@
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effo
 - [nowsecure/r2frida](https://github.com/nowsecure/r2frida) - Radare2 and Frida better together.
 - [chrismaltby/gb-studio](https://github.com/chrismaltby/gb-studio) - A quick and easy to use drag and drop retro game creator for your favourite handheld video game system
+- [tdurieux/anonymous_github](https://github.com/tdurieux/anonymous_github) - Anonymous Github is a proxy server to support anonymous browsing of Github repositories for open-science code and data.
 - [will-stone/browserosaurus](https://github.com/will-stone/browserosaurus) - 🦖 The browser prompter for macOS
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
