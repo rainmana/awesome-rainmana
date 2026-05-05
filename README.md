@@ -459,7 +459,7 @@
 - [SensorsIot/ESP32-Dual-Core](https://github.com/SensorsIot/ESP32-Dual-Core) - Sketches to support the YouTube video
 - [kriswiner/ESP32](https://github.com/kriswiner/ESP32) - Arduino sketches for the ESP32
 - [arduino-libraries/ArduinoHttpClient](https://github.com/arduino-libraries/ArduinoHttpClient) - Arduino HTTP Client library
-- [espressif/arduino-esp32](https://github.com/espressif/arduino-esp32) - Arduino core for the ESP32
+- [espressif/arduino-esp32](https://github.com/espressif/arduino-esp32) - Arduino core for the ESP32 family of SoCs
 - [memgraph/memgraph](https://github.com/memgraph/memgraph) - High-performance open-source in-memory graph database for GraphRAG, AI memory, agentic AI, and real-time graph analytics. Cypher-compatible, built in C++.
 - [dizzylogicc/WikiParser](https://github.com/dizzylogicc/WikiParser) - Fast C++ based parser for English Wikipedia
 - [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
@@ -990,7 +990,7 @@
 
 ## Java 
 
-- [xandergos/terrain-diffusion-mc](https://github.com/xandergos/terrain-diffusion-mc) - 
+- [xandergos/terrain-diffusion-mc](https://github.com/xandergos/terrain-diffusion-mc) - Procedural terrain generation with diffusion models (in Minecraft)
 - [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA & IntelliJ Platform
 - [MinecraftForge/MinecraftForge](https://github.com/MinecraftForge/MinecraftForge) - Modifications to the Minecraft base files to assist in compatibility between mods. New Discord: https://discord.minecraftforge.net/
 - [cuspymd/mcp-server-mod](https://github.com/cuspymd/mcp-server-mod) - A Fabric mod that implements a Model Context Protocol (MCP) server, enabling AI assistants like Claude to interact with Minecraft through structured commands.
@@ -1505,6 +1505,7 @@
 
 ## Others 
 
+- [doyensec/awesome-electronjs-hacking](https://github.com/doyensec/awesome-electronjs-hacking) - A curated list of awesome resources about Electron.js (in)security
 - [ProjectRecon/awesome-ai-agents-security](https://github.com/ProjectRecon/awesome-ai-agents-security) - A living map of the AI agent security ecosystem.
 - [macfuse/macfuse](https://github.com/macfuse/macfuse) - macFUSE umbrella repository
 - [tajmone/pixel-art-supplies](https://github.com/tajmone/pixel-art-supplies) - Wholesale Pixel-Art resources (for free!) …
@@ -1964,6 +1965,8 @@
 
 ## Python 
 
+- [PyCQA/bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
+- [daneads/pycallgraph2](https://github.com/daneads/pycallgraph2) - pycallgraph2 is a maintained fork of pycallgraph, a Python module that creates call graphs for Python programs.
 - [uiuc-kang-lab/cve-bench](https://github.com/uiuc-kang-lab/cve-bench) - CVE-Bench: A Benchmark for AI Agents’ Ability to Exploit Real-World Web Application Vulnerabilities
 - [aws-samples/centralized-custom-checkov-sast](https://github.com/aws-samples/centralized-custom-checkov-sast) - 
 - [aws-samples/sample-host-hermesagent-on-amazon-bedrock-agentcore](https://github.com/aws-samples/sample-host-hermesagent-on-amazon-bedrock-agentcore) - 
@@ -2928,7 +2931,7 @@
 - [kootenpv/gittyleaks](https://github.com/kootenpv/gittyleaks) - :droplet: Find sensitive information for a git repo
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
 - [Police-Data-Accessibility-Project/scrapers](https://github.com/Police-Data-Accessibility-Project/scrapers) - Code relating to scraping public police data.
-- [ItsDeidara/DNSwitch](https://github.com/ItsDeidara/DNSwitch) - A utitily for the Nintendo Switch to hijack the web browser
+- [StonedModder/DNSwitch](https://github.com/StonedModder/DNSwitch) - A utitily for the Nintendo Switch to hijack the web browser
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 - [pwnlandia/mhn](https://github.com/pwnlandia/mhn) - Modern Honey Network
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
