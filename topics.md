@@ -4975,6 +4975,7 @@
 
 ## others 
 
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [ankitects/anki](https://github.com/ankitects/anki) - Anki is a smart spaced repetition flashcard program
 - [TrunkRecorder/trunk-recorder](https://github.com/TrunkRecorder/trunk-recorder) - Records calls from a Trunked Radio System (P25 & SmartNet)
 - [doyensec/awesome-electronjs-hacking](https://github.com/doyensec/awesome-electronjs-hacking) - A curated list of awesome resources about Electron.js (in)security
@@ -6289,7 +6290,7 @@
 - [sonyxperiadev/ApkAnalyser](https://github.com/sonyxperiadev/ApkAnalyser) - 
 - [DataSploit/datasploit](https://github.com/DataSploit/datasploit) - An #OSINT Framework to perform various recon techniques on Companies, People, Phone Number, Bitcoin Addresses, etc.,  aggregate all the raw data, and give data in multiple formats.
 - [altjx/ipwn](https://github.com/altjx/ipwn) - 
-- [maxhumber/gazpacho](https://github.com/maxhumber/gazpacho) - 🥫 The simple, fast, and modern web scraping library
+- [maxhumber/gazpacho](https://github.com/maxhumber/gazpacho) - The simple, fast, and modern web scraping library
 - [medialab/hyphe](https://github.com/medialab/hyphe) - Websites crawler with built-in exploration and control web interface
 - [medialab/artoo](https://github.com/medialab/artoo) - artoo.js - the client-side scraping companion.
 - [php-embed/Embed](https://github.com/php-embed/Embed) - Get info from any web service or page
