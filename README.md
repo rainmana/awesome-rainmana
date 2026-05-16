@@ -3326,6 +3326,7 @@
 
 ## TypeScript 
 
+- [BlockSecCA/joern-mcp](https://github.com/BlockSecCA/joern-mcp) - MCP server wrapping Joern for AI-driven code security analysis
 - [webclipper/web-clipper](https://github.com/webclipper/web-clipper) - For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
 - [BoringBoredom/UEFI-Editor](https://github.com/BoringBoredom/UEFI-Editor) - Aptio V UEFI Editor: an alternative to AMIBCP
 - [ThallesP/railway-minecraft-template](https://github.com/ThallesP/railway-minecraft-template) - 
@@ -3336,7 +3337,7 @@
 - [yuniko-software/minecraft-mcp-server](https://github.com/yuniko-software/minecraft-mcp-server) - A Minecraft MCP Server powered by Mineflayer API. It allows to control a Minecraft character in real-time, allowing AI assistants to build structures, explore the world, and interact with the game env
 - [mattf96s/QuackDB](https://github.com/mattf96s/QuackDB) - Open-source in-browser DuckDB SQL editor
 - [estruyf/vscode-front-matter](https://github.com/estruyf/vscode-front-matter) - Front Matter is a CMS running straight in Visual Studio Code. Can be used with static site generators like Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more...
-- [langchain-ai/deepagentsjs](https://github.com/langchain-ai/deepagentsjs) - Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.
+- [langchain-ai/deepagentsjs](https://github.com/langchain-ai/deepagentsjs) - The batteries included agent harness.
 - [saltyshiomix/nextron](https://github.com/saltyshiomix/nextron) - ⚡ Next.js + Electron ⚡
 - [mskayyali/nodepad](https://github.com/mskayyali/nodepad) - A spatial research tool that explores using AI to augment thinking, not replace it.
 - [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) - Teams-first Multi-agent orchestration for Claude Code
