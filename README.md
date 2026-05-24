@@ -331,7 +331,7 @@
 - [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps
 - [JacekKosciesza/StarWars](https://github.com/JacekKosciesza/StarWars) - GraphQL 'Star Wars' example using GraphQL for .NET, ASP.NET Core, Entity Framework Core
 - [ddevault/TrueCraft](https://github.com/ddevault/TrueCraft) - Minecraft for hipsters
-- [AssetRipper/AssetRipper](https://github.com/AssetRipper/AssetRipper) - GUI Application to work with engine assets, asset bundles, and serialized files
+- [AssetRipper/AssetRipper](https://github.com/AssetRipper/AssetRipper) - GUI application to analyze game files
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types t
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
@@ -1166,6 +1166,7 @@
 - [malikashish8/semgrep-ui](https://github.com/malikashish8/semgrep-ui) - An app to help triage a CLI semgrep scan
 - [aandrew-me/ytDownloader](https://github.com/aandrew-me/ytDownloader) - Desktop App for downloading Videos and Audios from hundreds of sites
 - [junfanz1/Cursor-FullStack-AI-App](https://github.com/junfanz1/Cursor-FullStack-AI-App) - Build E2E Micro SaaS AI application, takes in Github urls, generate json reports with AI powered insights and repo stats
+- [jparkerweb/ai-assistant-skills](https://github.com/jparkerweb/ai-assistant-skills) - 📏 Collection of prompts/rules for use within AI Agent settings
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
@@ -1630,7 +1631,6 @@
 - [loneicewolf/Stuxnet-Source](https://github.com/loneicewolf/Stuxnet-Source) - stuxnet Source & Binaries. (+PLC ROOTKIT) ONLY FOR ACADEMICAL RESEARCH AND EDUCATIONAL PURPOSES! Includes: Source files, Binaries, PLC Samples,Fanny Added in another repo.
 - [nicholasaleks/reverse-shells](https://github.com/nicholasaleks/reverse-shells) - A collection of reverse shell commands and payloads
 - [tugkanboz/awesome-cursorrules](https://github.com/tugkanboz/awesome-cursorrules) - A curated list of awesome .cursorrules files for enhancing your Cursor AI experience.
-- [jparkerweb/ai-assistant-prompts](https://github.com/jparkerweb/ai-assistant-prompts) - 📏 Collection of prompts/rules for use within AI Agent settings
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) - 500 AI Machine learning Deep learning Computer vision NLP Projects with code
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
@@ -2372,7 +2372,7 @@
 - [newsapps/beeswithmachineguns](https://github.com/newsapps/beeswithmachineguns) - A utility for arming (creating) many bees (micro EC2 instances) to attack (load test) targets (web applications).
 - [microsoft/presidio](https://github.com/microsoft/presidio) - An open-source framework for detecting, redacting, masking, and anonymizing sensitive data (PII) across text, images, and structured data. Supports NLP, pattern matching, and customizable pipelines.
 - [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) - Ongoing research training transformer models at scale
-- [modelscope/FunASR](https://github.com/modelscope/FunASR) - A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models, Supporting Speech Recognition, Voice Activity Detection, Text Post-processing etc.
+- [modelscope/FunASR](https://github.com/modelscope/FunASR) - Industrial-grade speech recognition toolkit. 170x realtime, 50+ languages, speaker diarization, emotion detection — all in 3 lines of Python. Production-ready.
 - [Dicklesworthstone/ultimate_mcp_client](https://github.com/Dicklesworthstone/ultimate_mcp_client) - Async Python client for the Model Context Protocol with interactive CLI and reactive Web UI, connecting AI models to MCP servers via stdio and SSE
 - [sobri3195/pegasus-neo](https://github.com/sobri3195/pegasus-neo) - PEGASUS-NEO is a comprehensive penetration testing framework designed for security professionals and ethical hackers. It combines multiple security tools and custom modules for reconnaissance, exploit
 - [adriyansyah-mf/CentralizedFirewall](https://github.com/adriyansyah-mf/CentralizedFirewall) - provides a Firewall Manager API designed to centralize and streamline the management of firewall configurations
