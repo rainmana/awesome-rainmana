@@ -1967,6 +1967,7 @@
 
 ## Python 
 
+- [microsoft/agent-framework](https://github.com/microsoft/agent-framework) - A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient agents.
 - [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) - VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
 - [pwndbg/pwndbg](https://github.com/pwndbg/pwndbg) - Exploit Development and Reverse Engineering with GDB & LLDB Made Easy
@@ -2008,7 +2009,7 @@
 - [0cyn/bn-dyldsharedcache](https://github.com/0cyn/bn-dyldsharedcache) - dyld_shared_cache processing / Single-Image loading for BinaryNinja
 - [rainmana/rainmana-binja-scripts](https://github.com/rainmana/rainmana-binja-scripts) - Smol, (likely) dumb, and simple scripts I use to improve my life in Binja
 - [ldrolez/free-midi-chords](https://github.com/ldrolez/free-midi-chords) - A collection of free MIDI chords and progressions ready to be used in your DAW, Akai MPC, or Roland MC-707/101
-- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.
+- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ scientists worldwide. 140 ready-to-use skills plus 100+ scientific databases covering biology, chemist
 - [trailofbits/skills-curated](https://github.com/trailofbits/skills-curated) - Curated, community-vetted Claude Code plugin marketplace
 - [trailofbits/skills](https://github.com/trailofbits/skills) - Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
