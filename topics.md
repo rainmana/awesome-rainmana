@@ -375,6 +375,7 @@
 
 ## agents 
 
+- [microsoft/agent-framework](https://github.com/microsoft/agent-framework) - A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient agents.
 - [docker/docker-agent](https://github.com/docker/docker-agent) - AI Agent Builder and Runtime by Docker Engineering
 - [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients.
@@ -418,6 +419,7 @@
 
 ## ai 
 
+- [microsoft/agent-framework](https://github.com/microsoft/agent-framework) - A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient agents.
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI powered Kubernetes Assistant
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
@@ -1266,7 +1268,7 @@
 
 ## bioinformatics 
 
-- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.
+- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ scientists worldwide. 140 ready-to-use skills plus 100+ scientific databases covering biology, chemist
 - [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
 - [Sarah-Hesham-2022/Unity-Protein-Visualization](https://github.com/Sarah-Hesham-2022/Unity-Protein-Visualization) - Protein Visualization using Unity and C# analysis on PDB Files.
 - [google/deepvariant](https://github.com/google/deepvariant) - DeepVariant is an analysis pipeline that uses a deep neural network to call genetic variants from next-generation DNA sequencing data.
@@ -2006,7 +2008,7 @@
 ## data-analysis 
 
 - [TileDB-Inc/TileDB](https://github.com/TileDB-Inc/TileDB) - The Universal Storage Engine
-- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.
+- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ scientists worldwide. 140 ready-to-use skills plus 100+ scientific databases covering biology, chemist
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
@@ -2413,6 +2415,7 @@
 
 ## dotnet 
 
+- [microsoft/agent-framework](https://github.com/microsoft/agent-framework) - A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 - [insidersec/insider](https://github.com/insidersec/insider) - Static Application Security Testing (SAST) engine focused on covering the OWASP Top 10, to make source code analysis to find vulnerabilities right in the source code, focused on a agile and easy to im
 - [LykosAI/StabilityMatrix](https://github.com/LykosAI/StabilityMatrix) - Multi-Platform Package Manager for Stable Diffusion
@@ -6822,6 +6825,7 @@
 
 ## python 
 
+- [microsoft/agent-framework](https://github.com/microsoft/agent-framework) - A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient agents.
 - [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) - VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
 - [pwndbg/pwndbg](https://github.com/pwndbg/pwndbg) - Exploit Development and Reverse Engineering with GDB & LLDB Made Easy
