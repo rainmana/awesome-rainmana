@@ -5005,6 +5005,7 @@
 
 ## others 
 
+- [rebane2001/xikipedia](https://github.com/rebane2001/xikipedia) - Wikipedia as a social media feed
 - [cheat-engine/cheat-engine](https://github.com/cheat-engine/cheat-engine) - Cheat Engine. A development environment focused on modding
 - [rainmana/Understand-Anything](https://github.com/rainmana/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
 - [pmarreck/gemma4-heretical](https://github.com/pmarreck/gemma4-heretical) - Abliterated Gemma 4 31B for Ollama and MLX — one-command setup with correct chat template fix
