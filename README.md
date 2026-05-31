@@ -1514,6 +1514,7 @@
 
 ## Others 
 
+- [0xNyk/awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent) - A curated list of awesome skills, tools, integrations, and resources for Hermes Agent by Nous Research
 - [DCCouncil/law-xml](https://github.com/DCCouncil/law-xml) - DC Law - statutes and code - in xml format. (project: https://github.com/DCCouncil/dc-law)
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.
 - [doyensec/awesome-electronjs-hacking](https://github.com/doyensec/awesome-electronjs-hacking) - A curated list of awesome resources about Electron.js (in)security
@@ -1978,6 +1979,7 @@
 
 ## Python 
 
+- [chigwell/skilldock.io](https://github.com/chigwell/skilldock.io) - SkillDock.io is a registry of reusable AI Skills based on the AgentSkills specification. Discover, install, and publish versioned Skills that work across OpenClaw, Claude, and any Skills-compatible ag
 - [bugy/script-server](https://github.com/bugy/script-server) - Web UI for your scripts with execution management
 - [microsoft/agent-framework](https://github.com/microsoft/agent-framework) - A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient agents.
