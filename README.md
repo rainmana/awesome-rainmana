@@ -323,6 +323,7 @@
 
 ## C# # 
 
+- [alexandrehtrb/Pororoca](https://github.com/alexandrehtrb/Pororoca) - An API testing tool with support for HTTP/2 and HTTP/3. Alternative to Postman.
 - [tryashtar/nbt-studio](https://github.com/tryashtar/nbt-studio) - An up-to-date NBT viewer and editor with lots of new features
 - [BGriffy78/srecordizer](https://github.com/BGriffy78/srecordizer) - Motorola S-Record File Editor
 - [madskristensen/WebCompiler](https://github.com/madskristensen/WebCompiler) - Visual Studio extension for compiling LESS and Sass files
@@ -1092,6 +1093,7 @@
 
 ## JavaScript 
 
+- [archived-aft-bogus-german-visa-rejectio/insomnium](https://github.com/archived-aft-bogus-german-visa-rejectio/insomnium) - Insomnium is a fast local API testing tool that is privacy-focused and 100% local. For testing GraphQL, REST, WebSockets and gRPC. This is a fork of Kong/insomnia
 - [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
 - [Aricwithana/LCARS-SDK](https://github.com/Aricwithana/LCARS-SDK) - A development kit and environment umbrella designed specifically for creating a functional implementation of the LCARS methodology
 - [cweijan/vscode-office](https://github.com/cweijan/vscode-office) - Let VSCode support previewing PDF, Excel, Word and other formats, and add markdown WYSIWYG editor.
@@ -1432,6 +1434,7 @@
 
 ## MDX 
 
+- [veniceai/api-docs](https://github.com/veniceai/api-docs) - Docs powering https://docs.venice.ai
 - [TARS-AI-Community/docs](https://github.com/TARS-AI-Community/docs) - The official documentation hub for TARS-AI. Find guides, technical references, and contribution resources here.
 - [mitre-attack/attack-data-model](https://github.com/mitre-attack/attack-data-model) - ATT&CK Data Model (ADM): A TypeScript library for structured interaction with MITRE ATT&CK datasets. Uses Zod schemas, TypeScript types, and ES6 classes to provide a type-safe, object-oriented interfa
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
@@ -1514,6 +1517,7 @@
 
 ## Others 
 
+- [lisakim0/postman-alternatives](https://github.com/lisakim0/postman-alternatives) - List of Awesome Postman Alternatives (Open Source & Free)
 - [0xNyk/awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent) - A curated list of awesome skills, tools, integrations, and resources for Hermes Agent by Nous Research
 - [DCCouncil/law-xml](https://github.com/DCCouncil/law-xml) - DC Law - statutes and code - in xml format. (project: https://github.com/DCCouncil/dc-law)
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.
@@ -3344,6 +3348,8 @@
 
 ## TypeScript 
 
+- [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
+- [firecamp-dev/firecamp](https://github.com/firecamp-dev/firecamp) - Developer-first OpenSource API DevTool, Postman/Insomnia alternative.
 - [rainmana/Understand-Anything](https://github.com/rainmana/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
 - [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
 - [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) - Integrate Git version control with automatic commit-and-sync and other advanced features in Obsidian.md
@@ -3657,6 +3663,7 @@
 
 ## Vue 
 
+- [flawiddsouza/Restfox](https://github.com/flawiddsouza/Restfox) - Offline-First Minimalistic HTTP & Socket Testing Client for the Web & Desktop
 - [CosasDePuma/Masterchef](https://github.com/CosasDePuma/Masterchef) - 🍳 The most delicious pentesting tool
 - [beercss/beercss](https://github.com/beercss/beercss) - Build material design interfaces in record time... without stress for devs... 🍺💛
 - [lissy93/dashy](https://github.com/lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
