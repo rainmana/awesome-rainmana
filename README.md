@@ -239,7 +239,7 @@
 - [tricorderproject/arducordermini](https://github.com/tricorderproject/arducordermini) - Arducorder Mini
 - [mitjafelicijan/binary-visualization](https://github.com/mitjafelicijan/binary-visualization) - Visualizations and exploration of binary files
 - [mattgodbolt/zindex](https://github.com/mattgodbolt/zindex) - Create an index on a compressed text file
-- [hmgle/graftcp](https://github.com/hmgle/graftcp) - A flexible tool for redirecting a given program's TCP traffic to SOCKS5 or HTTP proxy.
+- [hmgle/graftcp](https://github.com/hmgle/graftcp) - A flexible tool for redirecting a program's TCP, UDP, and DNS traffic to SOCKS5 or HTTP proxies.
 - [uber/h3](https://github.com/uber/h3) - Hexagonal hierarchical geospatial indexing system
 - [corellium/usbfluxd](https://github.com/corellium/usbfluxd) - Redirects the standard usbmuxd socket to allow connections to local and remote usbmuxd instances so remote devices appear connected locally.
 - [corellium/linux-m1](https://github.com/corellium/linux-m1) - Linux kernel source tree
@@ -409,6 +409,7 @@
 
 ## C++ 
 
+- [kuzudb/kuzu](https://github.com/kuzudb/kuzu) - Embedded property graph database built for speed. Vector search and full-text search built in. Implements Cypher.
 - [TrunkRecorder/trunk-recorder](https://github.com/TrunkRecorder/trunk-recorder) - Records calls from a Trunked Radio System (P25 & SmartNet)
 - [rtl-airband/RTLSDR-Airband](https://github.com/rtl-airband/RTLSDR-Airband) - Multichannel AM/NFM demodulator
 - [GarageGames/Torque2D](https://github.com/GarageGames/Torque2D) - MIT Licensed Open Source version of Torque 2D game engine from GarageGames
@@ -653,6 +654,7 @@
 
 ## Go 
 
+- [rverton/webanalyze](https://github.com/rverton/webanalyze) - Port of Wappalyzer (uncovers technologies used on websites) to automate mass scanning.
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI powered Kubernetes Assistant
 - [docker/docker-agent](https://github.com/docker/docker-agent) - AI Agent Builder and Runtime by Docker Engineering
@@ -1517,6 +1519,7 @@
 
 ## Others 
 
+- [Neph0s/awesome-llm-role-playing-with-persona](https://github.com/Neph0s/awesome-llm-role-playing-with-persona) - Awesome-llm-role-playing-with-persona: a curated list of resources for large language models for role-playing with assigned personas
 - [lisakim0/postman-alternatives](https://github.com/lisakim0/postman-alternatives) - List of Awesome Postman Alternatives (Open Source & Free)
 - [0xNyk/awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent) - A curated list of awesome skills, tools, integrations, and resources for Hermes Agent by Nous Research
 - [DCCouncil/law-xml](https://github.com/DCCouncil/law-xml) - DC Law - statutes and code - in xml format. (project: https://github.com/DCCouncil/dc-law)
@@ -1598,6 +1601,7 @@
 - [fr0gger/awesome-ida-x64-olly-plugin](https://github.com/fr0gger/awesome-ida-x64-olly-plugin) - A curated list of IDA x64DBG, Ghidra and OllyDBG plugins.
 - [mandiant/iocs](https://github.com/mandiant/iocs) - FireEye Publicly Shared Indicators of Compromise (IOCs)
 - [mandiant/capa-rules](https://github.com/mandiant/capa-rules) - Standard collection of rules for capa: the tool for enumerating the capabilities of programs
+- [requestly/requestly](https://github.com/requestly/requestly) - Community hub for Requestly API Client — bugs, feature requests, and roadmap. The privacy-first Postman alternative.
 - [rainmana/mcw-framework](https://github.com/rainmana/mcw-framework) - Meta-Context Framework is novel research into a new coordination-focused lens for understanding human–AI interaction through information exchange rather than model capability.
 - [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron [SUBMISSIONS ARE TEMPORARILY PAUSED BECAUSE I'M TIRED OF REVIEWING LOW-QUALITY STUFF]
 - [Shellyvishwakarma/SimHumaLator](https://github.com/Shellyvishwakarma/SimHumaLator) - Simulator that can synthesize human micro-Doppler radar returns as a function of a diverse set of target parameters, radar parameters, and radar signal processing parameters. It uses human animation m
@@ -1983,6 +1987,7 @@
 
 ## Python 
 
+- [enthec/webappanalyzer](https://github.com/enthec/webappanalyzer) - This project aims to maintain Wappalyzer technologies
 - [chigwell/skilldock.io](https://github.com/chigwell/skilldock.io) - SkillDock.io is a registry of reusable AI Skills based on the AgentSkills specification. Discover, install, and publish versioned Skills that work across OpenClaw, Claude, and any Skills-compatible ag
 - [bugy/script-server](https://github.com/bugy/script-server) - Web UI for your scripts with execution management
 - [microsoft/agent-framework](https://github.com/microsoft/agent-framework) - A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.
@@ -2330,7 +2335,6 @@
 - [openinterpreter/01](https://github.com/openinterpreter/01) - The #1 open-source voice interface for desktop, mobile, and ESP32 chips.
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [Repello-AI/whistleblower](https://github.com/Repello-AI/whistleblower) - Whistleblower is a offensive security tool for testing against system prompt leakage and capability discovery of an AI application exposed through API. Built for AI engineers, security researchers and
-- [aws-samples/serverless-rag-demo](https://github.com/aws-samples/serverless-rag-demo) - Amazon Bedrock Foundation models with Amazon Opensearch Serverless as a Vector DB
 - [weaviate/Verba](https://github.com/weaviate/Verba) - Retrieval Augmented Generation (RAG) chatbot powered by Weaviate
 - [niceboygithub/XiaomiGateway3fw](https://github.com/niceboygithub/XiaomiGateway3fw) - Provide several firmwares for Xiaomi Gateway 3 (ZNDMWG03LM, ZNDMWG02LM). And bin uitls, boot_ctrl (enhanced), more function of busybox, dropbearmulti for ssh.
 - [Matheus-Garbelini/sweyntooth_bluetooth_low_energy_attacks](https://github.com/Matheus-Garbelini/sweyntooth_bluetooth_low_energy_attacks) - Proof of Concept of Sweyntooth Bluetooth Low Energy (BLE) vulnerabilities.
@@ -2803,7 +2807,6 @@
 - [moonpyk/dtrx](https://github.com/moonpyk/dtrx) - Intelligent archive extraction
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [tbertinmahieux/MSongsDB](https://github.com/tbertinmahieux/MSongsDB) - Code for the Million Song Dataset, the dataset contains metadata and audio analysis for a million tracks, a collaboration between The Echo Nest and LabROSA. See website for details.
-- [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core) - dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
 - [Fraunhofer-AISEC/gallia](https://github.com/Fraunhofer-AISEC/gallia) - Extendable Pentesting Framework
 - [laluka/bypass-url-parser](https://github.com/laluka/bypass-url-parser) - bypass-url-parser
 - [mandiant/flare-floss](https://github.com/mandiant/flare-floss) - FLARE Obfuscated String Solver - Automatically extract obfuscated strings from malware.
@@ -3131,6 +3134,7 @@
 - [sharkdp/binocle](https://github.com/sharkdp/binocle) - a graphical tool to visualize binary data
 - [sharkdp/vivid](https://github.com/sharkdp/vivid) - A themeable LS_COLORS generator with a rich filetype datebase
 - [sharkdp/hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
+- [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core) - dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
 - [icedland/iced](https://github.com/icedland/iced) - Blazing fast and correct x86/x64 disassembler, assembler, decoder, encoder for Rust, .NET, Java, Python, Lua
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [svix/svix-webhooks](https://github.com/svix/svix-webhooks) - The open source and enterprise-ready webhooks service 🦀
@@ -3423,7 +3427,6 @@
 - [punkpeye/fastmcp](https://github.com/punkpeye/fastmcp) - A TypeScript framework for building MCP servers.
 - [appledragon/DumpStorm](https://github.com/appledragon/DumpStorm) - Powerful crash dump analyzer for debugging native applications. Analyze minidump files (.dmp), extract symbols, enhance stack traces, and debug crashes with register tooltips and multilingual support.
 - [mixn/carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
-- [requestly/requestly](https://github.com/requestly/requestly) - Open-Source HTTP Interceptor & Mocking Tool
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [openclaw/mcporter](https://github.com/openclaw/mcporter) - Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
@@ -3486,6 +3489,7 @@
 - [dgreif/ring](https://github.com/dgreif/ring) - Unofficial packages for Ring Doorbells, Cameras, Alarm System, and Smart Lighting
 - [kimmobrunfeldt/squint](https://github.com/kimmobrunfeldt/squint) - Makes visual reviews of web app releases easy.
 - [thelastoutpostworkshop/arduino-maker-workshop](https://github.com/thelastoutpostworkshop/arduino-maker-workshop) - The ultimate tool for makers to bring Arduino projects to life in Visual Studio Code
+- [aws-samples/serverless-rag-demo](https://github.com/aws-samples/serverless-rag-demo) - Amazon Bedrock Foundation models with Amazon Opensearch Serverless as a Vector DB
 - [lmstudio-ai/lmstudio-js](https://github.com/lmstudio-ai/lmstudio-js) - LM Studio TypeScript SDK
 - [Jonghakseo/chrome-extension-boilerplate-react-vite](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite) - Chrome Extension Boilerplate with React + Vite + Typescript
 - [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Less chaos. More flow.
