@@ -626,13 +626,14 @@
 - [n8n-io/self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit) - The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.
 - [Zipstack/unstract](https://github.com/Zipstack/unstract) - LLM-Driven Extraction of Unstructured Data — Built for API Deployments & ETL Pipeline Workflows
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
 - [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. Includes AI personas, AGI functions, world-class Beam multi-model chats, text-to-image, voice, response streaming, 
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
 - [victordibia/autogen-ui](https://github.com/victordibia/autogen-ui) - Web UI for AutoGen (A Framework Multi-Agent LLM Applications)
 - [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) - PraisonAI 🦞 — Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous self-improving agents that research, plan, code, and execute tasks. Deployed in 5 lines of code with buil
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
+- [SamurAIGPT/awesome-hermes-agent](https://github.com/SamurAIGPT/awesome-hermes-agent) - A curated list of skills, plugins, tools, integrations, and resources for Hermes Agent by Nous Research
 
 ## algorithm 
 
@@ -1025,6 +1026,7 @@
 - [plenaryapp/awesome-rss-feeds](https://github.com/plenaryapp/awesome-rss-feeds) - Awesome RSS feeds - A curated list of RSS feeds (and OPML files) used in Recommended Feeds and local news sections of Plenary - an RSS reader, article downloader and a podcast player app for android
 - [ringabout/awesome-nim](https://github.com/ringabout/awesome-nim) - A curated list of awesome Nim frameworks, libraries, software and resources.
 - [danielecook/Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) - A curated list of awesome Bioinformatics libraries and software.
+- [SamurAIGPT/awesome-hermes-agent](https://github.com/SamurAIGPT/awesome-hermes-agent) - A curated list of skills, plugins, tools, integrations, and resources for Hermes Agent by Nous Research
 - [djsime1/awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero) - 🐬 A collection of awesome resources for the Flipper Zero device.
 - [sirredbeard/awesome-wsl](https://github.com/sirredbeard/awesome-wsl) - Awesome list dedicated to Windows Subsystem for Linux
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
@@ -1053,6 +1055,7 @@
 
 ## awesome-list 
 
+- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - :scream: A curated list of amazingly awesome OSINT
 - [Neph0s/awesome-llm-role-playing-with-persona](https://github.com/Neph0s/awesome-llm-role-playing-with-persona) - Awesome-llm-role-playing-with-persona: a curated list of resources for large language models for role-playing with assigned personas
 - [0xNyk/awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent) - A curated list of awesome skills, tools, integrations, and resources for Hermes Agent by Nous Research
 - [tajmone/awesome-interactive-fiction](https://github.com/tajmone/awesome-interactive-fiction) - A list of interactive fiction frameworks, tools, and resources
@@ -1162,6 +1165,7 @@
 - [hahwul/WebHackersWeapons](https://github.com/hahwul/WebHackersWeapons) - ⚔️ Web Hacker's Weapons / A collection of cool tools used by Web hackers. Happy hacking , Happy bug-hunting
 - [ringabout/awesome-nim](https://github.com/ringabout/awesome-nim) - A curated list of awesome Nim frameworks, libraries, software and resources.
 - [danielecook/Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) - A curated list of awesome Bioinformatics libraries and software.
+- [SamurAIGPT/awesome-hermes-agent](https://github.com/SamurAIGPT/awesome-hermes-agent) - A curated list of skills, plugins, tools, integrations, and resources for Hermes Agent by Nous Research
 - [djsime1/awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero) - 🐬 A collection of awesome resources for the Flipper Zero device.
 - [sirredbeard/awesome-wsl](https://github.com/sirredbeard/awesome-wsl) - Awesome list dedicated to Windows Subsystem for Linux
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
@@ -1439,7 +1443,7 @@
 - [dsdanielpark/Bard-API](https://github.com/dsdanielpark/Bard-API) - The unofficial python package that returns response of Google Bard through cookie value.
 - [jackmpcollins/magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
 - [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://docs.h2o.ai/h2o-llmstudio/
-- [SamurAIGPT/Open-Custom-GPT](https://github.com/SamurAIGPT/Open-Custom-GPT) - Create Custom GPT and add/embed on your site using Assistants api
+- [SamurAIGPT/awesome-hermes-agent](https://github.com/SamurAIGPT/awesome-hermes-agent) - A curated list of skills, plugins, tools, integrations, and resources for Hermes Agent by Nous Research
 
 ## chatgpt 
 
@@ -1492,7 +1496,6 @@
 - [microsoft/promptflow](https://github.com/microsoft/promptflow) - Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
 - [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://docs.h2o.ai/h2o-llmstudio/
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
-- [SamurAIGPT/Open-Custom-GPT](https://github.com/SamurAIGPT/Open-Custom-GPT) - Create Custom GPT and add/embed on your site using Assistants api
 - [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.
 - [nezort11/chatgpt-mobile](https://github.com/nezort11/chatgpt-mobile) - 🤖💡📱 ChatGPT mobile app built using Expo/React Native
 - [theiskaa/MobileGPT](https://github.com/theiskaa/MobileGPT) - 💬 ChatGPT Mobile Application (iOS and Android) built with Flutter
@@ -2212,6 +2215,7 @@
 - [capistrano/capistrano](https://github.com/capistrano/capistrano) - A deployment automation tool built on Ruby, Rake, and SSH.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [nasa-jpl/launchbox](https://github.com/nasa-jpl/launchbox) - A runtime environment for web applications.
+- [SamurAIGPT/awesome-hermes-agent](https://github.com/SamurAIGPT/awesome-hermes-agent) - A curated list of skills, plugins, tools, integrations, and resources for Hermes Agent by Nous Research
 - [StackStorm/st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 160 i
 
 ## design 
@@ -4067,7 +4071,7 @@
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
 - [kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain) - 😎 Awesome list of tools and projects with the awesome LangChain framework
 - [Zipstack/unstract](https://github.com/Zipstack/unstract) - LLM-Driven Extraction of Unstructured Data — Built for API Deployments & ETL Pipeline Workflows
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
@@ -4089,6 +4093,7 @@
 - [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
 - [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) - Automated Penetration Testing Agentic Framework Powered by Large Language Models
 - [salesforce/xgen](https://github.com/salesforce/xgen) - Salesforce open-source LLMs with 8k sequence length.
+- [SamurAIGPT/awesome-hermes-agent](https://github.com/SamurAIGPT/awesome-hermes-agent) - A curated list of skills, plugins, tools, integrations, and resources for Hermes Agent by Nous Research
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [argilla-io/argilla](https://github.com/argilla-io/argilla) - Argilla is a collaboration tool for AI engineers and domain experts to build high-quality datasets
 - [adbar/trafilatura](https://github.com/adbar/trafilatura) - Python & Command-line tool to gather text and metadata on the Web: Crawling, scraping, extraction, output as CSV, JSON, HTML, MD, TXT, XML
@@ -4440,7 +4445,6 @@
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [nanbingxyz/5ire](https://github.com/nanbingxyz/5ire) - 5ire is a cross-platform desktop AI assistant, MCP client. It compatible with major service providers,  supports local knowledge base and  tools via model context protocol servers .
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
@@ -4448,6 +4452,7 @@
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - Platform dedicated to building an open foundation for applied Artificial Intelligence, designed for people seeking production-ready AI systems they can truly control, extend and deploy anywhere.
+- [SamurAIGPT/awesome-hermes-agent](https://github.com/SamurAIGPT/awesome-hermes-agent) - A curated list of skills, plugins, tools, integrations, and resources for Hermes Agent by Nous Research
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 
@@ -4710,9 +4715,8 @@
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
-- [SamurAIGPT/Open-Custom-GPT](https://github.com/SamurAIGPT/Open-Custom-GPT) - Create Custom GPT and add/embed on your site using Assistants api
 - [nocode-js/sequential-workflow-designer](https://github.com/nocode-js/sequential-workflow-designer) - Customizable no-code component for building flow-based programming applications or workflow automation. 0 external dependencies. Check out https://nocode-js.com
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [buildship-ai/rowy](https://github.com/buildship-ai/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
@@ -4898,6 +4902,7 @@
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [nasa-jpl/open-source-rover](https://github.com/nasa-jpl/open-source-rover) - A build-it-yourself, 6-wheel rover based on the rovers on Mars!
 - [blst-security/cherrybomb](https://github.com/blst-security/cherrybomb) - Stop half-done APIs! Cherrybomb is a CLI tool that helps you avoid undefined user behaviour by auditing your API specifications, validating them and running API security tests.
+- [SamurAIGPT/awesome-hermes-agent](https://github.com/SamurAIGPT/awesome-hermes-agent) - A curated list of skills, plugins, tools, integrations, and resources for Hermes Agent by Nous Research
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [pycaret/pycaret](https://github.com/pycaret/pycaret) - Open-source, low-code AutoML platform for Python. PyCaret 4.0: sklearn-native engine + React control plane.
 - [Budibase/budibase](https://github.com/Budibase/budibase) - AI agents, automations and apps that run your operations. Model agnostic.
@@ -4950,7 +4955,6 @@
 - [tom-doerr/zsh_codex](https://github.com/tom-doerr/zsh_codex) - This is a ZSH plugin that enables you to use OpenAI's Codex AI in the command line.
 - [jackmpcollins/magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
-- [SamurAIGPT/Open-Custom-GPT](https://github.com/SamurAIGPT/Open-Custom-GPT) - Create Custom GPT and add/embed on your site using Assistants api
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [nezort11/chatgpt-mobile](https://github.com/nezort11/chatgpt-mobile) - 🤖💡📱 ChatGPT mobile app built using Expo/React Native
 - [theiskaa/MobileGPT](https://github.com/theiskaa/MobileGPT) - 💬 ChatGPT Mobile Application (iOS and Android) built with Flutter
@@ -4981,6 +4985,7 @@
 
 ## osint 
 
+- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - :scream: A curated list of amazingly awesome OSINT
 - [mschwager/gitem](https://github.com/mschwager/gitem) - A Github organization reconnaissance tool.
 - [atiilla/gitrecon](https://github.com/atiilla/gitrecon) - This tool uses the GitHub API to scan repositories owned by a user for email addresses and associated names. It provides options to scan specific repositories and exclude forked repositories. Addition
 - [GONZOsint/gitrecon](https://github.com/GONZOsint/gitrecon) - OSINT tool to get information from a Github and Gitlab profile and find user's email addresses leaked on commits.
@@ -5040,6 +5045,7 @@
 
 ## others 
 
+- [MaltegoTech/maltego-trx](https://github.com/MaltegoTech/maltego-trx) - Maltego Transform library for Python
 - [lisakim0/postman-alternatives](https://github.com/lisakim0/postman-alternatives) - List of Awesome Postman Alternatives (Open Source & Free)
 - [veniceai/api-docs](https://github.com/veniceai/api-docs) - Docs powering https://docs.venice.ai
 - [rebane2001/xikipedia](https://github.com/rebane2001/xikipedia) - Wikipedia as a social media feed
@@ -7287,7 +7293,7 @@
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 - [Danielskry/Awesome-RAG](https://github.com/Danielskry/Awesome-RAG) - 😎 Awesome list of Retrieval-Augmented Generation (RAG) applications in Generative AI.
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [microsoft/graphrag](https://github.com/microsoft/graphrag) - A modular graph-based Retrieval-Augmented Generation (RAG) system
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
@@ -8696,6 +8702,7 @@
 
 ## website 
 
+- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - :scream: A curated list of amazingly awesome OSINT
 - [myles/awesome-static-generators](https://github.com/myles/awesome-static-generators) - A curated list of static web site generators.
 - [saschagrunert/webapp.rs](https://github.com/saschagrunert/webapp.rs) - A web application completely written in Rust. 🌍
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
