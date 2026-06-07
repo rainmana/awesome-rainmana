@@ -908,6 +908,7 @@
 
 ## HTML 
 
+- [googleapis/googleapis.github.io](https://github.com/googleapis/googleapis.github.io) - The GitHub pages site for the googleapis organization.
 - [rebane2001/xikipedia](https://github.com/rebane2001/xikipedia) - Wikipedia as a social media feed
 - [GitFrog1111/OpenWhip](https://github.com/GitFrog1111/OpenWhip) - 
 - [armandinhox/Cisco_AnyConnect_VPN](https://github.com/armandinhox/Cisco_AnyConnect_VPN) - Cisco AnyConnect VPN Client LINUX / WINDOWS / MACOS
@@ -1095,6 +1096,7 @@
 
 ## JavaScript 
 
+- [KunihiroS/google-patents-mcp](https://github.com/KunihiroS/google-patents-mcp) - 
 - [archived-aft-bogus-german-visa-rejectio/insomnium](https://github.com/archived-aft-bogus-german-visa-rejectio/insomnium) - Insomnium is a fast local API testing tool that is privacy-focused and 100% local. For testing GraphQL, REST, WebSockets and gRPC. This is a fork of Kong/insomnia
 - [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
 - [Aricwithana/LCARS-SDK](https://github.com/Aricwithana/LCARS-SDK) - A development kit and environment umbrella designed specifically for creating a functional implementation of the LCARS methodology
@@ -1334,6 +1336,7 @@
 
 ## Jupyter Notebook 
 
+- [google/patents-public-data](https://github.com/google/patents-public-data) - Patent analysis using the Google Patents Public Datasets on BigQuery
 - [TeamHG-Memex/soft404](https://github.com/TeamHG-Memex/soft404) - A classifier for detecting soft 404 pages
 - [TeamHG-Memex/deep-deep](https://github.com/TeamHG-Memex/deep-deep) - Adaptive crawler which uses Reinforcement Learning methods
 - [TeamHG-Memex/eli5](https://github.com/TeamHG-Memex/eli5) - A library for debugging/inspecting machine learning classifiers and explaining their predictions
@@ -1989,6 +1992,7 @@
 
 ## Python 
 
+- [riemannzeta/patent_mcp_server](https://github.com/riemannzeta/patent_mcp_server) - FastMCP Server for USPTO data
 - [PaulSec/API-dnsdumpster.com](https://github.com/PaulSec/API-dnsdumpster.com) - (Unofficial) Python API for https://dnsdumpster.com/
 - [MaltegoTech/maltego-trx](https://github.com/MaltegoTech/maltego-trx) - Maltego Transform library for Python
 - [enthec/webappanalyzer](https://github.com/enthec/webappanalyzer) - This project aims to maintain Wappalyzer technologies
@@ -3358,6 +3362,7 @@
 
 ## TypeScript 
 
+- [ergut/mcp-bigquery-server](https://github.com/ergut/mcp-bigquery-server) - A Model Context Protocol (MCP) server that provides secure, read-only access to BigQuery datasets. Enables Large Language Models (LLMs) to safely query and analyze data through a standardized interfac
 - [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
 - [firecamp-dev/firecamp](https://github.com/firecamp-dev/firecamp) - Developer-first OpenSource API DevTool, Postman/Insomnia alternative.
 - [rainmana/Understand-Anything](https://github.com/rainmana/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
