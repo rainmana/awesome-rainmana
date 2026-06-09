@@ -632,6 +632,7 @@
 - [iris-sast/iris](https://github.com/iris-sast/iris) - A neurosymbolic framework for vulnerability detection in code
 - [dreadnode/robopages](https://github.com/dreadnode/robopages) - A YAML based format for describing tools to LLMs, like man pages but for robots!
 - [linuxserver/docker-pwndrop](https://github.com/linuxserver/docker-pwndrop) - 
+- [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 
 ## Elixir 
@@ -1528,7 +1529,7 @@
 - [lisakim0/postman-alternatives](https://github.com/lisakim0/postman-alternatives) - List of Awesome Postman Alternatives (Open Source & Free)
 - [0xNyk/awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent) - A curated list of awesome skills, tools, integrations, and resources for Hermes Agent by Nous Research
 - [DCCouncil/law-xml](https://github.com/DCCouncil/law-xml) - DC Law - statutes and code - in xml format. (project: https://github.com/DCCouncil/dc-law)
-- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.
+- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
 - [doyensec/awesome-electronjs-hacking](https://github.com/doyensec/awesome-electronjs-hacking) - A curated list of awesome resources about Electron.js (in)security
 - [ProjectRecon/awesome-ai-agents-security](https://github.com/ProjectRecon/awesome-ai-agents-security) - A living map of the AI agent security ecosystem.
 - [macfuse/macfuse](https://github.com/macfuse/macfuse) - macFUSE umbrella repository
@@ -1993,6 +1994,7 @@
 
 ## Python 
 
+- [7h30th3r0n3/Raspyjack](https://github.com/7h30th3r0n3/Raspyjack) - Small offensive network toolkit for Raspberry Pi (+ Waveshare 1.44″ LCD HAT) and Cardputer Zero inspired by pager and sharkjack fonctionnalities.  For redteam and educational purposes only.
 - [riemannzeta/patent_mcp_server](https://github.com/riemannzeta/patent_mcp_server) - FastMCP Server for USPTO data
 - [PaulSec/API-dnsdumpster.com](https://github.com/PaulSec/API-dnsdumpster.com) - (Unofficial) Python API for https://dnsdumpster.com/
 - [MaltegoTech/maltego-trx](https://github.com/MaltegoTech/maltego-trx) - Maltego Transform library for Python
@@ -2657,7 +2659,6 @@
 - [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - YOLOv5 🚀 in PyTorch &gt; ONNX &gt; CoreML &gt; TFLite
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
-- [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
 - [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Experience macOS just like before
 - [swirlai/swirl-search](https://github.com/swirlai/swirl-search) - AI Search & RAG Without Moving Your Data. Get instant answers from your company's knowledge across 100+ apps while keeping data secure. Deploy in minutes, not months.
 - [PyCQA/isort](https://github.com/PyCQA/isort) - A Python utility / library to sort imports.
@@ -3042,7 +3043,7 @@
 - [stakpak/agent](https://github.com/stakpak/agent) - Ship your code, on autopilot. An open source agent that lives on your machines 24/7 and keeps your apps running. 🦀
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - Search infrastructure for AI
 - [ultraworkers/claw-code-parity](https://github.com/ultraworkers/claw-code-parity) - Join Discord: https://discord.gg/5TUQKqFWd /  claw-code Rust port parity work - it is temporary work while claw-code repo is doing migration
-- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
+- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.
 - [huggingface/hf-mount](https://github.com/huggingface/hf-mount) - Mount Hugging Face Buckets and repos as local filesystems. No download, no copy, no waiting.
 - [exaroth/liveboat](https://github.com/exaroth/liveboat) - Generate static pages from RSS urls
 - [JaredStewart/coderlm](https://github.com/JaredStewart/coderlm) - Tree-sitter-powered code indexing server that gives LLM agents precise, on-demand access to symbols, implementations, callers, tests, and grep across multi-language projects - so they explore codebase
@@ -3368,7 +3369,7 @@
 - [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
 - [firecamp-dev/firecamp](https://github.com/firecamp-dev/firecamp) - Developer-first OpenSource API DevTool, Postman/Insomnia alternative.
 - [rainmana/Understand-Anything](https://github.com/rainmana/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
-- [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
+- [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
 - [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) - Integrate Git version control with automatic commit-and-sync and other advanced features in Obsidian.md
 - [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern REST API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [BlockSecCA/joern-mcp](https://github.com/BlockSecCA/joern-mcp) - MCP server wrapping Joern for AI-driven code security analysis
