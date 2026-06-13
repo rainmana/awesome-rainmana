@@ -1491,7 +1491,6 @@
 
 ## Nix 
 
-- [ad-si/awesome-soundfonts](https://github.com/ad-si/awesome-soundfonts) - A curated list of awesome soundfont software, libraries, and resources.
 - [FlafyDev/combined-manager](https://github.com/FlafyDev/combined-manager) - NixOS personal configuration structure library
 
 ## Nunjucks 
@@ -1544,6 +1543,7 @@
 - [oxnr/awesome-bigdata](https://github.com/oxnr/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
 - [agarcialeon/awesome-database](https://github.com/agarcialeon/awesome-database) - A curated list of amazingly awesome database libraries, resources.
 - [mrin9/northwind](https://github.com/mrin9/northwind) - Database agnostic DB Script to create Northwind Data Model with some sample data
+- [ad-si/awesome-soundfonts](https://github.com/ad-si/awesome-soundfonts) - A curated list of awesome soundfont software, libraries, and resources.
 - [Curated-Awesome-Lists/awesome-ai-music-generation](https://github.com/Curated-Awesome-Lists/awesome-ai-music-generation) - A curated compilation of AI-driven generative music resources and projects. Explore the blend of machine learning algorithms and musical creativity.
 - [harlaksh/ultimate-duckdb](https://github.com/harlaksh/ultimate-duckdb) - Ultimate list of all things DuckDB. Quack Quack 🦆
 - [mherrmann/electron-alternatives](https://github.com/mherrmann/electron-alternatives) - Few Cross platform desktop GUI App development options are listed here
@@ -2237,6 +2237,7 @@
 - [hak5/wifipineapplepager-payloads](https://github.com/hak5/wifipineapplepager-payloads) - The Official WiFi Pineapple Pager Payload Repository
 - [dwave-examples/mutual-information-feature-selection](https://github.com/dwave-examples/mutual-information-feature-selection) - Use mutual information to select features in a Titanic data set
 - [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui) - MagenticLite is an experimental agent that works across the browser and local file system
+- [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) - AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
 - [open-mmlab/Amphion](https://github.com/open-mmlab/Amphion) - Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, 
 - [YatingMusic/remi](https://github.com/YatingMusic/remi) - "Pop Music Transformer: Beat-based Modeling and Generation of Expressive Pop Piano Compositions", ACM Multimedia 2020
 - [ivcylc/OpenMusic](https://github.com/ivcylc/OpenMusic) - OpenMusic: SOTA Text-to-music (TTM) Generation
@@ -3467,7 +3468,6 @@
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
 - [AI-QL/tuui](https://github.com/AI-QL/tuui) - A desktop MCP client designed as a tool unitary utility integration, accelerating AI adoption through the Model Context Protocol (MCP) and enabling cross-vendor LLM API orchestration.
 - [agno-agi/agent-ui](https://github.com/agno-agi/agent-ui) - A modern chat interface for AI agents built with Next.js, Tailwind CSS, and TypeScript.
-- [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) - AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
 - [JNKKKK/pianochord.io](https://github.com/JNKKKK/pianochord.io) - A pure frontend Web Application for people to browse through a large collection of piano chords
 - [tonaljs/tonal](https://github.com/tonaljs/tonal) - A music theory library for Javascript
 - [ZaneH/piano-trainer](https://github.com/ZaneH/piano-trainer) - 🎹 Memorize piano scales with ease! A piano practice program w/ MIDI support. Consider it an interactive reference manual
