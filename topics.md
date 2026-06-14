@@ -424,6 +424,7 @@
 
 ## ai 
 
+- [motherduckdb/mcp-server-motherduck](https://github.com/motherduckdb/mcp-server-motherduck) - Local MCP server for DuckDB and MotherDuck
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [AstraBert/everything-ai](https://github.com/AstraBert/everything-ai) - Your fully proficient, AI-powered and local chatbot assistant🤖
 - [pacwoodson/ai-mask](https://github.com/pacwoodson/ai-mask) - Serve local ML inference engines to web apps
@@ -5781,7 +5782,6 @@
 - [PaoloMonti42/salt](https://github.com/PaoloMonti42/salt) - SALT - SLUB ALlocator Tracer for the Linux kernel
 - [mandatoryprogrammer/tarnish](https://github.com/mandatoryprogrammer/tarnish) - A Chrome extension static analysis tool to help aide in security reviews.
 - [IOActive/Platbox](https://github.com/IOActive/Platbox) - UEFI and SMM Assessment Tool
-- [iamavu/Slyther](https://github.com/iamavu/Slyther) - AWS Security Tool
 - [hehnope/slurp](https://github.com/hehnope/slurp) - this can't keep happening
 - [grines/scour](https://github.com/grines/scour) - 
 - [glem0/goGetBucket](https://github.com/glem0/goGetBucket) - A penetration testing tool to enumerate and analyse Amazon S3 Buckets owned by a domain.
