@@ -681,7 +681,6 @@
 - [hyprspace/hyprspace](https://github.com/hyprspace/hyprspace) - A Lightweight VPN Built on top of IPFS + Libp2p for Truly Distributed Networks (fork)
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
-- [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [CharlesWiltgen/Axiom](https://github.com/CharlesWiltgen/Axiom) - Battle-tested Claude Code skills for modern xOS (iOS, iPadOS, watchOS, tvOS) development
 - [mandiant/gocrack](https://github.com/mandiant/gocrack) - GoCrack is a management frontend for password cracking tools written in Go
@@ -2004,6 +2003,9 @@
 
 ## Python 
 
+- [sqliteai/sqlite-rag](https://github.com/sqliteai/sqlite-rag) - A hybrid search engine built on SQLite with SQLite AI and SQLite Vector extensions
+- [akrutsinger/binja-codemode-mcp](https://github.com/akrutsinger/binja-codemode-mcp) - Code Execution MCP Server for Binary Ninja
+- [binaryninja/claude-skills](https://github.com/binaryninja/claude-skills) - Public repository for Skills
 - [elder-plinius/OBLITERATUS](https://github.com/elder-plinius/OBLITERATUS) - OBLITERATE THE CHAINS THAT BIND YOU
 - [motherduckdb/mcp-server-motherduck](https://github.com/motherduckdb/mcp-server-motherduck) - Local MCP server for DuckDB and MotherDuck
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
@@ -3381,6 +3383,7 @@
 
 ## TypeScript 
 
+- [FeyNote/FeyNote](https://github.com/FeyNote/FeyNote) - A fantasy-themed note taking app oriented towards tabletop roleplaying games!
 - [elder-plinius/G0DM0D3](https://github.com/elder-plinius/G0DM0D3) - LIBERATED AI CHAT
 - [pacwoodson/ai-mask](https://github.com/pacwoodson/ai-mask) - Serve local ML inference engines to web apps
 - [georgeglarson/venice-mcp](https://github.com/georgeglarson/venice-mcp) - Model Context Protocol (MCP) server for Venice AI - Chat, Image Generation, TTS, Embeddings & Admin tools
