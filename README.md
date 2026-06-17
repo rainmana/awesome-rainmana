@@ -622,7 +622,6 @@
 - [jagandeepbrar/lunasea](https://github.com/jagandeepbrar/lunasea) - Self-hosted software controller built using Flutter
 - [ArmchairDevelopers/Kyber](https://github.com/ArmchairDevelopers/Kyber) - A unified game launcher for STAR WARS Battlefront II (EA) that adds community-hosted multiplayer with full mod support, a server browser, private games, and more.
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
-- [theiskaa/MobileGPT](https://github.com/theiskaa/MobileGPT) - 💬 ChatGPT Mobile Application (iOS and Android) built with Flutter
 - [SpokenBanana/pawdoption](https://github.com/SpokenBanana/pawdoption) - A mobile app that lets you swipe to find your next pet from your local animal shelters.
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 
@@ -636,7 +635,6 @@
 - [iris-sast/iris](https://github.com/iris-sast/iris) - A neurosymbolic framework for vulnerability detection in code
 - [dreadnode/robopages](https://github.com/dreadnode/robopages) - A YAML based format for describing tools to LLMs, like man pages but for robots!
 - [linuxserver/docker-pwndrop](https://github.com/linuxserver/docker-pwndrop) - 
-- [mindsdb/minds](https://github.com/mindsdb/minds) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 
 ## Elixir 
@@ -1122,7 +1120,6 @@
 - [Elanis/web-to-desktop-framework-comparison](https://github.com/Elanis/web-to-desktop-framework-comparison) - An objective comparison of multiple frameworks that allow us to "transform" our web apps to desktop applications.
 - [meteor/examples](https://github.com/meteor/examples) - Project examples with Meteor
 - [thmsbfft/electron-wrap](https://github.com/thmsbfft/electron-wrap) - Package any local/static website folder into a desktop application (electron/macOS).
-- [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc) - Customize Claude Code's system prompts, create custom toolsets, input pattern highlighters, themes/thinking verbs/spinners, customize input box & user message styling, support AGENTS.md, unlock privat
 - [Coding-Solo/godot-mcp](https://github.com/Coding-Solo/godot-mcp) - MCP server for interfacing with Godot game engine. Provides tools for launching the editor, running projects, and capturing debug output.
 - [rushhiii/bashfolio](https://github.com/rushhiii/bashfolio) - N Interactive terminal-style portfolio website with authentic CLI commands, multiple themes, and realistic typing animations.
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
@@ -1463,6 +1460,7 @@
 - [CyberGrandChallenge/cgc-release-documentation](https://github.com/CyberGrandChallenge/cgc-release-documentation) - DARPA Cyber Grand Challenge Documentation
 - [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL) - A fuzzer for full VM kernel/driver targets
 - [gschorcht/esp32-elf-rom](https://github.com/gschorcht/esp32-elf-rom) - ESP32 ROM blob to ELF convertor
+- [mindsdb/minds](https://github.com/mindsdb/minds) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
 - [ashishb/android-security-awesome](https://github.com/ashishb/android-security-awesome) - A collection of android security related resources
 - [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
 
@@ -2008,6 +2006,7 @@
 
 ## Python 
 
+- [trailofbits/protofuzz](https://github.com/trailofbits/protofuzz) - Google Protocol Buffers message generator
 - [sqliteai/sqlite-rag](https://github.com/sqliteai/sqlite-rag) - A hybrid search engine built on SQLite with SQLite AI and SQLite Vector extensions
 - [akrutsinger/binja-codemode-mcp](https://github.com/akrutsinger/binja-codemode-mcp) - Code Execution MCP Server for Binary Ninja
 - [binaryninja/claude-skills](https://github.com/binaryninja/claude-skills) - Public repository for Skills
@@ -3416,6 +3415,7 @@
 - [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) - Teams-first Multi-agent orchestration for Claude Code
 - [bdmorin/the-no-shop](https://github.com/bdmorin/the-no-shop) - Ixian technology for Claude Code. Invisible marketplace where you get tech that probably bends the rules.
 - [neuledge/context](https://github.com/neuledge/context) - Local-first documentation for AI agents
+- [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc) - Customize Claude Code's system prompts, create custom toolsets, input pattern highlighters, themes/thinking verbs/spinners, customize input box & user message styling, support AGENTS.md, unlock privat
 - [LangGraph-GUI/LangGraph-GUI](https://github.com/LangGraph-GUI/LangGraph-GUI) - Visual node-edge graph GUI editor for LangGraph and run with local LLM or online API
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before
 - [opensheetmusicdisplay/opensheetmusicdisplay](https://github.com/opensheetmusicdisplay/opensheetmusicdisplay) - OpenSheetMusicDisplay renders sheet music in MusicXML format in browsers and headless with NodeJS. Based on VexFlow, OSMD is brought to you by PhonicScore.com.
@@ -3566,7 +3566,7 @@
 - [yourselfhosted/slash](https://github.com/yourselfhosted/slash) - An open source, self-hosted platform for sharing and managing your most frequently used links. Easily create customizable, human-readable shortcuts to streamline your link management.
 - [paralleldrive/sudolang](https://github.com/paralleldrive/sudolang) - SudoLang LLM Support for VSCode
 - [perplexityai/modelcontextprotocol](https://github.com/perplexityai/modelcontextprotocol) - The official MCP server implementation for the Perplexity API Platform
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Pioneering open-source coding agent
+- [continuedev/continue](https://github.com/continuedev/continue) - open-source coding agent
 - [NitroRCr/AIaW](https://github.com/NitroRCr/AIaW) - AI as Workspace - An elegant AI chat client. Full-featured, lightweight. Support multiple workspaces, plugin system, cross-platform, local first + real-time cloud sync, Artifacts, MCP | 更好的 AI 客户端
 - [vercel/serve](https://github.com/vercel/serve) - Static file serving and directory listing
 - [mario-andreschak/FLUJO](https://github.com/mario-andreschak/FLUJO) - MCP-Hub and -Inspector, Multi-Model Workflow and Chat Interface
@@ -3647,7 +3647,6 @@
 - [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
 - [owtf/owtf](https://github.com/owtf/owtf) - Offensive Web Testing Framework (OWTF), is a framework which tries to unite great tools and make pen testing more efficient http://owtf.org https://twitter.com/owtfp
 - [cisagov/RedEye](https://github.com/cisagov/RedEye) - RedEye is a visual analytic tool supporting Red & Blue Team operations
-- [nezort11/chatgpt-mobile](https://github.com/nezort11/chatgpt-mobile) - 🤖💡📱 ChatGPT mobile app built using Expo/React Native
 - [SanderRonde/CustomRightClickMenu](https://github.com/SanderRonde/CustomRightClickMenu) - A browser extension to add links and run scripts/stylesheets all from your right-click menu
 - [facebook/flipper](https://github.com/facebook/flipper) - A desktop debugging platform for mobile developers.
 - [nocode-js/sequential-workflow-designer](https://github.com/nocode-js/sequential-workflow-designer) - Customizable no-code component for building flow-based programming applications or workflow automation. 0 external dependencies. Check out https://nocode-js.com
