@@ -159,7 +159,6 @@
 - [TeamHG-Memex/bk-string](https://github.com/TeamHG-Memex/bk-string) - A BK Tree based approach to storing and querying strings by Levenshtein Distance.
 - [smcameron/space-nerds-in-space](https://github.com/smcameron/space-nerds-in-space) - Multi-player spaceship bridge simulator game. Captain your starship through adventures with your friends.  See https://smcameron.github.io/space-nerds-in-space
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
-- [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) - Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces
 - [guinmoon/LLMFarm](https://github.com/guinmoon/LLMFarm) - llama and other  large language models on iOS and MacOS offline using GGML library.
 - [radareorg/radare2-mcp](https://github.com/radareorg/radare2-mcp) - MCP stdio server for radare2
 - [radareorg/radare2-extras](https://github.com/radareorg/radare2-extras) - Source graveyard and random candy for radare2
@@ -433,6 +432,7 @@
 - [osrf/subt](https://github.com/osrf/subt) - This repostory contains software for the virtual track of the DARPA SubT Challenge. Within this repository you will find Gazebo simulation assets, ROS interfaces, support scripts and plugins, and docu
 - [ManavA/stanford_self_driving_car_code](https://github.com/ManavA/stanford_self_driving_car_code) - Stanford Code From Cars That Entered DARPA Grand Challenges
 - [frida/cryptoshark](https://github.com/frida/cryptoshark) - Self-optimizing cross-platform code tracer based on dynamic recompilation
+- [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) - Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces
 - [vesoft-inc/nebula](https://github.com/vesoft-inc/nebula) - A distributed, fast open-source graph database featuring horizontal scalability and high availability
 - [avast/retdec](https://github.com/avast/retdec) - RetDec is a retargetable machine-code decompiler based on LLVM.
 - [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
@@ -1109,7 +1109,6 @@
 - [archived-aft-bogus-german-visa-rejectio/insomnium](https://github.com/archived-aft-bogus-german-visa-rejectio/insomnium) - Insomnium is a fast local API testing tool that is privacy-focused and 100% local. For testing GraphQL, REST, WebSockets and gRPC. This is a fork of Kong/insomnia
 - [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
 - [Aricwithana/LCARS-SDK](https://github.com/Aricwithana/LCARS-SDK) - A development kit and environment umbrella designed specifically for creating a functional implementation of the LCARS methodology
-- [cweijan/vscode-office](https://github.com/cweijan/vscode-office) - Let VSCode support previewing PDF, Excel, Word and other formats, and add markdown WYSIWYG editor.
 - [PolychronMidi/Polychron](https://github.com/PolychronMidi/Polychron) - Polychron MIDI patch enables inclusivity of diverse and marginalized time signatures. Take back time from the establishment chronophobes. Other dynamics enhancements include: unrestricted polyphony, u
 - [lexcast/orchestra](https://github.com/lexcast/orchestra) - See how instruments enter into action with a classical music piece.
 - [rjsalvadorr/autocomposer-js](https://github.com/rjsalvadorr/autocomposer-js) - A web app that automagically creates musical melodies
@@ -1651,7 +1650,6 @@
 - [AyHa1810/touhou-midi-collection](https://github.com/AyHa1810/touhou-midi-collection) - A collection of TouHou MIDIs
 - [albertmeronyo/awesome-midi-sources](https://github.com/albertmeronyo/awesome-midi-sources) - A curated list of sites with MIDI files on the Web
 - [fffaraz/awesome-selfhosted-aws](https://github.com/fffaraz/awesome-selfhosted-aws) - A curated list of awesome self-hosted alternatives to Amazon Web Services (AWS)
-- [kirodotdev/powers](https://github.com/kirodotdev/powers) - Powers add specialized context and tools to the Kiro agents on-demand. No more MCP context overload.
 - [supabase-community/kiro-powers](https://github.com/supabase-community/kiro-powers) - Supabase development powers for Kiro IDE
 - [TrustAI-laboratory/LLM-Security-CTF](https://github.com/TrustAI-laboratory/LLM-Security-CTF) - Learn LLM/AI Security through a series of vulnerable LLM CTF challenges. No sign ups, all fees, everything on the website.
 - [dhamaniasad/awesome-postgres](https://github.com/dhamaniasad/awesome-postgres) - A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql
@@ -2293,6 +2291,7 @@
 - [mpoon/gpt-repository-loader](https://github.com/mpoon/gpt-repository-loader) - Convert code repos into an LLM prompt-friendly format. Mostly built by GPT-4.
 - [jimmc414/onefilellm](https://github.com/jimmc414/onefilellm) - Specify a github or local repo, github pull request,  arXiv or Sci-Hub paper, Youtube transcript or documentation URL on the web and scrape into a text file and clipboard  for easier LLM ingestion
 - [asigalov61/Tegridy-MIDI-Dataset](https://github.com/asigalov61/Tegridy-MIDI-Dataset) - Tegridy MIDI Dataset for precise and effective Music AI models creation.
+- [kirodotdev/powers](https://github.com/kirodotdev/powers) - Powers add specialized context and tools to the Kiro agents on-demand. No more MCP context overload.
 - [pblaas/signalbot](https://github.com/pblaas/signalbot) - Signalbot is a Python chatbot based on the Signal CLI tool from AsamK
 - [idllresearch/malicious-gpt](https://github.com/idllresearch/malicious-gpt) - [USENIX Security '24] Dataset associated with real-world malicious LLM applications, including 45 malicious prompts for generating malicious content, malicious responses from LLMs, 182 real-world jail
 - [NYU-LLM-CTF/nyuctf_agents](https://github.com/NYU-LLM-CTF/nyuctf_agents) - The D-CIPHER and NYU CTF baseline LLM Agents built for NYU CTF Bench
@@ -3387,6 +3386,7 @@
 
 ## TypeScript 
 
+- [cloudflare/mcp](https://github.com/cloudflare/mcp) - MCP server for the Cloudflare API
 - [FeyNote/FeyNote](https://github.com/FeyNote/FeyNote) - A fantasy-themed note taking app oriented towards tabletop roleplaying games!
 - [elder-plinius/G0DM0D3](https://github.com/elder-plinius/G0DM0D3) - LIBERATED AI CHAT
 - [pacwoodson/ai-mask](https://github.com/pacwoodson/ai-mask) - Serve local ML inference engines to web apps
@@ -3403,6 +3403,7 @@
 - [BoringBoredom/UEFI-Editor](https://github.com/BoringBoredom/UEFI-Editor) - Aptio V UEFI Editor: an alternative to AMIBCP
 - [ThallesP/railway-minecraft-template](https://github.com/ThallesP/railway-minecraft-template) - 
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
+- [cweijan/vscode-office](https://github.com/cweijan/vscode-office) - Let VSCode support previewing PDF, Excel, Word and other formats, and add markdown WYSIWYG editor.
 - [lukehorvat/super-oscillator](https://github.com/lukehorvat/super-oscillator) - Open-source 3D synthesizer for the Web.
 - [nxyd/srecord](https://github.com/nxyd/srecord) - Motorola S-record for Visual Studio Code
 - [Mrtenz/soundfont2](https://github.com/Mrtenz/soundfont2) - A SoundFont2 parser for Node.js and web browsers
