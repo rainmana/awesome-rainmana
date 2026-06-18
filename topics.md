@@ -4411,6 +4411,7 @@
 
 ## mcp 
 
+- [cloudflare/mcp](https://github.com/cloudflare/mcp) - MCP server for the Cloudflare API
 - [ergut/mcp-bigquery-server](https://github.com/ergut/mcp-bigquery-server) - A Model Context Protocol (MCP) server that provides secure, read-only access to BigQuery datasets. Enables Large Language Models (LLMs) to safely query and analyze data through a standardized interfac
 - [BlockSecCA/joern-mcp](https://github.com/BlockSecCA/joern-mcp) - MCP server wrapping Joern for AI-driven code security analysis
 - [minecraft-dev/MinecraftDev](https://github.com/minecraft-dev/MinecraftDev) - Plugin for IntelliJ IDEA that gives special support for Minecraft modding projects.
