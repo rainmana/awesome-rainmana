@@ -245,6 +245,7 @@
 - [react](#react)
 - [react-native](#react-native)
 - [reactjs](#reactjs)
+- [redteam](#redteam)
 - [redux](#redux)
 - [reinforcement-learning](#reinforcement-learning)
 - [rest-api](#rest-api)
@@ -5532,7 +5533,6 @@
 - [trailofbits/vscode-sarif-explorer](https://github.com/trailofbits/vscode-sarif-explorer) - SARIF Explorer: A VSCode extension that helps you visualize and triage static analysis results
 - [microsoft/sarif-tutorials](https://github.com/microsoft/sarif-tutorials) - User-friendly documentation for the SARIF file format.
 - [microsoft/sarif-vscode-extension](https://github.com/microsoft/sarif-vscode-extension) - SARIF Microsoft Visual Studio Code extension
-- [yeyintminthuhtut/Awesome-Red-Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) - List of Awesome Red Teaming Resources
 - [ahaggard2013/binaryninja-ollama](https://github.com/ahaggard2013/binaryninja-ollama) - 
 - [mandiant/GoReSym](https://github.com/mandiant/GoReSym) - Go symbol recovery tool
 - [khanhduytran0/MacWSBootingGuide](https://github.com/khanhduytran0/MacWSBootingGuide) - Booting macOS's WindowServer on your jailbroken iDevice for real
@@ -6546,7 +6546,6 @@
 - [TarlogicSecurity/kerbrute](https://github.com/TarlogicSecurity/kerbrute) - An script to perform kerberos bruteforcing by using impacket
 - [Kevin-Robertson/InveighZero](https://github.com/Kevin-Robertson/InveighZero) - .NET IPv4/IPv6 machine-in-the-middle tool for penetration testers
 - [l0ss/Grouper2](https://github.com/l0ss/Grouper2) - Find vulnerabilities in AD Group Policy
-- [S1ckB0y1337/Cobalt-Strike-CheatSheet](https://github.com/S1ckB0y1337/Cobalt-Strike-CheatSheet) - Some notes and examples for cobalt strike's functionality
 - [bluscreenofjeff/AggressorScripts](https://github.com/bluscreenofjeff/AggressorScripts) - Aggressor scripts for use with Cobalt Strike 3.0+
 - [evilmog/ntlmv1-multi](https://github.com/evilmog/ntlmv1-multi) - NTLMv1 Multitool
 - [revng/revng](https://github.com/revng/revng) - revng: the core repository of the rev.ng project
@@ -7480,6 +7479,24 @@
 - [nocode-js/sequential-workflow-designer](https://github.com/nocode-js/sequential-workflow-designer) - Customizable no-code component for building flow-based programming applications or workflow automation. 0 external dependencies. Check out https://nocode-js.com
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [KTZgraph/sarenka](https://github.com/KTZgraph/sarenka) - OSINT tool - gets data from services like shodan, censys etc. in one app
+
+## redteam 
+
+- [jeremylaratro/purplesploit](https://github.com/jeremylaratro/purplesploit) - Purplesploit - a framework for ultimate pentesting workflow efficiency
+- [ssl/ezXSS](https://github.com/ssl/ezXSS) - ezXSS is an easy way for penetration testers and bug bounty hunters to test (blind) Cross Site Scripting.
+- [yeyintminthuhtut/Awesome-Red-Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) - List of Awesome Red Teaming Resources
+- [edoardottt/cariddi](https://github.com/edoardottt/cariddi) - Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more
+- [ariary/volana](https://github.com/ariary/volana) - 🌒 Shell command obfuscation to avoid detection systems
+- [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner
+- [m0nad/Diamorphine](https://github.com/m0nad/Diamorphine) - LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x/6.x (x86/x86_64 and ARM64)
+- [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+- [andreiverse/grc2](https://github.com/andreiverse/grc2) - grim reaper c2
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
+- [mgeeky/Stracciatella](https://github.com/mgeeky/Stracciatella) - OpSec-safe Powershell runspace from within C# (aka SharpPick) with AMSI, Constrained Language Mode and Script Block Logging disabled at startup
+- [jm33-m0/emp3r0r](https://github.com/jm33-m0/emp3r0r) - Self‑healing Gossip Mesh C2 with Assisted Peer Discovery, Modular Post‑Exploitation, and OPSEC‑Focused Transport
+- [mvelazc0/defcon27_csharp_workshop](https://github.com/mvelazc0/defcon27_csharp_workshop) - Writing custom backdoor payloads with C# - Defcon 27 Workshop
+- [S1ckB0y1337/Cobalt-Strike-CheatSheet](https://github.com/S1ckB0y1337/Cobalt-Strike-CheatSheet) - Some notes and examples for cobalt strike's functionality
+- [kgretzky/pwndrop](https://github.com/kgretzky/pwndrop) - Self-deployable file hosting service for red teamers, allowing to easily upload and share payloads over HTTP and WebDAV.
 
 ## redux 
 
