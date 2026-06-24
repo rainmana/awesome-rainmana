@@ -134,7 +134,7 @@
 - [shellphish/patcherex](https://github.com/shellphish/patcherex) - please go to angr/patcherex instead of this!
 - [libfuse/sshfs](https://github.com/libfuse/sshfs) - A network filesystem client to connect to SSH servers
 - [dayanch96/YTMusicUltimate](https://github.com/dayanch96/YTMusicUltimate) - The best tweak for YouTube Music iOS.
-- [nwhitehead/tinysoundfont-pybind](https://github.com/nwhitehead/tinysoundfont-pybind) - Python bindings for TinySoundFont, a SoundFont MIDI synthesizer.
+- [amberwhitehead/tinysoundfont-pybind](https://github.com/amberwhitehead/tinysoundfont-pybind) - Python bindings for TinySoundFont, a SoundFont MIDI synthesizer.
 - [ImVexed/muon](https://github.com/ImVexed/muon) - GPU based Electron on a diet
 - [superolmo/BigFiles](https://github.com/superolmo/BigFiles) - Notepad++ Plugin for reading large files
 - [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
@@ -1608,6 +1608,7 @@
 - [aalex954/tempest-sdr-demo](https://github.com/aalex954/tempest-sdr-demo) - TempestSDR attack performed using a HackRF, TempestSDR, and an HDMI 1.2 cable.
 - [HerringtonDarkholme/awesome-tree-sitter](https://github.com/HerringtonDarkholme/awesome-tree-sitter) - A curated list of tree-sitter resources.
 - [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻
+- [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
 - [michaelbrusegard/awesome-wezterm](https://github.com/michaelbrusegard/awesome-wezterm) - Collections of awesome WezTerm plugins.
 - [dustinspecker/awesome-eslint](https://github.com/dustinspecker/awesome-eslint) - A list of awesome ESLint plugins, configs, etc.
 - [estree/estree](https://github.com/estree/estree) - The ESTree Spec
@@ -3459,7 +3460,6 @@
 - [catppuccin/bat](https://github.com/catppuccin/bat) - 🦇️ Soothing pastel theme for Bat
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 - [voideditor/void](https://github.com/voideditor/void) - 
-- [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
 - [Kastalien-Research/thoughtbox](https://github.com/Kastalien-Research/thoughtbox) - Thoughtbox is an intention ledger for agents. Evaluate AI's decisions against its decision-making.
