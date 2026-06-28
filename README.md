@@ -2013,6 +2013,9 @@
 
 ## Python 
 
+- [danielscholl/claude-sdlc](https://github.com/danielscholl/claude-sdlc) - Software Development Lifecycle tooling for Claude Code
+- [DarrenBenson/sdlc-studio](https://github.com/DarrenBenson/sdlc-studio) - Claude Code skill for managing the full software development lifecycle
+- [railwayapp/railway-skills](https://github.com/railwayapp/railway-skills) - Agent skills for interacting with Railway
 - [trailofbits/protofuzz](https://github.com/trailofbits/protofuzz) - Google Protocol Buffers message generator
 - [sqliteai/sqlite-rag](https://github.com/sqliteai/sqlite-rag) - A hybrid search engine built on SQLite with SQLite AI and SQLite Vector extensions
 - [akrutsinger/binja-codemode-mcp](https://github.com/akrutsinger/binja-codemode-mcp) - Code Execution MCP Server for Binary Ninja
