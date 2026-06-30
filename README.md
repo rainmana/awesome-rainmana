@@ -2120,7 +2120,7 @@
 - [pdf-association/safedocs](https://github.com/pdf-association/safedocs) - Artifacts from the DARPA-funded SafeDocs research program
 - [CyberGrandChallenge/magic-cgc](https://github.com/CyberGrandChallenge/magic-cgc) - DARPA Cyber Grand Challenge File Magic
 - [dchaplinsky/unshred](https://github.com/dchaplinsky/unshred) - Experiments on darpa shredder challenge tasks using python & opencv.
-- [fuzzingbrain/afc-crs-all-you-need-is-a-fuzzing-brain](https://github.com/fuzzingbrain/afc-crs-all-you-need-is-a-fuzzing-brain) - LLM-powered system that discovered 62 zero-day vulnerabilities across 26 open source projects. 4th place, DARPA AIxCC.
+- [fuzzingbrain/afc-crs-all-you-need-is-a-fuzzing-brain](https://github.com/fuzzingbrain/afc-crs-all-you-need-is-a-fuzzing-brain) - LLM-powered system that discovers and patches zero-day vulnerabilities in open source projects. 4th place, DARPA AIxCC.
 - [GallupGovt/multivac](https://github.com/GallupGovt/multivac) - MULTIVAC - A DARPA Automating Scientific Knowledge Extraction (ASKE) Artifical Intelligence Exploration (AIE) Program
 - [xastprl/DarpanX](https://github.com/xastprl/DarpanX) - DarpanX is a Python 3 package that provides functionality to compute reflectivity and other specular optical functions of a multilayer or single layer mirror for different energy and angles as well as
 - [CyberGrandChallenge/cb-testing](https://github.com/CyberGrandChallenge/cb-testing) - DARPA Cyber Grand Challenge Challenge Binary Testing tools
@@ -3115,6 +3115,7 @@
 - [EFForg/apkeep](https://github.com/EFForg/apkeep) - A command-line tool for downloading APK files from various sources
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️
+- [Start9Labs/start-technologies](https://github.com/Start9Labs/start-technologies) - A graphical server OS optimized for self-hosting
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Extremely fast Query Engine for DataFrames, written in Rust
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
@@ -3567,7 +3568,6 @@
 - [srbhptl39/MCP-SuperAssistant](https://github.com/srbhptl39/MCP-SuperAssistant) - Brings MCP to ChatGPT, DeepSeek, Perplexity, Grok, Gemini, Google AI Studio, OpenRouter, DeepSeek, T3 Chat and more...
 - [CoderLine/alphaTab](https://github.com/CoderLine/alphaTab) - alphaTab is a cross platform music notation and guitar tablature rendering library.
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
-- [Start9Labs/start-os](https://github.com/Start9Labs/start-os) - A graphical server OS optimized for self-hosting
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - An elegant home server OS. Run OpenClaw, store your files and photos, run a Bitcoin node, and do more with over 300 apps in the Umbrel App Store.
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
 - [electron/asar](https://github.com/electron/asar) - Simple extensive tar-like archive format with indexing
