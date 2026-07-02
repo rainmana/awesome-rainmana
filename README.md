@@ -2013,6 +2013,7 @@
 
 ## Python 
 
+- [rainmana/rainmana-claude-skills](https://github.com/rainmana/rainmana-claude-skills) - 
 - [aws/agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws) - Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS
 - [mlflow/mlflow](https://github.com/mlflow/mlflow) - The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controllin
 - [danielscholl/claude-sdlc](https://github.com/danielscholl/claude-sdlc) - Software Development Lifecycle tooling for Claude Code
@@ -3740,6 +3741,7 @@
 
 ## XSLT 
 
+- [w3c-cg/musicxml](https://github.com/w3c-cg/musicxml) - MusicXML specification
 - [aglahe/vagrant-memex](https://github.com/aglahe/vagrant-memex) - DARPA MEMEX project Vagrant VM
 - [Sonoisseurs/sonor](https://github.com/Sonoisseurs/sonor) - A collaborative effort to liberate Sonos devices from their cloudy masters.
 
