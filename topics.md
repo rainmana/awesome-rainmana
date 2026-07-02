@@ -5127,6 +5127,8 @@
 
 ## others 
 
+- [w3c-cg/musicxml](https://github.com/w3c-cg/musicxml) - MusicXML specification
+- [rainmana/rainmana-claude-skills](https://github.com/rainmana/rainmana-claude-skills) - 
 - [aws/agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws) - Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS
 - [danielscholl/claude-sdlc](https://github.com/danielscholl/claude-sdlc) - Software Development Lifecycle tooling for Claude Code
 - [rainmana/midimi](https://github.com/rainmana/midimi) - midimi is a native desktop MIDI player and visualizer built with Tauri v2 (Rust backend) and SvelteKit + Svelte 5 (frontend). Drop in a .mid file and watch it come alive: a full-screen "Cosmic Aurora"
