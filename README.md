@@ -2115,7 +2115,7 @@
 - [rajpdus/MeetingSummarizer](https://github.com/rajpdus/MeetingSummarizer) - Effortlessly record, transcribe, and summarize meetings with this user-friendly desktop utility powered by OpenAI's Whisper and GPT-3.5-turbo
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
 - [666ghj/MiroFish](https://github.com/666ghj/MiroFish) - A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
-- [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need throu
+- [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
 - [mrh0wl/Cloudmare](https://github.com/mrh0wl/Cloudmare) - Cloudflare, Sucuri, Incapsula real IP tracker.
 - [elefr3n/real_ip_discover](https://github.com/elefr3n/real_ip_discover) - Bypass Cloudflare getting real ip address bruteforcing ipv4 ranges
 - [rmsander/lidar-lidar-cal](https://github.com/rmsander/lidar-lidar-cal) - A set of estimation, visualization, and evaluation modules for performing lidar-lidar calibration for autonomous vehicles and other robotic systems.  This framework was validated/built for analyzing p
