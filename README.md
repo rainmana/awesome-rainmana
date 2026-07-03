@@ -324,6 +324,7 @@
 
 ## C# # 
 
+- [mlavik1/UnityVolumeRendering](https://github.com/mlavik1/UnityVolumeRendering) - Volume rendering, implemented in Unity3D.  Want to support the project? Donate a small sum to Save The Children(https://www.savethechildren.net/) or another charity, and send me a message, and I will 
 - [TechSmith/Snagit-COM-Samples](https://github.com/TechSmith/Snagit-COM-Samples) - Sample projects in various programming languages that demonstrate how to use the Snagit COM API to take image captures and video recordings from your own application.
 - [aalex954/applocate](https://github.com/aalex954/applocate) - A Windows CLI utility to locate installed application's executables, configs, and paths.
 - [alexandrehtrb/Pororoca](https://github.com/alexandrehtrb/Pororoca) - An API testing tool with support for HTTP/2 and HTTP/3. Alternative to Postman.
@@ -411,6 +412,7 @@
 
 ## C++ 
 
+- [hdclark/DICOMautomaton](https://github.com/hdclark/DICOMautomaton) - A multipurpose tool for medical physics.
 - [envoyproxy/envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
 - [Vector35/binaryninja-api](https://github.com/Vector35/binaryninja-api) - Public API, examples, documentation and issues for Binary Ninja
 - [kuzudb/kuzu](https://github.com/kuzudb/kuzu) - Embedded property graph database built for speed. Vector search and full-text search built in. Implements Cypher.
@@ -1014,6 +1016,7 @@
 
 ## Java 
 
+- [nroduit/Weasis](https://github.com/nroduit/Weasis) - Weasis is a web-based DICOM viewer for advanced medical imaging and seamless PACS integration.
 - [elder-plinius/V3SP3R](https://github.com/elder-plinius/V3SP3R) - AI Flipper control
 - [xandergos/terrain-diffusion-mc](https://github.com/xandergos/terrain-diffusion-mc) - Procedural terrain generation with diffusion models (in Minecraft)
 - [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA & IntelliJ Platform
@@ -1536,6 +1539,7 @@
 
 ## Others 
 
+- [open-dicom/awesome-dicom](https://github.com/open-dicom/awesome-dicom) - A curated list of awesome DICOM resources and libraries.
 - [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
 - [altryne/awesome-ai-art-image-synthesis](https://github.com/altryne/awesome-ai-art-image-synthesis) - A list of awesome tools, ideas, prompt engineering tools, colabs, models, and helpers for the prompt designer playing with aiArt and image synthesis. Covers Dalle2, MidJourney, StableDiffusion, and op
 - [ZeroLu/awesome-nanobanana-pro](https://github.com/ZeroLu/awesome-nanobanana-pro) - 🚀 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering and exploring the creative potential of the Nano banana pro(Nano banana 2) AI im
@@ -1629,7 +1633,6 @@
 - [mandiant/iocs](https://github.com/mandiant/iocs) - FireEye Publicly Shared Indicators of Compromise (IOCs)
 - [mandiant/capa-rules](https://github.com/mandiant/capa-rules) - Standard collection of rules for capa: the tool for enumerating the capabilities of programs
 - [requestly/requestly](https://github.com/requestly/requestly) - Community hub for Requestly API Client — bugs, feature requests, and roadmap. The privacy-first Postman alternative.
-- [rainmana/mcw-framework](https://github.com/rainmana/mcw-framework) - Meta-Context Framework is novel research into a new coordination-focused lens for understanding human–AI interaction through information exchange rather than model capability.
 - [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron [SUBMISSIONS ARE TEMPORARILY PAUSED BECAUSE I'M TIRED OF REVIEWING LOW-QUALITY STUFF]
 - [Shellyvishwakarma/SimHumaLator](https://github.com/Shellyvishwakarma/SimHumaLator) - Simulator that can synthesize human micro-Doppler radar returns as a function of a diverse set of target parameters, radar parameters, and radar signal processing parameters. It uses human animation m
 - [derbengale/Soundlazer-Design-Files](https://github.com/derbengale/Soundlazer-Design-Files) - Mirror of the design files for the Soundlazer device
@@ -2191,6 +2194,7 @@
 - [mandiant/speakeasy](https://github.com/mandiant/speakeasy) - Windows kernel and user mode emulation.
 - [cycraft-corp/BinaryAnalysisMCPs](https://github.com/cycraft-corp/BinaryAnalysisMCPs) - Binary analysis MCPs collections
 - [anderspitman/SirTunnel](https://github.com/anderspitman/SirTunnel) - Minimal, self-hosted, 0-config alternative to ngrok. Caddy+OpenSSH+50 lines of Python.
+- [rainmana/mcw-framework](https://github.com/rainmana/mcw-framework) - Meta-Context Framework is novel research into a new coordination-focused lens for understanding human–AI interaction through information exchange rather than model capability.
 - [thinkst/canarytokens](https://github.com/thinkst/canarytokens) - Canarytokens helps track activity and actions on your network
 - [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio) - A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.
 - [Free-TV/IPTV](https://github.com/Free-TV/IPTV) - M3U Playlist for free TV channels
