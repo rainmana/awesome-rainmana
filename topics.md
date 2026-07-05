@@ -102,6 +102,7 @@
 - [eslint](#eslint)
 - [esp32](#esp32)
 - [ethereum](#ethereum)
+- [express](#express)
 - [facebook](#facebook)
 - [fastapi](#fastapi)
 - [finance](#finance)
@@ -774,6 +775,7 @@
 
 ## api 
 
+- [WengYiNing/Auralytics](https://github.com/WengYiNing/Auralytics) - Discover your unique music story.  Explore your top tracks, artists, genres, and musical eras.
 - [alexandrehtrb/Pororoca](https://github.com/alexandrehtrb/Pororoca) - An API testing tool with support for HTTP/2 and HTTP/3. Alternative to Postman.
 - [firecamp-dev/firecamp](https://github.com/firecamp-dev/firecamp) - Developer-first OpenSource API DevTool, Postman/Insomnia alternative.
 - [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern REST API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
@@ -818,6 +820,7 @@
 
 ## arduino 
 
+- [sauloverissimo/gingoduino](https://github.com/sauloverissimo/gingoduino) - 🪇 Gingo[duino]: Music theory engine for embedded systems. Build musical instruments and controllers that interact with people and speak MIDI 1.0 and 2.0.
 - [tttapa/Control-Surface](https://github.com/tttapa/Control-Surface) - Arduino library for creating MIDI controllers and other MIDI devices.
 - [earlephilhower/ESP8266Audio](https://github.com/earlephilhower/ESP8266Audio) - Arduino library to play MOD, WAV, FLAC, MIDI, RTTTL, OGG/Opus, MP3, and AAC files on I2S DACs or with a software emulated delta-sigma DAC on the ESP8266 and ESP32 and Pico
 - [thelastoutpostworkshop/arduino-maker-workshop](https://github.com/thelastoutpostworkshop/arduino-maker-workshop) - The ultimate tool for makers to bring Arduino projects to life in Visual Studio Code
@@ -941,6 +944,7 @@
 
 ## awesome 
 
+- [NouilleOrque/awesome-midi-repos](https://github.com/NouilleOrque/awesome-midi-repos) - 🎶 Discover and access a curated collection of GitHub repositories featuring MIDI files for your music projects and experiments.
 - [open-dicom/awesome-dicom](https://github.com/open-dicom/awesome-dicom) - A curated list of awesome DICOM resources and libraries.
 - [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
 - [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) - 🍌 World's largest Nano Banana Pro prompt library — 10,000+ curated prompts with preview images, 16 languages. Google Gemini AI image generation. Free & open source.
@@ -1446,6 +1450,8 @@
 
 ## c-plus-plus 
 
+- [mcallegari/qlcplus](https://github.com/mcallegari/qlcplus) - Q Light Controller Plus (QLC+) is a free and cross-platform software to control DMX or analog lighting systems like moving heads, dimmers, scanners etc. This project is a fork of the great QLC project
+- [Ardour/ardour](https://github.com/Ardour/ardour) - Mirror of Ardour Source Code
 - [luanti-org/luanti](https://github.com/luanti-org/luanti) - Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [grame-cncm/faust](https://github.com/grame-cncm/faust) - Functional programming language for signal processing and sound synthesis
@@ -2166,6 +2172,7 @@
 
 ## data-visualization 
 
+- [WengYiNing/Auralytics](https://github.com/WengYiNing/Auralytics) - Discover your unique music story.  Explore your top tracks, artists, genres, and musical eras.
 - [oxnr/awesome-bigdata](https://github.com/oxnr/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
@@ -2651,6 +2658,7 @@
 
 ## esp32 
 
+- [sauloverissimo/gingoduino](https://github.com/sauloverissimo/gingoduino) - 🪇 Gingo[duino]: Music theory engine for embedded systems. Build musical instruments and controllers that interact with people and speak MIDI 1.0 and 2.0.
 - [tttapa/Control-Surface](https://github.com/tttapa/Control-Surface) - Arduino library for creating MIDI controllers and other MIDI devices.
 - [earlephilhower/ESP8266Audio](https://github.com/earlephilhower/ESP8266Audio) - Arduino library to play MOD, WAV, FLAC, MIDI, RTTTL, OGG/Opus, MP3, and AAC files on I2S DACs or with a software emulated delta-sigma DAC on the ESP8266 and ESP32 and Pico
 - [T-vK/ESP32-BLE-Mouse](https://github.com/T-vK/ESP32-BLE-Mouse) - Bluetooth LE Mouse library for the ESP32 (Arduino IDE compatible)
@@ -2679,6 +2687,10 @@
 - [capstone-engine/capstone](https://github.com/capstone-engine/capstone) - Capstone disassembly/disassembler framework for ARM, ARM64 (ARMv8), Alpha, BPF, Ethereum VM, HPPA, LoongArch, M68K, M680X, Mips, MOS65XX, PPC, RISC-V(rv32G/rv64G), SH, Sparc, SystemZ, TMS320C64X, TriC
 - [nevillegrech/gigahorse-toolchain](https://github.com/nevillegrech/gigahorse-toolchain) - A binary lifter and analysis framework for Ethereum smart contracts
 - [crytic/rattle](https://github.com/crytic/rattle) - evm binary static analysis
+
+## express 
+
+- [WengYiNing/Auralytics](https://github.com/WengYiNing/Auralytics) - Discover your unique music story.  Explore your top tracks, artists, genres, and musical eras.
 
 ## facebook 
 
@@ -4638,6 +4650,14 @@
 
 ## music 
 
+- [ad-si/awesome-music-production](https://github.com/ad-si/awesome-music-production) - A curated list of software, services, and resources to create and distribute music
+- [dredozubov/polyrhythmix](https://github.com/dredozubov/polyrhythmix) - Polyrhythmically-inclined Midi Drum generator
+- [cbdevnet/midimonster](https://github.com/cbdevnet/midimonster) - Multi-protocol control & translation software (ArtNet, MIDI, OSC, sACN, ...)
+- [jjazzboss/JJazzLab](https://github.com/jjazzboss/JJazzLab) - A complete and open application for automatic backing tracks generation.
+- [sauloverissimo/gingoduino](https://github.com/sauloverissimo/gingoduino) - 🪇 Gingo[duino]: Music theory engine for embedded systems. Build musical instruments and controllers that interact with people and speak MIDI 1.0 and 2.0.
+- [madrisan/open-scores](https://github.com/madrisan/open-scores) - Musical Scores for Piano with full sources in LilyPond file format
+- [WengYiNing/Auralytics](https://github.com/WengYiNing/Auralytics) - Discover your unique music story.  Explore your top tracks, artists, genres, and musical eras.
+- [NouilleOrque/awesome-midi-repos](https://github.com/NouilleOrque/awesome-midi-repos) - 🎶 Discover and access a curated collection of GitHub repositories featuring MIDI files for your music projects and experiments.
 - [lexcast/orchestra](https://github.com/lexcast/orchestra) - See how instruments enter into action with a classical music piece.
 - [grimmdude/MidiWriterJS](https://github.com/grimmdude/MidiWriterJS) - ♬ A JavaScript library which provides an API for programmatically generating and creating expressive multi-track MIDI files and JSON.
 - [sergree/matchering](https://github.com/sergree/matchering) - 🎚️ Open Source Audio Matching and Mastering
@@ -4864,6 +4884,7 @@
 
 ## nodejs 
 
+- [WengYiNing/Auralytics](https://github.com/WengYiNing/Auralytics) - Discover your unique music story.  Explore your top tracks, artists, genres, and musical eras.
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
 - [yuniko-software/minecraft-mcp-server](https://github.com/yuniko-software/minecraft-mcp-server) - A Minecraft MCP Server powered by Mineflayer API. It allows to control a Minecraft character in real-time, allowing AI assistants to build structures, explore the world, and interact with the game env
 - [andreasbm/readme](https://github.com/andreasbm/readme) - Automatically generate a beautiful best-practice README file based on the contents of your repository
@@ -5176,6 +5197,14 @@
 
 ## others 
 
+- [mikeroyal/PipeWire-Guide](https://github.com/mikeroyal/PipeWire-Guide) - PipeWire Guide. Learn about how PipeWire gives your Linux system a Professional Audio/Video Processing workflow.
+- [mididings/stagedings](https://github.com/mididings/stagedings) - An UI and API for mididings https://github.com/mididings/mididings
+- [dsacre/mididings](https://github.com/dsacre/mididings) - A MIDI router/processor based on Python
+- [mididings/mididings](https://github.com/mididings/mididings) - Community maintained fork of https://github.com/dsacre/mididings
+- [cellist/Lilypond-Sheet-Music](https://github.com/cellist/Lilypond-Sheet-Music) - Music typeset with the Lilypond system
+- [bytedance/GiantMIDI-Piano](https://github.com/bytedance/GiantMIDI-Piano) - 
+- [SkyTNT/midi-model](https://github.com/SkyTNT/midi-model) - Midi event transformer for symbolic music generation
+- [westonsoftware/awesome-midi](https://github.com/westonsoftware/awesome-midi) - This is a curated list of awesome resources for MIDI.
 - [antirez/ds4](https://github.com/antirez/ds4) - DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
 - [nroduit/Weasis](https://github.com/nroduit/Weasis) - Weasis is a web-based DICOM viewer for advanced medical imaging and seamless PACS integration.
 - [w3c-cg/musicxml](https://github.com/w3c-cg/musicxml) - MusicXML specification
@@ -7414,6 +7443,7 @@
 
 ## qt 
 
+- [mcallegari/qlcplus](https://github.com/mcallegari/qlcplus) - Q Light Controller Plus (QLC+) is a free and cross-platform software to control DMX or analog lighting systems like moving heads, dimmers, scanners etc. This project is a fork of the great QLC project
 - [musescore/MuseScore](https://github.com/musescore/MuseScore) - MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!
 - [openairplay/openairplay](https://github.com/openairplay/openairplay) - Enabling Airplay just like on Apple OSX on Ubuntu and possibly other non-apple OSes
 - [ossia/score](https://github.com/ossia/score) - ossia score, an interactive sequencer for the intermedia arts
@@ -7497,6 +7527,7 @@
 
 ## react 
 
+- [WengYiNing/Auralytics](https://github.com/WengYiNing/Auralytics) - Discover your unique music story.  Explore your top tracks, artists, genres, and musical eras.
 - [lexcast/orchestra](https://github.com/lexcast/orchestra) - See how instruments enter into action with a classical music piece.
 - [saltyshiomix/nextron](https://github.com/saltyshiomix/nextron) - ⚡ Next.js + Electron ⚡
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
@@ -7761,6 +7792,7 @@
 
 ## rust 
 
+- [dredozubov/polyrhythmix](https://github.com/dredozubov/polyrhythmix) - Polyrhythmically-inclined Midi Drum generator
 - [framesurge/perseus](https://github.com/framesurge/perseus) - A state-driven web development framework for Rust with full support for server-side rendering and static generation.
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
@@ -8602,6 +8634,7 @@
 
 ## typescript 
 
+- [WengYiNing/Auralytics](https://github.com/WengYiNing/Auralytics) - Discover your unique music story.  Explore your top tracks, artists, genres, and musical eras.
 - [code-yeongyu/lazycodex](https://github.com/code-yeongyu/lazycodex) - The one and only agent harness for complex codebases. Project memory, planning, execution, and verified completion inside Codex.
 - [BlockSecCA/joern-mcp](https://github.com/BlockSecCA/joern-mcp) - MCP server wrapping Joern for AI-driven code security analysis
 - [yuniko-software/minecraft-mcp-server](https://github.com/yuniko-software/minecraft-mcp-server) - A Minecraft MCP Server powered by Mineflayer API. It allows to control a Minecraft character in real-time, allowing AI assistants to build structures, explore the world, and interact with the game env
