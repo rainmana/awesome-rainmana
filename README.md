@@ -628,6 +628,8 @@
 
 ## Dart 
 
+- [daodao97/chatmcp](https://github.com/daodao97/chatmcp) - ChatMCP is an AI chat client implementing the Model Context Protocol (MCP).
+- [Xingsandesu/CarrotAI](https://github.com/Xingsandesu/CarrotAI) - CarrotAI is a cutting-edge AI agent application that delivers real-time streaming chat via Server-Sent Events (SSE) with built-in Model Control Protocol (MCP) integration. It supports concurrent conne
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [jagandeepbrar/lunasea](https://github.com/jagandeepbrar/lunasea) - Self-hosted software controller built using Flutter
 - [ArmchairDevelopers/Kyber](https://github.com/ArmchairDevelopers/Kyber) - A unified game launcher for STAR WARS Battlefront II (EA) that adds community-hosted multiplayer with full mod support, a server browser, private games, and more.
@@ -2031,6 +2033,10 @@
 
 ## Python 
 
+- [eyalzh/context-kit](https://github.com/eyalzh/context-kit) - A CLI tool and MCP client, used to create spec files for AI coding agents with context baked in
+- [Kiva-AI/Kiva-SDK](https://github.com/Kiva-AI/Kiva-SDK) - A multi-agent orchestration SDK for building intelligent workflows
+- [johnrobinsn/askit](https://github.com/johnrobinsn/askit) - LLM Function Calling Library and CLI with Support for MCP Servers
+- [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
 - [mididings/stagedings](https://github.com/mididings/stagedings) - An UI and API for mididings https://github.com/mididings/mididings
 - [dsacre/mididings](https://github.com/dsacre/mididings) - A MIDI router/processor based on Python
 - [mididings/mididings](https://github.com/mididings/mididings) - Community maintained fork of https://github.com/dsacre/mididings
@@ -3427,6 +3433,10 @@
 
 ## TypeScript 
 
+- [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat) - 🐬DeepChat - A smart assistant that connects powerful AI to your personal world
+- [kill136/axon](https://github.com/kill136/axon) - Open source AI coding platform with Web IDE, multi-agent system, 37+ tools, MCP protocol. MIT licensed.
+- [n00bvn/CanvasMCPClient](https://github.com/n00bvn/CanvasMCPClient) - Canvas MCP Client is an open-source, self-hostable dashboard application built around an infinite, zoomable, and pannable canvas. It provides a unified interface for interacting with multiple MCP (Mod
+- [elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST) - autonomous red teaming platform; multi-agent offensive-security meta-harness
 - [WengYiNing/Auralytics](https://github.com/WengYiNing/Auralytics) - Discover your unique music story.  Explore your top tracks, artists, genres, and musical eras.
 - [httptoolkit/httptoolkit-desktop](https://github.com/httptoolkit/httptoolkit-desktop) - Electron wrapper to build and distribute HTTP Toolkit for the desktop
 - [Helicone/helicone](https://github.com/Helicone/helicone) - 🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 🍓
