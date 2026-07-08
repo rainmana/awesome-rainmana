@@ -5231,6 +5231,7 @@
 
 ## others 
 
+- [magenta/ddsp](https://github.com/magenta/ddsp) - DDSP: Differentiable Digital Signal Processing
 - [smithery-ai/cli](https://github.com/smithery-ai/cli) - Install, manage and develop MCP servers and skills for agents
 - [eyalzh/context-kit](https://github.com/eyalzh/context-kit) - A CLI tool and MCP client, used to create spec files for AI coding agents with context baked in
 - [Kiva-AI/Kiva-SDK](https://github.com/Kiva-AI/Kiva-SDK) - A multi-agent orchestration SDK for building intelligent workflows
