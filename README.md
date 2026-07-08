@@ -2033,6 +2033,7 @@
 
 ## Python 
 
+- [magenta/ddsp](https://github.com/magenta/ddsp) - DDSP: Differentiable Digital Signal Processing
 - [tskovlund/mcp-score](https://github.com/tskovlund/mcp-score) - MCP server for AI-driven music score generation and manipulation. Natural language to notation via MusicXML + live MuseScore integration.
 - [eyalzh/context-kit](https://github.com/eyalzh/context-kit) - A CLI tool and MCP client, used to create spec files for AI coding agents with context baked in
 - [Kiva-AI/Kiva-SDK](https://github.com/Kiva-AI/Kiva-SDK) - A multi-agent orchestration SDK for building intelligent workflows
