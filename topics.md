@@ -4687,6 +4687,7 @@
 
 ## music 
 
+- [ghchen99/mcp-musescore](https://github.com/ghchen99/mcp-musescore) - A Model Context Protocol (MCP) server that provides programmatic control over MuseScore!
 - [tskovlund/mcp-score](https://github.com/tskovlund/mcp-score) - MCP server for AI-driven music score generation and manipulation. Natural language to notation via MusicXML + live MuseScore integration.
 - [ad-si/awesome-music-production](https://github.com/ad-si/awesome-music-production) - A curated list of software, services, and resources to create and distribute music
 - [dredozubov/polyrhythmix](https://github.com/dredozubov/polyrhythmix) - Polyrhythmically-inclined Midi Drum generator
@@ -5236,6 +5237,8 @@
 
 ## others 
 
+- [GSA/plainlanguage.gov](https://github.com/GSA/plainlanguage.gov) - A resource to help federal employees write in plain language and comply with the Plain Writing Act of 2010
+- [JordanSucher/musescore-mcp](https://github.com/JordanSucher/musescore-mcp) - An MCP server for MuseScore.
 - [magenta/ddsp](https://github.com/magenta/ddsp) - DDSP: Differentiable Digital Signal Processing
 - [smithery-ai/cli](https://github.com/smithery-ai/cli) - Install, manage and develop MCP servers and skills for agents
 - [eyalzh/context-kit](https://github.com/eyalzh/context-kit) - A CLI tool and MCP client, used to create spec files for AI coding agents with context baked in
