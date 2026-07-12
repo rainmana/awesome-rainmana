@@ -1662,6 +1662,7 @@
 
 ## claude-code 
 
+- [crafter-station/petdex](https://github.com/crafter-station/petdex) - The public gallery of animated pet for Codex, Claude Code, OpenCode y Gemini CLI
 - [kill136/axon](https://github.com/kill136/axon) - Open source AI coding platform with Web IDE, multi-agent system, 37+ tools, MCP protocol. MIT licensed.
 - [DarrenBenson/sdlc-studio](https://github.com/DarrenBenson/sdlc-studio) - Claude Code skill for managing the full software development lifecycle
 - [code-yeongyu/lazycodex](https://github.com/code-yeongyu/lazycodex) - The one and only agent harness for complex codebases. Project memory, planning, execution, and verified completion inside Codex.
@@ -1696,6 +1697,7 @@
 
 ## cli 
 
+- [crafter-station/petdex](https://github.com/crafter-station/petdex) - The public gallery of animated pet for Codex, Claude Code, OpenCode y Gemini CLI
 - [kill136/axon](https://github.com/kill136/axon) - Open source AI coding platform with Web IDE, multi-agent system, 37+ tools, MCP protocol. MIT licensed.
 - [code-yeongyu/lazycodex](https://github.com/code-yeongyu/lazycodex) - The one and only agent harness for complex codebases. Project memory, planning, execution, and verified completion inside Codex.
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
@@ -2350,6 +2352,7 @@
 
 ## developer-tools 
 
+- [crafter-station/petdex](https://github.com/crafter-station/petdex) - The public gallery of animated pet for Codex, Claude Code, OpenCode y Gemini CLI
 - [kill136/axon](https://github.com/kill136/axon) - Open source AI coding platform with Web IDE, multi-agent system, 37+ tools, MCP protocol. MIT licensed.
 - [httptoolkit/httptoolkit-desktop](https://github.com/httptoolkit/httptoolkit-desktop) - Electron wrapper to build and distribute HTTP Toolkit for the desktop
 - [httptoolkit/httptoolkit](https://github.com/httptoolkit/httptoolkit) - HTTP Toolkit is a beautiful & open-source tool for debugging, testing and building with HTTP(S) on Windows, Linux & Mac  :tada:  Open an issue here to give feedback or ask for help.
@@ -4816,6 +4819,7 @@
 
 ## nextjs 
 
+- [crafter-station/petdex](https://github.com/crafter-station/petdex) - The public gallery of animated pet for Codex, Claude Code, OpenCode y Gemini CLI
 - [saltyshiomix/nextron](https://github.com/saltyshiomix/nextron) - ⚡ Next.js + Electron ⚡
 - [FiligranHQ/filigran-ui](https://github.com/FiligranHQ/filigran-ui) - Filigran-UI: Design System, Component and Icon library
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
@@ -5237,6 +5241,8 @@
 
 ## others 
 
+- [pyrater/TARS-AI](https://github.com/pyrater/TARS-AI) - A recreation of the robot TARS from Interstellar, featuring AI capabilities.
+- [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [GSA/plainlanguage.gov](https://github.com/GSA/plainlanguage.gov) - A resource to help federal employees write in plain language and comply with the Plain Writing Act of 2010
 - [JordanSucher/musescore-mcp](https://github.com/JordanSucher/musescore-mcp) - An MCP server for MuseScore.
 - [magenta/ddsp](https://github.com/magenta/ddsp) - DDSP: Differentiable Digital Signal Processing
@@ -6932,6 +6938,7 @@
 
 ## pixel-art 
 
+- [crafter-station/petdex](https://github.com/crafter-station/petdex) - The public gallery of animated pet for Codex, Claude Code, OpenCode y Gemini CLI
 - [tajmone/pixel-art-supplies](https://github.com/tajmone/pixel-art-supplies) - Wholesale Pixel-Art resources (for free!) …
 
 ## portfolio-website 
@@ -7575,6 +7582,7 @@
 
 ## react 
 
+- [crafter-station/petdex](https://github.com/crafter-station/petdex) - The public gallery of animated pet for Codex, Claude Code, OpenCode y Gemini CLI
 - [WengYiNing/Auralytics](https://github.com/WengYiNing/Auralytics) - Discover your unique music story.  Explore your top tracks, artists, genres, and musical eras.
 - [lexcast/orchestra](https://github.com/lexcast/orchestra) - See how instruments enter into action with a classical music piece.
 - [saltyshiomix/nextron](https://github.com/saltyshiomix/nextron) - ⚡ Next.js + Electron ⚡
@@ -8498,6 +8506,7 @@
 
 ## tailwindcss 
 
+- [crafter-station/petdex](https://github.com/crafter-station/petdex) - The public gallery of animated pet for Codex, Claude Code, OpenCode y Gemini CLI
 - [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
 - [FiligranHQ/filigran-ui](https://github.com/FiligranHQ/filigran-ui) - Filigran-UI: Design System, Component and Icon library
 - [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - Copy & Paste React components to build modern web applications.
