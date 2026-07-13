@@ -1119,6 +1119,7 @@
 
 ## JavaScript 
 
+- [automerge/automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [ljacobsson/cfn-diagram](https://github.com/ljacobsson/cfn-diagram) - CLI tool to visualise CloudFormation/SAM/CDK stacks as visjs networks, draw.io or ascii-art diagrams.
 - [mhlabs/cfn-diagram](https://github.com/mhlabs/cfn-diagram) - CLI tool to visualise CloudFormation/SAM/CDK stacks as visjs networks, draw.io or ascii-art diagrams.
@@ -2033,6 +2034,8 @@
 
 ## Python 
 
+- [automerge/automerge-py](https://github.com/automerge/automerge-py) - 
+- [anthropics/jacobian-lens](https://github.com/anthropics/jacobian-lens) - Companion code for the global workspace interpretability paper
 - [pyrater/TARS-AI](https://github.com/pyrater/TARS-AI) - A recreation of the robot TARS from Interstellar, featuring AI capabilities.
 - [magenta/ddsp](https://github.com/magenta/ddsp) - DDSP: Differentiable Digital Signal Processing
 - [tskovlund/mcp-score](https://github.com/tskovlund/mcp-score) - MCP server for AI-driven music score generation and manipulation. Natural language to notation via MusicXML + live MuseScore integration.
@@ -3531,7 +3534,7 @@
 - [simonhaenisch/md-to-pdf](https://github.com/simonhaenisch/md-to-pdf) - Hackable CLI tool for converting Markdown files to PDF using Node.js and headless Chrome.
 - [AmoyLab/Unla](https://github.com/AmoyLab/Unla) - 🧩 MCP Gateway - A lightweight gateway service that instantly transforms existing MCP Servers and APIs into MCP servers with zero code changes. Features Docker deployment and management UI, requiring n
 - [aipotheosis-labs/gate22](https://github.com/aipotheosis-labs/gate22) - Open-source MCP gateway and control plane for teams to govern which tools agents can use, what they can do, and how it’s audited—across agentic IDEs like Cursor, or other agents and AI tools.
-- [remvze/moodist](https://github.com/remvze/moodist) - 🌲 Ambient sounds for focus and calm.
+- [remvze/moodist](https://github.com/remvze/moodist) - Ambient sounds for focus and calm.
 - [punkpeye/fastmcp](https://github.com/punkpeye/fastmcp) - A TypeScript framework for building MCP servers.
 - [appledragon/DumpStorm](https://github.com/appledragon/DumpStorm) - Powerful crash dump analyzer for debugging native applications. Analyze minidump files (.dmp), extract symbols, enhance stack traces, and debug crashes with register tooltips and multilingual support.
 - [mixn/carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
