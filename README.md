@@ -444,7 +444,6 @@
 - [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) - Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces
 - [vesoft-inc/nebula](https://github.com/vesoft-inc/nebula) - A distributed, fast open-source graph database featuring horizontal scalability and high availability
 - [avast/retdec](https://github.com/avast/retdec) - RetDec is a retargetable machine-code decompiler based on LLVM.
-- [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
 - [mandiant/Vulnerability-Disclosures](https://github.com/mandiant/Vulnerability-Disclosures) - 
 - [a1ext/labeless](https://github.com/a1ext/labeless) - Labeless is a multipurpose IDA Pro plugin system for labels/comments synchronization with a debugger backend, with complex memory dumping and interactive Python scripting capabilities.
 - [horsicq/x64dbg-Plugin-Manager](https://github.com/horsicq/x64dbg-Plugin-Manager) - Plugin manager for x64dbg
@@ -1185,7 +1184,7 @@
 - [daxcay/ComfyUI-TG](https://github.com/daxcay/ComfyUI-TG) - Comfy UI in Telegram
 - [platformio/platformio-vscode-ide](https://github.com/platformio/platformio-vscode-ide) - PlatformIO IDE for VSCode: The next generation integrated development environment for IoT
 - [TiddlyWiki/TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
-- [amperser/proselint](https://github.com/amperser/proselint) - A linter for prose.
+- [amperser/proselint](https://github.com/amperser/proselint) - [Mirror] A linter for prose.
 - [btford/write-good](https://github.com/btford/write-good) - Naive linter for English prose
 - [sintaxi/surge](https://github.com/sintaxi/surge) - CLI for the surge.sh CDN
 - [lifan0127/ai-research-assistant](https://github.com/lifan0127/ai-research-assistant) - Aria is Your AI Research Assistant Powered by GPT Large Language Models
@@ -3134,6 +3133,7 @@
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - [Pometry/Raphtory](https://github.com/Pometry/Raphtory) - Scalable graph analytics database powered by a multithreaded, vectorized temporal engine, written in Rust
 - [lbcdec/lbcdec](https://github.com/lbcdec/lbcdec) - A Lua 5.1 Bytecode Decompiler written in Rust
+- [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
 - [pamburus/hl](https://github.com/pamburus/hl) - A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human-readable format.
 - [pamburus/termframe](https://github.com/pamburus/termframe) - 📸 Terminal output SVG screenshot tool
 - [codesnap-rs/codesnap](https://github.com/codesnap-rs/codesnap) - 🦀️📸 Pure Rust tool to generate beautiful code snapshots, provide CLI and Library
@@ -3205,7 +3205,7 @@
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
 - [xelis-project/xelis-blockchain](https://github.com/xelis-project/xelis-blockchain) - A private blockDAG with Homomorphic Encryption and Smart Contracts
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent for open models like Deepseek, Kimi, and Qwen
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent, optimized for open models like GLM, Deepseek, and Kimi
 - [WerWolv/ImHex-Patterns](https://github.com/WerWolv/ImHex-Patterns) - Hex patterns, include patterns and magic files for the use with the ImHex Hex Editor
 - [ergrelet/windiff](https://github.com/ergrelet/windiff) - Tool that allows comparing symbol, type and syscall information of Microsoft Windows binaries across different versions of the OS, using a Web UI and/or LLMs.
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
