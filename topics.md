@@ -5246,6 +5246,8 @@
 
 ## others 
 
+- [Dj3ky/PagerMonitor](https://github.com/Dj3ky/PagerMonitor) - 📟 Real-time POCSAG & FLEX pager monitoring — from RF to your browser in seconds
+- [ktauchathuranga/openpager](https://github.com/ktauchathuranga/openpager) - POCSAG (pager) Transceiver Arduino Library
 - [automerge/automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
 - [automerge/automerge-py](https://github.com/automerge/automerge-py) - 
 - [anthropics/jacobian-lens](https://github.com/anthropics/jacobian-lens) - Companion code for the global workspace interpretability paper
