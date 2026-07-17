@@ -67,6 +67,7 @@
 - [Python](#python)
 - [QML](#qml)
 - [R](#r)
+- [REXX](#rexx)
 - [Rich Text Format](#rich-text-format)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -905,7 +906,7 @@
 - [someshkar/whois-api](https://github.com/someshkar/whois-api) - A simple rest API for whois lookups.
 - [assetnote/kiterunner](https://github.com/assetnote/kiterunner) - Contextual Content Discovery Tool
 - [projectdiscovery/uncover](https://github.com/projectdiscovery/uncover) - Quickly discover exposed hosts on the internet using multiple search engines.
-- [jm33-m0/emp3r0r](https://github.com/jm33-m0/emp3r0r) - Self‑healing Gossip Mesh C2 with Assisted Peer Discovery, Modular Post‑Exploitation, and OPSEC‑Focused Transport
+- [jm33-m0/emp3r0r](https://github.com/jm33-m0/emp3r0r) - Self‑healing Gossip Mesh C2 with Assisted Peer Discovery, Modular Post‑Exploitation, and Scriptable Agents.
 - [BishopFox/sliver](https://github.com/BishopFox/sliver) - Adversary Emulation Framework
 - [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) - Fast passive subdomain enumeration tool.
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal File Storage Client
@@ -2036,6 +2037,10 @@
 
 ## Python 
 
+- [IBM/chuk-llm](https://github.com/IBM/chuk-llm) - 
+- [IBM/chuk-tool-processor](https://github.com/IBM/chuk-tool-processor) - 
+- [IBM/mcp-cli](https://github.com/IBM/mcp-cli) - 
+- [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge) - An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint with centralized discovery, guardrails and management. Optimizes Agent & Tool call
 - [sam-k/pager-sec](https://github.com/sam-k/pager-sec) - Hacking hospital pagers, then building an encrypted solution.
 - [automerge/automerge-py](https://github.com/automerge/automerge-py) - 
 - [anthropics/jacobian-lens](https://github.com/anthropics/jacobian-lens) - Companion code for the global workspace interpretability paper
@@ -2431,7 +2436,7 @@
 - [opsdisk/pagodo](https://github.com/opsdisk/pagodo) - pagodo (Passive Google Dork) - Automate Google Hacking Database scraping and searching
 - [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
 - [mediawiki-utilities/python-mwxml](https://github.com/mediawiki-utilities/python-mwxml) - A set of utilities for processing MediaWiki XML dump data.
-- [attardi/wikiextractor](https://github.com/attardi/wikiextractor) - A tool for extracting plain text from Wikipedia dumps
+- [WikiExtractor/wikiextractor](https://github.com/WikiExtractor/wikiextractor) - A tool for extracting plain text from Wikipedia dumps
 - [daveshap/PlainTextWikipedia](https://github.com/daveshap/PlainTextWikipedia) - Convert Wikipedia database dumps into plaintext files
 - [firecrawl/create-llmstxt-py](https://github.com/firecrawl/create-llmstxt-py) - 
 - [scrollmapper/bible_databases](https://github.com/scrollmapper/bible_databases) - Bible versions and cross-reference databases.
@@ -3062,6 +3067,10 @@
 - [yusuzech/r-web-scraping-cheat-sheet](https://github.com/yusuzech/r-web-scraping-cheat-sheet) - Guide, reference and cheatsheet on web scraping using rvest, httr and Rselenium.
 - [gadenbuie/starwarsdb](https://github.com/gadenbuie/starwarsdb) - Relational Data from the Star Wars API for Learning and Teaching
 
+## REXX 
+
+- [IBM/IBM-Z-zOS](https://github.com/IBM/IBM-Z-zOS) - The helpful and handy location for finding and sharing z/OS files, which are not included in the product.
+
 ## Rich Text Format 
 
 - [TeamHG-Memex/memex-gate](https://github.com/TeamHG-Memex/memex-gate) - General Architecture for Text Engineering
@@ -3183,7 +3192,7 @@
 - [djackreuter/rustlualoader](https://github.com/djackreuter/rustlualoader) - Shellcode loader that executes embedded Lua from Rust.
 - [w4/bin](https://github.com/w4/bin) - :wastebasket: a paste bin.
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
-- [tursodatabase/turso](https://github.com/tursodatabase/turso) - A SQL database in Rust: SQLite-compatible, now speaking Postgres. The LLVM of databases.
+- [tursodatabase/turso](https://github.com/tursodatabase/turso) - A SQL database in Rust: SQLite-compatible, now also speaking Postgres (experimental). The LLVM of databases.
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [swanandx/lemmeknow](https://github.com/swanandx/lemmeknow) - The fastest way to identify anything!
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
@@ -3210,7 +3219,7 @@
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
 - [xelis-project/xelis-blockchain](https://github.com/xelis-project/xelis-blockchain) - A private blockDAG with Homomorphic Encryption and Smart Contracts
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A Codex-compatible coding agent for open models like Kimi K3
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3
 - [WerWolv/ImHex-Patterns](https://github.com/WerWolv/ImHex-Patterns) - Hex patterns, include patterns and magic files for the use with the ImHex Hex Editor
 - [ergrelet/windiff](https://github.com/ergrelet/windiff) - Tool that allows comparing symbol, type and syscall information of Microsoft Windows binaries across different versions of the OS, using a Web UI and/or LLMs.
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
