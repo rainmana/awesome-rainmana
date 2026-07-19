@@ -3813,7 +3813,6 @@
 
 - [w3c-cg/musicxml](https://github.com/w3c-cg/musicxml) - MusicXML specification
 - [aglahe/vagrant-memex](https://github.com/aglahe/vagrant-memex) - DARPA MEMEX project Vagrant VM
-- [Sonoisseurs/sonor](https://github.com/Sonoisseurs/sonor) - A collaborative effort to liberate Sonos devices from their cloudy masters.
 
 ## YARA 
 
