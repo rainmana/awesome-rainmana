@@ -6667,7 +6667,6 @@
 - [userlandkernel/Reversing3utools](https://github.com/userlandkernel/Reversing3utools) - Reverse engineering the commonly used 3utools software to make it more open and learn about it.
 - [nikaroxanne/reverse_engineering_firmware](https://github.com/nikaroxanne/reverse_engineering_firmware) - a collection of scripts used for reverse engineering/analysis of firmware
 - [S3Jensen/iRET](https://github.com/S3Jensen/iRET) - 
-- [Sonoisseurs/sonor](https://github.com/Sonoisseurs/sonor) - A collaborative effort to liberate Sonos devices from their cloudy masters.
 - [splunk/splunk-sdk-python](https://github.com/splunk/splunk-sdk-python) - Splunk Software Development Kit for Python
 - [splunk/vscode-extension-splunk](https://github.com/splunk/vscode-extension-splunk) - Visual Studio Code Extension for Splunk
 - [kotlaluk/spl-parser](https://github.com/kotlaluk/spl-parser) - Parser for Splunk's Search Processing Language (SPL) syntax highlighting
