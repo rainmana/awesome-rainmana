@@ -6370,7 +6370,6 @@
 - [microsoft/rusty-radamsa](https://github.com/microsoft/rusty-radamsa) - Radamsa fuzzer ported to rust lang
 - [google/atheris](https://github.com/google/atheris) - 
 - [securebinary/firebaseExploiter](https://github.com/securebinary/firebaseExploiter) - FirebaseExploiter is a vulnerability discovery tool that discovers Firebase Database which are open and can be exploitable. Primarily built for mass hunting bug bounties and for penetration testing.
-- [Sharpforce/XSS-Exploitation-Tool](https://github.com/Sharpforce/XSS-Exploitation-Tool) - An XSS Exploitation Tool
 - [PAGalaxyLab/uniFuzzer](https://github.com/PAGalaxyLab/uniFuzzer) - A fuzzing tool for closed-source binaries based on Unicorn and LibFuzzer
 - [Caipo/Tinfoil-Hat-Chatroom](https://github.com/Caipo/Tinfoil-Hat-Chatroom) - Simple chat app that uses encryption
 - [cassidoo/scrapers](https://github.com/cassidoo/scrapers) - A list of scrapers from around the web.
