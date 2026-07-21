@@ -908,7 +908,7 @@
 - [someshkar/whois-api](https://github.com/someshkar/whois-api) - A simple rest API for whois lookups.
 - [assetnote/kiterunner](https://github.com/assetnote/kiterunner) - Contextual Content Discovery Tool
 - [projectdiscovery/uncover](https://github.com/projectdiscovery/uncover) - Quickly discover exposed hosts on the internet using multiple search engines.
-- [jm33-m0/emp3r0r](https://github.com/jm33-m0/emp3r0r) - Self‑healing Gossip Mesh C2 with Assisted Peer Discovery, Modular Post‑Exploitation, and Scriptable Agents.
+- [jm33-m0/emp3r0r](https://github.com/jm33-m0/emp3r0r) - Self‑healing Gossip Mesh C2 with Assisted Peer Discovery, Cross-Platform BOF Execution, and Scriptable Agents.
 - [BishopFox/sliver](https://github.com/BishopFox/sliver) - Adversary Emulation Framework
 - [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) - Fast passive subdomain enumeration tool.
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal File Storage Client
@@ -1479,7 +1479,6 @@
 - [veniceai/api-docs](https://github.com/veniceai/api-docs) - Docs powering https://docs.venice.ai
 - [TARS-AI-Community/docs](https://github.com/TARS-AI-Community/docs) - The official documentation hub for TARS-AI. Find guides, technical references, and contribution resources here.
 - [mitre-attack/attack-data-model](https://github.com/mitre-attack/attack-data-model) - ATT&CK Data Model (ADM): A TypeScript library for structured interaction with MITRE ATT&CK datasets. Uses Zod schemas, TypeScript types, and ES6 classes to provide a type-safe, object-oriented interfa
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 
 ## Makefile 
@@ -2037,6 +2036,7 @@
 
 ## Python 
 
+- [karl-andres/fl-studio-mcp](https://github.com/karl-andres/fl-studio-mcp) - MCP Server for FL Studio
 - [huggingface/smollm](https://github.com/huggingface/smollm) - Everything about the SmolLM and SmolVLM family of models
 - [IBM/chuk-llm](https://github.com/IBM/chuk-llm) - 
 - [IBM/chuk-tool-processor](https://github.com/IBM/chuk-tool-processor) - 
@@ -2591,6 +2591,7 @@
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [faif/python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
 - [TranscryptOrg/Transcrypt](https://github.com/TranscryptOrg/Transcrypt) - Python 3.9 to JavaScript compiler - Lean, fast, open!
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
 - [freelabz/secator](https://github.com/freelabz/secator) - secator - the pentester's swiss knife
 - [asteroid-team/asteroid](https://github.com/asteroid-team/asteroid) - The PyTorch-based audio source separation toolkit for researchers
 - [facefusion/facefusion](https://github.com/facefusion/facefusion) - Industry leading face manipulation platform
@@ -2625,7 +2626,7 @@
 - [Dman95/SASM](https://github.com/Dman95/SASM) - SASM - simple crossplatform IDE for NASM, MASM, GAS and FASM assembly languages
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler with built-in NumPy support
 - [latchset/jwcrypto](https://github.com/latchset/jwcrypto) - Implements JWK,JWS,JWE specifications using python-cryptography
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.6, DeepSeek, gpt-oss locally.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth is a local UI for training and running Gemma 4, Qwen3.6, DeepSeek, Kimi, GLM and other models.
 - [mesop-dev/mesop](https://github.com/mesop-dev/mesop) - Rapidly build AI apps in Python
 - [lanjelot/patator](https://github.com/lanjelot/patator) - Patator is a multi-purpose brute-forcer, with a modular design and a flexible usage.
 - [galkan/crowbar](https://github.com/galkan/crowbar) - Crowbar is brute forcing tool that can be used during penetration tests. It is developed to support protocols that are not currently supported by thc-hydra and other popular brute forcing tools.
@@ -3708,7 +3709,7 @@
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. Includes AI personas, AGI functions, world-class Beam multi-model chats, text-to-image, voice, response streaming, 
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
-- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
+- [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
