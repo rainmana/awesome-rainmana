@@ -705,7 +705,7 @@
 - [beeper/registration-relay](https://github.com/beeper/registration-relay) - Relay for your iDevice's registration data
 - [beeper/imessage](https://github.com/beeper/imessage) - A Matrix-iMessage puppeting bridge.
 - [mautrix/imessage](https://github.com/mautrix/imessage) - A Matrix-iMessage puppeting bridge
-- [beclab/Olares](https://github.com/beclab/Olares) - Olares: An Open-Source Personal Cloud to Reclaim Your Data
+- [beclab/Olares](https://github.com/beclab/Olares) - Olares is an open-source personal cloud OS you operate in plain language, built to run AI agents and LLMs on hardware you own.
 - [kardolus/chatgpt-cli](https://github.com/kardolus/chatgpt-cli) - ChatGPT CLI is a powerful, multi-provider command-line interface for working with modern LLMs. It supports OpenAI, Azure, Perplexity, LLaMA, and more, with features like streaming, interactive chat, p
 - [mautrix/signal](https://github.com/mautrix/signal) - A Matrix-Signal puppeting bridge
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘
@@ -2394,7 +2394,7 @@
 - [redis/mcp-redis](https://github.com/redis/mcp-redis) - The official Redis MCP Server is a natural language interface designed for agentic applications to manage and search data in Redis efficiently
 - [microsoft/PyRIT](https://github.com/microsoft/PyRIT) - The Python Risk Identification Tool for generative AI (PyRIT) is an open source framework built to empower security professionals and engineers to proactively identify risks in generative AI systems.
 - [MCPPhalanx/binaryninja-mcp](https://github.com/MCPPhalanx/binaryninja-mcp) - Another™ MCP Server for Binary Ninja with superpower 🥵
-- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
 - [sabnzbd/sabnzbd](https://github.com/sabnzbd/sabnzbd) - SABnzbd - The automated Usenet download tool
 - [anasty17/mirror-leech-telegram-bot](https://github.com/anasty17/mirror-leech-telegram-bot) - Official Repository: Telegram bot which can download direct links, torrents, nzb, google drive, telegram document, any file/folder from rclone supported clouds, all yt-dlp supported sites and jdownloa
 - [memodb-io/memobase](https://github.com/memodb-io/memobase) - User Profile-Based Long-Term Memory for AI Chatbot Applications.
@@ -3064,7 +3064,6 @@
 
 - [JordanSucher/musescore-mcp](https://github.com/JordanSucher/musescore-mcp) - An MCP server for MuseScore.
 - [ghchen99/mcp-musescore](https://github.com/ghchen99/mcp-musescore) - A Model Context Protocol (MCP) server that provides programmatic control over MuseScore!
-- [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern & Opinionated Linux
 - [mylinuxforwork/dotfiles](https://github.com/mylinuxforwork/dotfiles) - The ML4W OS - Dotfiles for Hyprland - An advanced and full-featured configuration for the dynamic tiling window manager Hyprland. Ready to install from a Live ISO or with the Dotfiles Installer app wi
 
 ## R 
@@ -3170,7 +3169,7 @@
 - [tursodatabase/libsql-python](https://github.com/tursodatabase/libsql-python) - Python bindings for the libSQL database library
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [linera-io/linera-protocol](https://github.com/linera-io/linera-protocol) - Main repository for the Linera protocol
-- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
+- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - ❄️ ChatGPT Desktop Application (Mac, Windows and Linux)
 - [typedb/typedb](https://github.com/typedb/typedb) - TypeDB: Built for systems, not records
 - [typedb/typedb-driver](https://github.com/typedb/typedb-driver) - TypeDB Drivers for Rust, Python, Java, Node.js, C, C++, and C#.
 - [commoncrawl/cc-downloader](https://github.com/commoncrawl/cc-downloader) - A polite and user-friendly downloader for Common Crawl data
@@ -3308,6 +3307,7 @@
 - [matthew-mcmanus/Unifi-Dynamic-Threat-Intel-Feed](https://github.com/matthew-mcmanus/Unifi-Dynamic-Threat-Intel-Feed) - A script to automate the injection of external threat feeds into the Unifi platform. (Use at own risk, may void warranties)
 - [jimmypocock/cursor-rules](https://github.com/jimmypocock/cursor-rules) - Best practices for Cursor IDE with AWS, Next.js, and React Native
 - [OpenVoiceOS/ovos-installer](https://github.com/OpenVoiceOS/ovos-installer) - Open Voice OS and/or HiveMind installer using Ansible with an intuitive and easy Text-based User Interface
+- [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern & Opinionated Linux
 - [niceboygithub/AqaraCameraHubfw](https://github.com/niceboygithub/AqaraCameraHubfw) - Aqara Camera Hub G2/G2H and Aqara Hub E1 firmwares
 - [m3n0sd0n4ld/GooFuzz](https://github.com/m3n0sd0n4ld/GooFuzz) - GooFuzz is a tool to perform fuzzing with an OSINT approach, managing to enumerate directories, files, subdomains or parameters without leaving evidence on the target's server and by means of advanced
 - [conda-forge/miniforge](https://github.com/conda-forge/miniforge) - A conda-forge distribution.
