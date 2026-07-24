@@ -1321,7 +1321,7 @@
 - [bellingcat/sar-interference-tracker](https://github.com/bellingcat/sar-interference-tracker) - A Google Earth Engine tool for identifying satellite radar interference.
 - [nyabkun/bash-to-powershell-converter](https://github.com/nyabkun/bash-to-powershell-converter) - Converts bash script to powershell script.
 - [mogsdad/SheetConverter](https://github.com/mogsdad/SheetConverter) - Google Apps Script library - interprets Google Sheets Formats, converts to formatted text or html
-- [jorgebucaran/hyperapp](https://github.com/jorgebucaran/hyperapp) - 1kB-ish JavaScript framework for building hypertext applications
+- [hyperapp/hyperapp](https://github.com/hyperapp/hyperapp) - 1kB-ish JavaScript framework for building hypertext applications
 - [holistics/dbml](https://github.com/holistics/dbml) - Database Markup Language (DBML), designed to define and document database structures
 - [orbitdb/orbitdb](https://github.com/orbitdb/orbitdb) - Peer-to-Peer Databases for the Decentralized Web
 - [davuxcom/frida-scripts](https://github.com/davuxcom/frida-scripts) - Inject JS and C# into Windows apps, call COM and WinRT APIs
