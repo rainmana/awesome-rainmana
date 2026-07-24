@@ -723,7 +723,7 @@
 - [cr0hn/dockerscan](https://github.com/cr0hn/dockerscan) - The Most Comprehensive Docker Security Scanner
 - [terminaldotshop/terminal-sdk-go](https://github.com/terminaldotshop/terminal-sdk-go) - 
 - [redis/rueidis](https://github.com/redis/rueidis) - A fast Golang Redis client that supports Client Side Caching, Auto Pipelining, RDMA, etc.
-- [obot-platform/obot](https://github.com/obot-platform/obot) - Complete MCP Platform from Obot AI
+- [obot-platform/obot](https://github.com/obot-platform/obot) - Complete AI Governance Platform from Obot AI
 - [GaijinEntertainment/go-exhaustruct](https://github.com/GaijinEntertainment/go-exhaustruct) - golang analyzer that finds structures with uninitialized fields
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 - [rainmana/gothink](https://github.com/rainmana/gothink) - 
@@ -880,7 +880,7 @@
 - [ViRb3/webdav-server](https://github.com/ViRb3/webdav-server) - A simple WebDAV server in Go
 - [SignTools/SignTools](https://github.com/SignTools/SignTools) - ✒ A free, self-hosted platform to sideload iOS apps without a computer
 - [pushbits/server](https://github.com/pushbits/server) - A simple server for push notifications via Matrix (and a minimalistic alternative to Pushover and Gotify) 🚀📯
-- [mrusme/superhighway84](https://github.com/mrusme/superhighway84) - USENET-inspired, uncensorable, decentralized internet discussion system running on IPFS & OrbitDB (https://codeberg.org/mrus/superhighway84)
+- [mrusme/superhighway84](https://github.com/mrusme/superhighway84) - USENET-inspired, uncensorable, decentralized internet discussion system running on IPFS & OrbitDB (https://tty.fail/mrus/superhighway84)
 - [nim4/DBShield](https://github.com/nim4/DBShield) - Database firewall written in Go
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [cube2222/octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
@@ -1027,6 +1027,7 @@
 
 ## Java 
 
+- [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - 🔎 Open source distributed and RESTful search engine.
 - [Rockman6/ScanScore](https://github.com/Rockman6/ScanScore) - ScanScore — Open-source Music Scanner (OMR). Converts scanned sheet music to MusicXML/MIDI.
 - [jjazzboss/JJazzLab](https://github.com/jjazzboss/JJazzLab) - A complete and open application for automatic backing tracks generation.
 - [nroduit/Weasis](https://github.com/nroduit/Weasis) - Weasis is a web-based DICOM viewer for advanced medical imaging and seamless PACS integration.
@@ -2365,7 +2366,6 @@
 - [pydantic/logfire](https://github.com/pydantic/logfire) - AI observability platform for production LLM and agent systems.
 - [NYU-LLM-CTF/NYU_CTF_Bench](https://github.com/NYU-LLM-CTF/NYU_CTF_Bench) - 
 - [aivillage/llm_verification](https://github.com/aivillage/llm_verification) - LLM prompt attacks for hacker CTFs via CTFd.
-- [shivank21/LLM_CTF_SaTML](https://github.com/shivank21/LLM_CTF_SaTML) - 
 - [NickNameInvalid/LLM_CTF](https://github.com/NickNameInvalid/LLM_CTF) - 
 - [codingtuto/LiteJsonDb](https://github.com/codingtuto/LiteJsonDb) - A lightweight JSON-based database system designed for simplicity and ease of use. It allows you to manage your data efficiently without the complexity of traditional databases. Code less, be productiv
 - [Kawai-Senpai/PotatoDB](https://github.com/Kawai-Senpai/PotatoDB) - PotatoDB is a lightweight, file-based NoSQL database for Python projects, designed for easy setup and use in small-scale applications. Ideal for developers seeking simple data persistence without the 
