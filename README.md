@@ -1124,6 +1124,7 @@
 
 ## JavaScript 
 
+- [0xKoda/WireMCP](https://github.com/0xKoda/WireMCP) - An MCP for WireShark (tshark). Empower LLM's with realtime network traffic analysis capability
 - [BalliAsghar/Mailsy](https://github.com/BalliAsghar/Mailsy) - ⚡️ Quickly generate a disposable email straight from terminal.
 - [disposable/disposable-email-domains](https://github.com/disposable/disposable-email-domains) - Daily updated repository for https://github.com/disposable/disposable
 - [Dj3ky/PagerMonitor](https://github.com/Dj3ky/PagerMonitor) - 📟 Real-time POCSAG & FLEX pager monitoring — from RF to your browser in seconds
