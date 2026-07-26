@@ -3518,7 +3518,7 @@
 
 - [parautenbach/hass-shairport-sync](https://github.com/parautenbach/hass-shairport-sync) - A custom media player for Home Assistant that allows you to control and get updates from a Shairport Sync installation using MQTT.
 - [patman15/hdpv_ble](https://github.com/patman15/hdpv_ble) - A Home Assistant integration to support Hunter Douglas Powerview devices via Bluetooth
-- [francescopace/espectre](https://github.com/francescopace/espectre) - 🛜 ESPectre 👻  - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration.
+- [francescopace/espectre](https://github.com/francescopace/espectre) - ESPectre - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration.
 - [HeyWillow/willow](https://github.com/HeyWillow/willow) - Open source, local, and self-hosted Amazon Echo/Google Home competitive Voice Assistant alternative
 - [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application
 
@@ -5259,6 +5259,9 @@
 
 ## others 
 
+- [rainmana/Hydian](https://github.com/rainmana/Hydian) - 
+- [durgeshsamariya/awesome-github-profile-readme-templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates) - This repository contains best profile readme's for your reference.
+- [openai/tunnel-client](https://github.com/openai/tunnel-client) - 
 - [sunblaze-ucb/exploitgym](https://github.com/sunblaze-ucb/exploitgym) - ExploitGym is a large-scale, realistic benchmark built from real-world vulnerabilities designed to evaluate AI agents' ability to develop exploits.
 - [disposable/disposable-email-domains](https://github.com/disposable/disposable-email-domains) - Daily updated repository for https://github.com/disposable/disposable
 - [disposable/disposable](https://github.com/disposable/disposable) - A list of disposable/temporary email address domains
@@ -7895,6 +7898,7 @@
 
 ## rust 
 
+- [ratatui/templates](https://github.com/ratatui/templates) - Templates for bootstrapping a Rust TUI application with Ratatui
 - [dredozubov/polyrhythmix](https://github.com/dredozubov/polyrhythmix) - Polyrhythmically-inclined Midi Drum generator
 - [framesurge/perseus](https://github.com/framesurge/perseus) - A state-driven web development framework for Rust with full support for server-side rendering and static generation.
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
@@ -8717,6 +8721,7 @@
 
 ## tui 
 
+- [ratatui/templates](https://github.com/ratatui/templates) - Templates for bootstrapping a Rust TUI application with Ratatui
 - [sammcj/gollama](https://github.com/sammcj/gollama) - Go manage your Ollama models
 - [SomajitDey/ipfs-chat](https://github.com/SomajitDey/ipfs-chat) - Real-time P2P messenger using go-ipfs pubsub. TUI. End-to-end encrypted texting & file-sharing. NAT traversal.
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
