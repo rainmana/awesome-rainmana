@@ -332,6 +332,7 @@
 
 ## C# # 
 
+- [guicn555/RoomRelay](https://github.com/guicn555/RoomRelay) - Stream Windows system or per-app audio to Sonos speakers over your local network.
 - [mlavik1/UnityVolumeRendering](https://github.com/mlavik1/UnityVolumeRendering) - Volume rendering, implemented in Unity3D.  Want to support the project? Donate a small sum to Save The Children(https://www.savethechildren.net/) or another charity, and send me a message, and I will 
 - [TechSmith/Snagit-COM-Samples](https://github.com/TechSmith/Snagit-COM-Samples) - Sample projects in various programming languages that demonstrate how to use the Snagit COM API to take image captures and video recordings from your own application.
 - [aalex954/applocate](https://github.com/aalex954/applocate) - A Windows CLI utility to locate installed application's executables, configs, and paths.
@@ -1023,6 +1024,8 @@
 
 ## Haskell 
 
+- [chordify/HarmTrace-Base](https://github.com/chordify/HarmTrace-Base) - HarmTrace Base: Parsing and unambiguously representing musical chords
+- [chordify/servant](https://github.com/chordify/servant) - Main repository for the servant libraries — DSL for describing, serving, querying, mocking, documenting web applications and more!
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
@@ -2044,6 +2047,8 @@
 
 ## Python 
 
+- [TrevorBagels/PulsepointScraperV2](https://github.com/TrevorBagels/PulsepointScraperV2) - Scrapes pulsepoint.org for emergency incidents and notifies you if certain conditions are met.
+- [chordify/CASD](https://github.com/chordify/CASD) - Chordify Annotator Subjectivity Dataset - A chord-Label harmony dataset with multiple reference annotations per song
 - [evennia/evennia](https://github.com/evennia/evennia) - Python MUD/MUX/MUSH/MU* development system
 - [disposable/disposable](https://github.com/disposable/disposable) - A list of disposable/temporary email address domains
 - [karl-andres/fl-studio-mcp](https://github.com/karl-andres/fl-studio-mcp) - MCP Server for FL Studio
