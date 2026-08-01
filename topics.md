@@ -2590,6 +2590,7 @@
 
 ## dotnet 
 
+- [guicn555/RoomRelay](https://github.com/guicn555/RoomRelay) - Stream Windows system or per-app audio to Sonos speakers over your local network.
 - [microsoft/agent-framework](https://github.com/microsoft/agent-framework) - A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 - [insidersec/insider](https://github.com/insidersec/insider) - Static Application Security Testing (SAST) engine focused on covering the OWASP Top 10, to make source code analysis to find vulnerabilities right in the source code, focused on a agile and easy to im
@@ -5273,6 +5274,10 @@
 
 ## others 
 
+- [TrevorBagels/PulsepointScraperV2](https://github.com/TrevorBagels/PulsepointScraperV2) - Scrapes pulsepoint.org for emergency incidents and notifies you if certain conditions are met.
+- [chordify/HarmTrace-Base](https://github.com/chordify/HarmTrace-Base) - HarmTrace Base: Parsing and unambiguously representing musical chords
+- [chordify/CASD](https://github.com/chordify/CASD) - Chordify Annotator Subjectivity Dataset - A chord-Label harmony dataset with multiple reference annotations per song
+- [chordify/servant](https://github.com/chordify/servant) - Main repository for the servant libraries — DSL for describing, serving, querying, mocking, documenting web applications and more!
 - [LaurieWired/CallMeMaybe](https://github.com/LaurieWired/CallMeMaybe) - Runtime reflection library built on C++26 static reflection
 - [apple/swift-ntp](https://github.com/apple/swift-ntp) - Swift NTP library using Swift NIO. Provides an NTPClient.
 - [rainmana/Hydian](https://github.com/rainmana/Hydian) - 
@@ -9098,6 +9103,7 @@
 
 ## windows 
 
+- [guicn555/RoomRelay](https://github.com/guicn555/RoomRelay) - Stream Windows system or per-app audio to Sonos speakers over your local network.
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [JoyHak/awesome-notepad-plus-plus](https://github.com/JoyHak/awesome-notepad-plus-plus) - Bundle of plug-ins and configs for Notepad++
