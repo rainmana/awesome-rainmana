@@ -656,6 +656,8 @@
 
 ## Elixir 
 
+- [jmanhype/ember_ex_elixir](https://github.com/jmanhype/ember_ex_elixir) - Elixir port of the Ember framework for building LLM applications
+- [agentjido/jido_ai](https://github.com/agentjido/jido_ai) - AI integration layer for Jido agents with LLM orchestration and reasoning strategies.
 - [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
 - [openai/symphony](https://github.com/openai/symphony) - Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.
 - [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
@@ -675,7 +677,8 @@
 
 ## Go 
 
-- [openai/tunnel-client](https://github.com/openai/tunnel-client) - 
+- [cadence-workflow/cadence](https://github.com/cadence-workflow/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
+- [openai/tunnel-client](https://github.com/openai/tunnel-client) - Customer-run client for Secure MCP Tunnel: connect private or localhost MCP servers to ChatGPT, Codex, the Responses API, and AgentKit without exposing them to the public internet.
 - [rverton/webanalyze](https://github.com/rverton/webanalyze) - Port of Wappalyzer (uncovers technologies used on websites) to automate mass scanning.
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI powered Kubernetes Assistant
@@ -746,6 +749,7 @@
 - [hybridgroup/gobot](https://github.com/hybridgroup/gobot) - Golang framework for robotics, drones, and the Internet of Things (IoT)
 - [kac89/vulnrepo-server](https://github.com/kac89/vulnrepo-server) - Sample API server for VULNRΞPO
 - [TankMan649/camtruder](https://github.com/TankMan649/camtruder) - 
+- [ayebrian/fictusvnc](https://github.com/ayebrian/fictusvnc) - FictusVNC - amazing Fake VNC server to serve your images easily
 - [dustin/go-wikiparse](https://github.com/dustin/go-wikiparse) - mediawiki dump parser for loading up wikipedia data
 - [alda-lang/alda](https://github.com/alda-lang/alda) - A music programming language for musicians. :notes:
 - [OpenFunction/OpenFunction](https://github.com/OpenFunction/OpenFunction) - Cloud Native Function-as-a-Service Platform (CNCF Sandbox Project)
@@ -1736,7 +1740,6 @@
 - [nishad2m8/Squareline-OBP](https://github.com/nishad2m8/Squareline-OBP) - 
 - [Ishanoshada/GDorks](https://github.com/Ishanoshada/GDorks) - Google Dork List - Uncover the Hidden Gems of the Internet ( There are at least 320+ categories )  + Web App
 - [totogo/awesome-knowledge-graph](https://github.com/totogo/awesome-knowledge-graph) - A curated list of Knowledge Graph related learning materials, databases, tools and other resources
-- [ayebrian/fictusvnc](https://github.com/ayebrian/fictusvnc) - FictusVNC - amazing Fake VNC server to serve your images easily
 - [yoanchabot/holonet_datasets](https://github.com/yoanchabot/holonet_datasets) - This repository contains datasets extracted from Wikidata related to the Star Wars planets. The datasets include planets, their properties, and associated labels and descriptions. The data is serializ
 - [cobanov/shakespeare-dataset](https://github.com/cobanov/shakespeare-dataset) - complete works, plays, sonnets and poems of shakespeare
 - [Zjh-819/LLMDataHub](https://github.com/Zjh-819/LLMDataHub) - A quick guide (especially) for trending instruction finetuning datasets
@@ -2048,6 +2051,7 @@
 
 ## Python 
 
+- [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—language models
 - [TrevorBagels/PulsepointScraperV2](https://github.com/TrevorBagels/PulsepointScraperV2) - Scrapes pulsepoint.org for emergency incidents and notifies you if certain conditions are met.
 - [chordify/CASD](https://github.com/chordify/CASD) - Chordify Annotator Subjectivity Dataset - A chord-Label harmony dataset with multiple reference annotations per song
 - [evennia/evennia](https://github.com/evennia/evennia) - Python MUD/MUX/MUSH/MU* development system
@@ -3135,6 +3139,8 @@
 
 ## Rust 
 
+- [restatedev/restate](https://github.com/restatedev/restate) - Restate is the platform for building resilient applications that tolerate all infrastructure faults w/o the need for a PhD.
+- [rivet-dev/rivet](https://github.com/rivet-dev/rivet) - Rivet Actors are the primitive for stateful workloads. Built for AI agents, collaborative apps, and durable execution.
 - [dustinblackman/oatmeal](https://github.com/dustinblackman/oatmeal) - Terminal UI to chat with large language models (LLM) using different model backends, and integrations with your favourite editors!
 - [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database tool for the terminal
 - [Linus-Mussmaecher/rucola](https://github.com/Linus-Mussmaecher/rucola) - Terminal-based markdown note manager.
@@ -3484,6 +3490,8 @@
 
 ## TypeScript 
 
+- [viksit/selvedge](https://github.com/viksit/selvedge) - Weaving prompts and code into structured, resilient patterns that won't unravel under pressure.
+- [cadence-workflow/cadence-web](https://github.com/cadence-workflow/cadence-web) - Web UI for visualizing workflows on Cadence
 - [andremichelle/openDAW](https://github.com/andremichelle/openDAW) - openDAW is a next-generation web-based Digital Audio Workstation (DAW)
 - [Daivageralda/temp-mail-generator](https://github.com/Daivageralda/temp-mail-generator) - Open-source bulk temp mail generator — 4 providers, real-time inbox monitoring, custom domain via Cloudflare Workers. No sign-up required.
 - [a16z-infra/ai-town](https://github.com/a16z-infra/ai-town) - A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.
