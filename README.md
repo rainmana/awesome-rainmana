@@ -300,7 +300,7 @@
 - [RogueMaster/flipperzero-firmware-wPlugins](https://github.com/RogueMaster/flipperzero-firmware-wPlugins) - RogueMaster Flipper Zero Firmware
 - [m0nad/Diamorphine](https://github.com/m0nad/Diamorphine) - LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x/6.x (x86/x86_64 and ARM64)
 - [rampageX/firmware-mod-kit](https://github.com/rampageX/firmware-mod-kit) - Automatically exported from code.google.com/p/firmware-mod-kit
-- [everettjf/AppleTrace](https://github.com/everettjf/AppleTrace) - 🍎Objective C Method Tracing Call Chart
+- [everettjf/appletrace](https://github.com/everettjf/appletrace) - 🍎Objective C Method Tracing Call Chart
 - [posva/catimg](https://github.com/posva/catimg) - 🦦 Insanely fast image printing in your terminal
 - [CTCaer/hekate](https://github.com/CTCaer/hekate) - hekate - A GUI based Nintendo Switch Bootloader
 - [m4xw/emuMMC](https://github.com/m4xw/emuMMC) - A SDMMC driver replacement for Nintendo's Filesystem Services.
@@ -1143,7 +1143,6 @@
 - [pistazie/cdk-dia](https://github.com/pistazie/cdk-dia) - Automated diagrams of CDK provisioned infrastructure
 - [swagger-api/swagger-editor](https://github.com/swagger-api/swagger-editor) - Swagger Editor
 - [KunihiroS/google-patents-mcp](https://github.com/KunihiroS/google-patents-mcp) - 
-- [archived-aft-bogus-german-visa-rejectio/insomnium](https://github.com/archived-aft-bogus-german-visa-rejectio/insomnium) - Insomnium is a fast local API testing tool that is privacy-focused and 100% local. For testing GraphQL, REST, WebSockets and gRPC. This is a fork of Kong/insomnia
 - [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
 - [Aricwithana/LCARS-SDK](https://github.com/Aricwithana/LCARS-SDK) - A development kit and environment umbrella designed specifically for creating a functional implementation of the LCARS methodology
 - [PolychronMidi/Polychron](https://github.com/PolychronMidi/Polychron) - Polychron MIDI patch enables inclusivity of diverse and marginalized time signatures. Take back time from the establishment chronophobes. Other dynamics enhancements include: unrestricted polyphony, u
@@ -1170,7 +1169,7 @@
 - [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - Community list of awesome projects, apps, tools, pinning services and more related to IPFS.
 - [isiko/Java-Fuzzer](https://github.com/isiko/Java-Fuzzer) - A simple tool to compare JAR files
 - [TeamHG-Memex/Datawake](https://github.com/TeamHG-Memex/Datawake) - Browser extension and backend services aimed at enhancing Internet search with domain specific knowledge, collaboration, and analysis.
-- [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is the personalized developer news feed and community. Get the best tech content from 1000+ sources in your browser new tab or on mobile. Free and open source.
+- [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is the personalized developer news feed and community. Get the best tech content from 2,000+ sources in your browser new tab or on mobile. Free and open source.
 - [liriliri/eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
@@ -1437,7 +1436,6 @@
 
 ## Kaitai Struct 
 
-- [Antonin-Deniau/cave_miner](https://github.com/Antonin-Deniau/cave_miner) - Search for code cave in all binaries
 - [kaitai-io/kaitai_struct_formats](https://github.com/kaitai-io/kaitai_struct_formats) - Kaitai Struct: library of binary file formats (.ksy)
 
 ## Kotlin 
@@ -2913,6 +2911,7 @@
 - [xpirt/img2sdat](https://github.com/xpirt/img2sdat) - Convert sparse EXT4 image to sparse Android data image
 - [xpirt/sdat2img](https://github.com/xpirt/sdat2img) - Convert sparse Android data image to filesystem ext4 image
 - [ViRb3/apk-utilities](https://github.com/ViRb3/apk-utilities) - 🛠 Tools and scripts to manipulate Android APKs
+- [Antonin-Deniau/cave_miner](https://github.com/Antonin-Deniau/cave_miner) - Search for code cave in all binaries
 - [passivetotal/python_api](https://github.com/passivetotal/python_api) - Python abstract API for PassiveTotal services in the form of libraries and command line utilities.
 - [moonpyk/dtrx](https://github.com/moonpyk/dtrx) - Intelligent archive extraction
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
