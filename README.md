@@ -1977,7 +1977,7 @@
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.
-- [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted file conversion server & share tool that supports 445 file formats in 17 languages.
+- [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted file conversion server & share tool that supports 445 file formats in 26 languages.
 - [iagox86/dnscat2](https://github.com/iagox86/dnscat2) - 
 - [php-embed/Embed](https://github.com/php-embed/Embed) - Get info from any web service or page
 - [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony
@@ -2290,7 +2290,7 @@
 - [bkerler/annotate](https://github.com/bkerler/annotate) - Binary Ninja plugin for annotation of arguments for functions
 - [Vector35/community-plugins](https://github.com/Vector35/community-plugins) - Repository for community provided Binary Ninja plugins
 - [certik/theoretical-physics](https://github.com/certik/theoretical-physics) - Source code of the Theoretical Physics Reference online book
-- [optimatch/optimatch](https://github.com/optimatch/optimatch) - 
+- [Foxridge-Holdings/optimatch](https://github.com/Foxridge-Holdings/optimatch) - 
 - [lancopku/Embedding-Poisoning](https://github.com/lancopku/Embedding-Poisoning) - Code for the paper "Be Careful about Poisoned Word Embeddings: Exploring the Vulnerability of the Embedding Layers in NLP Models" (NAACL-HLT 2021)
 - [Erroristotle/VulnSage](https://github.com/Erroristotle/VulnSage) - 
 - [scthornton/securecode-web](https://github.com/scthornton/securecode-web) - Real-World Security Conversations for AI Training
