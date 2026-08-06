@@ -5752,7 +5752,7 @@
 - [btford/write-good](https://github.com/btford/write-good) - Naive linter for English prose
 - [sachac/artbollocks-mode](https://github.com/sachac/artbollocks-mode) - Emacs mode for highlighting weasel words
 - [sintaxi/surge](https://github.com/sintaxi/surge) - CLI for the surge.sh CDN
-- [optimatch/optimatch](https://github.com/optimatch/optimatch) - 
+- [Foxridge-Holdings/optimatch](https://github.com/Foxridge-Holdings/optimatch) - 
 - [lancopku/Embedding-Poisoning](https://github.com/lancopku/Embedding-Poisoning) - Code for the paper "Be Careful about Poisoned Word Embeddings: Exploring the Vulnerability of the Embedding Layers in NLP Models" (NAACL-HLT 2021)
 - [Erroristotle/VulnSage](https://github.com/Erroristotle/VulnSage) - 
 - [PurCL/ProSec](https://github.com/PurCL/ProSec) - Official repo for "ProSec: Fortifying Code LLMs with Proactive Security Alignment"
@@ -7006,7 +7006,7 @@
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.
-- [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted file conversion server & share tool that supports 445 file formats in 17 languages.
+- [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted file conversion server & share tool that supports 445 file formats in 26 languages.
 - [kaitai-io/kaitai_struct](https://github.com/kaitai-io/kaitai_struct) - Kaitai Struct: declarative language to generate binary data parsers in C++ / C# / Go / Java / JavaScript / Lua / Nim / Perl / PHP / Python / Ruby / Rust
 - [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony
 - [netgen/query-translator](https://github.com/netgen/query-translator) - Query Translator is a search query translator with AST representation
@@ -8362,7 +8362,7 @@
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) - ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)
-- [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted file conversion server & share tool that supports 445 file formats in 17 languages.
+- [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted file conversion server & share tool that supports 445 file formats in 26 languages.
 - [tobychui/zoraxy](https://github.com/tobychui/zoraxy) - A general purpose HTTP reverse proxy and forwarding tool. Now written in Go!
 - [ViRb3/webdav-server](https://github.com/ViRb3/webdav-server) - A simple WebDAV server in Go
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
