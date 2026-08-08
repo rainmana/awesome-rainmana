@@ -6027,7 +6027,7 @@
 - [cal-pratt/SheetVision](https://github.com/cal-pratt/SheetVision) - Read sheet music and convert to midi
 - [afikanyati/cadenCV](https://github.com/afikanyati/cadenCV) - An optical music recognition system built as a final project for 6.819: Advances in Computer Vision course at MIT. Takes sheet music as input and returns a MIDI file of written music.
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
-- [ahujasid/ableton-mcp](https://github.com/ahujasid/ableton-mcp) - 
+- [SerenityUiX/ableton-mcp](https://github.com/SerenityUiX/ableton-mcp) - 
 - [rainmana/prompty](https://github.com/rainmana/prompty) - Simple prompt management library
 - [guettli/wol](https://github.com/guettli/wol) - Working out Loud
 - [guettli/open-source-paas](https://github.com/guettli/open-source-paas) - Open Source PaaS List
@@ -7233,6 +7233,7 @@
 
 ## python 
 
+- [DBraun/DawDreamer](https://github.com/DBraun/DawDreamer) - Digital Audio Workstation with Python; VST instruments/effects, parameter automation, FAUST, JAX, Warp Markers, and JUCE processors
 - [evennia/evennia](https://github.com/evennia/evennia) - Python MUD/MUX/MUSH/MU* development system
 - [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge) - An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint with centralized discovery, guardrails and management. Optimizes Agent & Tool call
 - [tskovlund/mcp-score](https://github.com/tskovlund/mcp-score) - MCP server for AI-driven music score generation and manipulation. Natural language to notation via MusicXML + live MuseScore integration.
@@ -9125,7 +9126,6 @@
 
 - [cadence-workflow/cadence-web](https://github.com/cadence-workflow/cadence-web) - Web UI for visualizing workflows on Cadence
 - [reZach/secure-electron-template](https://github.com/reZach/secure-electron-template) - The best way to build Electron apps with security in mind.
-- [belnadris/angular-electron](https://github.com/belnadris/angular-electron) - Ultra-fast bootstrapping with Angular and Electron :speedboat:
 - [railsware/bozon](https://github.com/railsware/bozon) - 🛠 Command line tool for building, testing and publishing modern Electron applications
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 
