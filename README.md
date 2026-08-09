@@ -1383,6 +1383,7 @@
 
 ## Jupyter Notebook 
 
+- [safety-research/assistant-axis](https://github.com/safety-research/assistant-axis) - The Assistant Axis is a direction in activation space that captures how "Assistant-like" a model's behavior is. Models can drift away from the Assistant during conversations—sometimes toward bizarre o
 - [google/patents-public-data](https://github.com/google/patents-public-data) - Patent analysis using the Google Patents Public Datasets on BigQuery
 - [TeamHG-Memex/soft404](https://github.com/TeamHG-Memex/soft404) - A classifier for detecting soft 404 pages
 - [TeamHG-Memex/deep-deep](https://github.com/TeamHG-Memex/deep-deep) - Adaptive crawler which uses Reinforcement Learning methods
@@ -2052,6 +2053,7 @@
 
 ## Python 
 
+- [YingfanWang/PaCMAP](https://github.com/YingfanWang/PaCMAP) - PaCMAP: Large-scale Dimension Reduction Technique Preserving Both Global and Local Structure
 - [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) - SoTA open-source TTS
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—language models
 - [TrevorBagels/PulsepointScraperV2](https://github.com/TrevorBagels/PulsepointScraperV2) - Scrapes pulsepoint.org for emergency incidents and notifies you if certain conditions are met.
@@ -2489,7 +2491,7 @@
 - [cal-pratt/SheetVision](https://github.com/cal-pratt/SheetVision) - Read sheet music and convert to midi
 - [afikanyati/cadenCV](https://github.com/afikanyati/cadenCV) - An optical music recognition system built as a final project for 6.819: Advances in Computer Vision course at MIT. Takes sheet music as input and returns a MIDI file of written music.
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
-- [SerenityUiX/ableton-mcp](https://github.com/SerenityUiX/ableton-mcp) - 
+- [MCPBlender/ableton-mcp](https://github.com/MCPBlender/ableton-mcp) - 🎵 Control Ableton Live with Claude AI — create tracks, arrange clips & compose music via MCP
 - [rainmana/prompty](https://github.com/rainmana/prompty) - Simple prompt management library
 - [puffinrocks/puffin](https://github.com/puffinrocks/puffin) - lightweight webapp catalog based on containers, with user interface à la mobile app store
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
@@ -2648,7 +2650,7 @@
 - [Dman95/SASM](https://github.com/Dman95/SASM) - SASM - simple crossplatform IDE for NASM, MASM, GAS and FASM assembly languages
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler with built-in NumPy support
 - [latchset/jwcrypto](https://github.com/latchset/jwcrypto) - Implements JWK,JWS,JWE specifications using python-cryptography
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth is a local UI for training and running Kimi K3, Gemma 4, Qwen3.6, DeepSeek-V4, GLM and other models.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - The local UI to run and train text and diffusion models, including Kimi K3, Gemma 4, Qwen3.6, DeepSeek-V4, FLUX and more.
 - [mesop-dev/mesop](https://github.com/mesop-dev/mesop) - Rapidly build AI apps in Python
 - [lanjelot/patator](https://github.com/lanjelot/patator) - Patator is a multi-purpose brute-forcer, with a modular design and a flexible usage.
 - [galkan/crowbar](https://github.com/galkan/crowbar) - Crowbar is brute forcing tool that can be used during penetration tests. It is developed to support protocols that are not currently supported by thc-hydra and other popular brute forcing tools.
@@ -3126,7 +3128,7 @@
 - [davidesantangelo/api.rss](https://github.com/davidesantangelo/api.rss) - RSS as RESTful. This service allows you to transform RSS feed into an awesome API.
 - [hahwul/WebHackersWeapons](https://github.com/hahwul/WebHackersWeapons) - ⚔️ Web Hacker's Weapons / A collection of cool tools used by Web hackers. Happy hacking , Happy bug-hunting
 - [jobertabma/relative-url-extractor](https://github.com/jobertabma/relative-url-extractor) - A small tool that extracts relative URLs from a file.
-- [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
+- [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 Default casks (upstream binary packages) for the package manager for everywhere
 - [kaitai-io/kaitai_struct_visualizer](https://github.com/kaitai-io/kaitai_struct_visualizer) - Kaitai Struct: visualizer and hex viewer tool
 - [wpscanteam/CMSScanner](https://github.com/wpscanteam/CMSScanner) - CMS Scanner Framework
 - [gabamnml/hoper](https://github.com/gabamnml/hoper) - Security tool to trace URL's jumps across the rel links to obtain the last URL
