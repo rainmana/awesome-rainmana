@@ -34,6 +34,7 @@
 - [HTML](#html)
 - [Hack](#hack)
 - [Haskell](#haskell)
+- [IDL](#idl)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
@@ -332,6 +333,8 @@
 
 ## C# # 
 
+- [CycloneDX/cyclonedx-cli](https://github.com/CycloneDX/cyclonedx-cli) - CycloneDX CLI tool for SBOM analysis, merging, diffs and format conversions.
+- [CervantesSec/cervantes](https://github.com/CervantesSec/cervantes) - Cervantes is an open-source, collaborative platform designed specifically for pentesters and red teams. It serves as a comprehensive management tool, streamlining the organization of projects, clients
 - [guicn555/RoomRelay](https://github.com/guicn555/RoomRelay) - Stream Windows system or per-app audio to Sonos speakers over your local network.
 - [mlavik1/UnityVolumeRendering](https://github.com/mlavik1/UnityVolumeRendering) - Volume rendering, implemented in Unity3D.  Want to support the project? Donate a small sum to Save The Children(https://www.savethechildren.net/) or another charity, and send me a message, and I will 
 - [TechSmith/Snagit-COM-Samples](https://github.com/TechSmith/Snagit-COM-Samples) - Sample projects in various programming languages that demonstrate how to use the Snagit COM API to take image captures and video recordings from your own application.
@@ -420,6 +423,7 @@
 
 ## C++ 
 
+- [lmco/duckdb](https://github.com/lmco/duckdb) - DuckDB is an analytical in-process SQL database management system
 - [DBraun/DawDreamer](https://github.com/DBraun/DawDreamer) - Digital Audio Workstation with Python; VST instruments/effects, parameter automation, FAUST, JAX, Warp Markers, and JUCE processors
 - [LaurieWired/CallMeMaybe](https://github.com/LaurieWired/CallMeMaybe) - Runtime reflection library built on C++26 static reflection
 - [ktauchathuranga/openpager](https://github.com/ktauchathuranga/openpager) - POCSAG (pager) Transceiver Arduino Library
@@ -589,6 +593,8 @@
 
 ## CSS 
 
+- [cyver-core/pentest-reporting-resources](https://github.com/cyver-core/pentest-reporting-resources) - Writing Pentest reporting can be a time consuming task. Our platform optimizes that process and removes most of the manual work. We share here some resources that are useful to pentesters to deliver q
+- [shellntel-acct/vcr](https://github.com/shellntel-acct/vcr) - Vulnerability Compliance Report Tool used to parse Nessus files into html reports created by SynerComm, Inc.
 - [BrOrlandi/StarWarsIntroCreator](https://github.com/BrOrlandi/StarWarsIntroCreator) - Create your own Star Wars intro.
 - [danapixels/digio-theme](https://github.com/danapixels/digio-theme) - A pixel, ASCII, and retro Hugo theme.
 - [panr/hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo
@@ -679,6 +685,8 @@
 
 ## Go 
 
+- [lmco/kuberay](https://github.com/lmco/kuberay) - A toolkit to run Ray applications on Kubernetes
+- [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [cadence-workflow/cadence](https://github.com/cadence-workflow/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
 - [openai/tunnel-client](https://github.com/openai/tunnel-client) - Customer-run client for Secure MCP Tunnel: connect private or localhost MCP servers to ChatGPT, Codex, the Responses API, and AgentKit without exposing them to the public internet.
 - [rverton/webanalyze](https://github.com/rverton/webanalyze) - Port of Wappalyzer (uncovers technologies used on websites) to automate mass scanning.
@@ -936,6 +944,9 @@
 
 ## HTML 
 
+- [CycloneDX/tool-center](https://github.com/CycloneDX/tool-center) - Data and schema powering the worlds largest collection of SBOM/xBOM products, projects, and services
+- [cyver-core/pentest-reports](https://github.com/cyver-core/pentest-reports) - Collection of penetration test reports and pentest report templates. Published by the the best security companies in the world.
+- [Patrowl/PatrowlManager](https://github.com/Patrowl/PatrowlManager) - PatrOwl - Open Source, Smart and Scalable Security Operations Orchestration Platform
 - [durgeshsamariya/awesome-github-profile-readme-templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates) - This repository contains best profile readme's for your reference.
 - [songtianlun/awesome-prompts](https://github.com/songtianlun/awesome-prompts) - Awesome Prompts, Nano Banana, Nano Banana Pro, Sora2, GPT-4o, gpt-image-1
 - [ImgEdify/Awesome-GPT4o-Image-Prompts](https://github.com/ImgEdify/Awesome-GPT4o-Image-Prompts) - 📚 GPT4o Prompts Dictionary | Curated Collection of AI Image Generation Prompts
@@ -1035,8 +1046,19 @@
 - [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 
+## IDL 
+
+- [lmco/SolarSoft](https://github.com/lmco/SolarSoft) - A set of integrated software libraries, data bases, and system utilities which provide a common programming and data analysis environment for Solar Physics
+
 ## Java 
 
+- [stevespringett/Alpine](https://github.com/stevespringett/Alpine) - An opinionated scaffolding framework that jumpstarts Java projects with an API-first design, secure defaults, and minimal dependencies
+- [lmco/Alpine](https://github.com/lmco/Alpine) - Forked to support Dependency-Track Development
+- [CycloneDX/cyclonedx-core-java](https://github.com/CycloneDX/cyclonedx-core-java) - CycloneDX SBOM Model and Utils for Creating and Validating BOMs
+- [lmco/cyclonedx-core-java](https://github.com/lmco/cyclonedx-core-java) - CycloneDX SBOM Model and Utils for Creating and Validating BOMs
+- [CycloneDX/cyclonedx-maven-plugin](https://github.com/CycloneDX/cyclonedx-maven-plugin) - Creates CycloneDX Software Bill of Materials (SBOM) from Maven projects
+- [lmco/streamflow](https://github.com/lmco/streamflow) - StreamFlow™ is a stream processing tool designed to help build and monitor processing workflows.
+- [factionsecurity/faction](https://github.com/factionsecurity/faction) - Pen Test Report Generation and Assessment Collaboration
 - [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - 🔎 Open source distributed and RESTful search engine.
 - [Rockman6/ScanScore](https://github.com/Rockman6/ScanScore) - ScanScore — Open-source Music Scanner (OMR). Converts scanned sheet music to MusicXML/MIDI.
 - [jjazzboss/JJazzLab](https://github.com/jjazzboss/JJazzLab) - A complete and open application for automatic backing tracks generation.
@@ -1134,6 +1156,19 @@
 
 ## JavaScript 
 
+- [duo-labs/cloudmapper](https://github.com/duo-labs/cloudmapper) - CloudMapper helps you analyze your Amazon Web Services (AWS) environments.
+- [Echidna-Pentest/Echidna](https://github.com/Echidna-Pentest/Echidna) - 
+- [archerysec/archerysec](https://github.com/archerysec/archerysec) - ASOC, ASPM, DevSecOps, Vulnerability Management Using ArcherySec.
+- [codexstar69/bug-hunter](https://github.com/codexstar69/bug-hunter) - Adversarial AI bug hunter with auto-fix skill for Claude Code, Cursor, Codex CLI, GitHub Copilot CLI, Kiro CLI, Opencode, Pi Coding Agent, and more. Multi-agent pipeline finds security vulnerabilities
+- [lair-framework/lair](https://github.com/lair-framework/lair) - Lair is a reactive attack collaboration framework and web application built with meteor.
+- [certmichelin/PTART](https://github.com/certmichelin/PTART) - 
+- [vegabird/prithvi](https://github.com/vegabird/prithvi) - A Report Generation Tool for Security Assessment
+- [1modm/petereport](https://github.com/1modm/petereport) - PeTeReport is an open-source application vulnerability reporting tool.
+- [pwndoc-ng/pwndoc-ng](https://github.com/pwndoc-ng/pwndoc-ng) - Pentest Report Generator
+- [reconmap/reconmap](https://github.com/reconmap/reconmap) - Reconmap is a collaboration-first security operations platform for infosec teams and MSSPs, enabling end‑to‑end engagement management, from reconnaissance through execution and reporting. With built-i
+- [0xded093/Serpico-NG](https://github.com/0xded093/Serpico-NG) - Serpico-NG https://github.com/LUTECH-TMS-CERT/EHAT-NG
+- [pavanw3b/sh00t](https://github.com/pavanw3b/sh00t) - Security Testing is not as simple as right click &gt; Scan. It's messy, a tough game. What if you had missed to test just that one thing and had to regret later? Sh00t is a highly customizable, intell
+- [ehrishirajsharma/SwiftnessX](https://github.com/ehrishirajsharma/SwiftnessX) - A cross-platform note-taking & target-tracking app for penetration testers.
 - [0xKoda/WireMCP](https://github.com/0xKoda/WireMCP) - An MCP for WireShark (tshark). Empower LLM's with realtime network traffic analysis capability
 - [BalliAsghar/Mailsy](https://github.com/BalliAsghar/Mailsy) - ⚡️ Quickly generate a disposable email straight from terminal.
 - [disposable/disposable-email-domains](https://github.com/disposable/disposable-email-domains) - Daily updated repository for https://github.com/disposable/disposable
@@ -1270,7 +1305,6 @@
 - [tinyspeck/sleuth](https://github.com/tinyspeck/sleuth) - 🕵️‍♂️ A Slack Log Viewer
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
-- [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [ArchiveBox/electron-archivebox](https://github.com/ArchiveBox/electron-archivebox) - Desktop Electron app for ArchiveBox internet archiver. (ALPHA: not ready for general use)
 - [TheKaushikGoswami/thekaushikgoswami.github.io](https://github.com/TheKaushikGoswami/thekaushikgoswami.github.io) - The Open-Source code for My Personal Portfolio! A minimal and ambient portfolio template for Developers! ⚡
 - [OWASP/threat-dragon](https://github.com/OWASP/threat-dragon) - An open source threat modeling tool from OWASP
@@ -1383,6 +1417,7 @@
 
 ## Jupyter Notebook 
 
+- [lmco/DecisionMamba](https://github.com/lmco/DecisionMamba) - Decision transformer with the Mamba architecture for offline RL w/ online fine-tuning
 - [safety-research/assistant-axis](https://github.com/safety-research/assistant-axis) - The Assistant Axis is a direction in activation space that captures how "Assistant-like" a model's behavior is. Models can drift away from the Assistant during conversations—sometimes toward bizarre o
 - [google/patents-public-data](https://github.com/google/patents-public-data) - Patent analysis using the Google Patents Public Datasets on BigQuery
 - [TeamHG-Memex/soft404](https://github.com/TeamHG-Memex/soft404) - A classifier for detecting soft 404 pages
@@ -1575,6 +1610,11 @@
 
 ## Others 
 
+- [lmco/StreamlinedML](https://github.com/lmco/StreamlinedML) - 
+- [frjaraur/enable-gpu-rke2](https://github.com/frjaraur/enable-gpu-rke2) - 
+- [lmco/enable-gpu-rke2](https://github.com/lmco/enable-gpu-rke2) - 
+- [cyver-core/ultimate-pentest-tools-list](https://github.com/cyver-core/ultimate-pentest-tools-list) - The following include a list of pentest tools available across the web. Many are free and even open source, others are premium tools and require a monthly or yearly subscription. We’ll note when pente
+- [Puliczek/awesome-mcp-security](https://github.com/Puliczek/awesome-mcp-security) - 🔥🔒 Awesome MCP (Model Context Protocol) Security 🖥️
 - [ad-si/awesome-music-production](https://github.com/ad-si/awesome-music-production) - A curated list of software, services, and resources to create and distribute music
 - [NouilleOrque/awesome-midi-repos](https://github.com/NouilleOrque/awesome-midi-repos) - 🎶 Discover and access a curated collection of GitHub repositories featuring MIDI files for your music projects and experiments.
 - [westonsoftware/awesome-midi](https://github.com/westonsoftware/awesome-midi) - This is a curated list of awesome resources for MIDI.
@@ -1958,6 +1998,9 @@
 
 ## PHP 
 
+- [MISP/MISP](https://github.com/MISP/MISP) - MISP (core software) - Open Source Threat Intelligence and Sharing Platform
+- [deantonious/hackOx_old](https://github.com/deantonious/hackOx_old) - 🐂 Modular web based pentesting interface. Designed to run on Pi devices!
+- [talsoft/vuldash](https://github.com/talsoft/vuldash) - Vulnerability Dashboard
 - [antesko/TempMail.php](https://github.com/antesko/TempMail.php) - Generate temporary email address and receive email messages
 - [prettier/plugin-php](https://github.com/prettier/plugin-php) - Prettier PHP Plugin
 - [paragonie/awesome-appsec](https://github.com/paragonie/awesome-appsec) - A curated list of resources for learning about application security
@@ -2053,6 +2096,33 @@
 
 ## Python 
 
+- [duo-labs/cloudtracker](https://github.com/duo-labs/cloudtracker) - CloudTracker helps you find over-privileged IAM users and roles by comparing CloudTrail logs with current IAM policies.
+- [ustayready/cloudgpt](https://github.com/ustayready/cloudgpt) - Vulnerability scanner for AWS customer managed policies using ChatGPT
+- [VirtueSecurity/aws-extender-cli](https://github.com/VirtueSecurity/aws-extender-cli) - AWS Extender CLI is a command-line script to test S3 buckets as well as Google Storage buckets and Azure Storage containers for common misconfiguration issues using the boto/boto3 SDK library.
+- [hellman/libformatstr](https://github.com/hellman/libformatstr) - Simplify format string exploitation.
+- [angr/heaphopper](https://github.com/angr/heaphopper) - HeapHopper is a bounded model checking framework for Heap-implementations
+- [JonathanSalwan/ROPgadget](https://github.com/JonathanSalwan/ROPgadget) - This tool lets you search your gadgets on your binaries to facilitate your ROP exploitation. ROPgadget supports ELF, PE and Mach-O format on x86, x64, ARM, ARM64, PowerPC, SPARC, MIPS, RISC-V 64, and 
+- [infobyte/faraday](https://github.com/infobyte/faraday) - Open Source Vulnerability Management Platform
+- [jjshoots/PyFlyt](https://github.com/jjshoots/PyFlyt) - UAV Flight Simulator for Reinforcement Learning Research
+- [lmco/PyFlyt](https://github.com/lmco/PyFlyt) - UAV Flight Simulator Gymnasium Environments
+- [lmco/ray](https://github.com/lmco/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a toolkit of libraries (Ray AIR) for accelerating ML workloads.
+- [lmco/parselab](https://github.com/lmco/parselab) - parseLab is a tool designed to generate protocol parsers and fuzz messages, along with a framework to implement custom protocol parser generators for various parsing backends
+- [CycloneDX/cyclonedx-python](https://github.com/CycloneDX/cyclonedx-python) - CycloneDX Software Bill of Materials (SBOM) generator for Python projects and environments
+- [lmco/hoppr-cop](https://github.com/lmco/hoppr-cop) - Hoppr Cop is a cli and python library that generates high quality vulnerability information from a cyclone-dx Software Bill of Materials (SBOM) by aggregating data from multiple vulnerability database
+- [lmco/laikaboss](https://github.com/lmco/laikaboss) - Laika BOSS: Object Scanning System
+- [lmco/dart](https://github.com/lmco/dart) - DART is a test documentation tool created by the Lockheed Martin Red Team to document and report on penetration tests, especially in isolated network environments.
+- [GH05TCREW/pentestagent](https://github.com/GH05TCREW/pentestagent) - PentestAgent is an AI agent framework for black-box security testing, supporting bug bounty, red-team, and penetration testing workflows.
+- [BugTraceAI/BugTraceAI-CLI](https://github.com/BugTraceAI/BugTraceAI-CLI) - Autonomous AI-powered security scanner — multi-agent vulnerability detection, exploitation, and validation engine
+- [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with
+- [cisco-ai-defense/skill-scanner](https://github.com/cisco-ai-defense/skill-scanner) - Security Scanner for Agent Skills
+- [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) - Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills befo
+- [rainmana/hexstrike-ai](https://github.com/rainmana/hexstrike-ai) - HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug boun
+- [0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) - HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug boun
+- [GhostManager/Ghostwriter](https://github.com/GhostManager/Ghostwriter) - The SpecterOps project management and reporting engine
+- [KvasirSecurity/Kvasir](https://github.com/KvasirSecurity/Kvasir) - Kvasir: Penetration Test Data Management
+- [AlgoSecure/Pollenisator](https://github.com/AlgoSecure/Pollenisator) - Collaborative pentest tool with highly customizable tools
+- [CyberCX-STA/PurpleOps](https://github.com/CyberCX-STA/PurpleOps) - An open-source self-hosted purple team management web application.
+- [blacklanternsecurity/writehat](https://github.com/blacklanternsecurity/writehat) - A pentest reporting tool written in Python.  Free yourself from Microsoft Word.
 - [YingfanWang/PaCMAP](https://github.com/YingfanWang/PaCMAP) - PaCMAP: Large-scale Dimension Reduction Technique Preserving Both Global and Local Structure
 - [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) - SoTA open-source TTS
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—language models
@@ -3106,6 +3176,11 @@
 
 ## Ruby 
 
+- [peter50216/pwntools-ruby](https://github.com/peter50216/pwntools-ruby) - pwntools on Ruby!
+- [dradis/dradis-ce](https://github.com/dradis/dradis-ce) - Dradis Framework: Collaboration and reporting for IT Security teams
+- [rodjek/librarian-puppet](https://github.com/rodjek/librarian-puppet) - 
+- [UnitOneAI/SecuritySkills](https://github.com/UnitOneAI/SecuritySkills) - Open-source security skills for AI coding agents. Grounded in OWASP, NIST, MITRE ATT&CK, CIS. Works with Claude Code, Gemini CLI, Cursor, Codex CLI, OpenClaw, Kiro.
+- [noraj/OSCP-Exam-Report-Template-Markdown](https://github.com/noraj/OSCP-Exam-Report-Template-Markdown) - :orange_book: Markdown Templates for Offensive Security OSCP, OSWE, OSCE, OSEE, OSWP exam report
 - [frogatto/frogatto](https://github.com/frogatto/frogatto) - Frogatto & Friends is an action-adventure game, starring a certain quixotic frog.
 - [lobsters/lobsters](https://github.com/lobsters/lobsters) - Computing-focused community centered around link aggregation and discussion
 - [shipilev/JavaFuzzer](https://github.com/shipilev/JavaFuzzer) - Java* Fuzzer for JVM
@@ -3310,6 +3385,8 @@
 
 ## Shell 
 
+- [cryptolok/ASLRay](https://github.com/cryptolok/ASLRay) - Linux ELF x32/x64 ASLR DEP/NX bypass exploit with stack-spraying
+- [lmco/ChaordicLedger](https://github.com/lmco/ChaordicLedger) - The ChaordicLedger is the implementation of a design for a combination of Distributed Ledger Technology (DLT) and a Distributed File System (DFS) to create a secure, enterprise-grade platform for stor
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
 - [mikeroyal/PipeWire-Guide](https://github.com/mikeroyal/PipeWire-Guide) - PipeWire Guide. Learn about how PipeWire gives your Linux system a Professional Audio/Video Processing workflow.
 - [VirtusLab/sandcat](https://github.com/VirtusLab/sandcat) - A Docker & dev container setup for securely running AI agents in `--dangerous` mode. All container traffic is routed through a transparent mitmproxy, enforcing network access rules and injecting secre
@@ -3494,6 +3571,13 @@
 
 ## TypeScript 
 
+- [lmco/continue](https://github.com/lmco/continue) - ⏩ The easiest way to code with any LLM—Continue is an open-source autopilot for VS Code and JetBrains
+- [TFNS/CTFNote](https://github.com/TFNS/CTFNote) - CTFNote is a collaborative tool aiming to help CTF teams to organise their work.
+- [softrams/bulwark](https://github.com/softrams/bulwark) - An organizational asset and vulnerability management tool, with Jira integration, designed for generating application security reports.
+- [APTRS/APTRS](https://github.com/APTRS/APTRS) - Automated pentest reporting with custom templates, project tracking, customer dashboard and client management tools. Streamline your security workflows effortlessly!
+- [anomalyco/models.dev](https://github.com/anomalyco/models.dev) - An open-source database of AI models.
+- [CyberStrikeus/CyberStrike](https://github.com/CyberStrikeus/CyberStrike) - Open-source AI-augmented offensive security harness. 13+ autonomous agents, 150+ LLM providers, 5,300+ models, 7,600+ Ed25519-signed attack skills, 56+ built-in tools, 176+ MCP tools. MITRE ATT&CK, OW
+- [obsidianmd/obsidian-sample-plugin](https://github.com/obsidianmd/obsidian-sample-plugin) - Template for Obsidian community plugins with build configuration and development best practices.
 - [viksit/selvedge](https://github.com/viksit/selvedge) - Weaving prompts and code into structured, resilient patterns that won't unravel under pressure.
 - [cadence-workflow/cadence-web](https://github.com/cadence-workflow/cadence-web) - Web UI for visualizing workflows on Cadence
 - [andremichelle/openDAW](https://github.com/andremichelle/openDAW) - openDAW is a next-generation web-based Digital Audio Workstation (DAW)
@@ -3723,6 +3807,7 @@
 - [iurshina/bellingcat_contradictions](https://github.com/iurshina/bellingcat_contradictions) - 
 - [runtipi/runtipi](https://github.com/runtipi/runtipi) - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 - [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard, primarily used by smaller private servers
+- [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [xarantolus/Collect](https://github.com/xarantolus/Collect) - A server to collect & archive websites that also supports video downloads
 - [webrecorder/browsertrix-crawler](https://github.com/webrecorder/browsertrix-crawler) - Run a high-fidelity browser-based web archiving crawler in a single Docker container
 - [ArchiveBox/archivebox-browser-extension](https://github.com/ArchiveBox/archivebox-browser-extension) - 🖥️ Official ArchiveBox browser extension: automatically/manually preserve your browsing history using ArchiveBox.
@@ -3832,6 +3917,7 @@
 
 ## Vue 
 
+- [Titanexx/NightWriter](https://github.com/Titanexx/NightWriter) - NightWriter is a modern real-time collaborative editing tool secured by end-to-end encryption.
 - [flawiddsouza/Restfox](https://github.com/flawiddsouza/Restfox) - Offline-First Minimalistic HTTP & Socket Testing Client for the Web & Desktop
 - [CosasDePuma/Masterchef](https://github.com/CosasDePuma/Masterchef) - 🍳 The most delicious pentesting tool
 - [beercss/beercss](https://github.com/beercss/beercss) - Build material design interfaces in record time... without stress for devs... 🍺💛
@@ -3849,6 +3935,8 @@
 
 ## XSLT 
 
+- [CycloneDX/specification](https://github.com/CycloneDX/specification) - OWASP CycloneDX is a full-stack Bill of Materials (BOM) standard that provides advanced supply chain capabilities for cyber risk reduction. SBOM, SaaSBOM, HBOM, AI/ML-BOM, CBOM, OBOM, MBOM, VDR, and V
+- [radicallyopensecurity/pentext](https://github.com/radicallyopensecurity/pentext) - PenText system: Easily create beautiful looking penetration test quotes, reports, and documents in many formats (PDF, text, JSON, Markdown, CSV, ...)
 - [w3c-cg/musicxml](https://github.com/w3c-cg/musicxml) - MusicXML specification
 - [aglahe/vagrant-memex](https://github.com/aglahe/vagrant-memex) - DARPA MEMEX project Vagrant VM
 
