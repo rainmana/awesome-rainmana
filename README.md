@@ -1541,7 +1541,7 @@
 - [CyberGrandChallenge/cgc-release-documentation](https://github.com/CyberGrandChallenge/cgc-release-documentation) - DARPA Cyber Grand Challenge Documentation
 - [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL) - A fuzzer for full VM kernel/driver targets
 - [gschorcht/esp32-elf-rom](https://github.com/gschorcht/esp32-elf-rom) - ESP32 ROM blob to ELF convertor
-- [mindsdb/mindshub](https://github.com/mindsdb/mindshub) - Make AI do actual work. Swap the model anytime — keep everything you've built.
+- [mindsdb/mindshub](https://github.com/mindsdb/mindshub) - The unified workspace where open-source models get things done for you.
 - [ashishb/android-security-awesome](https://github.com/ashishb/android-security-awesome) - A collection of android security related resources
 - [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
 
@@ -2385,7 +2385,7 @@
 - [Co1lin/CWEval](https://github.com/Co1lin/CWEval) - Simultaneous evaluation on both functionality and security of LLM-generated code.
 - [meta-llama/PurpleLlama](https://github.com/meta-llama/PurpleLlama) - Set of tools to assess and improve LLM security.
 - [gaokai320/PyRadar](https://github.com/gaokai320/PyRadar) - PyRadar: Towards Automatic Source Code Repository Information Recovery and Validation for PyPI Packages
-- [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) - "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
+- [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) - "DeepCode: Open Agentic Coding ((Agent Harness & Loop Engineering & Multi-Agent Orchestration)"
 - [oxygen-hunter/SoK-Code-Obfuscation-in-LLM-VD-arxiv](https://github.com/oxygen-hunter/SoK-Code-Obfuscation-in-LLM-VD-arxiv) - Repo for arxiv paper "A Systematic Study of Code Obfuscation Against LLM-based Vulnerability Detection".
 - [anh56/dl4sa](https://github.com/anh56/dl4sa) - Automated Code-centric Software Vulnerability Assessment: How Far Are We? An Empirical Study in C/C++
 - [hass-uconnect/hass-uconnect](https://github.com/hass-uconnect/hass-uconnect) - Home Assistant integration for FCA/Stellantis cars (Fiat, Chrysler, Dodge, Jeep, Ram, Alfa Romeo, Maserati)
