@@ -1846,6 +1846,7 @@
 - [System00-Security/API-Key-regex](https://github.com/System00-Security/API-Key-regex) - extracting api key using grep
 - [BushidoUK/Open-source-tools-for-CTI](https://github.com/BushidoUK/Open-source-tools-for-CTI) - Public Repository of Open Source Tools for Cyber Threat Intelligence Analysts and Researchers
 - [itaymigdal/awesome-injection](https://github.com/itaymigdal/awesome-injection) - Centralized resource for listing and organizing known injection techniques and POCs
+- [letta-ai/letta](https://github.com/letta-ai/letta) - Platform for stateful agents: AI with advanced memory that can learn and self-improve over time.
 - [burningtree/awesome-json](https://github.com/burningtree/awesome-json) - A curated list of awesome JSON libraries and resources.
 - [aerophile/awesome-deepfakes](https://github.com/aerophile/awesome-deepfakes) - Everything Deepfakes
 - [EmenstaNougat/ESP32-BlueJammer](https://github.com/EmenstaNougat/ESP32-BlueJammer) - The ESP32-BlueJammer (Bluetooth jammer, BLE jammer, WiFi jammer, RC jammer) disrupts 2.4GHz communications. Using an ESP32 and nRF24 modules, it generates noise and unnecessary packets, causing interf
@@ -2027,7 +2028,7 @@
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.
-- [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted file conversion server that supports 447 file formats in 26 languages.
+- [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted file conversion server that supports 457 file formats in 26 languages.
 - [iagox86/dnscat2](https://github.com/iagox86/dnscat2) - 
 - [php-embed/Embed](https://github.com/php-embed/Embed) - Get info from any web service or page
 - [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony
@@ -2100,6 +2101,8 @@
 
 ## Python 
 
+- [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
+- [google-antigravity/antigravity-sdk-python](https://github.com/google-antigravity/antigravity-sdk-python) - A Python library for building AI agents that leverage the full power of Google Antigravity.
 - [resemble-ai/Perth](https://github.com/resemble-ai/Perth) - Open Audio Watermarking Tool
 - [duo-labs/cloudtracker](https://github.com/duo-labs/cloudtracker) - CloudTracker helps you find over-privileged IAM users and roles by comparing CloudTrail logs with current IAM policies.
 - [ustayready/cloudgpt](https://github.com/ustayready/cloudgpt) - Vulnerability scanner for AWS customer managed policies using ChatGPT
@@ -2686,7 +2689,6 @@
 - [wetox-team/flipperzero-goodies](https://github.com/wetox-team/flipperzero-goodies) - flipper zero goodies [intercom_keys][scripts]
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run frontier AI locally.
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
-- [letta-ai/letta](https://github.com/letta-ai/letta) - Platform for stateful agents: AI with advanced memory that can learn and self-improve over time.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [faif/python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
 - [TranscryptOrg/Transcrypt](https://github.com/TranscryptOrg/Transcrypt) - Python 3.9 to JavaScript compiler - Lean, fast, open!
@@ -3038,7 +3040,7 @@
 - [splunk/mltk-algo-contrib](https://github.com/splunk/mltk-algo-contrib) - 
 - [peterbrittain/asciimatics](https://github.com/peterbrittain/asciimatics) - A cross platform package to do curses-like operations, plus higher level APIs and widgets to create text UIs and ASCII art animations
 - [cdgriffith/Box](https://github.com/cdgriffith/Box) - Python dictionaries with advanced dot notation access
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - The definitive list that answers "I want to do X in Python, which tool should I use?"
 - [deter0/xborder](https://github.com/deter0/xborder) - Active window border replacement for window managers.
 - [honeynet/droidbot](https://github.com/honeynet/droidbot) - A lightweight test input generator for Android. Similar to Monkey, but with more intelligence and cool features!
 - [androguard/androguard](https://github.com/androguard/androguard) - Reverse engineering and pentesting for Android applications
@@ -3391,7 +3393,7 @@
 
 - [cryptolok/ASLRay](https://github.com/cryptolok/ASLRay) - Linux ELF x32/x64 ASLR DEP/NX bypass exploit with stack-spraying
 - [lmco/ChaordicLedger](https://github.com/lmco/ChaordicLedger) - The ChaordicLedger is the implementation of a design for a combination of Distributed Ledger Technology (DLT) and a Distributed File System (DFS) to create a secure, enterprise-grade platform for stor
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac.
 - [mikeroyal/PipeWire-Guide](https://github.com/mikeroyal/PipeWire-Guide) - PipeWire Guide. Learn about how PipeWire gives your Linux system a Professional Audio/Video Processing workflow.
 - [VirtusLab/sandcat](https://github.com/VirtusLab/sandcat) - A Docker & dev container setup for securely running AI agents in `--dangerous` mode. All container traffic is routed through a transparent mitmproxy, enforcing network access rules and injecting secre
 - [pmarreck/gemma4-heretical](https://github.com/pmarreck/gemma4-heretical) - Abliterated Gemma 4 31B for Ollama and MLX — one-command setup with correct chat template fix
@@ -3575,6 +3577,7 @@
 
 ## TypeScript 
 
+- [tubone24/midi-mcp-server](https://github.com/tubone24/midi-mcp-server) - MIDI MCP Server is a Model Context Protocol (MCP) server that enables AI models to generate MIDI files from text-based music data. This tool allows for programmatic creation of musical compositions th
 - [lmco/continue](https://github.com/lmco/continue) - ⏩ The easiest way to code with any LLM—Continue is an open-source autopilot for VS Code and JetBrains
 - [TFNS/CTFNote](https://github.com/TFNS/CTFNote) - CTFNote is a collaborative tool aiming to help CTF teams to organise their work.
 - [softrams/bulwark](https://github.com/softrams/bulwark) - An organizational asset and vulnerability management tool, with Jira integration, designed for generating application security reports.
