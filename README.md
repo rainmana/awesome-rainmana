@@ -613,7 +613,6 @@
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [1amSimp1e/dots](https://github.com/1amSimp1e/dots) - Nothing here but Dotfiles & Customization 💫
 - [dchristl/esp32_nat_router_extended](https://github.com/dchristl/esp32_nat_router_extended) - a simple ESP32 NAT Router with some additional features
-- [OWASP/wstg](https://github.com/OWASP/wstg) - The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.
 - [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2026
 - [joernweissenborn/lcars](https://github.com/joernweissenborn/lcars) - CSS Framework to style web pages like the fictional computer operating system of a popular sci-fi franchise.
 
@@ -1918,7 +1917,6 @@
 - [danielecook/Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) - A curated list of awesome Bioinformatics libraries and software.
 - [broadinstitute/AwesomeGenomics](https://github.com/broadinstitute/AwesomeGenomics) - Cancer Data Science's go to place for excellent genomics tools and packages
 - [jesusprubio/awesome-nodejs-pentest](https://github.com/jesusprubio/awesome-nodejs-pentest) - :skull_and_crossbones: Delightful Node.js packages useful for penetration testing, exploiting, reverse engineer, cryptography ...
-- [Anil-matcha/ai-creator-academy](https://github.com/Anil-matcha/ai-creator-academy) - Free, open-source curriculum for making money with generative AI image, video, and audio — for creators and agencies.
 - [streaak/keyhacks](https://github.com/streaak/keyhacks) - Keyhacks is a repository which shows quick ways in which API keys leaked by a bug bounty program can be checked to see if they're valid.
 - [rainmana/neurodiversity-checklists](https://github.com/rainmana/neurodiversity-checklists) - Checklists and guides to help neurodivergent people navigate the workplace
 - [tylerha97/awesome-reversing](https://github.com/tylerha97/awesome-reversing) - A curated list of awesome reversing resources
@@ -2640,7 +2638,6 @@
 - [huggingface/smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents that think in code.
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [SeargeDP/SeargeSDXL](https://github.com/SeargeDP/SeargeSDXL) - Custom nodes and workflows for SDXL in ComfyUI
-- [mflux-community/mflux](https://github.com/mflux-community/mflux) - Apple MLX native implementations of state-of-the-art generative image & video models
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [binarly-io/fwhunt-scan](https://github.com/binarly-io/fwhunt-scan) - Tools for analyzing UEFI firmware and checking UEFI modules with FwHunt rules
@@ -2907,6 +2904,7 @@
 - [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.
 - [andresriancho/enumerate-iam](https://github.com/andresriancho/enumerate-iam) - Enumerate the permissions associated with AWS credential set
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
+- [OWASP/wstg](https://github.com/OWASP/wstg) - The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.
 - [ReversecLabs/drozer](https://github.com/ReversecLabs/drozer) - The Leading Security Assessment Framework for Android.
 - [cisagov/untitledgoosetool](https://github.com/cisagov/untitledgoosetool) - Untitled Goose Tool is a robust and flexible hunt and incident response tool that adds novel authentication and data gathering methods in order to run a full investigation against a customer’s Azure A
 - [pedramamini/ThreatIngestor](https://github.com/pedramamini/ThreatIngestor) - Extract and aggregate threat intelligence.
