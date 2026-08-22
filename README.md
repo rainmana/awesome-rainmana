@@ -2026,7 +2026,7 @@
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.
-- [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted file conversion server that supports 488 file formats in 26 languages.
+- [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted, respource aware file conversion server supporting 488 formats in 26 languages.
 - [iagox86/dnscat2](https://github.com/iagox86/dnscat2) - 
 - [php-embed/Embed](https://github.com/php-embed/Embed) - Get info from any web service or page
 - [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony
@@ -2099,6 +2099,7 @@
 
 ## Python 
 
+- [jundot/omlx](https://github.com/jundot/omlx) - LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
 - [LangConfig/langconfig](https://github.com/LangConfig/langconfig) - LangConfig is a open-source visual workflow builder designed to make AI agent development accessible to everyone. Build, test, and share LangChain and LangGraph agent workflows with an intuitive drag-
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [google-antigravity/antigravity-sdk-python](https://github.com/google-antigravity/antigravity-sdk-python) - A Python library for building AI agents that leverage the full power of Google Antigravity.
@@ -3226,6 +3227,8 @@
 
 ## Rust 
 
+- [sboesen/deepseek-harness-desktop](https://github.com/sboesen/deepseek-harness-desktop) - Lightweight macOS Tauri wrapper for DeepSeek Harness
+- [daeken/FlatlineProxy](https://github.com/daeken/FlatlineProxy) - A proxy to allow OpenAI Codex to directly communicate with multiple providers simultaneously.
 - [restatedev/restate](https://github.com/restatedev/restate) - Restate is the platform for building resilient applications that tolerate all infrastructure faults w/o the need for a PhD.
 - [rivet-dev/actors](https://github.com/rivet-dev/actors) - Rivet Actors are the primitive for stateful workloads. Built for AI agents, collaborative apps, and durable execution.
 - [dustinblackman/oatmeal](https://github.com/dustinblackman/oatmeal) - Terminal UI to chat with large language models (LLM) using different model backends, and integrations with your favourite editors!
@@ -3340,7 +3343,6 @@
 - [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
 - [xelis-project/xelis-blockchain](https://github.com/xelis-project/xelis-blockchain) - A private blockDAG with Homomorphic Encryption and Smart Contracts
 - [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3
-- [WerWolv/ImHex-Patterns](https://github.com/WerWolv/ImHex-Patterns) - Hex patterns, include patterns and magic files for the use with the ImHex Hex Editor
 - [ergrelet/windiff](https://github.com/ergrelet/windiff) - Tool that allows comparing symbol, type and syscall information of Microsoft Windows binaries across different versions of the OS, using a Web UI and/or LLMs.
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [blst-security/cherrybomb](https://github.com/blst-security/cherrybomb) - Stop half-done APIs! Cherrybomb is a CLI tool that helps you avoid undefined user behaviour by auditing your API specifications, validating them and running API security tests.
@@ -3394,7 +3396,7 @@
 
 - [cryptolok/ASLRay](https://github.com/cryptolok/ASLRay) - Linux ELF x32/x64 ASLR DEP/NX bypass exploit with stack-spraying
 - [lmco/ChaordicLedger](https://github.com/lmco/ChaordicLedger) - The ChaordicLedger is the implementation of a design for a combination of Distributed Ledger Technology (DLT) and a Distributed File System (DFS) to create a secure, enterprise-grade platform for stor
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
 - [mikeroyal/PipeWire-Guide](https://github.com/mikeroyal/PipeWire-Guide) - PipeWire Guide. Learn about how PipeWire gives your Linux system a Professional Audio/Video Processing workflow.
 - [VirtusLab/sandcat](https://github.com/VirtusLab/sandcat) - A Docker & dev container setup for securely running AI agents in `--dangerous` mode. All container traffic is routed through a transparent mitmproxy, enforcing network access rules and injecting secre
 - [pmarreck/gemma4-heretical](https://github.com/pmarreck/gemma4-heretical) - Abliterated Gemma 4 31B for Ollama and MLX — one-command setup with correct chat template fix
@@ -3606,7 +3608,6 @@
 - [code-yeongyu/lazycodex](https://github.com/code-yeongyu/lazycodex) - The one and only agent harness for complex codebases. Project memory, planning, execution, and verified completion inside Codex.
 - [Yeachan-Heo/gajae-code](https://github.com/Yeachan-Heo/gajae-code) - Gajae Code MVP
 - [freecodexyz/free-code](https://github.com/freecodexyz/free-code) - The free build of Claude Code. All telemetry removed, security-prompt guardrails stripped, all experimental features enabled.
-- [yasasbanukaofficial/claude-code](https://github.com/yasasbanukaofficial/claude-code) - 🚀 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton n
 - [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) - 🍌 World's largest Nano Banana Pro prompt library — 10,000+ curated prompts with preview images, 16 languages. Google Gemini AI image generation. Free & open source.
 - [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2) - 🚀 World's largest GPT Image 2 prompt library, updated daily — 2000+ curated prompts with preview images, 16 languages. OpenAI's next-gen image model with pixel-perfect text rendering, cross-image cons
 - [cloudflare/mcp](https://github.com/cloudflare/mcp) - MCP server for the Cloudflare API
@@ -3951,6 +3952,7 @@
 
 - [mandiant/red_team_tool_countermeasures](https://github.com/mandiant/red_team_tool_countermeasures) - 
 - [citizenlab/malware-indicators](https://github.com/citizenlab/malware-indicators) - Citizen Lab Malware Reports
+- [WerWolv/ImHex-Patterns](https://github.com/WerWolv/ImHex-Patterns) - Hex patterns, include patterns and magic files for the use with the ImHex Hex Editor
 - [eset/malware-ioc](https://github.com/eset/malware-ioc) - Indicators of Compromises (IOC) of our various investigations
 - [StrangerealIntel/DailyIOC](https://github.com/StrangerealIntel/DailyIOC) - IOC from articles, tweets for archives
 
