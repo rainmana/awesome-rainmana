@@ -1963,7 +1963,7 @@
 - [shramos/Awesome-Cybersecurity-Datasets](https://github.com/shramos/Awesome-Cybersecurity-Datasets) - A curated list of amazingly awesome Cybersecurity datasets
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]
 - [opendns/public-domain-lists](https://github.com/opendns/public-domain-lists) - OpenDNS public domain lists of domain names for training/testing classifiers
 - [cipher387/API-s-for-OSINT](https://github.com/cipher387/API-s-for-OSINT) - List of API's for gathering information about phone numbers, addresses, domains etc
 - [APIs-guru/openapi-directory](https://github.com/APIs-guru/openapi-directory) - 🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format
@@ -3289,7 +3289,7 @@
 - [typedb/typedb](https://github.com/typedb/typedb) - TypeDB: Built for systems, not records
 - [typedb/typedb-driver](https://github.com/typedb/typedb-driver) - TypeDB Drivers for Rust, Python, Java, Node.js, C, C++, and C#.
 - [commoncrawl/cc-downloader](https://github.com/commoncrawl/cc-downloader) - A polite and user-friendly downloader for Common Crawl data
-- [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - An open, sub-millisecond, single-executable Firebase alternative with type-safe APIs, built-in WebAssembly runtime, realtime subscriptions, auth, and admin UI built on Rust, SQLite & Wasmtime.
+- [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - An open, sub-millisecond, single-executable Firebase alternative with type-safe APIs, built-in WebAssembly runtime, realtime subscriptions, auth, MCP and admin UI built on Rust, SQLite (PG) & Wasmtime
 - [EFForg/apkeep](https://github.com/EFForg/apkeep) - A command-line tool for downloading APK files from various sources
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️
@@ -3588,7 +3588,7 @@
 - [softrams/bulwark](https://github.com/softrams/bulwark) - An organizational asset and vulnerability management tool, with Jira integration, designed for generating application security reports.
 - [APTRS/APTRS](https://github.com/APTRS/APTRS) - Automated pentest reporting with custom templates, project tracking, customer dashboard and client management tools. Streamline your security workflows effortlessly!
 - [anomalyco/models.dev](https://github.com/anomalyco/models.dev) - An open-source database of AI models.
-- [CyberStrikeus/CyberStrike](https://github.com/CyberStrikeus/CyberStrike) - Open-source AI-augmented offensive security harness. 13+ autonomous agents, 150+ LLM providers, 5,300+ models, 7,600+ Ed25519-signed attack skills, 56+ built-in tools, 176+ MCP tools. MITRE ATT&CK, OW
+- [CyberStrikeus/CyberStrike](https://github.com/CyberStrikeus/CyberStrike) - Open-source AI-powered offensive security harness for automated penetration testing.
 - [obsidianmd/obsidian-sample-plugin](https://github.com/obsidianmd/obsidian-sample-plugin) - Template for Obsidian community plugins with build configuration and development best practices.
 - [viksit/selvedge](https://github.com/viksit/selvedge) - Weaving prompts and code into structured, resilient patterns that won't unravel under pressure.
 - [cadence-workflow/cadence-web](https://github.com/cadence-workflow/cadence-web) - Web UI for visualizing workflows on Cadence
@@ -3794,7 +3794,7 @@
 - [continuedev/continue](https://github.com/continuedev/continue) - open-source coding agent
 - [NitroRCr/AIaW](https://github.com/NitroRCr/AIaW) - AI as Workspace - An elegant AI chat client. Full-featured, lightweight. Support multiple workspaces, plugin system, cross-platform, local first + real-time cloud sync, Artifacts, MCP | 更好的 AI 客户端
 - [vercel/serve](https://github.com/vercel/serve) - Static file serving and directory listing
-- [mario-andreschak/FLUJO](https://github.com/mario-andreschak/FLUJO) - MCP-Hub and -Inspector, Multi-Model Workflow and Chat Interface
+- [mario-andreschak/FLUJO](https://github.com/mario-andreschak/FLUJO) - Multi-Agent + Automation: Workflows, Automation, Self-Improving Agents
 - [Toolbase-AI/toolbase](https://github.com/Toolbase-AI/toolbase) - A desktop application that adds powerful tools to Claude and AI platforms
 - [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code gives you a whole dev team of AI agents in your code editor.
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
