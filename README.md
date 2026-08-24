@@ -764,7 +764,6 @@
 - [dustin/go-wikiparse](https://github.com/dustin/go-wikiparse) - mediawiki dump parser for loading up wikipedia data
 - [alda-lang/alda](https://github.com/alda-lang/alda) - A music programming language for musicians. :notes:
 - [OpenFunction/OpenFunction](https://github.com/OpenFunction/OpenFunction) - Cloud Native Function-as-a-Service Platform (CNCF Sandbox Project)
-- [cozystack/cozystack](https://github.com/cozystack/cozystack) - Cozystack: Free Cloud Platform based on Kubernetes
 - [tsuru/tsuru](https://github.com/tsuru/tsuru) - Open source and extensible Platform as a Service (PaaS).
 - [flynn/flynn](https://github.com/flynn/flynn) - [UNMAINTAINED] A next generation open source platform as a service (PaaS)
 - [wricardo/gpt-mcp-proxy](https://github.com/wricardo/gpt-mcp-proxy) - HTTP server that provides access to executing Multiple Command Protocol (MCP) tools.
@@ -2327,7 +2326,6 @@
 - [firmadyne/scraper](https://github.com/firmadyne/scraper) - Firmware scraper
 - [agentic-community/mcp-gateway-registry](https://github.com/agentic-community/mcp-gateway-registry) - Enterprise-ready MCP Gateway & Registry that centralizes AI development tools with secure OAuth authentication, dynamic tool discovery, and unified access for both autonomous AI agents and AI coding a
 - [aarora79/mcp-gateway](https://github.com/aarora79/mcp-gateway) - MCP Gateway and Registry
-- [AnkitNayak-dev/EpsteinFiles-RAG](https://github.com/AnkitNayak-dev/EpsteinFiles-RAG) - A RAG pipeline implementation built on the 'Epstein Files 20K' dataset from Hugging Face (Teyler).
 - [tolutronics/audio-processing-mcp](https://github.com/tolutronics/audio-processing-mcp) - Audio MCP processor
 - [mandiant/PwnAuth](https://github.com/mandiant/PwnAuth) - 
 - [mandiant/FIDL](https://github.com/mandiant/FIDL) - A sane API for IDA Pro's decompiler. Useful for malware RE and vulnerability research
@@ -3430,6 +3428,7 @@
 - [m3n0sd0n4ld/GooFuzz](https://github.com/m3n0sd0n4ld/GooFuzz) - GooFuzz is a tool to perform fuzzing with an OSINT approach, managing to enumerate directories, files, subdomains or parameters without leaving evidence on the target's server and by means of advanced
 - [conda-forge/miniforge](https://github.com/conda-forge/miniforge) - A conda-forge distribution.
 - [itzg/docker-minecraft-bedrock-server](https://github.com/itzg/docker-minecraft-bedrock-server) - Containerized Minecraft Bedrock Dedicated Server with selectable version
+- [cozystack/cozystack](https://github.com/cozystack/cozystack) - Cozystack: Free Cloud Platform based on Kubernetes
 - [robotshell/magicRecon](https://github.com/robotshell/magicRecon) - MagicRecon is a powerful shell script to maximize the recon and data collection process of an objective and finding common vulnerabilities, all this saving the results obtained in an organized way in 
 - [magicant/yash](https://github.com/magicant/yash) - Yet another shell
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
