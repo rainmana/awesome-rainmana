@@ -35,6 +35,7 @@
 - [Hack](#hack)
 - [Haskell](#haskell)
 - [IDL](#idl)
+- [ImHex Pattern Language](#imhex-pattern-language)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
@@ -1053,6 +1054,10 @@
 
 - [lmco/SolarSoft](https://github.com/lmco/SolarSoft) - A set of integrated software libraries, data bases, and system utilities which provide a common programming and data analysis environment for Solar Physics
 
+## ImHex Pattern Language 
+
+- [WerWolv/ImHex-Patterns](https://github.com/WerWolv/ImHex-Patterns) - Hex patterns, include patterns and magic files for the use with the ImHex Hex Editor
+
 ## Java 
 
 - [stevespringett/Alpine](https://github.com/stevespringett/Alpine) - An opinionated scaffolding framework that jumpstarts Java projects with an API-first design, secure defaults, and minimal dependencies
@@ -1382,6 +1387,7 @@
 - [ragingwind/generator-chrome-extension](https://github.com/ragingwind/generator-chrome-extension) - Scaffold out a Chrome extension
 - [medialab/hyphe](https://github.com/medialab/hyphe) - Websites crawler with built-in exploration and control web interface
 - [medialab/artoo](https://github.com/medialab/artoo) - artoo.js - the client-side scraping companion.
+- [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
 - [gildas-lormeau/single-file-cli](https://github.com/gildas-lormeau/single-file-cli) - CLI tool for saving a faithful copy of a complete web page in a single HTML file (based on SingleFile)
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [vybhavramachandran/clevergirl-chromeextension](https://github.com/vybhavramachandran/clevergirl-chromeextension) - Contains the code for the Chrome Extension that uses GPT3 to answer questions
@@ -1508,7 +1514,7 @@
 - [rootiest/battery.wez](https://github.com/rootiest/battery.wez) - WezTerm plugin for battery stats
 - [michaelbrusegard/tabline.wez](https://github.com/michaelbrusegard/tabline.wez) - A versatile and easy to use retro tab bar plugin for the WezTerm terminal emulator created with the lualine.nvim configuration format
 - [adriankarlen/bar.wezterm](https://github.com/adriankarlen/bar.wezterm) - A wezterm tab bar with batteries included
-- [omacom-io/lumon.nvim](https://github.com/omacom-io/lumon.nvim) - Lumon Industries Neovim Theme
+- [omacom/lumon.nvim](https://github.com/omacom/lumon.nvim) - Lumon Industries Neovim Theme
 - [sravioli/wezterm](https://github.com/sravioli/wezterm) - My Wezterm configuration
 - [Eric162/wezterm-agent-deck](https://github.com/Eric162/wezterm-agent-deck) - 
 - [catppuccin/wezterm](https://github.com/catppuccin/wezterm) - :shell: Soothing pastel theme for WezTerm
@@ -1962,7 +1968,6 @@
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]
-- [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
 - [opendns/public-domain-lists](https://github.com/opendns/public-domain-lists) - OpenDNS public domain lists of domain names for training/testing classifiers
 - [cipher387/API-s-for-OSINT](https://github.com/cipher387/API-s-for-OSINT) - List of API's for gathering information about phone numbers, addresses, domains etc
 - [APIs-guru/openapi-directory](https://github.com/APIs-guru/openapi-directory) - 🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format
@@ -2329,6 +2334,7 @@
 - [firmadyne/scraper](https://github.com/firmadyne/scraper) - Firmware scraper
 - [agentic-community/mcp-gateway-registry](https://github.com/agentic-community/mcp-gateway-registry) - Enterprise-ready MCP Gateway & Registry that centralizes AI development tools with secure OAuth authentication, dynamic tool discovery, and unified access for both autonomous AI agents and AI coding a
 - [aarora79/mcp-gateway](https://github.com/aarora79/mcp-gateway) - MCP Gateway and Registry
+- [AnkitNayak-dev/EpsteinFiles-RAG](https://github.com/AnkitNayak-dev/EpsteinFiles-RAG) - A RAG pipeline implementation built on the 'Epstein Files 20K' dataset from Hugging Face (Teyler).
 - [tolutronics/audio-processing-mcp](https://github.com/tolutronics/audio-processing-mcp) - Audio MCP processor
 - [mandiant/PwnAuth](https://github.com/mandiant/PwnAuth) - 
 - [mandiant/FIDL](https://github.com/mandiant/FIDL) - A sane API for IDA Pro's decompiler. Useful for malware RE and vulnerability research
@@ -3230,6 +3236,7 @@
 
 ## Rust 
 
+- [raminsharifi/MacFanControl](https://github.com/raminsharifi/MacFanControl) - Terminal UI for controlling Mac fan speeds via the SMC — Apple Silicon (M1–M4) support, no kexts, no daemons
 - [sboesen/deepseek-harness-desktop](https://github.com/sboesen/deepseek-harness-desktop) - Lightweight macOS Tauri wrapper for DeepSeek Harness
 - [daeken/FlatlineProxy](https://github.com/daeken/FlatlineProxy) - A proxy to allow OpenAI Codex to directly communicate with multiple providers simultaneously.
 - [restatedev/restate](https://github.com/restatedev/restate) - Restate is the platform for building resilient applications that tolerate all infrastructure faults w/o the need for a PhD.
@@ -3526,6 +3533,7 @@
 
 ## Swift 
 
+- [ProducerGuy/ThermalForge](https://github.com/ProducerGuy/ThermalForge) - Free, open-source fan control for Apple Silicon Macs (M1, M2, M3, M4, M5). Menu bar app + CLI. Alternative to Macs Fan Control, TG Pro, AlDente.
 - [apple/swift-ntp](https://github.com/apple/swift-ntp) - Swift NTP library using Swift NIO. Provides an NTPClient.
 - [seemoo-lab/BTLEmap](https://github.com/seemoo-lab/BTLEmap) - Nmap for Bluetooth Low Energy
 - [seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack) - Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.
@@ -3954,7 +3962,6 @@
 
 - [mandiant/red_team_tool_countermeasures](https://github.com/mandiant/red_team_tool_countermeasures) - 
 - [citizenlab/malware-indicators](https://github.com/citizenlab/malware-indicators) - Citizen Lab Malware Reports
-- [WerWolv/ImHex-Patterns](https://github.com/WerWolv/ImHex-Patterns) - Hex patterns, include patterns and magic files for the use with the ImHex Hex Editor
 - [eset/malware-ioc](https://github.com/eset/malware-ioc) - Indicators of Compromises (IOC) of our various investigations
 - [StrangerealIntel/DailyIOC](https://github.com/StrangerealIntel/DailyIOC) - IOC from articles, tweets for archives
 
