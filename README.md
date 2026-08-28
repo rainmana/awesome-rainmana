@@ -1928,6 +1928,7 @@
 - [tylerha97/awesome-reversing](https://github.com/tylerha97/awesome-reversing) - A curated list of awesome reversing resources
 - [Tonsil/flipper-music-files](https://github.com/Tonsil/flipper-music-files) - Music files in .fmf format for the Flipper Zero Music Player plugin
 - [neverfa11ing/FlipperMusicRTTTL](https://github.com/neverfa11ing/FlipperMusicRTTTL) - RTTTL txt files that will work with the FIipperZero Music Player
+- [onekey-sec/unblob](https://github.com/onekey-sec/unblob) - Extract files from any kind of container formats
 - [w0lfzk1n/Flipper-Zero-NFC-Trolls](https://github.com/w0lfzk1n/Flipper-Zero-NFC-Trolls) - Collection of Helpfull and Troll Links as NFC. All kinds of links with documentation :)
 - [jkctech/Flipper-Zero-Scripts](https://github.com/jkctech/Flipper-Zero-Scripts) - Collection of Flipper Zero scripts dumps and tools
 - [djsime1/awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero) - 🐬 A collection of awesome resources for the Flipper Zero device.
@@ -2734,7 +2735,7 @@
 - [Dman95/SASM](https://github.com/Dman95/SASM) - SASM - simple crossplatform IDE for NASM, MASM, GAS and FASM assembly languages
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler with built-in NumPy support
 - [latchset/jwcrypto](https://github.com/latchset/jwcrypto) - Implements JWK,JWS,JWE specifications using python-cryptography
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, FLUX and more.
 - [mesop-dev/mesop](https://github.com/mesop-dev/mesop) - Rapidly build AI apps in Python
 - [lanjelot/patator](https://github.com/lanjelot/patator) - Patator is a multi-purpose brute-forcer, with a modular design and a flexible usage.
 - [galkan/crowbar](https://github.com/galkan/crowbar) - Crowbar is brute forcing tool that can be used during penetration tests. It is developed to support protocols that are not currently supported by thc-hydra and other popular brute forcing tools.
@@ -2933,7 +2934,6 @@
 - [axi0mX/ipwndfu](https://github.com/axi0mX/ipwndfu) - open-source jailbreaking tool for many iOS devices
 - [GuardianFirewall/grandmaster](https://github.com/GuardianFirewall/grandmaster) - A simplistic python tool that assists in automating iOS firmware decryption.
 - [Glastis/Flipper-Zero-music-converter](https://github.com/Glastis/Flipper-Zero-music-converter) - Convert midi into fmf
-- [onekey-sec/unblob](https://github.com/onekey-sec/unblob) - Extract files from any kind of container formats
 - [nyu-mlab/iot-inspector-client](https://github.com/nyu-mlab/iot-inspector-client) - IoT Inspector: capturing and analyzing your smart home network traffic
 - [Hong5489/flipperzero-gate-bruteforce](https://github.com/Hong5489/flipperzero-gate-bruteforce) - Brute Force Gate Remote using Flipper Zero
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
