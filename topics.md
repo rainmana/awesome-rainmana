@@ -4546,6 +4546,7 @@
 
 ## macos 
 
+- [raminsharifi/MacFanControl](https://github.com/raminsharifi/MacFanControl) - Terminal UI for controlling Mac fan speeds via the SMC — Apple Silicon (M1–M4) support, no kexts, no daemons
 - [jundot/omlx](https://github.com/jundot/omlx) - LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
@@ -5418,6 +5419,7 @@
 
 ## others 
 
+- [ProducerGuy/ThermalForge](https://github.com/ProducerGuy/ThermalForge) - Free, open-source fan control for Apple Silicon Macs (M1, M2, M3, M4, M5). Menu bar app + CLI. Alternative to Macs Fan Control, TG Pro, AlDente.
 - [sboesen/deepseek-harness-desktop](https://github.com/sboesen/deepseek-harness-desktop) - Lightweight macOS Tauri wrapper for DeepSeek Harness
 - [daeken/FlatlineProxy](https://github.com/daeken/FlatlineProxy) - A proxy to allow OpenAI Codex to directly communicate with multiple providers simultaneously.
 - [LangConfig/langconfig](https://github.com/LangConfig/langconfig) - LangConfig is a open-source visual workflow builder designed to make AI agent development accessible to everyone. Build, test, and share LangChain and LangGraph agent workflows with an intuitive drag-
@@ -5677,7 +5679,7 @@
 - [palantir/pyspark-style-guide](https://github.com/palantir/pyspark-style-guide) - This is a guide to PySpark code style presenting common situations and the associated best practices based on the most frequent recurring topics across the PySpark repos we've encountered.
 - [metakirby5/yorha](https://github.com/metakirby5/yorha) - :robot: CSS based on Nier Automata's interface design language.
 - [xz/new.css](https://github.com/xz/new.css) - A classless CSS framework to write modern websites using only HTML.
-- [omacom-io/lumon.nvim](https://github.com/omacom-io/lumon.nvim) - Lumon Industries Neovim Theme
+- [omacom/lumon.nvim](https://github.com/omacom/lumon.nvim) - Lumon Industries Neovim Theme
 - [minicli/demos](https://github.com/minicli/demos) - Minicli Demos
 - [mezzio/mezzio](https://github.com/mezzio/mezzio) - PSR-15 Middleware Microframework
 - [uhub/awesome-php](https://github.com/uhub/awesome-php) - A curated list of awesome PHP frameworks, libraries and software.
@@ -7843,6 +7845,7 @@
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
 - [elizaOS/eliza](https://github.com/elizaOS/eliza) - Open source agentic operating system
+- [AnkitNayak-dev/EpsteinFiles-RAG](https://github.com/AnkitNayak-dev/EpsteinFiles-RAG) - A RAG pipeline implementation built on the 'Epstein Files 20K' dataset from Hugging Face (Teyler).
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
 - [memodb-io/memobase](https://github.com/memodb-io/memobase) - User Profile-Based Long-Term Memory for AI Chatbot Applications.
 - [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line 
@@ -8164,6 +8167,7 @@
 
 ## rust 
 
+- [raminsharifi/MacFanControl](https://github.com/raminsharifi/MacFanControl) - Terminal UI for controlling Mac fan speeds via the SMC — Apple Silicon (M1–M4) support, no kexts, no daemons
 - [rivet-dev/actors](https://github.com/rivet-dev/actors) - Rivet Actors are the primitive for stateful workloads. Built for AI agents, collaborative apps, and durable execution.
 - [dustinblackman/oatmeal](https://github.com/dustinblackman/oatmeal) - Terminal UI to chat with large language models (LLM) using different model backends, and integrations with your favourite editors!
 - [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database tool for the terminal
@@ -9029,6 +9033,7 @@
 
 ## tui 
 
+- [raminsharifi/MacFanControl](https://github.com/raminsharifi/MacFanControl) - Terminal UI for controlling Mac fan speeds via the SMC — Apple Silicon (M1–M4) support, no kexts, no daemons
 - [dustinblackman/oatmeal](https://github.com/dustinblackman/oatmeal) - Terminal UI to chat with large language models (LLM) using different model backends, and integrations with your favourite editors!
 - [orhun/binsider](https://github.com/orhun/binsider) - Analyze ELF binaries like a boss 😼🕵️‍♂️
 - [ratatui/templates](https://github.com/ratatui/templates) - Templates for bootstrapping a Rust TUI application with Ratatui
