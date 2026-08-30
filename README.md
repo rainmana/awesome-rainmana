@@ -890,7 +890,7 @@
 - [beefsack/webify](https://github.com/beefsack/webify) - Turn shell commands into web services
 - [projectdiscovery/wappalyzergo](https://github.com/projectdiscovery/wappalyzergo) - A high performance go implementation of Wappalyzer Technology Detection Library
 - [unstppbl/gowap](https://github.com/unstppbl/gowap) - Wappalyzer implementation in Go
-- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
+- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.
 - [prest/prest](https://github.com/prest/prest) - PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new, MCP server
 - [carapace-sh/carapace-bin](https://github.com/carapace-sh/carapace-bin) - A multi-shell completion binary.
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
@@ -1061,6 +1061,7 @@
 
 ## Java 
 
+- [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) - Learn System Design concepts and prepare for interviews using free resources.
 - [stevespringett/Alpine](https://github.com/stevespringett/Alpine) - An opinionated scaffolding framework that jumpstarts Java projects with an API-first design, secure defaults, and minimal dependencies
 - [lmco/Alpine](https://github.com/lmco/Alpine) - Forked to support Dependency-Track Development
 - [CycloneDX/cyclonedx-core-java](https://github.com/CycloneDX/cyclonedx-core-java) - CycloneDX SBOM Model and Utils for Creating and Validating BOMs
@@ -1624,6 +1625,7 @@
 
 ## Others 
 
+- [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 - [mudcoders/awesome-mud](https://github.com/mudcoders/awesome-mud) - 🖥 A curated list of bookmarks, tools, tutorials, and other cool resources for text-based game developers.
 - [lmco/StreamlinedML](https://github.com/lmco/StreamlinedML) - 
 - [frjaraur/enable-gpu-rke2](https://github.com/frjaraur/enable-gpu-rke2) - 
@@ -3244,6 +3246,7 @@
 
 ## Rust 
 
+- [rainmana/graffy](https://github.com/rainmana/graffy) - I have no idea what I'm doing, but I hope this turns out cool...
 - [M4n5ter/rigs](https://github.com/M4n5ter/rigs) - Rigs is an Agent orchestration framework based on Rig
 - [a-agmon/rs-graph-llm](https://github.com/a-agmon/rs-graph-llm) - High-performance framework for building interactive workflow systems in Rust. Designed for complex workflows and multi-agent systems
 - [raminsharifi/MacFanControl](https://github.com/raminsharifi/MacFanControl) - Terminal UI for controlling Mac fan speeds via the SMC — Apple Silicon (M1–M4) support, no kexts, no daemons
@@ -3602,6 +3605,7 @@
 
 ## TypeScript 
 
+- [TobiTRy/fui-fancyui](https://github.com/TobiTRy/fui-fancyui) - 🎨 FancyUI (FUI) - the upcoming UI sensation for React & Next.js! It's where creativity meets code, brewing with TypeScript and Styled Components. Join the journey, peek into our Storybook, and gear up
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
 - [spences10/mcp-turso-cloud](https://github.com/spences10/mcp-turso-cloud) - 🗂️ A Model Context Protocol (MCP) server that provides integration with Turso databases for LLMs. This server implements a two-level authentication system to handle both organization-level and databas
 - [tubone24/midi-mcp-server](https://github.com/tubone24/midi-mcp-server) - MIDI MCP Server is a Model Context Protocol (MCP) server that enables AI models to generate MIDI files from text-based music data. This tool allows for programmatic creation of musical compositions th
