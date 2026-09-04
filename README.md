@@ -2112,6 +2112,8 @@
 
 ## Python 
 
+- [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) - VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
+- [TeleAI-UAGI/Awesome-Agent-Memory](https://github.com/TeleAI-UAGI/Awesome-Agent-Memory) - Curated systems, benchmarks, and papers etc. on memory for LLMs/MLLMs --- long-term context, retrieval, and reasoning.
 - [Laszlobeer/-Dungeo_ai-otudated-](https://github.com/Laszlobeer/-Dungeo_ai-otudated-) - this is a dungeon ai run locally that use your llm
 - [reflex-dev/xy](https://github.com/reflex-dev/xy) - Ultra-fast and customizable Python charts
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
