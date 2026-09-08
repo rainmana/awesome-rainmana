@@ -133,6 +133,7 @@
 
 ## C 
 
+- [abishekvashok/cmatrix](https://github.com/abishekvashok/cmatrix) - Terminal based "The Matrix" like implementation
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SF
 - [lz4/lz4](https://github.com/lz4/lz4) - Extremely Fast Compression algorithm
 - [sunblaze-ucb/exploitgym](https://github.com/sunblaze-ucb/exploitgym) - ExploitGym is a large-scale, realistic benchmark built from real-world vulnerabilities designed to evaluate AI agents' ability to develop exploits.
@@ -424,6 +425,7 @@
 
 ## C++ 
 
+- [seenaburns/dex-ui](https://github.com/seenaburns/dex-ui) - A science fiction desktop running on Linux. Awesome.
 - [henk717/KoboldAI](https://github.com/henk717/KoboldAI) - KoboldAI is generative AI software optimized for fictional use, but capable of much more!
 - [lmco/duckdb](https://github.com/lmco/duckdb) - DuckDB is an analytical in-process SQL database management system
 - [DBraun/DawDreamer](https://github.com/DBraun/DawDreamer) - Digital Audio Workstation with Python; VST instruments/effects, parameter automation, FAUST, JAX, Warp Markers, and JUCE processors
@@ -478,6 +480,7 @@
 - [grame-cncm/faust](https://github.com/grame-cncm/faust) - Functional programming language for signal processing and sound synthesis
 - [buzzinglight/IanniX](https://github.com/buzzinglight/IanniX) - IanniX is a graphical open-source sequencer, based on Iannis Xenakis works, for digital art. IanniX syncs via Open Sound Control (OSC) events and curves to your real-time environment.
 - [MTG/essentia](https://github.com/MTG/essentia) - C++ library for audio and music analysis, description and synthesis, including Python bindings
+- [leapbtw/uxplay-windows](https://github.com/leapbtw/uxplay-windows) - FREE AirPlay to Windows PC
 - [Lat0ur/WarThunderHack](https://github.com/Lat0ur/WarThunderHack) - A WarThunder Hack;
 - [nzbget/nzbget](https://github.com/nzbget/nzbget) - Efficient Usenet Downloader
 - [ch4ncellor/EAC-Reversal](https://github.com/ch4ncellor/EAC-Reversal) - 09/2021 reversal of EasyAntiCheat driver
@@ -606,6 +609,7 @@
 - [TEParsons/LCARS](https://github.com/TEParsons/LCARS) - 
 - [markdowncss/retro](https://github.com/markdowncss/retro) - A markdown CSS module that is a blast to the past.
 - [themepark-dev/theme.park](https://github.com/themepark-dev/theme.park) - A collection of themes/skins for 50 selfhosted apps!
+- [developersharif/untrace](https://github.com/developersharif/untrace) - Clean your images. Keep your identity.
 - [HackTricks-wiki/hacktricks](https://github.com/HackTricks-wiki/hacktricks) - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
 - [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) - A distraction-free and highly customizable theme for Obsidian.
 - [nicollasricas/decks-vscode](https://github.com/nicollasricas/decks-vscode) - Enables Stream Deck integration with Visual Studio Code.
@@ -672,6 +676,7 @@
 
 ## Emacs Lisp 
 
+- [rksm/org-ai](https://github.com/rksm/org-ai) - Emacs as your personal AI assistant. Use LLMs such as ChatGPT or LLaMA for text generation or DALL-E and Stable Diffusion for image generation. Also supports speech input / output.
 - [sachac/artbollocks-mode](https://github.com/sachac/artbollocks-mode) - Emacs mode for highlighting weasel words
 - [doomemacs/core](https://github.com/doomemacs/core) - An Emacs framework for the stubborn martian hacker
 
@@ -685,6 +690,8 @@
 
 ## Go 
 
+- [ipfs/someguy](https://github.com/ipfs/someguy) - Delegated Routing V1 server that proxies provider, peer, and IPNS lookups to the Amino DHT and other routers
+- [ipfs/rainbow](https://github.com/ipfs/rainbow) - IPFS HTTP Gateway daemon in Go, tuned for public production traffic: retrieval only, no pinning, no providing
 - [mmcdole/rune](https://github.com/mmcdole/rune) - 
 - [lmco/kuberay](https://github.com/lmco/kuberay) - A toolkit to run Ray applications on Kubernetes
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
@@ -764,7 +771,9 @@
 - [dustin/go-wikiparse](https://github.com/dustin/go-wikiparse) - mediawiki dump parser for loading up wikipedia data
 - [alda-lang/alda](https://github.com/alda-lang/alda) - A music programming language for musicians. :notes:
 - [OpenFunction/OpenFunction](https://github.com/OpenFunction/OpenFunction) - Cloud Native Function-as-a-Service Platform (CNCF Sandbox Project)
+- [cozystack/cozystack](https://github.com/cozystack/cozystack) - Cozystack: Free Cloud Platform based on Kubernetes
 - [tsuru/tsuru](https://github.com/tsuru/tsuru) - Open source and extensible Platform as a Service (PaaS).
+- [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [flynn/flynn](https://github.com/flynn/flynn) - [UNMAINTAINED] A next generation open source platform as a service (PaaS)
 - [wricardo/gpt-mcp-proxy](https://github.com/wricardo/gpt-mcp-proxy) - HTTP server that provides access to executing Multiple Command Protocol (MCP) tools.
 - [musana/CF-Hero](https://github.com/musana/CF-Hero) - CF-Hero is a reconnaissance tool that uses multiple data sources to discover the origin IP addresses of Cloudflare-protected web applications
@@ -893,7 +902,7 @@
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [TheZoraiz/ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) - A cross-platform command-line tool to convert images into ascii art and print them on the console. Now supports braille art!
 - [ViRb3/authelia-basic-2fa](https://github.com/ViRb3/authelia-basic-2fa) - 🗝 Use Authelia 2FA through only standard basic auth
-- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
+- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptography Ready.
 - [ViRb3/webdav-server](https://github.com/ViRb3/webdav-server) - A simple WebDAV server in Go
 - [SignTools/SignTools](https://github.com/SignTools/SignTools) - ✒ A free, self-hosted platform to sideload iOS apps without a computer
 - [pushbits/server](https://github.com/pushbits/server) - A simple server for push notifications via Matrix (and a minimalistic alternative to Pushover and Gotify) 🚀📯
@@ -945,6 +954,7 @@
 
 ## HTML 
 
+- [ai-genie/chatgpt-vscode](https://github.com/ai-genie/chatgpt-vscode) - Your best AI pair programmer in VS Code
 - [CycloneDX/tool-center](https://github.com/CycloneDX/tool-center) - Data and schema powering the worlds largest collection of SBOM/xBOM products, projects, and services
 - [cyver-core/pentest-reports](https://github.com/cyver-core/pentest-reports) - Collection of penetration test reports and pentest report templates. Published by the the best security companies in the world.
 - [Patrowl/PatrowlManager](https://github.com/Patrowl/PatrowlManager) - PatrOwl - Open Source, Smart and Scalable Security Operations Orchestration Platform
@@ -1165,6 +1175,8 @@
 
 ## JavaScript 
 
+- [Strawberry-Computer/vibe-compiler](https://github.com/Strawberry-Computer/vibe-compiler) - Vibe coding tool with prompts in the repo
+- [ipfs/ipfs-companion](https://github.com/ipfs/ipfs-companion) - Browser extension that routes ipfs:// addresses and content-addressed websites through your own local IPFS node
 - [theneoai/awesome-skills](https://github.com/theneoai/awesome-skills) - 🌟1000+ Expert AI Skills | CEO, Doctor, Engineer, Scientist & more | Transform AI into any professional | Powered by https://theneoai.github.io/skill-writer/
 - [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern) - LLM Frontend for Power Users.
 - [krys64/OpenArcana](https://github.com/krys64/OpenArcana) - AI Dungeon MAster App - Solo/Multi
@@ -1512,7 +1524,7 @@
 
 ## Lua 
 
-- [mrjones2014/smart-splits.nvim](https://github.com/mrjones2014/smart-splits.nvim) - 🧠 Smart, seamless, directional navigation and resizing of Neovim + terminal multiplexer splits. Supports Zellij, Tmux, Wezterm, and Kitty. Think about splits in terms of "up/down/left/right".
+- [smart-splits-nvim/smart-splits.nvim](https://github.com/smart-splits-nvim/smart-splits.nvim) - 🧠 Smart, seamless, directional navigation and resizing of Neovim + terminal multiplexer splits. Supports Zellij, Tmux, Wezterm, and Kitty. Think about splits in terms of "up/down/left/right".
 - [MLFlexer/modal.wezterm](https://github.com/MLFlexer/modal.wezterm) - Vim-like modal keybindings for your terminal! ✌️
 - [dimao/ai-commander.wezterm](https://github.com/dimao/ai-commander.wezterm) - Integrates with AI providers (Anthropic Claude and OpenAI GPT) to generate and select bash commands based on natural language prompts.
 - [Michal1993r/ai-helper.wezterm](https://github.com/Michal1993r/ai-helper.wezterm) - simple ai agent for wezterm
@@ -1625,6 +1637,9 @@
 
 ## Others 
 
+- [rainmana/awesome-code-ai](https://github.com/rainmana/awesome-code-ai) - A list of AI coding tools (assistants, completions, refactoring, etc.)
+- [GitSquared/horizon-edex-theme](https://github.com/GitSquared/horizon-edex-theme) - A modern, beautiful and colorful theme for eDEX-UI.
+- [alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems) - 💅🏻 ⚒ A collection of awesome design systems
 - [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) - A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.
 - [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 - [mudcoders/awesome-mud](https://github.com/mudcoders/awesome-mud) - 🖥 A curated list of bookmarks, tools, tutorials, and other cool resources for text-based game developers.
@@ -1764,7 +1779,7 @@
 - [terminaldotshop/crema](https://github.com/terminaldotshop/crema) - A stark black & white code theme with a shot of espresso. Built for terminals, editors, and anything that needs razor‑sharp contrast and a splash of Terminal orange.
 - [9M2PJU/ATAK-Civ-Plugins](https://github.com/9M2PJU/ATAK-Civ-Plugins) - Compilation of ATAK Civ and plugins
 - [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!
-- [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
+- [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI [SUBMISSIONS ARE TEMPORARILY PAUSED BECAUSE OF TOO MANY LOW QUALITY SUBMISSIONS]
 - [planetjekyll/awesome-jekyll-themes](https://github.com/planetjekyll/awesome-jekyll-themes) - A collection of awesome (gem-packaged) Jekyll themes - Add your theme!
 - [wearetyomsmnv/Awesome-LLM-agent-Security](https://github.com/wearetyomsmnv/Awesome-LLM-agent-Security) - All about llm-agents security,attack,vulnerabilities and how to do them for cybersecurity.
 - [christiancscott/awesome-LLM-security](https://github.com/christiancscott/awesome-LLM-security) - A compendium of threat modeling and security testing resources for LLMs and GenAI agents
@@ -1873,7 +1888,7 @@
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 - [wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - A curated list of awesome Android UI/UX libraries
 - [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
-- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL JULY]
+- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED TEMPORARILY]
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
@@ -1937,7 +1952,6 @@
 - [tylerha97/awesome-reversing](https://github.com/tylerha97/awesome-reversing) - A curated list of awesome reversing resources
 - [Tonsil/flipper-music-files](https://github.com/Tonsil/flipper-music-files) - Music files in .fmf format for the Flipper Zero Music Player plugin
 - [neverfa11ing/FlipperMusicRTTTL](https://github.com/neverfa11ing/FlipperMusicRTTTL) - RTTTL txt files that will work with the FIipperZero Music Player
-- [onekey-sec/unblob](https://github.com/onekey-sec/unblob) - Extract files from any kind of container formats
 - [w0lfzk1n/Flipper-Zero-NFC-Trolls](https://github.com/w0lfzk1n/Flipper-Zero-NFC-Trolls) - Collection of Helpfull and Troll Links as NFC. All kinds of links with documentation :)
 - [jkctech/Flipper-Zero-Scripts](https://github.com/jkctech/Flipper-Zero-Scripts) - Collection of Flipper Zero scripts dumps and tools
 - [djsime1/awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero) - 🐬 A collection of awesome resources for the Flipper Zero device.
@@ -2068,7 +2082,6 @@
 - [mfkp/skycards-export](https://github.com/mfkp/skycards-export) - A simple script to export your SkyCards data
 - [mandiant/commando-vm](https://github.com/mandiant/commando-vm) - Complete Mandiant Offensive VM (Commando VM), a fully customizable Windows-based pentesting virtual machine distribution. commandovm@mandiant.com
 - [mandiant/flare-vm](https://github.com/mandiant/flare-vm) - A collection of software installations scripts for Windows systems that allows you to easily setup and maintain a reverse engineering environment on a VM.
-- [leapbtw/uxplay-windows](https://github.com/leapbtw/uxplay-windows) - FREE AirPlay to Windows PC
 - [aalex954/MSFT-IP-Tracker](https://github.com/aalex954/MSFT-IP-Tracker) - Tracks a range of Microsoft owned ASNs and publishes a daily release containing a list of IPv4 and IPv6 address in CIDR notation.
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Wi
 - [zoicware/RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI) - Force Remove Copilot, Recall and More in Windows 11
@@ -2112,6 +2125,9 @@
 
 ## Python 
 
+- [vitali87/code-graph-rag](https://github.com/vitali87/code-graph-rag) - The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs
+- [ezelikman/parsel](https://github.com/ezelikman/parsel) - Code for Parsel 🐍 - generate complex programs with language models
+- [yha9806/academic-writing-toolkit](https://github.com/yha9806/academic-writing-toolkit) - Local-first, evidence-controlled academic writing workflows for AI agents, with bounded revision, clean-room review, and release governance.
 - [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) - VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
 - [TeleAI-UAGI/Awesome-Agent-Memory](https://github.com/TeleAI-UAGI/Awesome-Agent-Memory) - Curated systems, benchmarks, and papers etc. on memory for LLMs/MLLMs --- long-term context, retrieval, and reasoning.
 - [Laszlobeer/-Dungeo_ai-otudated-](https://github.com/Laszlobeer/-Dungeo_ai-otudated-) - this is a dungeon ai run locally that use your llm
@@ -2506,7 +2522,7 @@
 - [mitre-atlas/atlas-data](https://github.com/mitre-atlas/atlas-data) - ATLAS tactics, techniques, and case studies data
 - [burnash/gspread](https://github.com/burnash/gspread) - Google Sheets Python API
 - [scogonw/sheetstack](https://github.com/scogonw/sheetstack) - Transform Google Sheets into powerful REST APIs instantly with filtering, sorting, and search capabilities
-- [francescopace/espectre](https://github.com/francescopace/espectre) - ESPectre - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration.
+- [francescopace/espectre](https://github.com/francescopace/espectre) - Wi-Fi CSI motion sensing for ESP32. C++ SDK, ESPHome, Native, and Matter frontends, browser tools, and a CLI for the full device lifecycle. GPLv3 and commercial licensing.
 - [redis/mcp-redis](https://github.com/redis/mcp-redis) - The official Redis MCP Server is a natural language interface designed for agentic applications to manage and search data in Redis efficiently
 - [microsoft/PyRIT](https://github.com/microsoft/PyRIT) - The Python Risk Identification Tool for generative AI (PyRIT) is an open source framework built to empower security professionals and engineers to proactively identify risks in generative AI systems.
 - [MCPPhalanx/binaryninja-mcp](https://github.com/MCPPhalanx/binaryninja-mcp) - Another™ MCP Server for Binary Ninja with superpower 🥵
@@ -2631,7 +2647,7 @@
 - [Eilonh/s3crets_scanner](https://github.com/Eilonh/s3crets_scanner) - 
 - [disruptops/resource-counter](https://github.com/disruptops/resource-counter) - This command line tool counts the number of resources in different categories across Amazon regions.
 - [cyberark/SkyWrapper](https://github.com/cyberark/SkyWrapper) - SkyWrapper helps to discover suspicious creation forms and uses of temporary tokens in AWS
-- [cr0hn/festin](https://github.com/cr0hn/festin) - FestIn - Open S3 Bucket Scanner
+- [cr0hn/festin](https://github.com/cr0hn/festin) - FestIn - Credentialless discovery and monitoring of exposed S3-compatible cloud storage from domains, DNS and web crawling.
 - [chrismaddalena/ODIN](https://github.com/chrismaddalena/ODIN) - Automated network asset, email, and social media profile discovery and cataloguing.
 - [c0dejump/HawkScan](https://github.com/c0dejump/HawkScan) - Security Tool for Reconnaissance and Information Gathering on a website. (python 3.x)
 - [bassammaged/awsEnum](https://github.com/bassammaged/awsEnum) - Enumerate AWS cloud resources based on provided credential
@@ -2948,6 +2964,7 @@
 - [axi0mX/ipwndfu](https://github.com/axi0mX/ipwndfu) - open-source jailbreaking tool for many iOS devices
 - [GuardianFirewall/grandmaster](https://github.com/GuardianFirewall/grandmaster) - A simplistic python tool that assists in automating iOS firmware decryption.
 - [Glastis/Flipper-Zero-music-converter](https://github.com/Glastis/Flipper-Zero-music-converter) - Convert midi into fmf
+- [onekey-sec/unblob](https://github.com/onekey-sec/unblob) - Extract files from any kind of container formats
 - [nyu-mlab/iot-inspector-client](https://github.com/nyu-mlab/iot-inspector-client) - IoT Inspector: capturing and analyzing your smart home network traffic
 - [Hong5489/flipperzero-gate-bruteforce](https://github.com/Hong5489/flipperzero-gate-bruteforce) - Brute Force Gate Remote using Flipper Zero
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
@@ -3250,6 +3267,7 @@
 
 ## Rust 
 
+- [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [rainmana/graffy](https://github.com/rainmana/graffy) - I have no idea what I'm doing, but I hope this turns out cool...
 - [M4n5ter/rigs](https://github.com/M4n5ter/rigs) - Rigs is an Agent orchestration framework based on Rig
 - [a-agmon/rs-graph-llm](https://github.com/a-agmon/rs-graph-llm) - High-performance framework for building interactive workflow systems in Rust. Designed for complex workflows and multi-agent systems
@@ -3369,7 +3387,7 @@
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
 - [xelis-project/xelis-blockchain](https://github.com/xelis-project/xelis-blockchain) - A private blockDAG with Homomorphic Encryption and Smart Contracts
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3 and GLM 5.3
 - [ergrelet/windiff](https://github.com/ergrelet/windiff) - Tool that allows comparing symbol, type and syscall information of Microsoft Windows binaries across different versions of the OS, using a Web UI and/or LLMs.
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [blst-security/cherrybomb](https://github.com/blst-security/cherrybomb) - Stop half-done APIs! Cherrybomb is a CLI tool that helps you avoid undefined user behaviour by auditing your API specifications, validating them and running API security tests.
@@ -3421,6 +3439,7 @@
 
 ## Shell 
 
+- [closedloop-technologies/autocomplete-sh](https://github.com/closedloop-technologies/autocomplete-sh) - Large language model in the terminal!  Less `--help` and `man` and more getting stuff done
 - [cryptolok/ASLRay](https://github.com/cryptolok/ASLRay) - Linux ELF x32/x64 ASLR DEP/NX bypass exploit with stack-spraying
 - [lmco/ChaordicLedger](https://github.com/lmco/ChaordicLedger) - The ChaordicLedger is the implementation of a design for a combination of Distributed Ledger Technology (DLT) and a Distributed File System (DFS) to create a secure, enterprise-grade platform for stor
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
@@ -3456,7 +3475,6 @@
 - [m3n0sd0n4ld/GooFuzz](https://github.com/m3n0sd0n4ld/GooFuzz) - GooFuzz is a tool to perform fuzzing with an OSINT approach, managing to enumerate directories, files, subdomains or parameters without leaving evidence on the target's server and by means of advanced
 - [conda-forge/miniforge](https://github.com/conda-forge/miniforge) - A conda-forge distribution.
 - [itzg/docker-minecraft-bedrock-server](https://github.com/itzg/docker-minecraft-bedrock-server) - Containerized Minecraft Bedrock Dedicated Server with selectable version
-- [cozystack/cozystack](https://github.com/cozystack/cozystack) - Cozystack: Free Cloud Platform based on Kubernetes
 - [robotshell/magicRecon](https://github.com/robotshell/magicRecon) - MagicRecon is a powerful shell script to maximize the recon and data collection process of an objective and finding common vulnerabilities, all this saving the results obtained in an organized way in 
 - [magicant/yash](https://github.com/magicant/yash) - Yet another shell
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
@@ -3545,7 +3563,6 @@
 ## Svelte 
 
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
-- [developersharif/untrace](https://github.com/developersharif/untrace) - Clean your images. Keep your identity.
 
 ## Swift 
 
@@ -3608,6 +3625,9 @@
 
 ## TypeScript 
 
+- [ipfs/helia](https://github.com/ipfs/helia) - An implementation of IPFS in TypeScript
+- [rainmana/storied](https://github.com/rainmana/storied) - Your own personal world to create and write within as you experience it yourself
+- [rainmana/melodies](https://github.com/rainmana/melodies) - Making melodies feel natural, easy, and like you don't have to go to school first.
 - [TobiTRy/fui-fancyui](https://github.com/TobiTRy/fui-fancyui) - 🎨 FancyUI (FUI) - the upcoming UI sensation for React & Next.js! It's where creativity meets code, brewing with TypeScript and Styled Components. Join the journey, peek into our Storybook, and gear up
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
 - [spences10/mcp-turso-cloud](https://github.com/spences10/mcp-turso-cloud) - 🗂️ A Model Context Protocol (MCP) server that provides integration with Turso databases for LLMs. This server implements a two-level authentication system to handle both organization-level and databas
@@ -3801,7 +3821,6 @@
 - [srbhptl39/MCP-SuperAssistant](https://github.com/srbhptl39/MCP-SuperAssistant) - Brings MCP to ChatGPT, DeepSeek, Perplexity, Grok, Gemini, Google AI Studio, OpenRouter, DeepSeek, T3 Chat and more...
 - [CoderLine/alphaTab](https://github.com/CoderLine/alphaTab) - alphaTab is a cross platform music notation and guitar tablature rendering library.
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
-- [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - An elegant home server OS. Run OpenClaw, store your files and, and do more with over 300 apps in the Umbrel App Store.
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
 - [electron/asar](https://github.com/electron/asar) - Simple extensive tar-like archive format with indexing
