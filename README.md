@@ -1174,6 +1174,7 @@
 
 ## JavaScript 
 
+- [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) - A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
 - [bsmr/awesome-opencode---awesome-opencode](https://github.com/bsmr/awesome-opencode---awesome-opencode) - A curated list of awesome plugins, themes, agents, projects, and resources for https://opencode.ai
 - [awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode) - A curated list of awesome plugins, themes, agents, projects, and resources for https://opencode.ai
 - [Strawberry-Computer/vibe-compiler](https://github.com/Strawberry-Computer/vibe-compiler) - Vibe coding tool with prompts in the repo
@@ -1442,6 +1443,7 @@
 
 ## Jupyter Notebook 
 
+- [dpeerlab/Palantir](https://github.com/dpeerlab/Palantir) - Single cell trajectory detection
 - [lmco/DecisionMamba](https://github.com/lmco/DecisionMamba) - Decision transformer with the Mamba architecture for offline RL w/ online fine-tuning
 - [safety-research/assistant-axis](https://github.com/safety-research/assistant-axis) - The Assistant Axis is a direction in activation space that captures how "Assistant-like" a model's behavior is. Models can drift away from the Assistant during conversations—sometimes toward bizarre o
 - [google/patents-public-data](https://github.com/google/patents-public-data) - Patent analysis using the Google Patents Public Datasets on BigQuery
@@ -3634,6 +3636,7 @@
 
 ## TypeScript 
 
+- [simplifaisoul/osiris](https://github.com/simplifaisoul/osiris) - Open Source Global Intelligence Platform - Real-Time OSINT Dashboard - A Palantir Alternative -                            2nZNHm3Lr9umG3DVrzYwHgktwkuKuJRXqqRqs3ewpump
 - [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) - runs anywhere. uses anything
 - [bergside/typeui](https://github.com/bergside/typeui) - Build better UI with AI
 - [ipfs/helia](https://github.com/ipfs/helia) - An implementation of IPFS in TypeScript
