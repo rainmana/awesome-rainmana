@@ -1226,7 +1226,7 @@
 - [reZach/secure-electron-template](https://github.com/reZach/secure-electron-template) - The best way to build Electron apps with security in mind.
 - [leftstick/generator-electron-naive](https://github.com/leftstick/generator-electron-naive) - Create desktop app for a website in one minute
 - [abulka/generator-electron-flask](https://github.com/abulka/generator-electron-flask) - Yoeman project generator to create an Electron app running a Flask server inside itself. Deployable via PyInstaller and Electron Forge packager.
-- [google/docsy](https://github.com/google/docsy) - Hugo theme for open source documentation
+- [docsydev/docsy](https://github.com/docsydev/docsy) - Hugo theme for open source documentation
 - [Jenqyang/Awesome-AI-Agents](https://github.com/Jenqyang/Awesome-AI-Agents) - A collection of autonomous agents 🤖️ powered by LLM.
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [frida/cloudspy](https://github.com/frida/cloudspy) - Proof-of-concept web app built on top of Frida
@@ -1473,7 +1473,7 @@
 - [soxoj/bellingcat-hackathon-watchcats](https://github.com/soxoj/bellingcat-hackathon-watchcats) - 📊 Adana - 1-click analytical dashboard for OSINT researchers
 - [ashishpatel26/Treasure-of-Transformers](https://github.com/ashishpatel26/Treasure-of-Transformers) - 💁 Awesome Treasure of Transformers Models for Natural Language processing contains papers, videos, blogs, official repo along with colab Notebooks. 🛫☑️
 - [johnnycode8/chromadb_quickstart](https://github.com/johnnycode8/chromadb_quickstart) - Tutorials to help you get started with ChromaDB. Chroma has built-in functionality to embed text and images so you can build out your proof-of-concepts on a vector database quickly. Associated videos:
-- [meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook) - Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model f
+- [metainternal/llama-cookbook](https://github.com/metainternal/llama-cookbook) - Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model f
 - [RRZE-HPC/OSACA](https://github.com/RRZE-HPC/OSACA) - Open Source Architecture Code Analyzer
 - [newaetech/chipwhisperer-jupyter](https://github.com/newaetech/chipwhisperer-jupyter) - Interactive ChipWhisperer tutorials using Jupyter notebooks.
 - [PWhiddy/PokemonRedExperiments](https://github.com/PWhiddy/PokemonRedExperiments) - Playing Pokemon Red with Reinforcement Learning
@@ -1549,7 +1549,7 @@
 - [viruscamp/luadec](https://github.com/viruscamp/luadec) - Lua Decompiler for lua 5.1 , 5.2 and 5.3
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The API and AI Gateway
 - [awslabs/amazonq.nvim](https://github.com/awslabs/amazonq.nvim) - Neovim Plugin for Amazon Q Developer
-- [jdhao/nvim-config](https://github.com/jdhao/nvim-config) - A modern Neovim configuration with full battery for Python, Lua, C++, Markdown, LaTeX, and more...
+- [jdhao/nvim-config](https://github.com/jdhao/nvim-config) - A modern Neovim configuration with full battery for Python, Lua, golang, Markdown, LaTeX, and more...
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
 - [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
@@ -2083,6 +2083,7 @@
 
 ## PowerShell 
 
+- [ScoopInstaller/Install](https://github.com/ScoopInstaller/Install) - 📥 Next-generation Scoop (un)installer
 - [mfkp/skycards-export](https://github.com/mfkp/skycards-export) - A simple script to export your SkyCards data
 - [mandiant/commando-vm](https://github.com/mandiant/commando-vm) - Complete Mandiant Offensive VM (Commando VM), a fully customizable Windows-based pentesting virtual machine distribution. commandovm@mandiant.com
 - [mandiant/flare-vm](https://github.com/mandiant/flare-vm) - A collection of software installations scripts for Windows systems that allows you to easily setup and maintain a reverse engineering environment on a VM.
@@ -2129,6 +2130,7 @@
 
 ## Python 
 
+- [ndif-team/nnsight](https://github.com/ndif-team/nnsight) - The nnsight package enables interpreting and manipulating the internals of deep learned models.
 - [timpara/opencode-academic-research](https://github.com/timpara/opencode-academic-research) - OpenCode port of academic-research-skills: 4 skills, 13 slash commands, 38-agent pipeline for academic research, writing, peer review, and revision
 - [federicodeponte/opendraft](https://github.com/federicodeponte/opendraft) - Free & open-source AI research-paper writer: 19 agents draft 20k-word academic papers in ~10 min with citations verified against CrossRef/OpenAlex/Semantic Scholar. Export PDF/Word/LaTeX. Hosted at op
 - [juanmanueldaza/n3rv](https://github.com/juanmanueldaza/n3rv) - Engineering infrastructure for opencode AI agents: memory, skills, subagent dispatch.
@@ -2458,7 +2460,7 @@
 - [ivcylc/OpenMusic](https://github.com/ivcylc/OpenMusic) - OpenMusic: SOTA Text-to-music (TTM) Generation
 - [Natooz/MidiTok](https://github.com/Natooz/MidiTok) - MIDI / symbolic music tokenizers for Deep Learning models 🎶
 - [salu133445/musegan](https://github.com/salu133445/musegan) - An AI for Music Generation
-- [multimodal-art-projection/YuE](https://github.com/multimodal-art-projection/YuE) - YuE: Open Full-song Music Generation Foundation Model, something similar to Suno.ai but open
+- [multimodal-art-projection/YuE](https://github.com/multimodal-art-projection/YuE) - YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.
 - [Rainbow-Dreamer/Ideal-Piano](https://github.com/Rainbow-Dreamer/Ideal-Piano) - This is a piano software that analyzes what chords you are playing in real time by algorithms based on music theory. This piano software supports MIDI keyboard, computer keyboard, play and analyze MID
 - [CPJKU/partitura](https://github.com/CPJKU/partitura) - A python package for handling modern staff notation of music
 - [gciruelos/musthe](https://github.com/gciruelos/musthe) - Music theory implemented in Python. Notes, intervals, scales and chords.
@@ -3276,6 +3278,7 @@
 
 ## Rust 
 
+- [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
 - [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) - Agentic Coding for Builders who Ship
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [rainmana/graffy](https://github.com/rainmana/graffy) - I have no idea what I'm doing, but I hope this turns out cool...
