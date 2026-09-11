@@ -133,6 +133,7 @@
 
 ## C 
 
+- [openlgtv/epk2extract](https://github.com/openlgtv/epk2extract) - Extraction tool for LG, Hisense, Sharp, Philips/TPV, Thompson and similar TVs/Embedded Devices
 - [abishekvashok/cmatrix](https://github.com/abishekvashok/cmatrix) - Terminal based "The Matrix" like implementation
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SF
 - [lz4/lz4](https://github.com/lz4/lz4) - Extremely Fast Compression algorithm
@@ -253,6 +254,7 @@
 - [tricorderproject/arducordermini](https://github.com/tricorderproject/arducordermini) - Arducorder Mini
 - [mitjafelicijan/binary-visualization](https://github.com/mitjafelicijan/binary-visualization) - Visualizations and exploration of binary files
 - [mattgodbolt/zindex](https://github.com/mattgodbolt/zindex) - Create an index on a compressed text file
+- [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [hmgle/graftcp](https://github.com/hmgle/graftcp) - A flexible tool for redirecting a program's TCP, UDP, and DNS traffic to SOCKS5 or HTTP proxies.
 - [uber/h3](https://github.com/uber/h3) - Hexagonal hierarchical geospatial indexing system
 - [corellium/usbfluxd](https://github.com/corellium/usbfluxd) - Redirects the standard usbmuxd socket to allow connections to local and remote usbmuxd instances so remote devices appear connected locally.
@@ -1226,7 +1228,7 @@
 - [reZach/secure-electron-template](https://github.com/reZach/secure-electron-template) - The best way to build Electron apps with security in mind.
 - [leftstick/generator-electron-naive](https://github.com/leftstick/generator-electron-naive) - Create desktop app for a website in one minute
 - [abulka/generator-electron-flask](https://github.com/abulka/generator-electron-flask) - Yoeman project generator to create an Electron app running a Flask server inside itself. Deployable via PyInstaller and Electron Forge packager.
-- [docsydev/docsy](https://github.com/docsydev/docsy) - Hugo theme for open source documentation
+- [docsy/docsy](https://github.com/docsy/docsy) - Hugo theme for open source documentation
 - [Jenqyang/Awesome-AI-Agents](https://github.com/Jenqyang/Awesome-AI-Agents) - A collection of autonomous agents 🤖️ powered by LLM.
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [frida/cloudspy](https://github.com/frida/cloudspy) - Proof-of-concept web app built on top of Frida
@@ -1612,7 +1614,6 @@
 ## OCaml 
 
 - [opengrep/opengrep](https://github.com/opengrep/opengrep) - 🔎 Static code analysis engine to find security issues in code.
-- [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [BinaryAnalysisPlatform/bap](https://github.com/BinaryAnalysisPlatform/bap) - Binary Analysis Platform
 
 ## Objective-C 
@@ -3415,7 +3416,7 @@
 - [sharkdp/binocle](https://github.com/sharkdp/binocle) - a graphical tool to visualize binary data
 - [sharkdp/vivid](https://github.com/sharkdp/vivid) - A themeable LS_COLORS generator with a rich filetype datebase
 - [sharkdp/hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
-- [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core) - dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
+- [dbt-labs/dbt](https://github.com/dbt-labs/dbt) - dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
 - [icedland/iced](https://github.com/icedland/iced) - Blazing fast and correct x86/x64 disassembler, assembler, decoder, encoder for Rust, .NET, Java, Python, Lua
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [svix/svix-webhooks](https://github.com/svix/svix-webhooks) - The open source and enterprise-ready webhooks service 🦀
