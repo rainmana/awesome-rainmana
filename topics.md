@@ -760,7 +760,7 @@
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) - Open-Source Unified Vulnerability Management, DevSecOps & ASPM
 - [nsacyber/WALKOFF](https://github.com/nsacyber/WALKOFF) - A flexible, easy to use, automation framework allowing users to integrate their capabilities and devices to cut through the repetitive, tedious tasks slowing them down. #nsacyber
 - [PostHog/posthog](https://github.com/PostHog/posthog) - :hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – c
-- [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core) - dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
+- [dbt-labs/dbt](https://github.com/dbt-labs/dbt) - dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
 - [tirthajyoti/Web-Database-Analytics](https://github.com/tirthajyoti/Web-Database-Analytics) - Web scrapping and related analytics using Python tools
 
 ## android 
@@ -3876,6 +3876,7 @@
 
 ## iot 
 
+- [openlgtv/epk2extract](https://github.com/openlgtv/epk2extract) - Extraction tool for LG, Hisense, Sharp, Philips/TPV, Thompson and similar TVs/Embedded Devices
 - [jakejarvis/awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries) - 🔍 A collection of interesting, funny, and depressing search queries to plug into shodan.io 👩‍💻
 - [therealsaumil/emux](https://github.com/therealsaumil/emux) - EMUX Firmware Emulation Framework (formerly ARMX)
 - [platformio/platformio-vscode-ide](https://github.com/platformio/platformio-vscode-ide) - PlatformIO IDE for VSCode: The next generation integrated development environment for IoT
@@ -5771,7 +5772,7 @@
 - [leftstick/generator-electron-naive](https://github.com/leftstick/generator-electron-naive) - Create desktop app for a website in one minute
 - [abulka/generator-electron-flask](https://github.com/abulka/generator-electron-flask) - Yoeman project generator to create an Electron app running a Flask server inside itself. Deployable via PyInstaller and Electron Forge packager.
 - [rainmana/hackyfeed](https://github.com/rainmana/hackyfeed) - cybersecurity and ethical pentesting GitHub repo and tools aggregator :D https://rainmana.github.io/hackyfeed/
-- [docsydev/docsy](https://github.com/docsydev/docsy) - Hugo theme for open source documentation
+- [docsy/docsy](https://github.com/docsy/docsy) - Hugo theme for open source documentation
 - [danapixels/digio-theme](https://github.com/danapixels/digio-theme) - A pixel, ASCII, and retro Hugo theme.
 - [github/rest-api-description](https://github.com/github/rest-api-description) - An OpenAPI description for GitHub's REST API
 - [georgezhao2010/apple_airplayer](https://github.com/georgezhao2010/apple_airplayer) - Make your AirPlay devices as TTS speakers
