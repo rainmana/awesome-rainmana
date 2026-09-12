@@ -674,7 +674,7 @@
 - [agentjido/jido_ai](https://github.com/agentjido/jido_ai) - AI integration layer for Jido agents with LLM orchestration and reasoning strategies.
 - [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
 - [openai/symphony](https://github.com/openai/symphony) - Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.
-- [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
+- [firezone/firezone](https://github.com/firezone/firezone) - Blazing-fast remote access
 
 ## Emacs Lisp 
 
@@ -1223,7 +1223,6 @@
 - [thmsbfft/electron-wrap](https://github.com/thmsbfft/electron-wrap) - Package any local/static website folder into a desktop application (electron/macOS).
 - [Coding-Solo/godot-mcp](https://github.com/Coding-Solo/godot-mcp) - MCP server for interfacing with Godot game engine. Provides tools for launching the editor, running projects, and capturing debug output.
 - [rushhiii/bashfolio](https://github.com/rushhiii/bashfolio) - N Interactive terminal-style portfolio website with authentic CLI commands, multiple themes, and realistic typing animations.
-- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [atiilla/gitrecon](https://github.com/atiilla/gitrecon) - This tool uses the GitHub API to scan repositories owned by a user for email addresses and associated names. It provides options to scan specific repositories and exclude forked repositories. Addition
 - [reZach/secure-electron-template](https://github.com/reZach/secure-electron-template) - The best way to build Electron apps with security in mind.
 - [leftstick/generator-electron-naive](https://github.com/leftstick/generator-electron-naive) - Create desktop app for a website in one minute
@@ -1855,7 +1854,6 @@
 - [danielmiessler/Telos](https://github.com/danielmiessler/Telos) - Telos is an open-sourced framework for creating Deep Context about things that matter to humans.
 - [Corcules/KMlink](https://github.com/Corcules/KMlink) - Streamdeck plugin to drive Keyboard Maestro
 - [mishmanners/stream-deck-template](https://github.com/mishmanners/stream-deck-template) - Template for the Elgato Stream Deck's standby screen/screensaver.
-- [airscripts/awesome-steam-deck](https://github.com/airscripts/awesome-steam-deck) - A curated list of awesome Steam Deck software, resources and more.
 - [wilco42/awesome-steamdeck](https://github.com/wilco42/awesome-steamdeck) - A collection of awesome things regarding Valve's Steam Deck
 - [codepo8/web-cheatcodes](https://github.com/codepo8/web-cheatcodes) - Demo sites to explain non-developer how they can use browser devtools to make the web less annoying.
 - [ChromeDevTools/awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools) - Awesome tooling and resources in the Chrome DevTools & DevTools Protocol ecosystem
@@ -2131,6 +2129,7 @@
 
 ## Python 
 
+- [AtlasGondal/audiopsy](https://github.com/AtlasGondal/audiopsy) - Audiopsy is a lightweight cli tool designed to analyze audio files. It helps extract essential details like duration, channels, frame rate, and waveforms of an audio file.
 - [ndif-team/nnsight](https://github.com/ndif-team/nnsight) - The nnsight package enables interpreting and manipulating the internals of deep learned models.
 - [timpara/opencode-academic-research](https://github.com/timpara/opencode-academic-research) - OpenCode port of academic-research-skills: 4 skills, 13 slash commands, 38-agent pipeline for academic research, writing, peer review, and revision
 - [federicodeponte/opendraft](https://github.com/federicodeponte/opendraft) - Free & open-source AI research-paper writer: 19 agents draft 20k-word academic papers in ~10 min with citations verified against CrossRef/OpenAlex/Semantic Scholar. Export PDF/Word/LaTeX. Hosted at op
@@ -2264,7 +2263,7 @@
 - [Kiln-AI/Kiln](https://github.com/Kiln-AI/Kiln) - Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation, dataset management, MCP, and more.
 - [google/adk-python](https://github.com/google/adk-python) - An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading document agent and OCR platform
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the document processing platform for AI
 - [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
 - [kaushikb11/awesome-llm-agents](https://github.com/kaushikb11/awesome-llm-agents) - A curated list of awesome LLM agents frameworks.
 - [seemoo-lab/opendrop](https://github.com/seemoo-lab/opendrop) - An open Apple AirDrop implementation written in Python
@@ -3712,6 +3711,7 @@
 - [opensheetmusicdisplay/opensheetmusicdisplay](https://github.com/opensheetmusicdisplay/opensheetmusicdisplay) - OpenSheetMusicDisplay renders sheet music in MusicXML format in browsers and headless with NodeJS. Based on VexFlow, OSMD is brought to you by PhonicScore.com.
 - [andreasbm/readme](https://github.com/andreasbm/readme) - Automatically generate a beautiful best-practice README file based on the contents of your repository
 - [wrsmith108/linear-claude-skill](https://github.com/wrsmith108/linear-claude-skill) - Agent skill for managing Linear issues, projects, and teams. MCP tools, SDK automation, GraphQL API patterns.
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [warengonzaga/tinyclaw](https://github.com/warengonzaga/tinyclaw) - The original Tiny Claw as your personal autonomous AI companion. 🐜
 - [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
@@ -3829,7 +3829,7 @@
 - [petiky/mcp-manager](https://github.com/petiky/mcp-manager) - This is a visual client tool used to manage MCP (Model Context Protocol). With this tool, you can easily manage and operate the MCP environment without manually performing complex command-line operati
 - [mcp-router/mcp-router](https://github.com/mcp-router/mcp-router) - A Unified MCP Server Management App (MCP Manager).
 - [zcaceres/easy-mcp](https://github.com/zcaceres/easy-mcp) - Absurdly easy Model Context Protocol Servers in Typescript
-- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
+- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.
 - [firecrawl/llmstxt-generator](https://github.com/firecrawl/llmstxt-generator) - 🔥 Generate llms.txt and llms-full.txt files for any website!
 - [nickscamara/open-deep-research](https://github.com/nickscamara/open-deep-research) - An open source deep research clone. AI Agent that reasons large amounts of web data extracted with Firecrawl
 - [supermemoryai/apple-mcp](https://github.com/supermemoryai/apple-mcp) - Collection of apple-native tools for the model context protocol.
@@ -3872,6 +3872,7 @@
 - [bitfocus/companion](https://github.com/bitfocus/companion) - Bitfocus Companion enables the Elgato Stream Deck and other controllers to be a professional shotbox surface for an increasing amount of different presentation switchers, video playback software and b
 - [XeroxDev/YTMD-StreamDeck](https://github.com/XeroxDev/YTMD-StreamDeck) - This Stream Deck Plugin allows you to control the YouTube Music Desktop App (https://github.com/ytmdesktop/ytmdesktop)
 - [XeroxDev/Stream-Deck-TS-SDK](https://github.com/XeroxDev/Stream-Deck-TS-SDK) - This SDK will help you create easy stream deck plugins
+- [airscripts/awesome-steam-deck](https://github.com/airscripts/awesome-steam-deck) - A curated list of awesome Steam Deck software, resources and more.
 - [sebinside/StreamAwesome](https://github.com/sebinside/StreamAwesome) - Stream Awesome - The Stream Deck Icon Generator using Font Awesome
 - [niklashigi/apk-mitm](https://github.com/niklashigi/apk-mitm) - 🤖 A CLI application that automatically prepares Android APK files for HTTPS inspection
 - [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK For Browser Agents
@@ -3893,7 +3894,7 @@
 - [devlikeapro/n8n-openapi-node](https://github.com/devlikeapro/n8n-openapi-node) - Turn Your OpenAPI (Swagger) spec into a n8n node!
 - [adileo/squirreldisk](https://github.com/adileo/squirreldisk) - Beautiful, Cross-Platform and Super Fast Disk Usage Analysis Tool - Built With Rust 🦀
 - [espressif/vscode-esp-idf-extension](https://github.com/espressif/vscode-esp-idf-extension) - Visual Studio Code extension for ESP-IDF projects
-- [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
+- [reactive-resume/app](https://github.com/reactive-resume/app) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [ItsRiprod/DeskThing](https://github.com/ItsRiprod/DeskThing) - Desk Thing: The Discord Thing, Trello Thing, The Weather Thing, The Macro Thing, Just not The Car Thing anymore
 - [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.
 - [promptslab/Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) - This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc
