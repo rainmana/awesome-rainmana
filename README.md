@@ -3659,6 +3659,7 @@
 - [viksit/selvedge](https://github.com/viksit/selvedge) - Weaving prompts and code into structured, resilient patterns that won't unravel under pressure.
 - [cadence-workflow/cadence-web](https://github.com/cadence-workflow/cadence-web) - Web UI for visualizing workflows on Cadence
 - [andremichelle/openDAW](https://github.com/andremichelle/openDAW) - openDAW is a next-generation web-based Digital Audio Workstation (DAW)
+- [Daivageralda/temp-mail-generator](https://github.com/Daivageralda/temp-mail-generator) - Open-source bulk temp mail generator — 4 providers, real-time inbox monitoring, custom domain via Cloudflare Workers. No sign-up required.
 - [a16z-infra/ai-town](https://github.com/a16z-infra/ai-town) - A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [crafter-station/petdex](https://github.com/crafter-station/petdex) - A public gallery of animated pets for Codex, Claude Code, DeepSeek Harness, Hermes, OpenCode, Gemini CLI, and more.
