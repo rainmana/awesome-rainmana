@@ -1288,7 +1288,6 @@
 - [sitexw/BlockAdBlock](https://github.com/sitexw/BlockAdBlock) - Allows you to detect the extension AdBlock (and other)
 - [wmcmurray/just-detect-adblock](https://github.com/wmcmurray/just-detect-adblock) - It's FuckAdBlock with a minimalist API.
 - [poloclub/transformer-explainer](https://github.com/poloclub/transformer-explainer) - Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization
-- [theotherp/nzbhydra2](https://github.com/theotherp/nzbhydra2) - Usenet meta search
 - [malikashish8/semgrep-ui](https://github.com/malikashish8/semgrep-ui) - An app to help triage a CLI semgrep scan
 - [aandrew-me/ytDownloader](https://github.com/aandrew-me/ytDownloader) - Desktop app to download audio/video from hundreds of sites
 - [junfanz1/Cursor-FullStack-AI-App](https://github.com/junfanz1/Cursor-FullStack-AI-App) - Build E2E Micro SaaS AI application, takes in Github urls, generate json reports with AI powered insights and repo stats
@@ -3794,6 +3793,7 @@
 - [punkpeye/mcp-proxy](https://github.com/punkpeye/mcp-proxy) - A TypeScript streamable HTTP and SSE proxy for MCP servers that use stdio transport.
 - [mitre-attack/attack-navigator](https://github.com/mitre-attack/attack-navigator) - Web app that provides basic navigation and annotation of ATT&CK matrices
 - [basetool-ai/basetool](https://github.com/basetool-ai/basetool) - Open-source internal tool framework. 💪  Empower your team and collaborators to view and manage the data you already own in a nice easy-to-use protected tool. Basetool helps you have a better handle on
+- [theotherp/nzbhydra2](https://github.com/theotherp/nzbhydra2) - Usenet meta search
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [outerbase/studio-desktop](https://github.com/outerbase/studio-desktop) - Outerbase Studio Desktop is a lightweight Electron wrapper for the Outerbase Studio web version.
 - [outerbase/studio](https://github.com/outerbase/studio) - A lightweight Database GUI in your browser. It supports connecting to Postgres, MySQL, and SQLite.
