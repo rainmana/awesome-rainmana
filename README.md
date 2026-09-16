@@ -427,6 +427,7 @@
 
 ## C++ 
 
+- [livegrep/livegrep](https://github.com/livegrep/livegrep) - Interactively grep source code. Source for http://livegrep.com/
 - [seenaburns/dex-ui](https://github.com/seenaburns/dex-ui) - A science fiction desktop running on Linux. Awesome.
 - [henk717/KoboldAI](https://github.com/henk717/KoboldAI) - KoboldAI is generative AI software optimized for fictional use, but capable of much more!
 - [lmco/duckdb](https://github.com/lmco/duckdb) - DuckDB is an analytical in-process SQL database management system
