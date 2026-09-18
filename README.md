@@ -1928,7 +1928,6 @@
 - [seeschwein/e75lifeline](https://github.com/seeschwein/e75lifeline) - Nokia E75 S60v3 fp2 support
 - [Llixuma/Nokia-6300-4G-root-2024](https://github.com/Llixuma/Nokia-6300-4G-root-2024) - this is a manual arch linux approach to getting root on the Nokia 6300 4G
 - [BlackVS/ESP32-reversing](https://github.com/BlackVS/ESP32-reversing) - A curated list of ESP32 related reversing resources
-- [bendlang/bend](https://github.com/bendlang/bend) - Bend 2: a fast language that blocks AI mistakes via proof. Coming soon.
 - [ret42/RE-Thing](https://github.com/ret42/RE-Thing) - Reverse Engineering Tools (deobf, decompiler etc..)
 - [nasa/autodoc](https://github.com/nasa/autodoc) - Create Microsoft Documents automatically using Text and Template files
 - [nasa/prog_models](https://github.com/nasa/prog_models) - The NASA Prognostic Model Package is a Python framework focused on defining and building models for prognostics (computation of remaining useful life) of engineering systems, and provides a set of pro
@@ -2457,7 +2456,6 @@
 - [hak5/wifipineapplepager-payloads](https://github.com/hak5/wifipineapplepager-payloads) - The Official WiFi Pineapple Pager Payload Repository
 - [dwave-examples/mutual-information-feature-selection](https://github.com/dwave-examples/mutual-information-feature-selection) - Use mutual information to select features in a Titanic data set
 - [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui) - MagenticLite is an experimental agent that works across the browser and local file system
-- [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) - AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
 - [open-mmlab/Amphion](https://github.com/open-mmlab/Amphion) - Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, 
 - [YatingMusic/remi](https://github.com/YatingMusic/remi) - "Pop Music Transformer: Beat-based Modeling and Generation of Expressive Pop Piano Compositions", ACM Multimedia 2020
 - [ivcylc/OpenMusic](https://github.com/ivcylc/OpenMusic) - OpenMusic: SOTA Text-to-music (TTM) Generation
@@ -3774,6 +3772,7 @@
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - Mastra is the modern TypeScript framework for AI-powered applications and agents.
 - [AI-QL/tuui](https://github.com/AI-QL/tuui) - A desktop MCP client designed as a tool unitary utility integration, accelerating AI adoption through the Model Context Protocol (MCP) and enabling cross-vendor LLM API orchestration.
 - [agno-agi/agent-ui](https://github.com/agno-agi/agent-ui) - A modern chat interface for AI agents built with Next.js, Tailwind CSS, and TypeScript.
+- [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) - AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
 - [JNKKKK/pianochord.io](https://github.com/JNKKKK/pianochord.io) - A pure frontend Web Application for people to browse through a large collection of piano chords
 - [tonaljs/tonal](https://github.com/tonaljs/tonal) - A music theory library for Javascript
 - [ZaneH/piano-trainer](https://github.com/ZaneH/piano-trainer) - 🎹 Memorize piano scales with ease! A piano practice program w/ MIDI support. Consider it an interactive reference manual
@@ -3791,7 +3790,7 @@
 - [wong2/litemcp](https://github.com/wong2/litemcp) - A TypeScript framework for building MCP servers elegantly
 - [supercorp-ai/supergateway](https://github.com/supercorp-ai/supergateway) - Run MCP stdio servers over SSE and SSE over stdio. AI gateway.
 - [tambo-ai/tambo](https://github.com/tambo-ai/tambo) - Generative UI SDK for React
-- [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
+- [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - The multiplayer personal assistant for work
 - [punkpeye/mcp-proxy](https://github.com/punkpeye/mcp-proxy) - A TypeScript streamable HTTP and SSE proxy for MCP servers that use stdio transport.
 - [mitre-attack/attack-navigator](https://github.com/mitre-attack/attack-navigator) - Web app that provides basic navigation and annotation of ATT&CK matrices
 - [basetool-ai/basetool](https://github.com/basetool-ai/basetool) - Open-source internal tool framework. 💪  Empower your team and collaborators to view and manage the data you already own in a nice easy-to-use protected tool. Basetool helps you have a better handle on
@@ -3923,9 +3922,11 @@
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [corellium/vscode-extension](https://github.com/corellium/vscode-extension) - Visual Studio Code Extension for Corellium
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
+- [bendlang/bend](https://github.com/bendlang/bend) - Bend 2: a fast language that blocks AI mistakes via proof. Install: curl -fsSL https://bend-lang.com/install.sh | sh
 - [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - Your definitive source for dashboard icons.
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
+- [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [nowsecure/r2frida](https://github.com/nowsecure/r2frida) - Radare2 and Frida better together.
 - [chrismaltby/gb-studio](https://github.com/chrismaltby/gb-studio) - A quick and easy to use drag and drop retro game creator for your favourite handheld video game system
 - [will-stone/browserosaurus](https://github.com/will-stone/browserosaurus) - 🦖 The browser prompter for macOS
