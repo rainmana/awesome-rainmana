@@ -1160,7 +1160,7 @@
 - [Fuzion24/JustTrustMe](https://github.com/Fuzion24/JustTrustMe) - An xposed module that disables SSL certificate checking for the purposes of auditing an app with cert pinning
 - [ac-pm/Inspeckage](https://github.com/ac-pm/Inspeckage) - Android Package Inspector - dynamic analysis with api hooks, start unexported activities and more. (Xposed Module)
 - [adamkewley/jobson](https://github.com/adamkewley/jobson) - A platform for transforming command-line applications into a job service.
-- [bastillion-io/Bastillion](https://github.com/bastillion-io/Bastillion) - Bastillion gives you a clean, browser-based way to manage SSH access across all your systems—like a bastion host with a friendly dashboard.
+- [Loophole-LLC/Bastillion](https://github.com/Loophole-LLC/Bastillion) - Bastillion gives you a clean, browser-based way to manage SSH access across all your systems—like a bastion host with a friendly dashboard.
 - [cfig/Android_boot_image_editor](https://github.com/cfig/Android_boot_image_editor) - Parsing and re-packing Android boot.img/vbmeta.img/payload.bin, supporting Android 16
 - [ViRb3/TrustMeAlready](https://github.com/ViRb3/TrustMeAlready) - 🔓 Disable SSL verification and pinning on Android, system-wide
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
@@ -2480,7 +2480,7 @@
 - [hmillerbakewell/musical-scales](https://github.com/hmillerbakewell/musical-scales) - Retrieve a scale based on a given mode and starting note.
 - [bspaans/python-mingus](https://github.com/bspaans/python-mingus) - Mingus is a music package for Python
 - [MarkCWirt/MIDIUtil](https://github.com/MarkCWirt/MIDIUtil) - A pure Python library for creating multi-track MIDI files
-- [ales-tsurko/athenaCL](https://github.com/ales-tsurko/athenaCL) - An unofficial fork of athenaCL algorithmic composition system
+- [ales-tsurko/athenaCL](https://github.com/ales-tsurko/athenaCL) - A fork of athenaCL, an algorithmic composition system
 - [Parisson/TimeSide](https://github.com/Parisson/TimeSide) - scalable audio processing framework and server written in Python
 - [aiXander/Realtime_PyAudio_FFT](https://github.com/aiXander/Realtime_PyAudio_FFT) - Realtime audio analysis in Python to extract audio features from streaming audio and send them over OSC to any client app.
 - [belangeo/pyo](https://github.com/belangeo/pyo) - Python DSP module
