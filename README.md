@@ -59,6 +59,7 @@
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
 - [Objective-C++](#objective-c++)
+- [Odin](#odin)
 - [Others](#others)
 - [PHP](#php)
 - [Pascal](#pascal)
@@ -209,7 +210,6 @@
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [lewisxhe/SensorLib](https://github.com/lewisxhe/SensorLib) - Commonly used I2C , SPI device multi-platform libraries
 - [wh1te4ever/TrollDecryptor](https://github.com/wh1te4ever/TrollDecryptor) - Decrypt iOS apps for TrollStore
-- [Xinyuan-LilyGO/LilyGoLib](https://github.com/Xinyuan-LilyGO/LilyGoLib) - T-Watch Ultra &  T-LoRa-Pager & T-Watch-S3 & T-Watch-S3-Plus
 - [OpenIPC/smolrtsp](https://github.com/OpenIPC/smolrtsp) - A lightweight real-time streaming library for IP cameras
 - [jcmvbkbc/linux-xtensa](https://github.com/jcmvbkbc/linux-xtensa) - Linux port for xtensa architecture. None of these branches are stable.
 - [mikeryan/ice9-bluetooth-sniffer](https://github.com/mikeryan/ice9-bluetooth-sniffer) - Wireshark-compatible all-channel BLE sniffer for bladeRF, with wideband Bluetooth sniffing for HackRF and USRP
@@ -491,6 +491,7 @@
 - [ch4ncellor/EAC-Reversal](https://github.com/ch4ncellor/EAC-Reversal) - 09/2021 reversal of EasyAntiCheat driver
 - [fmtlib/fmt](https://github.com/fmtlib/fmt) - A modern formatting library
 - [uazo/cromite](https://github.com/uazo/cromite) - Cromite a Bromite fork with ad blocking and privacy enhancements; take back your browser!
+- [Xinyuan-LilyGO/LilyGoLib](https://github.com/Xinyuan-LilyGO/LilyGoLib) - T-Deck & T-Watch Ultra &  T-LoRa-Pager & T-Watch-S3 & T-Watch-S3-Plus
 - [paulhamsh/Waveshare-ESP32-S3-LCD-7-LVGL](https://github.com/paulhamsh/Waveshare-ESP32-S3-LCD-7-LVGL) - Waveshare ESP32 S3 LCD 7 LVGL
 - [ytsutano/axmldec](https://github.com/ytsutano/axmldec) - Stand-alone binary AndroidManifest.xml decoder
 - [T-vK/ESP32-BLE-Mouse](https://github.com/T-vK/ESP32-BLE-Mouse) - Bluetooth LE Mouse library for the ESP32 (Arduino IDE compatible)
@@ -1640,6 +1641,12 @@
 ## Objective-C++ 
 
 - [BishopFox/bfinject](https://github.com/BishopFox/bfinject) - Dylib injection for iOS 11.0 - 11.1.2 with LiberiOS and Electra jailbreaks
+
+## Odin 
+
+- [jakubtomsu/awesome-odin](https://github.com/jakubtomsu/awesome-odin) - A collection of Odin libraries, bindings, software and resources
+- [rainmana/spall-web](https://github.com/rainmana/spall-web) - Simple, Fast, Portable Profiling
+- [Skytrias/todool](https://github.com/Skytrias/todool) - Powerful Todo Editor
 
 ## Others 
 
