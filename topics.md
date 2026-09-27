@@ -4927,6 +4927,7 @@
 
 ## minecraft 
 
+- [ThallesP/railway-minecraft-template](https://github.com/ThallesP/railway-minecraft-template) - Railway template: Java Minecraft server (Paper, itzg image) with a web dashboard: console, file browser, Railway OAuth login.
 - [tryashtar/nbt-studio](https://github.com/tryashtar/nbt-studio) - An up-to-date NBT viewer and editor with lots of new features
 - [meyfa/CobolCraft](https://github.com/meyfa/CobolCraft) - A Minecraft server written in COBOL
 - [minecraft-dev/MinecraftDev](https://github.com/minecraft-dev/MinecraftDev) - Plugin for IntelliJ IDEA that gives special support for Minecraft modding projects.
@@ -5727,7 +5728,6 @@
 - [shellphish/patcherex](https://github.com/shellphish/patcherex) - please go to angr/patcherex instead of this!
 - [angr/rex](https://github.com/angr/rex) - Shellphish's automated exploitation engine, originally created for the Cyber Grand Challenge.
 - [BoringBoredom/UEFI-Editor](https://github.com/BoringBoredom/UEFI-Editor) - Aptio V UEFI Editor: an alternative to AMIBCP
-- [ThallesP/railway-minecraft-template](https://github.com/ThallesP/railway-minecraft-template) - 
 - [xandergos/terrain-diffusion-mc](https://github.com/xandergos/terrain-diffusion-mc) - Procedural terrain generation with diffusion models (in Minecraft)
 - [libfuse/sshfs](https://github.com/libfuse/sshfs) - A network filesystem client to connect to SSH servers
 - [macfuse/macfuse](https://github.com/macfuse/macfuse) - macFUSE umbrella repository
