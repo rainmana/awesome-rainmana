@@ -2803,7 +2803,7 @@
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI
 - [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
 - [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) - GUI for a Vocal Remover that uses Deep Neural Networks.
-- [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+- [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) - PraisonAI 🦞 — Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous self-improving agents that research, plan, code, and execute tasks. Deployed in 5 lines of code with buil
 - [alexplaskett/QNXSecurity](https://github.com/alexplaskett/QNXSecurity) - QNX and BB10 Security Tools
@@ -3698,7 +3698,7 @@
 - [BlockSecCA/joern-mcp](https://github.com/BlockSecCA/joern-mcp) - MCP server wrapping Joern for AI-driven code security analysis
 - [webclipper/web-clipper](https://github.com/webclipper/web-clipper) - For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
 - [BoringBoredom/UEFI-Editor](https://github.com/BoringBoredom/UEFI-Editor) - Aptio V UEFI Editor: an alternative to AMIBCP
-- [ThallesP/railway-minecraft-template](https://github.com/ThallesP/railway-minecraft-template) - 
+- [ThallesP/railway-minecraft-template](https://github.com/ThallesP/railway-minecraft-template) - Railway template: Java Minecraft server (Paper, itzg image) with a web dashboard: console, file browser, Railway OAuth login.
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [cweijan/vscode-office](https://github.com/cweijan/vscode-office) - Let VSCode support previewing PDF, Excel, Word and other formats, and add markdown WYSIWYG editor.
 - [lukehorvat/super-oscillator](https://github.com/lukehorvat/super-oscillator) - Open-source 3D synthesizer for the Web.
