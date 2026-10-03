@@ -402,7 +402,7 @@
 - [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat) - 🐬DeepChat - A smart assistant that connects powerful AI to your personal world
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [0xNyk/awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent) - Independent directory of useful skills, plugins, memory providers, tools, surfaces, and guides for Nous Research's open-source Hermes Agent.
-- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 168 ready-to-use validated skills plus 100+ scientific databases covering biolog
+- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biolog
 - [trailofbits/skills](https://github.com/trailofbits/skills) - Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
@@ -412,7 +412,7 @@
 
 ## agents 
 
-- [RyanAlberts/best-of-Agent-Harnesses](https://github.com/RyanAlberts/best-of-Agent-Harnesses) - 🏆 Ranked list of 167 AI agent harnesses, plus copy-paste templates (AGENTS.md, safe Claude Code settings, a minimal harness) and step-by-step playbooks. MCP server, llms.txt & JSON. Rescored weekly.
+- [RyanAlberts/best-of-Agent-Harnesses](https://github.com/RyanAlberts/best-of-Agent-Harnesses) - 🏆 Ranked list of 167 AI agent harnesses, plus templates, playbooks, MCP, and learning resources. Rescored weekly.
 - [M4n5ter/rigs](https://github.com/M4n5ter/rigs) - Rigs is an Agent orchestration framework based on Rig
 - [a-agmon/rs-graph-llm](https://github.com/a-agmon/rs-graph-llm) - High-performance framework for building interactive workflow systems in Rust. Designed for complex workflows and multi-agent systems
 - [CyberStrikeus/CyberStrike](https://github.com/CyberStrikeus/CyberStrike) - Open-source AI-powered offensive security harness for automated penetration testing.
@@ -676,7 +676,7 @@
 
 - [eli-labz/Third-Eye](https://github.com/eli-labz/Third-Eye) - A production-grade OSINT platform that provides situational awareness across multiple intelligence domains.
 - [Twigpine/openclaude](https://github.com/Twigpine/openclaude) - runs anywhere. uses anything
-- [RyanAlberts/best-of-Agent-Harnesses](https://github.com/RyanAlberts/best-of-Agent-Harnesses) - 🏆 Ranked list of 167 AI agent harnesses, plus copy-paste templates (AGENTS.md, safe Claude Code settings, a minimal harness) and step-by-step playbooks. MCP server, llms.txt & JSON. Rescored weekly.
+- [RyanAlberts/best-of-Agent-Harnesses](https://github.com/RyanAlberts/best-of-Agent-Harnesses) - 🏆 Ranked list of 167 AI agent harnesses, plus templates, playbooks, MCP, and learning resources. Rescored weekly.
 - [TeleAI-UAGI/Awesome-Agent-Memory](https://github.com/TeleAI-UAGI/Awesome-Agent-Memory) - Curated systems, benchmarks, and papers etc. on memory for LLMs/MLLMs --- long-term context, retrieval, and reasoning.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [stakpak/agent](https://github.com/stakpak/agent) - Ship your code, on autopilot. An open source agent that lives on your machines 24/7 and keeps your apps running. 🦀
@@ -693,9 +693,9 @@
 
 ## ai-agents 
 
-- [federicodeponte/opendraft](https://github.com/federicodeponte/opendraft) - Free & open-source AI research-paper writer: 19 agents draft 20k-word academic papers in ~10 min with citations verified against CrossRef/OpenAlex/Semantic Scholar. Export PDF/Word/LaTeX. Hosted at op
+- [federicodeponte/opendraft](https://github.com/federicodeponte/opendraft) - Write research paper and literature review drafts with an open-source Python engine that checks citation DOIs against scholarly databases. Export PDF, Word, or LaTeX.
 - [juanmanueldaza/n3rv](https://github.com/juanmanueldaza/n3rv) - Engineering infrastructure for opencode AI agents: memory, skills, subagent dispatch.
-- [RyanAlberts/best-of-Agent-Harnesses](https://github.com/RyanAlberts/best-of-Agent-Harnesses) - 🏆 Ranked list of 167 AI agent harnesses, plus copy-paste templates (AGENTS.md, safe Claude Code settings, a minimal harness) and step-by-step playbooks. MCP server, llms.txt & JSON. Rescored weekly.
+- [RyanAlberts/best-of-Agent-Harnesses](https://github.com/RyanAlberts/best-of-Agent-Harnesses) - 🏆 Ranked list of 167 AI agent harnesses, plus templates, playbooks, MCP, and learning resources. Rescored weekly.
 - [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) - A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
 - [google-antigravity/antigravity-sdk-python](https://github.com/google-antigravity/antigravity-sdk-python) - A Python library for building AI agents that leverage the full power of Google Antigravity.
@@ -1206,7 +1206,7 @@
 
 ## awesome-list 
 
-- [RyanAlberts/best-of-Agent-Harnesses](https://github.com/RyanAlberts/best-of-Agent-Harnesses) - 🏆 Ranked list of 167 AI agent harnesses, plus copy-paste templates (AGENTS.md, safe Claude Code settings, a minimal harness) and step-by-step playbooks. MCP server, llms.txt & JSON. Rescored weekly.
+- [RyanAlberts/best-of-Agent-Harnesses](https://github.com/RyanAlberts/best-of-Agent-Harnesses) - 🏆 Ranked list of 167 AI agent harnesses, plus templates, playbooks, MCP, and learning resources. Rescored weekly.
 - [alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems) - 💅🏻 ⚒ A collection of awesome design systems
 - [TeleAI-UAGI/Awesome-Agent-Memory](https://github.com/TeleAI-UAGI/Awesome-Agent-Memory) - Curated systems, benchmarks, and papers etc. on memory for LLMs/MLLMs --- long-term context, retrieval, and reasoning.
 - [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) - A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.
@@ -1454,7 +1454,7 @@
 
 ## bioinformatics 
 
-- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 168 ready-to-use validated skills plus 100+ scientific databases covering biolog
+- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biolog
 - [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
 - [Sarah-Hesham-2022/Unity-Protein-Visualization](https://github.com/Sarah-Hesham-2022/Unity-Protein-Visualization) - Protein Visualization using Unity and C# analysis on PDB Files.
 - [google/deepvariant](https://github.com/google/deepvariant) - DeepVariant is an analysis pipeline that uses a deep neural network to call genetic variants from next-generation DNA sequencing data.
@@ -1756,7 +1756,7 @@
 - [coder/claudecode.nvim](https://github.com/coder/claudecode.nvim) - 🧩 Claude Code Neovim IDE Extension
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [robertguss/claude-code-toolkit](https://github.com/robertguss/claude-code-toolkit) - A collection of custom skills that extend Claude's capabilities with specialized workflows, methods, and domain knowledge.
-- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 168 ready-to-use validated skills plus 100+ scientific databases covering biolog
+- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biolog
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [DareDev256/fcp-mcp-server](https://github.com/DareDev256/fcp-mcp-server) - MCP server for Final Cut Pro XML. Lets Claude read, edit and generate real timelines: cut detection, markers, roles, transcript-based editing. Published on PyPI as fcp-mcp-server.
 - [voideditor/void](https://github.com/voideditor/void) - 
@@ -1790,7 +1790,7 @@
 ## claude-code 
 
 - [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) - Agentic Coding for Builders who Ship
-- [RyanAlberts/best-of-Agent-Harnesses](https://github.com/RyanAlberts/best-of-Agent-Harnesses) - 🏆 Ranked list of 167 AI agent harnesses, plus copy-paste templates (AGENTS.md, safe Claude Code settings, a minimal harness) and step-by-step playbooks. MCP server, llms.txt & JSON. Rescored weekly.
+- [RyanAlberts/best-of-Agent-Harnesses](https://github.com/RyanAlberts/best-of-Agent-Harnesses) - 🏆 Ranked list of 167 AI agent harnesses, plus templates, playbooks, MCP, and learning resources. Rescored weekly.
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 - [vitali87/code-graph-rag](https://github.com/vitali87/code-graph-rag) - The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs
 - [yha9806/academic-writing-toolkit](https://github.com/yha9806/academic-writing-toolkit) - Local-first, evidence-controlled academic writing workflows for AI agents, with bounded revision, clean-room review, and release governance.
@@ -1839,7 +1839,7 @@
 - [wrsmith108/linear-claude-skill](https://github.com/wrsmith108/linear-claude-skill) - Agent skill for managing Linear issues, projects, and teams. MCP tools, SDK automation, GraphQL API patterns.
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [robertguss/claude-code-toolkit](https://github.com/robertguss/claude-code-toolkit) - A collection of custom skills that extend Claude's capabilities with specialized workflows, methods, and domain knowledge.
-- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 168 ready-to-use validated skills plus 100+ scientific databases covering biolog
+- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biolog
 - [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct
 - [ergrelet/windiff](https://github.com/ergrelet/windiff) - Tool that allows comparing symbol, type and syscall information of Microsoft Windows binaries across different versions of the OS, using a Web UI and/or LLMs.
 
@@ -2226,7 +2226,7 @@
 ## cybersecurity 
 
 - [CaviraOSS/Akashic](https://github.com/CaviraOSS/Akashic) - Akashic is an open-source Palantir alternative for connecting, exploring, and analyzing complex data. Fully self-hosted, privacy-first, and requiring no API keys.
-- [infobyte/faraday](https://github.com/infobyte/faraday) - Open Source Vulnerability Management Platform
+- [infobyte/faraday](https://github.com/infobyte/faraday) - Open-source and AI-powered cybersecurity tools for offensive security, vulnerability management, and autonomous pentesting. Built by hackers in Latin America, used worldwide.
 - [lmco/hoppr-cop](https://github.com/lmco/hoppr-cop) - Hoppr Cop is a cli and python library that generates high quality vulnerability information from a cyclone-dx Software Bill of Materials (SBOM) by aggregating data from multiple vulnerability database
 - [CyberStrikeus/CyberStrike](https://github.com/CyberStrikeus/CyberStrike) - Open-source AI-powered offensive security harness for automated penetration testing.
 - [BugTraceAI/BugTraceAI-CLI](https://github.com/BugTraceAI/BugTraceAI-CLI) - Autonomous AI-powered security scanner — multi-agent vulnerability detection, exploitation, and validation engine
@@ -2276,7 +2276,7 @@
 - [ntop/nDPI](https://github.com/ntop/nDPI) - Open Source Deep Packet Inspection Software Toolkit
 - [cisagov/RedEye](https://github.com/cisagov/RedEye) - RedEye is a visual analytic tool supporting Red & Blue Team operations
 - [noraj/miniss](https://github.com/noraj/miniss) - Displays a list of open listening sockets. It is a minimal alternative to ss or netstat.
-- [osintverse/Google-Dorks-Simplified](https://github.com/osintverse/Google-Dorks-Simplified) - Best Resource for learning Google Dorks
+- [OSINTVerseHQ/Google-Dorks-Simplified](https://github.com/OSINTVerseHQ/Google-Dorks-Simplified) - Best Resource for learning Google Dorks
 - [gsmith257-cyber/GraphCrawler](https://github.com/gsmith257-cyber/GraphCrawler) - GraphQL automated security testing toolkit
 - [noraj/haiti](https://github.com/noraj/haiti) - :key: Hash type identifier (CLI & lib)
 - [meirwah/awesome-incident-response](https://github.com/meirwah/awesome-incident-response) - A curated list of tools for incident response
@@ -2323,7 +2323,7 @@
 - [reflex-dev/xy](https://github.com/reflex-dev/xy) - Ultra-fast and customizable Python charts
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [TileDB-Inc/TileDB](https://github.com/TileDB-Inc/TileDB) - The Universal Storage Engine
-- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 168 ready-to-use validated skills plus 100+ scientific databases covering biolog
+- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biolog
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
@@ -2613,7 +2613,7 @@
 
 ## devops 
 
-- [infobyte/faraday](https://github.com/infobyte/faraday) - Open Source Vulnerability Management Platform
+- [infobyte/faraday](https://github.com/infobyte/faraday) - Open-source and AI-powered cybersecurity tools for offensive security, vulnerability management, and autonomous pentesting. Built by hackers in Latin America, used worldwide.
 - [archerysec/archerysec](https://github.com/archerysec/archerysec) - ASOC, ASPM, DevSecOps, Vulnerability Management Using ArcherySec.
 - [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge) - An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint with centralized discovery, guardrails and management. Optimizes Agent & Tool call
 - [rundeck/rundeck](https://github.com/rundeck/rundeck) - Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts
@@ -3371,7 +3371,7 @@
 - [smol-ai/GodMode](https://github.com/smol-ai/GodMode) - AI Chat Browser: Fast, Full webapp access to ChatGPT / Claude / Bard / Bing / Llama2! I use this 20 times a day.
 - [dsdanielpark/Bard-API](https://github.com/dsdanielpark/Bard-API) - The unofficial python package that returns response of Google Bard through cookie value.
 - [google/yapf](https://github.com/google/yapf) - A formatter for Python files
-- [osintverse/Google-Dorks-Simplified](https://github.com/osintverse/Google-Dorks-Simplified) - Best Resource for learning Google Dorks
+- [OSINTVerseHQ/Google-Dorks-Simplified](https://github.com/OSINTVerseHQ/Google-Dorks-Simplified) - Best Resource for learning Google Dorks
 - [google/vizier](https://github.com/google/vizier) - Python-based research interface for blackbox and hyperparameter optimization, based on the internal Google Vizier Service.
 - [mrousavy/react-native-google-nearby-messages](https://github.com/mrousavy/react-native-google-nearby-messages) - 📲 Communicate with nearby devices using Bluetooth, BLE, WiFi and near-ultrasonic audio. Broadcast and receive small payloads (like strings) using the easy-to-use React Native API!
 - [AngeloD2022/GoogleWiFiDesktop](https://github.com/AngeloD2022/GoogleWiFiDesktop) - A desktop client for Google WiFi routers. (MAINTENANCE HIBERNATION)
@@ -3506,7 +3506,7 @@
 - [pylyf/NetWorm](https://github.com/pylyf/NetWorm) - Python network worm that spreads on the local network and gives the attacker control of these machines.
 - [m0nad/Diamorphine](https://github.com/m0nad/Diamorphine) - LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x/6.x (x86/x86_64 and ARM64)
 - [Conso1eCowb0y/Deepminer](https://github.com/Conso1eCowb0y/Deepminer) - Deep web crawler and search engine
-- [osintverse/Google-Dorks-Simplified](https://github.com/osintverse/Google-Dorks-Simplified) - Best Resource for learning Google Dorks
+- [OSINTVerseHQ/Google-Dorks-Simplified](https://github.com/OSINTVerseHQ/Google-Dorks-Simplified) - Best Resource for learning Google Dorks
 - [hahwul/XSpear](https://github.com/hahwul/XSpear) - 🔱 Powerfull XSS Scanning and Parameter analysis tool&gem
 - [The-Viper-One/Pentest-Everything](https://github.com/The-Viper-One/Pentest-Everything) - A collection of CTF write-ups, pentesting topics, guides and notes. Notes compiled from multiple sources and my own lab research. Topics also support OSCP, Active Directory, CRTE, eJPT and eCPPT.
 - [anki-code/xonsh-cheatsheet](https://github.com/anki-code/xonsh-cheatsheet) - Cheat sheet for Xonsh shell with copy-pastable examples.
@@ -4385,8 +4385,8 @@
 ## llm 
 
 - [Mimir-AIP/Mimir-AIP](https://github.com/Mimir-AIP/Mimir-AIP) - MIMIR Artificial Intelligence Platform is a framework for ingesting and processing your data sources to AI models as well as generating outputs
-- [federicodeponte/opendraft](https://github.com/federicodeponte/opendraft) - Free & open-source AI research-paper writer: 19 agents draft 20k-word academic papers in ~10 min with citations verified against CrossRef/OpenAlex/Semantic Scholar. Export PDF/Word/LaTeX. Hosted at op
-- [RyanAlberts/best-of-Agent-Harnesses](https://github.com/RyanAlberts/best-of-Agent-Harnesses) - 🏆 Ranked list of 167 AI agent harnesses, plus copy-paste templates (AGENTS.md, safe Claude Code settings, a minimal harness) and step-by-step playbooks. MCP server, llms.txt & JSON. Rescored weekly.
+- [federicodeponte/opendraft](https://github.com/federicodeponte/opendraft) - Write research paper and literature review drafts with an open-source Python engine that checks citation DOIs against scholarly databases. Export PDF, Word, or LaTeX.
+- [RyanAlberts/best-of-Agent-Harnesses](https://github.com/RyanAlberts/best-of-Agent-Harnesses) - 🏆 Ranked list of 167 AI agent harnesses, plus templates, playbooks, MCP, and learning resources. Rescored weekly.
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 - [vitali87/code-graph-rag](https://github.com/vitali87/code-graph-rag) - The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs
 - [TeleAI-UAGI/Awesome-Agent-Memory](https://github.com/TeleAI-UAGI/Awesome-Agent-Memory) - Curated systems, benchmarks, and papers etc. on memory for LLMs/MLLMs --- long-term context, retrieval, and reasoning.
@@ -4394,6 +4394,7 @@
 - [a-agmon/rs-graph-llm](https://github.com/a-agmon/rs-graph-llm) - High-performance framework for building interactive workflow systems in Rust. Designed for complex workflows and multi-agent systems
 - [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern) - LLM Frontend for Power Users.
 - [jundot/omlx](https://github.com/jundot/omlx) - LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
+- [infobyte/faraday](https://github.com/infobyte/faraday) - Open-source and AI-powered cybersecurity tools for offensive security, vulnerability management, and autonomous pentesting. Built by hackers in Latin America, used worldwide.
 - [GH05TCREW/pentestagent](https://github.com/GH05TCREW/pentestagent) - PentestAgent is an AI agent framework for black-box security testing, supporting bug bounty, red-team, and penetration testing workflows.
 - [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with
 - [codexstar69/bug-hunter](https://github.com/codexstar69/bug-hunter) - Adversarial AI bug hunter with auto-fix skill for Claude Code, Cursor, Codex CLI, GitHub Copilot CLI, Kiro CLI, Opencode, Pi Coding Agent, and more. Multi-agent pipeline finds security vulnerabilities
@@ -4837,7 +4838,7 @@
 - [objectstack-ai/objectstack](https://github.com/objectstack-ai/objectstack) - Apps small enough for AI to hold whole. ObjectStack turns the whole app — data model, UI, workflows, permissions — into typed metadata: a complete CRM in under 150k tokens, one context window. Agents 
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 - [juanmanueldaza/n3rv](https://github.com/juanmanueldaza/n3rv) - Engineering infrastructure for opencode AI agents: memory, skills, subagent dispatch.
-- [RyanAlberts/best-of-Agent-Harnesses](https://github.com/RyanAlberts/best-of-Agent-Harnesses) - 🏆 Ranked list of 167 AI agent harnesses, plus copy-paste templates (AGENTS.md, safe Claude Code settings, a minimal harness) and step-by-step playbooks. MCP server, llms.txt & JSON. Rescored weekly.
+- [RyanAlberts/best-of-Agent-Harnesses](https://github.com/RyanAlberts/best-of-Agent-Harnesses) - 🏆 Ranked list of 167 AI agent harnesses, plus templates, playbooks, MCP, and learning resources. Rescored weekly.
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 - [vitali87/code-graph-rag](https://github.com/vitali87/code-graph-rag) - The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs
 - [theneoai/awesome-skills](https://github.com/theneoai/awesome-skills) - 🌟1000+ Expert AI Skills | CEO, Doctor, Engineer, Scientist & more | Transform AI into any professional | Powered by https://theneoai.github.io/skill-writer/
@@ -5382,7 +5383,7 @@
 
 - [Dev-next-gen/orodruin](https://github.com/Dev-next-gen/orodruin) - Orodruin — open-source intelligence platform. A self-hostable Palantir Gotham alternative: dozens of live global data sources on a 2D/3D map + actor graph, with an AI analyst that drives the UI.
 - [Leading-AI-IO/palantir-ontology-strategy](https://github.com/Leading-AI-IO/palantir-ontology-strategy) - A comprehensive guide to Palantir Foundry's Ontology strategy. / 世界最強のデータプラットフォーム「パランティア」の中核概念である『オントロジー』の戦略と実装を解き明かすOSS書籍プロジェクト。
-- [federicodeponte/opendraft](https://github.com/federicodeponte/opendraft) - Free & open-source AI research-paper writer: 19 agents draft 20k-word academic papers in ~10 min with citations verified against CrossRef/OpenAlex/Semantic Scholar. Export PDF/Word/LaTeX. Hosted at op
+- [federicodeponte/opendraft](https://github.com/federicodeponte/opendraft) - Write research paper and literature review drafts with an open-source Python engine that checks citation DOIs against scholarly databases. Export PDF, Word, or LaTeX.
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [Daivageralda/temp-mail-generator](https://github.com/Daivageralda/temp-mail-generator) - Open-source bulk temp mail generator — 4 providers, real-time inbox monitoring, custom domain via Cloudflare Workers. No sign-up required.
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
@@ -5557,7 +5558,7 @@
 - [hakluke/hakrawler](https://github.com/hakluke/hakrawler) - Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application
 - [jkctech/Flipper-Zero-Scripts](https://github.com/jkctech/Flipper-Zero-Scripts) - Collection of Flipper Zero scripts dumps and tools
 - [Conso1eCowb0y/Deepminer](https://github.com/Conso1eCowb0y/Deepminer) - Deep web crawler and search engine
-- [osintverse/Google-Dorks-Simplified](https://github.com/osintverse/Google-Dorks-Simplified) - Best Resource for learning Google Dorks
+- [OSINTVerseHQ/Google-Dorks-Simplified](https://github.com/OSINTVerseHQ/Google-Dorks-Simplified) - Best Resource for learning Google Dorks
 - [Escape-Technologies/graphinder](https://github.com/Escape-Technologies/graphinder) - 🕸️ Blazing fast GraphQL endpoints finder using subdomain enumeration, scripts analysis and bruteforce. 🕸️
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [martinvigo/email2phonenumber](https://github.com/martinvigo/email2phonenumber) - A OSINT tool to obtain a target's phone number just by having his email address
@@ -5621,7 +5622,7 @@
 - [krys64/OpenArcana](https://github.com/krys64/OpenArcana) - AI Dungeon MAster App - Solo/Multi
 - [Laszlobeer/-Dungeo_ai-otudated-](https://github.com/Laszlobeer/-Dungeo_ai-otudated-) - this is a dungeon ai run locally that use your llm
 - [henk717/KoboldAI](https://github.com/henk717/KoboldAI) - KoboldAI is generative AI software optimized for fictional use, but capable of much more!
-- [ProducerGuy/ThermalForge](https://github.com/ProducerGuy/ThermalForge) - Free, open-source fan control for Apple Silicon Macs (M1, M2, M3, M4, M5). Menu bar app + CLI. Alternative to Macs Fan Control, TG Pro, AlDente.
+- [ProducerGuy/ThermalForge](https://github.com/ProducerGuy/ThermalForge) - Free Apple fan control, open source, for Apple Silicon Macs (M1, M2, M3, M4, M5, M6): Mac mini, MacBook, MacBook Pro, Mac Studio, iMac. Menu bar app + CLI with live temps and Homebrew install. Alterna
 - [sboesen/deepseek-harness-desktop](https://github.com/sboesen/deepseek-harness-desktop) - Lightweight macOS Tauri wrapper for DeepSeek Harness
 - [daeken/FlatlineProxy](https://github.com/daeken/FlatlineProxy) - A proxy to allow OpenAI Codex to directly communicate with multiple providers simultaneously.
 - [LangConfig/langconfig](https://github.com/LangConfig/langconfig) - LangConfig is a open-source visual workflow builder designed to make AI agent development accessible to everyone. Build, test, and share LangChain and LangGraph agent workflows with an intuitive drag-
@@ -5797,7 +5798,7 @@
 - [Vector35/community-themes](https://github.com/Vector35/community-themes) - Community provided themes for the reverse engineering tool Binary Ninja
 - [idaholab/DISCOverflow](https://github.com/idaholab/DISCOverflow) - A framework to automate disassembly of binary files in to a graph database.
 - [agarcialeon/awesome-database](https://github.com/agarcialeon/awesome-database) - A curated list of amazingly awesome database libraries, resources.
-- [brimdata/super](https://github.com/brimdata/super) - An analytics database that puts JSON and relational tables on equal footing
+- [superdb/super](https://github.com/superdb/super) - An analytics database that puts JSON and relational tables on equal footing
 - [linkedin/databus](https://github.com/linkedin/databus) - Source-agnostic distributed change data capture system
 - [dominikhei/Local-Data-LakeHouse](https://github.com/dominikhei/Local-Data-LakeHouse) - Sample Data Lakehouse deployed in Docker containers using Apache Iceberg, Minio, Trino and a Hive Metastore. Can be used for local testing.
 - [nxyd/srecord](https://github.com/nxyd/srecord) - Motorola S-record for Visual Studio Code
@@ -7238,7 +7239,7 @@
 
 ## penetration-testing 
 
-- [infobyte/faraday](https://github.com/infobyte/faraday) - Open Source Vulnerability Management Platform
+- [infobyte/faraday](https://github.com/infobyte/faraday) - Open-source and AI-powered cybersecurity tools for offensive security, vulnerability management, and autonomous pentesting. Built by hackers in Latin America, used worldwide.
 - [dradis/dradis-ce](https://github.com/dradis/dradis-ce) - Dradis Framework: Collaboration and reporting for IT Security teams
 - [lmco/dart](https://github.com/lmco/dart) - DART is a test documentation tool created by the Lockheed Martin Red Team to document and report on penetration tests, especially in isolated network environments.
 - [cyver-core/pentest-reporting-resources](https://github.com/cyver-core/pentest-reporting-resources) - Writing Pentest reporting can be a time consuming task. Our platform optimizes that process and removes most of the manual work. We share here some resources that are useful to pentesters to deliver q
@@ -7305,7 +7306,7 @@
 
 ## pentesting 
 
-- [infobyte/faraday](https://github.com/infobyte/faraday) - Open Source Vulnerability Management Platform
+- [infobyte/faraday](https://github.com/infobyte/faraday) - Open-source and AI-powered cybersecurity tools for offensive security, vulnerability management, and autonomous pentesting. Built by hackers in Latin America, used worldwide.
 - [dradis/dradis-ce](https://github.com/dradis/dradis-ce) - Dradis Framework: Collaboration and reporting for IT Security teams
 - [cyver-core/pentest-reporting-resources](https://github.com/cyver-core/pentest-reporting-resources) - Writing Pentest reporting can be a time consuming task. Our platform optimizes that process and removes most of the manual work. We share here some resources that are useful to pentesters to deliver q
 - [cyver-core/ultimate-pentest-tools-list](https://github.com/cyver-core/ultimate-pentest-tools-list) - The following include a list of pentest tools available across the web. Many are free and even open source, others are premium tools and require a monthly or yearly subscription. We’ll note when pente
@@ -7637,7 +7638,7 @@
 - [Dev-next-gen/orodruin](https://github.com/Dev-next-gen/orodruin) - Orodruin — open-source intelligence platform. A self-hostable Palantir Gotham alternative: dozens of live global data sources on a 2D/3D map + actor graph, with an AI analyst that drives the UI.
 - [CaviraOSS/Akashic](https://github.com/CaviraOSS/Akashic) - Akashic is an open-source Palantir alternative for connecting, exploring, and analyzing complex data. Fully self-hosted, privacy-first, and requiring no API keys.
 - [ndif-team/nnsight](https://github.com/ndif-team/nnsight) - The nnsight package enables interpreting and manipulating the internals of deep learned models.
-- [federicodeponte/opendraft](https://github.com/federicodeponte/opendraft) - Free & open-source AI research-paper writer: 19 agents draft 20k-word academic papers in ~10 min with citations verified against CrossRef/OpenAlex/Semantic Scholar. Export PDF/Word/LaTeX. Hosted at op
+- [federicodeponte/opendraft](https://github.com/federicodeponte/opendraft) - Write research paper and literature review drafts with an open-source Python engine that checks citation DOIs against scholarly databases. Export PDF, Word, or LaTeX.
 - [juanmanueldaza/n3rv](https://github.com/juanmanueldaza/n3rv) - Engineering infrastructure for opencode AI agents: memory, skills, subagent dispatch.
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 - [vitali87/code-graph-rag](https://github.com/vitali87/code-graph-rag) - The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs
@@ -8511,7 +8512,7 @@
 ## security 
 
 - [duo-labs/cloudmapper](https://github.com/duo-labs/cloudmapper) - CloudMapper helps you analyze your Amazon Web Services (AWS) environments.
-- [infobyte/faraday](https://github.com/infobyte/faraday) - Open Source Vulnerability Management Platform
+- [infobyte/faraday](https://github.com/infobyte/faraday) - Open-source and AI-powered cybersecurity tools for offensive security, vulnerability management, and autonomous pentesting. Built by hackers in Latin America, used worldwide.
 - [dradis/dradis-ce](https://github.com/dradis/dradis-ce) - Dradis Framework: Collaboration and reporting for IT Security teams
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [CervantesSec/cervantes](https://github.com/CervantesSec/cervantes) - Cervantes is an open-source, collaborative platform designed specifically for pentesters and red teams. It serves as a comprehensive management tool, streamlining the organization of projects, clients
@@ -8642,7 +8643,7 @@
 - [m0nad/Diamorphine](https://github.com/m0nad/Diamorphine) - LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x/6.x (x86/x86_64 and ARM64)
 - [ThreatUnknown/jsubfinder](https://github.com/ThreatUnknown/jsubfinder) - jsubfinder searches webpages for javascript & analyzes them for hidden subdomains and secrets (wip).
 - [Conso1eCowb0y/Deepminer](https://github.com/Conso1eCowb0y/Deepminer) - Deep web crawler and search engine
-- [osintverse/Google-Dorks-Simplified](https://github.com/osintverse/Google-Dorks-Simplified) - Best Resource for learning Google Dorks
+- [OSINTVerseHQ/Google-Dorks-Simplified](https://github.com/OSINTVerseHQ/Google-Dorks-Simplified) - Best Resource for learning Google Dorks
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows you to search for iOS, iPadOS, tvOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
 - [gabamnml/hoper](https://github.com/gabamnml/hoper) - Security tool to trace URL's jumps across the rel links to obtain the last URL
 - [Escape-Technologies/graphinder](https://github.com/Escape-Technologies/graphinder) - 🕸️ Blazing fast GraphQL endpoints finder using subdomain enumeration, scripts analysis and bruteforce. 🕸️
