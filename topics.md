@@ -326,6 +326,7 @@
 - [webpack](#webpack)
 - [website](#website)
 - [windows](#windows)
+- [windows-11](#windows-11)
 - [wordpress](#wordpress)
 - [workflow](#workflow)
 - [xamarin](#xamarin)
@@ -3634,7 +3635,6 @@
 - [linuxserver/docker-pwndrop](https://github.com/linuxserver/docker-pwndrop) - 
 - [gradio-app/fastrtc](https://github.com/gradio-app/fastrtc) - The python library for real-time communication
 - [SuperFlyTV/SuperConductor](https://github.com/SuperFlyTV/SuperConductor) - A playout client for Windows/Linux/macOS that will let you control CasparCG Server, BMD ATEM, OBS Studio, vMix, OSC-compatible devices, HTTP (REST)-compatible devices, and more!
-- [bitfocus/companion](https://github.com/bitfocus/companion) - Bitfocus Companion enables the Elgato Stream Deck and other controllers to be a professional shotbox surface for an increasing amount of different presentation switchers, video playback software and b
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes
@@ -6480,6 +6480,7 @@
 - [FritzAndFriends/StreamDeckToolkit](https://github.com/FritzAndFriends/StreamDeckToolkit) - A .NET Standard library, template, and tools for building extensions to the Elgato Stream Deck
 - [elgatosf/streamdeck-philipshue-legacy](https://github.com/elgatosf/streamdeck-philipshue-legacy) - Stream Deck SDK: Philips Hue sample plugin
 - [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux
+- [bitfocus/companion](https://github.com/bitfocus/companion) - Bitfocus Companion enables the Elgato Stream Deck and other controllers to be a professional shotbox surface for an increasing amount of different presentation switchers, video playback software and b
 - [abcminiuser/python-elgato-streamdeck](https://github.com/abcminiuser/python-elgato-streamdeck) - Python library to control the Elgato Stream Deck.
 - [nguyenquyhy/Flight-Tracker-StreamDeck](https://github.com/nguyenquyhy/Flight-Tracker-StreamDeck) - A Stream Deck plugin to interact with Microsoft Flight Simulation
 - [Billiam/cncjs-pendant-streamdeck](https://github.com/Billiam/cncjs-pendant-streamdeck) - Stream Deck and mobile web pendant for cncjs
@@ -9712,6 +9713,15 @@
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [d4t4s3c/Win7Blue](https://github.com/d4t4s3c/Win7Blue) - Scan/Exploit - EternalBlue MS17-010 - Windows 7 32/64 Bits
 - [abatchy17/WindowsExploits](https://github.com/abatchy17/WindowsExploits) - Windows exploits, mostly precompiled. Not being updated. Check https://github.com/SecWiki/windows-kernel-exploits instead.
+
+## windows-11 
+
+- [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
+- [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
+- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Wi
+- [lively-community/lively](https://github.com/lively-community/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
+- [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 
 ## wordpress 
 
