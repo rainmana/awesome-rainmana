@@ -431,6 +431,7 @@
 
 ## C++ 
 
+- [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp) - KoboldCpp - Run GGUF AI models locally with a KoboldAI UI. One File. Zero Install.
 - [swesterfeld/audiowmark](https://github.com/swesterfeld/audiowmark) - Audio Watermarking
 - [livegrep/livegrep](https://github.com/livegrep/livegrep) - Interactively grep source code. Source for http://livegrep.com/
 - [seenaburns/dex-ui](https://github.com/seenaburns/dex-ui) - A science fiction desktop running on Linux. Awesome.
@@ -1337,6 +1338,7 @@
 - [easydiffusion/easydiffusion](https://github.com/easydiffusion/easydiffusion) - An easy 1-click way to create beautiful artwork on your PC using AI, with no tech knowledge. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and 
 - [antojoseph/diff-gui](https://github.com/antojoseph/diff-gui) - GUI for Frida -Scripts
 - [tinyspeck/sleuth](https://github.com/tinyspeck/sleuth) - 🕵️‍♂️ A Slack Log Viewer
+- [wmariuss/awesome-devops](https://github.com/wmariuss/awesome-devops) - A curated list of awesome DevOps platforms, tools, practices and resources
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 - [ArchiveBox/electron-archivebox](https://github.com/ArchiveBox/electron-archivebox) - ⚛️ Windows & Linux ArchiveBox Desktop App (powered by Electron + Docker Desktop).
@@ -2734,7 +2736,6 @@
 - [tisu19021997/snipai](https://github.com/tisu19021997/snipai) - Capture, tag, and search images locally with OSS models.
 - [KerfuffleV2/gguf-tools](https://github.com/KerfuffleV2/gguf-tools) - Some random tools for working with the GGUF file format
 - [caspianmoon/memoripy](https://github.com/caspianmoon/memoripy) - Evidence-first local memory for AI agents with temporal versions, admission policies, citations, explainable recall, MCP, and audit tooling.
-- [wmariuss/awesome-devops](https://github.com/wmariuss/awesome-devops) - A curated list of awesome DevOps platforms, tools, practices and resources
 - [miabonardi/docassemble-mealprep](https://github.com/miabonardi/docassemble-mealprep) - UI4CLI submission for Bellingcat Hackathon Fall 2023 in Amsterdam.
 - [conflict-investigations/osint-geo-extractor](https://github.com/conflict-investigations/osint-geo-extractor) - Library to extract geo-related information from databases such as Bellingcat, Cen4InfoRes, DefMon3, GeoConfirmed and Texty.org.ua.
 - [conflict-investigations/media-search-engine](https://github.com/conflict-investigations/media-search-engine) - Search geolocations for (social) media posts in databases like Bellingcat, Cen4InfoRes etc.
@@ -3663,6 +3664,7 @@
 
 ## TypeScript 
 
+- [atlas-vtt/atlas-vtt](https://github.com/atlas-vtt/atlas-vtt) - Offline virtual tabletop for Obsidian: battle maps, tokens, fog of war, dice, initiative and a separate player view.
 - [Syntax-Error-1337/radar](https://github.com/Syntax-Error-1337/radar) - RADAR is a real time geospatial intelligence platform that aggregates aircraft, maritime, cyber, OSINT, GPS interference, and threat alert data to provide global situational awareness through an inter
 - [openshuyi/ontograph-core](https://github.com/openshuyi/ontograph-core) - The open-source ontology framework for TypeScript. Define entities, relations & constraints natively — no XML, no eval. Powered by Expr AST, RBAC, SHACL & fluent builder APIs. Inspired by Palantir, bu
 - [pnnl/blueprint-styler](https://github.com/pnnl/blueprint-styler) - Custom themes and styles for Palantir's Blueprint js React component library
