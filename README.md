@@ -341,6 +341,7 @@
 
 ## C# # 
 
+- [daeken/Ainur](https://github.com/daeken/Ainur) - Agents organizing to sing the world into existence
 - [CycloneDX/cyclonedx-cli](https://github.com/CycloneDX/cyclonedx-cli) - CycloneDX CLI tool for SBOM analysis, merging, diffs and format conversions.
 - [CervantesSec/cervantes](https://github.com/CervantesSec/cervantes) - Cervantes is an open-source, collaborative platform designed specifically for pentesters and red teams. It serves as a comprehensive management tool, streamlining the organization of projects, clients
 - [guicn555/RoomRelay](https://github.com/guicn555/RoomRelay) - Stream Windows system or per-app audio to Sonos speakers over your local network.
@@ -1007,6 +1008,7 @@
 - [jparkerweb/ai-assist-skills](https://github.com/jparkerweb/ai-assist-skills) - 🤖 A collection of AI agent skills that automate recurring engineering workflows that can be installed across multiple AI coding assistants.
 - [shalzz/zola-deploy-action](https://github.com/shalzz/zola-deploy-action) - Github action for building a Zola site and deploying to Github Pages
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
+- [mlcommons/croissant](https://github.com/mlcommons/croissant) - Croissant is a high-level format for machine learning datasets that brings together four rich layers.
 - [sdr-enthusiasts/docker-planefence](https://github.com/sdr-enthusiasts/docker-planefence) - 
 - [alvarcarto/url-to-pdf-api](https://github.com/alvarcarto/url-to-pdf-api) - Web page PDF/PNG rendering done right. Self-hosted service for rendering receipts, invoices, or any content.
 - [rickstaa/awesome-adsb](https://github.com/rickstaa/awesome-adsb) - 📡 A curated list of awesome ASD-B tools, projects, images, resources and other shiny things.
@@ -1478,7 +1480,6 @@
 - [mulab-mir/song-describer-dataset](https://github.com/mulab-mir/song-describer-dataset) - The Song Describer dataset is an evaluation dataset made of ~1.1k captions for 706 permissively licensed music recordings.
 - [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
-- [mlcommons/croissant](https://github.com/mlcommons/croissant) - Croissant is a high-level format for machine learning datasets that brings together four rich layers.
 - [bennjordan/UFC-Data-Analysis](https://github.com/bennjordan/UFC-Data-Analysis) - An exploratory analysis on all fighters in the UFC (Ultimate Fighting Championship) and their respective matches.
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [aashrafh/Mozart](https://github.com/aashrafh/Mozart) - An optical music recognition (OMR) system. Converts sheet music to a machine-readable version.
@@ -1630,8 +1631,9 @@
 ## Objective-C 
 
 - [splinesoft/MUDRammer](https://github.com/splinesoft/MUDRammer) - A Modern MUD Client for iPhone and iPad.
-- [Codeux-Software/Textual](https://github.com/Codeux-Software/Textual) - Textual is an IRC client for OS X
+- [blendbyte/Textual](https://github.com/blendbyte/Textual) - Textual is a native IRC client for macOS
 - [seemoo-lab/airdrop-keychain-extractor](https://github.com/seemoo-lab/airdrop-keychain-extractor) - Extracting Apple ID Validation Record, Certificate, and Key for AirDrop
+- [khanhduytran0/MacWSBootingGuide](https://github.com/khanhduytran0/MacWSBootingGuide) - Booting macOS's WindowServer on your jailbroken iDevice for real
 - [chrisballinger/BLEMeshChat](https://github.com/chrisballinger/BLEMeshChat) - Bluetooth LE Mesh Chat for iOS and Android
 - [hanks/HHKBAssistant_for_mac](https://github.com/hanks/HHKBAssistant_for_mac) - A funny helper tool for HHKB professional keyboard on mac. Its main job is that it can auto detect the HHKB professional keyboard plugged in and out, and do some actions you want.
 - [jakob/TableTool](https://github.com/jakob/TableTool) - A simple CSV editor for the Mac
