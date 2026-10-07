@@ -2152,6 +2152,7 @@
 
 ## Python 
 
+- [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) - Self-hosted AI workspace.
 - [rainmana/OpenPlanter](https://github.com/rainmana/OpenPlanter) - 
 - [kedro-org/kedro](https://github.com/kedro-org/kedro) - Kedro is a toolbox for production-ready data science. It uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable, an
 - [wailywang/VoxWatermark](https://github.com/wailywang/VoxWatermark) - Code for "VoxWatermark: A Large Scale Benchmark for Audio Watermark Detection under Perturbations", Interspeech 2026.
@@ -2607,6 +2608,7 @@
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.
 - [Repello-AI/whistleblower](https://github.com/Repello-AI/whistleblower) - Whistleblower is a offensive security tool for testing against system prompt leakage and capability discovery of an AI application exposed through API. Built for AI engineers, security researchers and
+- [aws-samples/serverless-rag-demo](https://github.com/aws-samples/serverless-rag-demo) - Amazon Bedrock Foundation models with Amazon Opensearch Serverless as a Vector DB
 - [weaviate/Verba](https://github.com/weaviate/Verba) - Retrieval Augmented Generation (RAG) chatbot powered by Weaviate
 - [niceboygithub/XiaomiGateway3fw](https://github.com/niceboygithub/XiaomiGateway3fw) - Provide several firmwares for Xiaomi Gateway 3 (ZNDMWG03LM, ZNDMWG02LM). And bin uitls, boot_ctrl (enhanced), more function of busybox, dropbearmulti for ssh.
 - [Matheus-Garbelini/sweyntooth_bluetooth_low_energy_attacks](https://github.com/Matheus-Garbelini/sweyntooth_bluetooth_low_energy_attacks) - Proof of Concept of Sweyntooth Bluetooth Low Energy (BLE) vulnerabilities.
@@ -3855,7 +3857,6 @@
 - [dgreif/ring](https://github.com/dgreif/ring) - Unofficial packages for Ring Doorbells, Cameras, Alarm System, and Smart Lighting
 - [kimmobrunfeldt/squint](https://github.com/kimmobrunfeldt/squint) - Makes visual reviews of web app releases easy.
 - [thelastoutpostworkshop/arduino-maker-workshop](https://github.com/thelastoutpostworkshop/arduino-maker-workshop) - The ultimate tool for makers to bring Arduino projects to life in Visual Studio Code
-- [aws-samples/serverless-rag-demo](https://github.com/aws-samples/serverless-rag-demo) - Amazon Bedrock Foundation models with Amazon Opensearch Serverless as a Vector DB
 - [lmstudio-ai/lmstudio-js](https://github.com/lmstudio-ai/lmstudio-js) - LM Studio TypeScript SDK
 - [Jonghakseo/chrome-extension-boilerplate-react-vite](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite) - Chrome Extension Boilerplate with React + Vite + Typescript
 - [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Less chaos. More flow.
