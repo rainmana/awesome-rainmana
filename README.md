@@ -431,6 +431,7 @@
 
 ## C++ 
 
+- [Niko1221/Strata](https://github.com/Niko1221/Strata) - Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
 - [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp) - KoboldCpp - Run GGUF AI models locally with a KoboldAI UI. One File. Zero Install.
 - [swesterfeld/audiowmark](https://github.com/swesterfeld/audiowmark) - Audio Watermarking
 - [livegrep/livegrep](https://github.com/livegrep/livegrep) - Interactively grep source code. Source for http://livegrep.com/
@@ -441,7 +442,7 @@
 - [LaurieWired/CallMeMaybe](https://github.com/LaurieWired/CallMeMaybe) - Runtime reflection library built on C++26 static reflection
 - [ktauchathuranga/openpager](https://github.com/ktauchathuranga/openpager) - POCSAG (pager) Transceiver Arduino Library
 - [mcallegari/qlcplus](https://github.com/mcallegari/qlcplus) - Q Light Controller Plus (QLC+) is a free and cross-platform software to control DMX or analog lighting systems like moving heads, dimmers, scanners etc. This project is a fork of the great QLC project
-- [sauloverissimo/gingoduino](https://github.com/sauloverissimo/gingoduino) - 🪇 Gingo[duino]: Music theory engine for embedded systems. Build musical instruments and controllers that interact with people and speak MIDI 1.0 and 2.0.
+- [sauloverissimo/gingoduino](https://github.com/sauloverissimo/gingoduino) - Music theory engine for embedded systems. Build musical instruments and controllers that interact with people and speak MIDI 1.0 and 2.0.
 - [Ardour/ardour](https://github.com/Ardour/ardour) - Mirror of Ardour Source Code
 - [hdclark/DICOMautomaton](https://github.com/hdclark/DICOMautomaton) - A multipurpose tool for medical physics.
 - [envoyproxy/envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
@@ -1190,7 +1191,7 @@
 - [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) - A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
 - [bsmr/awesome-opencode---awesome-opencode](https://github.com/bsmr/awesome-opencode---awesome-opencode) - A curated list of awesome plugins, themes, agents, projects, and resources for https://opencode.ai
 - [awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode) - A curated list of awesome plugins, themes, agents, projects, and resources for https://opencode.ai
-- [Strawberry-Computer/vibe-compiler](https://github.com/Strawberry-Computer/vibe-compiler) - Vibe coding tool with prompts in the repo
+- [Berrry-Computer/vibe-compiler](https://github.com/Berrry-Computer/vibe-compiler) - Vibe coding tool with prompts in the repo
 - [ipfs/ipfs-companion](https://github.com/ipfs/ipfs-companion) - Browser extension that routes ipfs:// addresses and content-addressed websites through your own local IPFS node
 - [theneoai/awesome-skills](https://github.com/theneoai/awesome-skills) - 🌟1000+ Expert AI Skills | CEO, Doctor, Engineer, Scientist & more | Transform AI into any professional | Powered by https://theneoai.github.io/skill-writer/
 - [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern) - LLM Frontend for Power Users.
@@ -1660,6 +1661,7 @@
 
 ## Others 
 
+- [restyler/awesome-sandbox](https://github.com/restyler/awesome-sandbox) - Awesome Code Sandboxing for AI
 - [Ringmast4r/Surveillance-Industry](https://github.com/Ringmast4r/Surveillance-Industry) - `GitHub` `Markdown` `OSINT` `Research` - Country-by-country dossiers on the global surveillance industry, spyware vendors, state agencies and Palantir.
 - [Leading-AI-IO/palantir-ontology-strategy](https://github.com/Leading-AI-IO/palantir-ontology-strategy) - A comprehensive guide to Palantir Foundry's Ontology strategy. / 世界最強のデータプラットフォーム「パランティア」の中核概念である『オントロジー』の戦略と実装を解き明かすOSS書籍プロジェクト。
 - [ever-works/awesome-rust-ai-libraries](https://github.com/ever-works/awesome-rust-ai-libraries) - Curated directory of Rust-based libraries and crates for AI model training, inference, agentic systems, and related tools. Include popular crates like candle, burn, dfdx, tract, and more. Focus on ope
@@ -1887,7 +1889,6 @@
 - [CubePilot/cubepilot-docs](https://github.com/CubePilot/cubepilot-docs) - 
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [Discord-Client-Encyclopedia-Management/Discord3rdparties](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties) - A non-exhaustive collection of third-party clients and mods for Discord.
-- [tamld/awesome-download-manager](https://github.com/tamld/awesome-download-manager) - A comprehensive download manager for efficient file management
 - [guilyx/awesome-github-pages-portfolios](https://github.com/guilyx/awesome-github-pages-portfolios) - 😎 A curated list of awesome github pages porfolio templates 📝
 - [socfortress/Playbooks](https://github.com/socfortress/Playbooks) - Playbooks for SOC Analysts
 - [bst04/payloads_flipperZero](https://github.com/bst04/payloads_flipperZero) - Collection of Payloads BadUSB for Flipper Zero with DuckyScript 1.0
@@ -2079,7 +2080,6 @@
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted, respource aware file conversion server supporting 488 formats in 26 languages.
 - [iagox86/dnscat2](https://github.com/iagox86/dnscat2) - 
 - [php-embed/Embed](https://github.com/php-embed/Embed) - Get info from any web service or page
@@ -2152,6 +2152,10 @@
 
 ## Python 
 
+- [zls0529/agent-security-sandbox](https://github.com/zls0529/agent-security-sandbox) - A local-first security testing platform for AI agents with adversarial scenarios, tool-call interception, approval workflows, budget controls, evidence-based findings, and external agent adapters.
+- [holmesio/ai-security-sandbox](https://github.com/holmesio/ai-security-sandbox) - 
+- [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) - Secure, Fast, and Extensible Sandbox runtime for AI agents.
+- [agent-infra/sandbox](https://github.com/agent-infra/sandbox) - All-in-One Sandbox for AI Agents that combines Browser, Shell, File, MCP and VSCode Server in a single Docker container.
 - [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) - Self-hosted AI workspace.
 - [rainmana/OpenPlanter](https://github.com/rainmana/OpenPlanter) - 
 - [kedro-org/kedro](https://github.com/kedro-org/kedro) - Kedro is a toolbox for production-ready data science. It uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable, an
@@ -2748,6 +2752,7 @@
 - [TheOfficialFloW/PPPwn](https://github.com/TheOfficialFloW/PPPwn) - PPPwn - PlayStation 4 PPPoE RCE
 - [probonopd/phantom-licensecheck](https://github.com/probonopd/phantom-licensecheck) - Check the open source licenses used in DJI Phantom 3 firmware
 - [tesorrells/RF-Drone-Detection](https://github.com/tesorrells/RF-Drone-Detection) - 
+- [tamld/awesome-download-manager](https://github.com/tamld/awesome-download-manager) - A comprehensive download manager for efficient file management
 - [ArchiveTeam/grab-site](https://github.com/ArchiveTeam/grab-site) - The archivist's web crawler: WARC output, dashboard for all crawls, dynamic ignore patterns
 - [CTFd/CTFd](https://github.com/CTFd/CTFd) - CTFs as you need them
 - [rainmana/automagica](https://github.com/rainmana/automagica) - AI-powered Smart Robotic Process Automation 🤖
@@ -3308,6 +3313,24 @@
 
 ## Rust 
 
+- [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
+- [libkrun/libkrun](https://github.com/libkrun/libkrun) - A dynamic library providing Virtualization-based process isolation capabilities
+- [storytold/artcraftx](https://github.com/storytold/artcraftx) - ArtCraft-X
+- [storytold/artcraft](https://github.com/storytold/artcraft) - ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
+- [storytold/craft-fonts](https://github.com/storytold/craft-fonts) - Fonts for the Crafting Apps
+- [storytold/filmcraft](https://github.com/storytold/filmcraft) - An open-source, clean-room reimplementation of Adobe Premiere Pro built in pure Rust.
+- [storytold/designcraft](https://github.com/storytold/designcraft) - 
+- [storytold/wordcraft](https://github.com/storytold/wordcraft) - An open-source, clean-room reimplementation of Microsoft Word in pure Rust
+- [storytold/cadcraft](https://github.com/storytold/cadcraft) - CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust
+- [storytold/soundcraft](https://github.com/storytold/soundcraft) - An open-source, clean-room reimplementation of Avid Pro Tools in pure Rust
+- [storytold/gridcraft](https://github.com/storytold/gridcraft) - GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.
+- [storytold/deckcraft](https://github.com/storytold/deckcraft) - Presentations and slide shows: an open-source, clean-room reimplementation of Microsoft PowerPoint in pure Rust. Part of the ArtCraft Crafting Apps.
+- [storytold/effectcraft](https://github.com/storytold/effectcraft) - 
+- [storytold/pdfcraft](https://github.com/storytold/pdfcraft) - An open-source, clean-room reimplementation of Adobe Acrobat built in pure Rust
+- [storytold/artcraft-services](https://github.com/storytold/artcraft-services) - backend, web frontend, etc.
+- [storytold/lightcraft](https://github.com/storytold/lightcraft) - An open-source, clean-room reimplementation of Adobe Lightroom in pure Rust.
+- [storytold/photocraft](https://github.com/storytold/photocraft) - An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust
+- [storytold/vectorcraft](https://github.com/storytold/vectorcraft) - An open-source, clean-room reimplementation of Adobe Illustrator, built in pure Rust.
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 - [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
 - [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) - Agentic Coding for Builders who Ship
@@ -3963,6 +3986,7 @@
 - [bendlang/bend](https://github.com/bendlang/bend) - Bend 2: a fast language that blocks AI mistakes via proof. Install: curl -fsSL https://bend-lang.com/install.sh | sh
 - [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - Your definitive source for dashboard icons.
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [nowsecure/r2frida](https://github.com/nowsecure/r2frida) - Radare2 and Frida better together.
