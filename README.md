@@ -964,6 +964,7 @@
 
 ## HTML 
 
+- [hak5/wifipineapplepager-themes](https://github.com/hak5/wifipineapplepager-themes) - The Official WiFi Pineapple Pager Theme Repository
 - [ai-genie/chatgpt-vscode](https://github.com/ai-genie/chatgpt-vscode) - Your best AI pair programmer in VS Code
 - [CycloneDX/tool-center](https://github.com/CycloneDX/tool-center) - Data and schema powering the worlds largest collection of SBOM/xBOM products, projects, and services
 - [cyver-core/pentest-reports](https://github.com/cyver-core/pentest-reports) - Collection of penetration test reports and pentest report templates. Published by the the best security companies in the world.
@@ -1081,6 +1082,7 @@
 
 ## Java 
 
+- [PortSwigger/collaborator-everywhere](https://github.com/PortSwigger/collaborator-everywhere) - A Burp Suite Pro extension which augments your proxy traffic by injecting non-invasive headers designed to reveal backend systems by causing pingbacks to Burp Collaborator
 - [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) - Learn System Design concepts and prepare for interviews using free resources.
 - [stevespringett/Alpine](https://github.com/stevespringett/Alpine) - An opinionated scaffolding framework that jumpstarts Java projects with an API-first design, secure defaults, and minimal dependencies
 - [lmco/Alpine](https://github.com/lmco/Alpine) - Forked to support Dependency-Track Development
