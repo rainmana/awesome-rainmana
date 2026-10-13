@@ -947,7 +947,7 @@
 - [jm33-m0/emp3r0r](https://github.com/jm33-m0/emp3r0r) - Self‑healing Gossip Mesh C2 with Assisted Peer Discovery, Cross-Platform BOF Execution, and Scriptable Agents.
 - [BishopFox/sliver](https://github.com/BishopFox/sliver) - Adversary Emulation Framework
 - [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) - Fast passive subdomain enumeration tool.
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal File Storage Client
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal File Management Clients (for humans and agents)
 - [ezekg/git-hound](https://github.com/ezekg/git-hound) - Git plugin that prevents sensitive data from being committed.
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
@@ -1209,7 +1209,6 @@
 - [vegabird/prithvi](https://github.com/vegabird/prithvi) - A Report Generation Tool for Security Assessment
 - [1modm/petereport](https://github.com/1modm/petereport) - PeTeReport is an open-source application vulnerability reporting tool.
 - [pwndoc-ng/pwndoc-ng](https://github.com/pwndoc-ng/pwndoc-ng) - Pentest Report Generator
-- [reconmap/reconmap](https://github.com/reconmap/reconmap) - Reconmap is a collaboration-first security operations platform for infosec teams and MSSPs, enabling end‑to‑end engagement management, from reconnaissance through execution and reporting. With built-i
 - [0xded093/Serpico-NG](https://github.com/0xded093/Serpico-NG) - Serpico-NG https://github.com/LUTECH-TMS-CERT/EHAT-NG
 - [pavanw3b/sh00t](https://github.com/pavanw3b/sh00t) - Security Testing is not as simple as right click &gt; Scan. It's messy, a tough game. What if you had missed to test just that one thing and had to regret later? Sh00t is a highly customizable, intell
 - [ehrishirajsharma/SwiftnessX](https://github.com/ehrishirajsharma/SwiftnessX) - A cross-platform note-taking & target-tracking app for penetration testers.
@@ -1335,7 +1334,6 @@
 - [doublespeakgames/adarkroom](https://github.com/doublespeakgames/adarkroom) - A Dark Room - A Minimalist Text Adventure
 - [beatfreaker/text-meme-cli](https://github.com/beatfreaker/text-meme-cli) - Generate text meme
 - [syedazharmbnr1/claude-chatgpt-mcp](https://github.com/syedazharmbnr1/claude-chatgpt-mcp) - A Claude MCP tool to interact with the ChatGPT desktop app on macOS
-- [w0h1v/mcp-dnstwist](https://github.com/w0h1v/mcp-dnstwist) - MCP server for dnstwist, a powerful DNS fuzzing tool that helps detect typosquatting, phishing, and corporate espionage.
 - [HackTricks-wiki/hacktricks](https://github.com/HackTricks-wiki/hacktricks) - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
 - [gradio-app/fastrtc](https://github.com/gradio-app/fastrtc) - The python library for real-time communication
 - [ipfs/ipfs-desktop](https://github.com/ipfs/ipfs-desktop) - An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.
@@ -1638,6 +1636,7 @@
 - [splinesoft/MUDRammer](https://github.com/splinesoft/MUDRammer) - A Modern MUD Client for iPhone and iPad.
 - [blendbyte/Textual](https://github.com/blendbyte/Textual) - Textual is a native IRC client for macOS
 - [seemoo-lab/airdrop-keychain-extractor](https://github.com/seemoo-lab/airdrop-keychain-extractor) - Extracting Apple ID Validation Record, Certificate, and Key for AirDrop
+- [khanhduytran0/MacWSBootingGuide](https://github.com/khanhduytran0/MacWSBootingGuide) - Booting macOS's WindowServer on your jailbroken iDevice for real
 - [chrisballinger/BLEMeshChat](https://github.com/chrisballinger/BLEMeshChat) - Bluetooth LE Mesh Chat for iOS and Android
 - [hanks/HHKBAssistant_for_mac](https://github.com/hanks/HHKBAssistant_for_mac) - A funny helper tool for HHKB professional keyboard on mac. Its main job is that it can auto detect the HHKB professional keyboard plugged in and out, and do some actions you want.
 - [jakob/TableTool](https://github.com/jakob/TableTool) - A simple CSV editor for the Mac
@@ -2147,7 +2146,7 @@
 
 ## Prolog 
 
-- [terminusdb/terminusdb](https://github.com/terminusdb/terminusdb) - TerminusDB is a distributed, collaborative knowledge graph database designed for building, sharing, versioning, and reasoning over structured data.
+- [terminusdb/terminusdb](https://github.com/terminusdb/terminusdb) - TerminusDB is a Knowledge Graph Database with Version Control. A distributed, collaborative knowledge graph database designed for building, sharing, versioning, and reasoning over structured data.
 
 ## PureScript 
 
@@ -3716,6 +3715,7 @@
 - [APTRS/APTRS](https://github.com/APTRS/APTRS) - Automated pentest reporting with custom templates, project tracking, customer dashboard and client management tools. Streamline your security workflows effortlessly!
 - [anomalyco/models.dev](https://github.com/anomalyco/models.dev) - An open-source database of AI models.
 - [CyberStrikeus/CyberStrike](https://github.com/CyberStrikeus/CyberStrike) - Open-source AI-powered offensive security harness for automated penetration testing.
+- [reconmap/reconmap](https://github.com/reconmap/reconmap) - Reconmap is a collaboration-first security operations platform for infosec teams and MSSPs, enabling end‑to‑end engagement management, from reconnaissance through execution and reporting. With built-i
 - [obsidianmd/obsidian-sample-plugin](https://github.com/obsidianmd/obsidian-sample-plugin) - Template for Obsidian community plugins with build configuration and development best practices.
 - [viksit/selvedge](https://github.com/viksit/selvedge) - Weaving prompts and code into structured, resilient patterns that won't unravel under pressure.
 - [cadence-workflow/cadence-web](https://github.com/cadence-workflow/cadence-web) - Web UI for visualizing workflows on Cadence
@@ -3928,6 +3928,7 @@
 - [Toolbase-AI/toolbase](https://github.com/Toolbase-AI/toolbase) - A desktop application that adds powerful tools to Claude and AI platforms
 - [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code gives you a whole dev team of AI agents in your code editor.
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
+- [w0h1v/mcp-dnstwist](https://github.com/w0h1v/mcp-dnstwist) - MCP server for dnstwist, a powerful DNS fuzzing tool that helps detect typosquatting, phishing, and corporate espionage.
 - [aimcp/awesome-mcp](https://github.com/aimcp/awesome-mcp) - A collection about MCP
 - [nanbingxyz/5ire](https://github.com/nanbingxyz/5ire) - 5ire is a cross-platform desktop AI assistant, MCP client. It compatible with major service providers,  supports local knowledge base and  tools via model context protocol servers .
 - [JOYCEQL/magic-resume](https://github.com/JOYCEQL/magic-resume) - free online AI resume editor，the only official website is  https://magicv.art
