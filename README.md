@@ -907,7 +907,7 @@
 - [projectdiscovery/wappalyzergo](https://github.com/projectdiscovery/wappalyzergo) - A high performance go implementation of Wappalyzer Technology Detection Library
 - [unstppbl/gowap](https://github.com/unstppbl/gowap) - Wappalyzer implementation in Go
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows you to search for iOS, iPadOS, tvOS, watchOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
-- [prest/prest](https://github.com/prest/prest) - Instant REST and MCP APIs for PostgreSQL and MySQL 8, on existing or new databases. CRUD, custom SQL routes, auth and ACL without writing a backend. Low-code, ⚡ realtime, high-performance. Native MySQ
+- [prest/prest](https://github.com/prest/prest) - Instant REST and MCP APIs for PostgreSQL and MySQL, on existing or new databases. CRUD, custom SQL routes, auth and ACL without writing a backend. Low-code, ⚡ realtime, high-performance. Native MySQL 
 - [carapace-sh/carapace-bin](https://github.com/carapace-sh/carapace-bin) - A multi-shell completion binary.
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [TheZoraiz/ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) - A cross-platform command-line tool to convert images into ascii art and print them on the console. Now supports braille art!
@@ -1334,6 +1334,7 @@
 - [doublespeakgames/adarkroom](https://github.com/doublespeakgames/adarkroom) - A Dark Room - A Minimalist Text Adventure
 - [beatfreaker/text-meme-cli](https://github.com/beatfreaker/text-meme-cli) - Generate text meme
 - [syedazharmbnr1/claude-chatgpt-mcp](https://github.com/syedazharmbnr1/claude-chatgpt-mcp) - A Claude MCP tool to interact with the ChatGPT desktop app on macOS
+- [w0h1v/mcp-dnstwist](https://github.com/w0h1v/mcp-dnstwist) - MCP server for dnstwist, a powerful DNS fuzzing tool that helps detect typosquatting, phishing, and corporate espionage.
 - [HackTricks-wiki/hacktricks](https://github.com/HackTricks-wiki/hacktricks) - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
 - [gradio-app/fastrtc](https://github.com/gradio-app/fastrtc) - The python library for real-time communication
 - [ipfs/ipfs-desktop](https://github.com/ipfs/ipfs-desktop) - An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.
@@ -2154,6 +2155,7 @@
 
 ## Python 
 
+- [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) - A privacy-first app that strips AI watermarks from content you own.
 - [zls0529/agent-security-sandbox](https://github.com/zls0529/agent-security-sandbox) - A local-first security testing platform for AI agents with adversarial scenarios, tool-call interception, approval workflows, budget controls, evidence-based findings, and external agent adapters.
 - [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) - Secure, Fast, and Extensible Sandbox runtime for AI agents.
 - [agent-infra/sandbox](https://github.com/agent-infra/sandbox) - All-in-One Sandbox for AI Agents that combines Browser, Shell, File, MCP and VSCode Server in a single Docker container.
@@ -2204,7 +2206,7 @@
 - [lmco/laikaboss](https://github.com/lmco/laikaboss) - Laika BOSS: Object Scanning System
 - [lmco/dart](https://github.com/lmco/dart) - DART is a test documentation tool created by the Lockheed Martin Red Team to document and report on penetration tests, especially in isolated network environments.
 - [GH05TCREW/pentestagent](https://github.com/GH05TCREW/pentestagent) - PentestAgent is an AI agent framework for black-box security testing, supporting bug bounty, red-team, and penetration testing workflows.
-- [BugTraceAI/BugTraceAI-CLI](https://github.com/BugTraceAI/BugTraceAI-CLI) - Autonomous AI-powered security scanner — multi-agent vulnerability detection, exploitation, and validation engine
+- [BugTraceAI/BugTraceAI-CLI](https://github.com/BugTraceAI/BugTraceAI-CLI) - Agentic web-scanning engine with a terminal workspace, specialist tools, browser validation, reports, REST and MCP.
 - [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with
 - [cisco-ai-defense/skill-scanner](https://github.com/cisco-ai-defense/skill-scanner) - Security Scanner for Agent Skills
 - [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) - Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills befo
@@ -3632,6 +3634,7 @@
 
 ## Swift 
 
+- [the-tin-app/the_tin](https://github.com/the-tin-app/the_tin) - A free, open source Pokémon TCG collector app — for collectors, by collectors.
 - [ProducerGuy/ThermalForge](https://github.com/ProducerGuy/ThermalForge) - Free Apple fan control, open source, for Apple Silicon Macs (M1, M2, M3, M4, M5, M6): Mac mini, MacBook, MacBook Pro, Mac Studio, iMac. Menu bar app + CLI with live temps and Homebrew install. Alterna
 - [apple/swift-ntp](https://github.com/apple/swift-ntp) - Swift NTP library using Swift NIO. Provides an NTPClient.
 - [seemoo-lab/BTLEmap](https://github.com/seemoo-lab/BTLEmap) - Nmap for Bluetooth Low Energy
@@ -3691,6 +3694,8 @@
 
 ## TypeScript 
 
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
+- [1vcian/Pokemon-TCGP-Card-Scanner](https://github.com/1vcian/Pokemon-TCGP-Card-Scanner) - Card Scanner for tcg-pocket-collection-tracker
 - [atlas-vtt/atlas-vtt](https://github.com/atlas-vtt/atlas-vtt) - Open Source virtual tabletop for Obsidian: battle maps, tokens, fog of war, dice, initiative and a separate player view.
 - [Syntax-Error-1337/radar](https://github.com/Syntax-Error-1337/radar) - RADAR is a real time geospatial intelligence platform that aggregates aircraft, maritime, cyber, OSINT, GPS interference, and threat alert data to provide global situational awareness through an inter
 - [openshuyi/ontograph-core](https://github.com/openshuyi/ontograph-core) - The open-source ontology framework for TypeScript. Define entities, relations & constraints natively — no XML, no eval. Powered by Expr AST, RBAC, SHACL & fluent builder APIs. Inspired by Palantir, bu
@@ -3928,7 +3933,6 @@
 - [Toolbase-AI/toolbase](https://github.com/Toolbase-AI/toolbase) - A desktop application that adds powerful tools to Claude and AI platforms
 - [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code gives you a whole dev team of AI agents in your code editor.
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
-- [w0h1v/mcp-dnstwist](https://github.com/w0h1v/mcp-dnstwist) - MCP server for dnstwist, a powerful DNS fuzzing tool that helps detect typosquatting, phishing, and corporate espionage.
 - [aimcp/awesome-mcp](https://github.com/aimcp/awesome-mcp) - A collection about MCP
 - [nanbingxyz/5ire](https://github.com/nanbingxyz/5ire) - 5ire is a cross-platform desktop AI assistant, MCP client. It compatible with major service providers,  supports local knowledge base and  tools via model context protocol servers .
 - [JOYCEQL/magic-resume](https://github.com/JOYCEQL/magic-resume) - free online AI resume editor，the only official website is  https://magicv.art
