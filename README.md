@@ -1990,7 +1990,6 @@
 - [sirredbeard/awesome-wsl](https://github.com/sirredbeard/awesome-wsl) - Awesome list dedicated to Windows Subsystem for Linux
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [gracenolan/Notes](https://github.com/gracenolan/Notes) - 
-- [OSINTVerseHQ/Google-Dorks-Simplified](https://github.com/OSINTVerseHQ/Google-Dorks-Simplified) - Best Resource for learning Google Dorks
 - [octoparse-data/Octoparse](https://github.com/octoparse-data/Octoparse) - A free, client-side web scraper that turns websites into structured data without having to use code.
 - [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
 - [nyquist/awesome-networking](https://github.com/nyquist/awesome-networking) - Curated list of awesome computer networking resources
