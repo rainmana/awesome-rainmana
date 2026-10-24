@@ -1435,7 +1435,6 @@
 - [Whiskr/whiskr](https://github.com/Whiskr/whiskr) - A Tinder-like progressive web application for pairing local adoptable pets with potential owners
 - [infinitered/nsfwjs-mobile](https://github.com/infinitered/nsfwjs-mobile) - NSFWjs in React Native
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
-- [MobSF/Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and 
 - [StrangerealIntel/CyberThreatIntel](https://github.com/StrangerealIntel/CyberThreatIntel) - Analysis of malware and Cyber Threat Intel of APT and cybercriminals groups
 - [its-a-feature/Mythic](https://github.com/its-a-feature/Mythic) - A collaborative, multi-platform, red teaming framework
 - [MagicMirrorOrg/MagicMirror](https://github.com/MagicMirrorOrg/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assi
@@ -3194,6 +3193,7 @@
 - [CompassSecurity/BloodHoundQueries](https://github.com/CompassSecurity/BloodHoundQueries) - 
 - [OTRF/OSSEM](https://github.com/OTRF/OSSEM) - Open Source Security Events Metadata (OSSEM)
 - [jeffknupp/sandman2](https://github.com/jeffknupp/sandman2) - Automatically generate a RESTful API service for your legacy database. No code required!
+- [MobSF/Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and 
 - [rivermont/spidy](https://github.com/rivermont/spidy) - The simple, easy to use command line web crawler.
 - [infosecn1nja/MaliciousMacroMSBuild](https://github.com/infosecn1nja/MaliciousMacroMSBuild) - Generates Malicious Macro and Execute Powershell or Shellcode via MSBuild Application Whitelisting Bypass.
 - [Nightbringer21/fridump](https://github.com/Nightbringer21/fridump) - A universal memory dumper using Frida
@@ -3318,6 +3318,10 @@
 
 ## Rust 
 
+- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
+- [hacknus/bevy_voxel_plot](https://github.com/hacknus/bevy_voxel_plot) - Simple crate to efficiently create a voxel plot (with opacity) in bevy/rust.
+- [erasin/bevy_vox](https://github.com/erasin/bevy_vox) - Load MagicaVoxel Vox file for bevy engine.
+- [splashdust/bevy_voxel_world](https://github.com/splashdust/bevy_voxel_world) - Easy to use voxel world for Bevy
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [libkrun/libkrun](https://github.com/libkrun/libkrun) - A dynamic library providing Virtualization-based process isolation capabilities
