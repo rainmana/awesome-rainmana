@@ -2392,7 +2392,7 @@
 - [newren/git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
 - [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage agent platforms.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-improving platform for agents
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
 - [dhondta/python-sploitkit](https://github.com/dhondta/python-sploitkit) - Devkit for building Metasploit-like consoles
@@ -3318,6 +3318,8 @@
 
 ## Rust 
 
+- [rainmana/md-to-pdf](https://github.com/rainmana/md-to-pdf) - Hackable CLI tool for converting Markdown files to PDF using Rust - fork of the Node md-to-pdf tool
+- [rainmana/friendo](https://github.com/rainmana/friendo) - The best agentic harness you didn't ask for :D
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [hacknus/bevy_voxel_plot](https://github.com/hacknus/bevy_voxel_plot) - Simple crate to efficiently create a voxel plot (with opacity) in bevy/rust.
 - [erasin/bevy_vox](https://github.com/erasin/bevy_vox) - Load MagicaVoxel Vox file for bevy engine.
@@ -3384,7 +3386,7 @@
 - [saschagrunert/webapp.rs](https://github.com/saschagrunert/webapp.rs) - A web application completely written in Rust. 🌍
 - [jetli/rust-yew-realworld-example-app](https://github.com/jetli/rust-yew-realworld-example-app) - Exemplary real world app built with Rust + Yew + WebAssembly, by Function Components + Hooks, also supports desktop by Tauri.
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
-- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (
+- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first AI meeting note taker. Download Free and open source granola, otter ai, fireflies alternative. Parakeet / Whisper live transcription, on-device speaker diarization, built on Rust. 100% l
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
 - [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
