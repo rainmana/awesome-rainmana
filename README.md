@@ -1337,7 +1337,7 @@
 - [satellitecomponent/Neurite](https://github.com/satellitecomponent/Neurite) - Fractal Graph-of-Thought. Rhizomatic Mind-Mapping for Ai-Agents, Web-Links, Notes, and Code.
 - [waldzellai/waldzell-mcp](https://github.com/waldzellai/waldzell-mcp) - Waldzell AI's monorepo of MCP servers. Use in Claude Desktop, Cline, Roo Code, and more!
 - [jdhayford/acid-tabs-extension](https://github.com/jdhayford/acid-tabs-extension) - Chrome extension for auto-grouping tabs by URL patterns
-- [vulnex/bytesrevealer](https://github.com/vulnex/bytesrevealer) - Online Reverse Enginerring viewer
+- [vulnex/bytesrevealer](https://github.com/vulnex/bytesrevealer) - Browser-based reverse engineering & binary analysis tool (hex, entropy, strings, YARA, Kaitai, PE/ELF/Mach-O)
 - [salesforce/cloudsplaining](https://github.com/salesforce/cloudsplaining) - Cloudsplaining is an AWS IAM Security Assessment tool that identifies violations of least privilege and generates a risk-prioritized report.
 - [mandatoryprogrammer/tarnish](https://github.com/mandatoryprogrammer/tarnish) - A Chrome extension static analysis tool to help aide in security reviews.
 - [roboco-io/awesome-vibecoding](https://github.com/roboco-io/awesome-vibecoding) - A curated list of resources, tutorials, best practices, and examples for Vibe Coding, the emerging paradigm of intuitive, AI-driven software development. Explore how vibe-driven collaboration between 
@@ -1975,6 +1975,7 @@
 - [fr0gger/Awesome-GPT-Agents](https://github.com/fr0gger/Awesome-GPT-Agents) - A curated list of GPT agents for cybersecurity
 - [drcode/lisperati-1000-diy](https://github.com/drcode/lisperati-1000-diy) - DIY Instructions for Building a Lisperati1000 Computer
 - [cassidoo/scrapers](https://github.com/cassidoo/scrapers) - A list of scrapers from around the web.
+- [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - Ultralytics YOLOv5 in PyTorch for object detection, instance segmentation, classification, training, and export.
 - [HexxedBitHeadz/FlipperZeroWallpaper](https://github.com/HexxedBitHeadz/FlipperZeroWallpaper) - Wallpapers for Flipper Zero
 - [jipegit/IRNotes](https://github.com/jipegit/IRNotes) - Some IR notes
 - [hackappcom/robotframework-libs](https://github.com/hackappcom/robotframework-libs) - RobotFramework libs, mostly related to Android testing
@@ -2185,7 +2186,7 @@
 - [AtlasGondal/audiopsy](https://github.com/AtlasGondal/audiopsy) - Audiopsy is a lightweight cli tool designed to analyze audio files. It helps extract essential details like duration, channels, frame rate, and waveforms of an audio file.
 - [ndif-team/nnsight](https://github.com/ndif-team/nnsight) - The nnsight package enables interpreting and manipulating the internals of deep learned models.
 - [timpara/opencode-academic-research](https://github.com/timpara/opencode-academic-research) - OpenCode port of academic-research-skills: 4 skills, 13 slash commands, 38-agent pipeline for academic research, writing, peer review, and revision
-- [federicodeponte/opendraft](https://github.com/federicodeponte/opendraft) - Write research paper and literature review drafts with an open-source Python engine that checks citation DOIs against scholarly databases. Export PDF, Word, or LaTeX.
+- [federicodeponte/opendraft](https://github.com/federicodeponte/opendraft) - The open-source agent system that writes research papers with verified citations. Every citation checked against Crossref, OpenAlex and Semantic Scholar.
 - [juanmanueldaza/n3rv](https://github.com/juanmanueldaza/n3rv) - Engineering infrastructure for opencode AI agents: memory, skills, subagent dispatch.
 - [RyanAlberts/best-of-Agent-Harnesses](https://github.com/RyanAlberts/best-of-Agent-Harnesses) - 🏆 Ranked list of 187 AI agent harnesses, plus templates, playbooks, MCP, and learning resources. Rescored weekly.
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
@@ -2621,7 +2622,7 @@
 - [bennjordan/ALPRovingGround](https://github.com/bennjordan/ALPRovingGround) - A simple Python application to test adversarial noise attacks on license plate recognition systems (see my PlateShapez demo) and create an output dataset to train more effective attack models.
 - [ckan/ckan](https://github.com/ckan/ckan) - CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers catalog.data.gov, open.canada.ca/data, data.hu
 - [openpolicedata/openpolicedata](https://github.com/openpolicedata/openpolicedata) - The OpenPoliceData (OPD) Python library is the most comprehensive centralized public access point for incident-level police data in the United States. OPD provides easy access to 550+ incident-level d
-- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key. Join our Discord https://discord.gg/VuxzM8m
+- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - Official Crawl4AI Cloud: a hosted web scraping, extraction, and search API for AI agents. Free API key, 1,000 credits a month, no card. Fully open source: this repo is the Apache-2.0 crawler that powe
 - [sdr-enthusiasts/plane-alert-db](https://github.com/sdr-enthusiasts/plane-alert-db) - A list of interesting aircraft - Governments, Dictators, Military, Historic and just plain odd.
 - [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
@@ -2848,7 +2849,7 @@
 - [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) - GUI for a Vocal Remover that uses Deep Neural Networks.
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
-- [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) - PraisonAI 🦞 — Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous self-improving agents that research, plan, code, and execute tasks. Deployed in 5 lines of code with buil
+- [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) - Private AI agents for highly regulated teams, and for anyone who wants AI on their own computer. Open-source Python agent framework that runs fully offline.
 - [alexplaskett/QNXSecurity](https://github.com/alexplaskett/QNXSecurity) - QNX and BB10 Security Tools
 - [corellium/ios_persistence_mapping](https://github.com/corellium/ios_persistence_mapping) - Accompanying code for blog post "Mapping iOS Persistence Attack Surface using Corellium"
 - [LaurieWired/BinaryBeats](https://github.com/LaurieWired/BinaryBeats) - Turn binaries into music
@@ -2938,7 +2939,6 @@
 - [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
 - [RsaCtfTool/RsaCtfTool](https://github.com/RsaCtfTool/RsaCtfTool) - RSA attack tool (mainly for ctf) - retrieve private key from weak public key and/or uncipher data
 - [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) - Full reference of LinkedIn answers 2024 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test
-- [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - Ultralytics YOLOv5 in PyTorch for object detection, instance segmentation, classification, training, and export.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Experience macOS just like before
@@ -3949,7 +3949,7 @@
 - [amxv/mcp-manager](https://github.com/amxv/mcp-manager) - simple web ui to manage mcp (model context protocol) servers in the claude app
 - [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper) - Open Source Cloud Native Application Protection Platform (CNAPP)
 - [AlecBlance/S3BucketList](https://github.com/AlecBlance/S3BucketList) - Chrome and Firefox extension that lists Amazon S3 Buckets while browsing
-- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
+- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Reference Servers
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [yourselfhosted/slash](https://github.com/yourselfhosted/slash) - An open source, self-hosted platform for sharing and managing your most frequently used links. Easily create customizable, human-readable shortcuts to streamline your link management.
 - [paralleldrive/sudolang](https://github.com/paralleldrive/sudolang) - SudoLang LLM Support for VSCode
