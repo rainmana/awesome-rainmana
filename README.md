@@ -135,6 +135,8 @@
 
 ## C 
 
+- [purseclab/fuzzusb](https://github.com/purseclab/fuzzusb) - 
+- [HexHive/USBFuzz](https://github.com/HexHive/USBFuzz) - A Framework for fuzzing USB Drivers by Device Emulation
 - [scallyw4g/bonsai](https://github.com/scallyw4g/bonsai) - The procedural generation voxel engine
 - [vengi-voxel/vengi](https://github.com/vengi-voxel/vengi) - free and open source voxel art tools - editor, thumbnailer and format converter
 - [mirror/ncurses](https://github.com/mirror/ncurses) - ncurses Git mirror
@@ -1090,6 +1092,8 @@
 
 ## Java 
 
+- [Col-E/Recaf](https://github.com/Col-E/Recaf) - The modern Java bytecode editor
+- [Vineflower/vineflower](https://github.com/Vineflower/vineflower) - Modern Java decompiler aiming to be as accurate as possible, with an emphasis on output quality. Fork of the Fernflower decompiler.
 - [dsp/mcp-server-steam](https://github.com/dsp/mcp-server-steam) - MCP Server for interacting with Steam
 - [PortSwigger/collaborator-everywhere](https://github.com/PortSwigger/collaborator-everywhere) - A Burp Suite Pro extension which augments your proxy traffic by injecting non-invasive headers designed to reveal backend systems by causing pingbacks to Burp Collaborator
 - [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) - Learn System Design concepts and prepare for interviews using free resources.
