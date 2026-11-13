@@ -493,6 +493,7 @@
 
 ## ai 
 
+- [strands-labs/strands-decider](https://github.com/strands-labs/strands-decider) - A small, fast decision model, or system one model, for agentic workflows. Pick between options or rate on a scale faster than an LLM, with a calibrated confidence on every decision.
 - [eyry-security/quarterdeck](https://github.com/eyry-security/quarterdeck) - Agent control plane: scheduler, events, IRC-style chat, and pipeline orchestration (Python). Part of the Eyry suite.
 - [eyry-security/aplomado](https://github.com/eyry-security/aplomado) - AI security scanner/reviewer built on Pinnace (Python). Part of the Eyry suite.
 - [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) - A privacy-first app that strips AI watermarks from content you own.
@@ -4721,6 +4722,7 @@
 
 ## machine-learning 
 
+- [strands-labs/strands-decider](https://github.com/strands-labs/strands-decider) - A small, fast decision model, or system one model, for agentic workflows. Pick between options or rate on a scale faster than an LLM, with a calibrated confidence on every decision.
 - [kedro-org/kedro](https://github.com/kedro-org/kedro) - Kedro is a toolbox for production-ready data science. It uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable, an
 - [ndif-team/nnsight](https://github.com/ndif-team/nnsight) - The nnsight package enables interpreting and manipulating the internals of deep learned models.
 - [ezelikman/parsel](https://github.com/ezelikman/parsel) - Code for Parsel 🐍 - generate complex programs with language models
@@ -7836,6 +7838,7 @@
 
 ## python 
 
+- [strands-labs/strands-decider](https://github.com/strands-labs/strands-decider) - A small, fast decision model, or system one model, for agentic workflows. Pick between options or rate on a scale faster than an LLM, with a calibrated confidence on every decision.
 - [eyry-security/quarterdeck](https://github.com/eyry-security/quarterdeck) - Agent control plane: scheduler, events, IRC-style chat, and pipeline orchestration (Python). Part of the Eyry suite.
 - [eyry-security/aplomado](https://github.com/eyry-security/aplomado) - AI security scanner/reviewer built on Pinnace (Python). Part of the Eyry suite.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
