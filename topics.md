@@ -761,7 +761,7 @@
 
 ## ai-agents 
 
-- [alexeyw/lot-map](https://github.com/alexeyw/lot-map) - Lot Map for Claude Code: a live map beside the chat that shows what the agent is doing. Tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 7 languages.
+- [alexeyw/lot-map](https://github.com/alexeyw/lot-map) - Lot Map for Claude Code: a live map beside the chat that shows what the agent is doing. Tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 8 languages.
 - [federicodeponte/opendraft](https://github.com/federicodeponte/opendraft) - The open-source agent system that writes research papers with verified citations. Every citation checked against Crossref, OpenAlex and Semantic Scholar.
 - [juanmanueldaza/n3rv](https://github.com/juanmanueldaza/n3rv) - Engineering infrastructure for opencode AI agents: memory, skills, subagent dispatch.
 - [RyanAlberts/best-of-Agent-Harnesses](https://github.com/RyanAlberts/best-of-Agent-Harnesses) - 🏆 Ranked list of 187 AI agent harnesses, plus templates, playbooks, MCP, and learning resources. Rescored weekly.
@@ -1825,7 +1825,7 @@
 
 ## claude 
 
-- [alexeyw/lot-map](https://github.com/alexeyw/lot-map) - Lot Map for Claude Code: a live map beside the chat that shows what the agent is doing. Tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 7 languages.
+- [alexeyw/lot-map](https://github.com/alexeyw/lot-map) - Lot Map for Claude Code: a live map beside the chat that shows what the agent is doing. Tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 8 languages.
 - [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) - A privacy-first app that strips AI watermarks from content you own.
 - [tw93/Pake](https://github.com/tw93/Pake) - Turn any website into a lightweight desktop app with one command, on macOS, Windows and Linux.
 - [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) - Agentic Coding for Builders who Ship
@@ -1883,7 +1883,7 @@
 ## claude-code 
 
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
-- [alexeyw/lot-map](https://github.com/alexeyw/lot-map) - Lot Map for Claude Code: a live map beside the chat that shows what the agent is doing. Tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 7 languages.
+- [alexeyw/lot-map](https://github.com/alexeyw/lot-map) - Lot Map for Claude Code: a live map beside the chat that shows what the agent is doing. Tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 8 languages.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) - Agentic Coding for Builders who Ship
 - [RyanAlberts/best-of-Agent-Harnesses](https://github.com/RyanAlberts/best-of-Agent-Harnesses) - 🏆 Ranked list of 187 AI agent harnesses, plus templates, playbooks, MCP, and learning resources. Rescored weekly.
@@ -2637,7 +2637,7 @@
 ## developer-tools 
 
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
-- [alexeyw/lot-map](https://github.com/alexeyw/lot-map) - Lot Map for Claude Code: a live map beside the chat that shows what the agent is doing. Tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 7 languages.
+- [alexeyw/lot-map](https://github.com/alexeyw/lot-map) - Lot Map for Claude Code: a live map beside the chat that shows what the agent is doing. Tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 8 languages.
 - [Itz-Agasta/OpenDiagram](https://github.com/Itz-Agasta/OpenDiagram) - AI diagram generator for software architecture - the open-source Eraser.io alternative. Describe your system in plain English, get editable system design, sequence, ERD & cloud diagrams on an Excalidr
 - [vitali87/code-graph-rag](https://github.com/vitali87/code-graph-rag) - The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs
 - [theneoai/awesome-skills](https://github.com/theneoai/awesome-skills) - 🌟1000+ Expert AI Skills | CEO, Doctor, Engineer, Scientist & more | Transform AI into any professional | Powered by https://theneoai.github.io/skill-writer/
@@ -3874,7 +3874,6 @@
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
-- [JoshClose/CsvHelper](https://github.com/JoshClose/CsvHelper) - Library to help reading and writing CSV files
 - [knavesec/Max](https://github.com/knavesec/Max) - Maximizing BloodHound. Max is a good boy.
 - [opnsense/core](https://github.com/opnsense/core) - OPNsense GUI, API and systems backend
 - [odedshimon/BruteShark](https://github.com/odedshimon/BruteShark) - Network Analysis Tool
@@ -5499,7 +5498,6 @@
 - [yuniko-software/minecraft-mcp-server](https://github.com/yuniko-software/minecraft-mcp-server) - A Minecraft MCP Server powered by Mineflayer API. It allows to control a Minecraft character in real-time, allowing AI assistants to build structures, explore the world, and interact with the game env
 - [andreasbm/readme](https://github.com/andreasbm/readme) - Automatically generate a beautiful best-practice README file based on the contents of your repository
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
-- [Mearman/mcp-wayback-machine](https://github.com/Mearman/mcp-wayback-machine) - MCP server and CLI tool for interacting with the Internet Archive's Wayback Machine
 - [nrwl/nx](https://github.com/nrwl/nx) - The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time.
 - [lissy93/dashy](https://github.com/lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
@@ -7440,6 +7438,7 @@
 - [Barriuso/SMBGhost_AutomateExploitation](https://github.com/Barriuso/SMBGhost_AutomateExploitation) - SMBGhost (CVE-2020-0796) Automate Exploitation and Detection
 - [antonioCoco/RoguePotato](https://github.com/antonioCoco/RoguePotato) - Another Windows Local Privilege Escalation from Service Account to System
 - [dirkjanm/krbrelayx](https://github.com/dirkjanm/krbrelayx) - Kerberos relaying and unconstrained delegation abuse toolkit
+- [JoshClose/CsvHelper](https://github.com/JoshClose/CsvHelper) - Library to help reading and writing CSV files
 - [gtworek/Priv2Admin](https://github.com/gtworek/Priv2Admin) - Exploitation paths allowing you to (mis)use the Windows Privileges to elevate your rights within the OS.
 - [RedDrip7/APT_Digital_Weapon](https://github.com/RedDrip7/APT_Digital_Weapon) - Indicators of compromise (IOCs) collected from public resources and categorized by Qi-AnXin.
 - [Kevin-Robertson/Invoke-TheHash](https://github.com/Kevin-Robertson/Invoke-TheHash) - PowerShell Pass The Hash Utils
@@ -7687,7 +7686,7 @@
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.
 - [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.
-- [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted, resource aware file conversion server supporting 525+ formats in 26 languages.
+- [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted, resource aware file conversion server supporting 530 formats in 26 languages.
 - [kaitai-io/kaitai_struct](https://github.com/kaitai-io/kaitai_struct) - Kaitai Struct: declarative language to generate binary data parsers in C++ / C# / Go / Java / JavaScript / Lua / Nim / Perl / PHP / Python / Ruby / Rust
 - [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony
 - [netgen/query-translator](https://github.com/netgen/query-translator) - Query Translator is a search query translator with AST representation
@@ -9162,7 +9161,7 @@
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.
 - [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) - ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)
-- [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted, resource aware file conversion server supporting 525+ formats in 26 languages.
+- [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted, resource aware file conversion server supporting 530 formats in 26 languages.
 - [tobychui/zoraxy](https://github.com/tobychui/zoraxy) - A general purpose HTTP reverse proxy and forwarding tool. Now written in Go!
 - [ViRb3/webdav-server](https://github.com/ViRb3/webdav-server) - A simple WebDAV server in Go
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
@@ -9653,7 +9652,7 @@
 
 ## typescript 
 
-- [alexeyw/lot-map](https://github.com/alexeyw/lot-map) - Lot Map for Claude Code: a live map beside the chat that shows what the agent is doing. Tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 7 languages.
+- [alexeyw/lot-map](https://github.com/alexeyw/lot-map) - Lot Map for Claude Code: a live map beside the chat that shows what the agent is doing. Tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 8 languages.
 - [Itz-Agasta/OpenDiagram](https://github.com/Itz-Agasta/OpenDiagram) - AI diagram generator for software architecture - the open-source Eraser.io alternative. Describe your system in plain English, get editable system design, sequence, ERD & cloud diagrams on an Excalidr
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [zls0529/agent-security-sandbox](https://github.com/zls0529/agent-security-sandbox) - A local-first security testing platform for AI agents with adversarial scenarios, tool-call interception, approval workflows, budget controls, evidence-based findings, and external agent adapters.
@@ -9843,7 +9842,7 @@
 
 ## visualization 
 
-- [alexeyw/lot-map](https://github.com/alexeyw/lot-map) - Lot Map for Claude Code: a live map beside the chat that shows what the agent is doing. Tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 7 languages.
+- [alexeyw/lot-map](https://github.com/alexeyw/lot-map) - Lot Map for Claude Code: a live map beside the chat that shows what the agent is doing. Tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 8 languages.
 - [TuGraph-family/Awesome-Graphs](https://github.com/TuGraph-family/Awesome-Graphs) - Think Graphs Like A Graph.
 - [gephi/gephi](https://github.com/gephi/gephi) - Gephi - The Open Graph Viz Platform
 - [ImVexed/ThunderView](https://github.com/ImVexed/ThunderView) - A War Thunder data mine visualization project
