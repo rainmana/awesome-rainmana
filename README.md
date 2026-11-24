@@ -712,6 +712,8 @@
 
 ## Go 
 
+- [HelixDB/helix-foundry](https://github.com/HelixDB/helix-foundry) - Connect your company's data, let an agent draft an ontology over it, and load it into HelixDB as one graph you can explore and ask questions of. Hosted at foundry.helix-db.com, or run it on your own m
+- [BaaRai/ARTEX](https://github.com/BaaRai/ARTEX) - ARTEX - AI autonomous penetration testing system (English translation; upstream: Autumn-27/ARTEX, AGPL-3.0)
 - [noahgorstein/jqp](https://github.com/noahgorstein/jqp) - A TUI playground to experiment with jq
 - [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) - Secure, Fast, and Extensible Sandbox runtime for AI agents.
 - [ipfs/someguy](https://github.com/ipfs/someguy) - [ BEWARE: NO MAINTAINER ] Delegated Routing V1 server that proxies provider, peer, and IPNS lookups to the Amino DHT and other routers
@@ -759,7 +761,7 @@
 - [duanemay/chatgpt-cli](https://github.com/duanemay/chatgpt-cli) - Interact with ChatGPT directly from your command line
 - [slimm609/checksec](https://github.com/slimm609/checksec) - Checksec
 - [onsi/ginkgo](https://github.com/onsi/ginkgo) - A Modern Testing Framework for Go
-- [Armur-Ai/Pentest-Swarm-AI](https://github.com/Armur-Ai/Pentest-Swarm-AI) - Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring
+- [Armur-Ai/Pentest-Swarm-AI](https://github.com/Armur-Ai/Pentest-Swarm-AI) - Open-source autonomous AI pentester (the open-source XBOW alternative). A swarm of recon, exploit and report agents tests web apps and REST/GraphQL APIs, checks findings with non-LLM verification orac
 - [terminaltrove/lumon](https://github.com/terminaltrove/lumon) - The work is mysterious and important...
 - [mandiant/GoReSym](https://github.com/mandiant/GoReSym) - Go symbol recovery tool
 - [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - high-performance graph database for real-time use cases
@@ -979,6 +981,7 @@
 
 ## HTML 
 
+- [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Convert documents to structured data effortlessly. Unstructured is open-source ETL solution for transforming complex documents into clean, structured formats for language models.  Visit our website to
 - [hak5/wifipineapplepager-themes](https://github.com/hak5/wifipineapplepager-themes) - The Official WiFi Pineapple Pager Theme Repository
 - [ai-genie/chatgpt-vscode](https://github.com/ai-genie/chatgpt-vscode) - Your best AI pair programmer in VS Code
 - [CycloneDX/tool-center](https://github.com/CycloneDX/tool-center) - Data and schema powering the worlds largest collection of SBOM/xBOM products, projects, and services
@@ -1122,6 +1125,7 @@
 - [vsch/flexmark-java](https://github.com/vsch/flexmark-java) - CommonMark/Markdown Java parser with source level AST. CommonMark 0.28, emulation of: pegdown, kramdown, markdown.pl, MultiMarkdown. With HTML to MD, MD to PDF, MD to DOCX  conversion modules.
 - [rainmana/DuckDuckBurp](https://github.com/rainmana/DuckDuckBurp) - Front Burp data with DuckDB to enable super fast and awesome querying and AI integration
 - [Yalantis/StarWars.Android](https://github.com/Yalantis/StarWars.Android) - This component implements transition animation to crumble view into tiny pieces.
+- [elizaOS/eliza](https://github.com/elizaOS/eliza) - Open source agentic operating system
 - [federicodotta/Brida](https://github.com/federicodotta/Brida) - The new bridge between Burp Suite and Frida!
 - [ge-high-assurance/VERDICT](https://github.com/ge-high-assurance/VERDICT) - DARPA's Cyber Assured Systems Engineering (CASE) project named Verification Evidence and Resilient Design in Anticipation of Cybersecurity Threats (VERDICT)
 - [DARPA-ASKEM/terarium](https://github.com/DARPA-ASKEM/terarium) - 
@@ -1165,7 +1169,7 @@
 - [google/bindiff](https://github.com/google/bindiff) - Quickly find differences and similarities in disassembled code
 - [internetarchive/heritrix3](https://github.com/internetarchive/heritrix3) - Heritrix is the Internet Archive's open-source, extensible, web-scale, archival-quality web crawler project.
 - [apache/iotdb](https://github.com/apache/iotdb) - Apache IoTDB
-- [DSheirer/sdrtrunk](https://github.com/DSheirer/sdrtrunk) - A cross-platform java application for decoding, monitoring, recording and streaming trunked mobile and related radio protocols using Software Defined Radios (SDR).  Website:
+- [DSheirer/sdrtrunk](https://github.com/DSheirer/sdrtrunk) - A cross-platform java application for decoding, monitoring, recording and streaming trunked mobile and related radio protocols using Software Defined Radios (SDR).
 - [pavsa/hackrf-spectrum-analyzer](https://github.com/pavsa/hackrf-spectrum-analyzer) - 
 - [TorgoTorgo/ghidra-findcrypt](https://github.com/TorgoTorgo/ghidra-findcrypt) - Ghidra analysis plugin to locate cryptographic constants
 - [Battelle/cantordust](https://github.com/Battelle/cantordust) - Public repository for Cantordust Ghidra plugin.
@@ -1207,7 +1211,6 @@
 - [rsimmons/isovoxel](https://github.com/rsimmons/isovoxel) - Isometric voxel generative art
 - [rainmana/freegas](https://github.com/rainmana/freegas) - An AI inference proxy that acts as a local endpoint to get "free" AI inference from a list of providers.
 - [alephdata/aleph](https://github.com/alephdata/aleph) - Search and browse documents and data; find the people and companies you look for.
-- [farmino1/Gods_Eye](https://github.com/farmino1/Gods_Eye) - OSINT should be OPEN. I was pissed that a YouTuber didn't open source his Palantir clone, so I made my own one (vibecoded).
 - [Dev-next-gen/orodruin](https://github.com/Dev-next-gen/orodruin) - Orodruin — open-source intelligence platform. A self-hostable Palantir Gotham alternative: dozens of live global data sources on a 2D/3D map + actor graph, with an AI analyst that drives the UI.
 - [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) - God's Eye View: a spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. Official site: godseyeview.ai
 - [bsmr/awesome-opencode---awesome-opencode](https://github.com/bsmr/awesome-opencode---awesome-opencode) - A curated list of awesome plugins, themes, agents, projects, and resources for https://opencode.ai
@@ -2098,7 +2101,7 @@
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.
 - [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.
-- [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted, resource aware file conversion server supporting 520+ formats in 26 languages.
+- [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted, resource aware file conversion server supporting 530+ formats in 26 languages.
 - [iagox86/dnscat2](https://github.com/iagox86/dnscat2) - 
 - [php-embed/Embed](https://github.com/php-embed/Embed) - Get info from any web service or page
 - [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony
@@ -2169,6 +2172,8 @@
 
 ## Python 
 
+- [livlign/ccthemes](https://github.com/livlign/ccthemes) - A curated gallery of color themes for Claude Code.
+- [archesproject/arches](https://github.com/archesproject/arches) - Arches is a web platform for creating, managing, & visualizing geospatial data.  Arches was inspired by the needs of the Cultural Heritage community, particularly the widespread need of organizations 
 - [gramps-project/gramps](https://github.com/gramps-project/gramps) - Source code for Gramps Genealogical program
 - [ideoforms/AbletonOSC](https://github.com/ideoforms/AbletonOSC) - Control Ableton Live via Open Sound Control (OSC)
 - [strands-labs/strands-decider](https://github.com/strands-labs/strands-decider) - A small, fast decision model, or system one model, for agentic workflows. Pick between options or rate on a scale faster than an LLM, with a calibrated confidence on every decision.
@@ -2539,7 +2544,6 @@
 - [MarkCWirt/MIDIUtil](https://github.com/MarkCWirt/MIDIUtil) - A pure Python library for creating multi-track MIDI files
 - [ales-tsurko/athenaCL](https://github.com/ales-tsurko/athenaCL) - A fork of athenaCL, an algorithmic composition system
 - [Parisson/TimeSide](https://github.com/Parisson/TimeSide) - scalable audio processing framework and server written in Python
-- [aiXander/Realtime_PyAudio_FFT](https://github.com/aiXander/Realtime_PyAudio_FFT) - Realtime audio analysis in Python to extract audio features from streaming audio and send them over OSC to any client app.
 - [belangeo/pyo](https://github.com/belangeo/pyo) - Python DSP module
 - [tyiannak/pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis) - Python Audio Analysis Library: Feature Extraction, Classification, Segmentation and Applications
 - [tyiannak/paura](https://github.com/tyiannak/paura) - Python AUdio Recording and Analysis (paura)
@@ -3335,9 +3339,11 @@
 
 ## Rust 
 
+- [xberg-io/xberg](https://github.com/xberg-io/xberg) - The fast, precise document-intelligence engine for every language: text, tables and metadata from 100+ formats, with OCR, transcription and code intelligence.
+- [HelixDB/helix-db](https://github.com/HelixDB/helix-db) - HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.
 - [chvancooten/NimPlant](https://github.com/chvancooten/NimPlant) - A light-weight first-stage C2 implant written in Nim (and Rust).
 - [veloren/veloren](https://github.com/veloren/veloren) - [mirror of https://gitlab.com/veloren/veloren] An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. This repository is a mirror. Please submit all PRs and issues on our GitL
-- [horizon-rust/horizon](https://github.com/horizon-rust/horizon) - Minecraft: Java Edition 26.3 rewritten from scratch in Rust, checked against vanilla with 281 differential harnesses. Get it with the Horizon launcher.
+- [horizon-rust/horizon](https://github.com/horizon-rust/horizon) - Minecraft 26.3 rewritten in Rust.
 - [vladtrc/iw4L](https://github.com/vladtrc/iw4L) - Standalone experimental Call of Duty runtime in Rust, built on bevy and wgpu
 - [chasmlol/2010-rust-rewrite-mashup](https://github.com/chasmlol/2010-rust-rewrite-mashup) - MW2, Skate 3 and Minecraft in one Rust game: IW4L's MW2 rewrite with Skate 3 mode and a real Minecraft world map
 - [rainmana/md-to-pdf](https://github.com/rainmana/md-to-pdf) - Hackable CLI tool for converting Markdown files to PDF using Rust - fork of the Node md-to-pdf tool
@@ -3426,6 +3432,7 @@
 - [fkie-cad/cwe_checker](https://github.com/fkie-cad/cwe_checker) - cwe_checker finds vulnerable patterns in binary executables
 - [br0kej/bin2ml](https://github.com/br0kej/bin2ml) - A command line tool for extracting machine learning ready data from software binaries powered by Radare2
 - [witnessmenow/ESP32-Cheap-Yellow-Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display) - Building a community around a cheap ESP32 Display with a touch screen
+- [aiXander/Realtime_PyAudio_FFT](https://github.com/aiXander/Realtime_PyAudio_FFT) - Realtime audio analysis (Rust + Python engines): band levels, onsets, BPM and FFT from live audio, sent over OSC and WebSocket to any app.
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 - [prooflinedev/yek](https://github.com/prooflinedev/yek) - A fast Rust based tool to serialize text-based files in a repository or directory for LLM consumption
 - [dreadnode/robopages-cli](https://github.com/dreadnode/robopages-cli) - CLI and API server for https://github.com/dreadnode/robopages
@@ -3554,7 +3561,7 @@
 - [mikeroyal/PipeWire-Guide](https://github.com/mikeroyal/PipeWire-Guide) - PipeWire Guide. Learn about how PipeWire gives your Linux system a Professional Audio/Video Processing workflow.
 - [VirtusLab/sandcat](https://github.com/VirtusLab/sandcat) - A Docker & dev container setup for securely running AI agents in `--dangerous` mode. All container traffic is routed through a transparent mitmproxy, enforcing network access rules and injecting secre
 - [pmarreck/gemma4-heretical](https://github.com/pmarreck/gemma4-heretical) - Abliterated Gemma 4 31B for Ollama and MLX — one-command setup with correct chat template fix
-- [obsidianmd/obsidian-skills](https://github.com/obsidianmd/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
+- [obsidianmd/obsidian-skills](https://github.com/obsidianmd/obsidian-skills) - Teach your agent to use Obsidian and open formats including Markdown, Bases, JSON Canvas.
 - [tajmone/awesome-interactive-fiction](https://github.com/tajmone/awesome-interactive-fiction) - A list of interactive fiction frameworks, tools, and resources
 - [duckdb/duckdb-skills](https://github.com/duckdb/duckdb-skills) - 
 - [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server for Java Edition that automatically installs/upgrades versions, modloaders, modpacks and more at startup
@@ -3734,9 +3741,10 @@
 
 ## TypeScript 
 
+- [surrealdb/surrealist](https://github.com/surrealdb/surrealist) - Surrealist is the ultimate way to visually manage your SurrealDB database
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
 - [different-ai/openwork](https://github.com/different-ai/openwork) - The open-source alternative to Claude Cowork (powered by opencode)
-- [alexeyw/lot-map](https://github.com/alexeyw/lot-map) - A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 7 languages.
+- [alexeyw/lot-map](https://github.com/alexeyw/lot-map) - Lot Map for Claude Code: a live map beside the chat that shows what the agent is doing. Tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 8 languages.
 - [Itz-Agasta/OpenDiagram](https://github.com/Itz-Agasta/OpenDiagram) - AI diagram generator for software architecture - the open-source Eraser.io alternative. Describe your system in plain English, get editable system design, sequence, ERD & cloud diagrams on an Excalidr
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [1vcian/Pokemon-TCGP-Card-Scanner](https://github.com/1vcian/Pokemon-TCGP-Card-Scanner) - Card Scanner for tcg-pocket-collection-tracker
@@ -3834,7 +3842,6 @@
 - [palantir/blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the web
 - [arwes/arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework.
 - [nrwl/nx](https://github.com/nrwl/nx) - The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time.
-- [elizaOS/eliza](https://github.com/elizaOS/eliza) - Open source agentic operating system
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [excalidraw/excalidraw-mcp](https://github.com/excalidraw/excalidraw-mcp) - Fast and streamable Excalidraw MCP App
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
