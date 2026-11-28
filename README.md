@@ -27,6 +27,7 @@
 - [Elixir](#elixir)
 - [Emacs Lisp](#emacs-lisp)
 - [F#](#f#)
+- [Fluent](#fluent)
 - [G-code](#g-code)
 - [GDScript](#gdscript)
 - [Go](#go)
@@ -345,6 +346,7 @@
 
 ## C# # 
 
+- [BCUninstaller/Bulk-Crap-Uninstaller](https://github.com/BCUninstaller/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
 - [daeken/Ainur](https://github.com/daeken/Ainur) - Agents organizing to sing the world into existence
 - [CycloneDX/cyclonedx-cli](https://github.com/CycloneDX/cyclonedx-cli) - CycloneDX CLI tool for SBOM analysis, merging, diffs and format conversions.
 - [CervantesSec/cervantes](https://github.com/CervantesSec/cervantes) - Cervantes is an open-source, collaborative platform designed specifically for pentesters and red teams. It serves as a comprehensive management tool, streamlining the organization of projects, clients
@@ -702,6 +704,10 @@
 ## F# # 
 
 - [SoftSec-KAIST/Eclipser](https://github.com/SoftSec-KAIST/Eclipser) - Grey-box Concolic Testing on Binary Code (ICSE '19)
+
+## Fluent 
+
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 
 ## G-code 
 
@@ -1657,6 +1663,7 @@
 
 ## Objective-C 
 
+- [alexzielenski/ThemeEngine](https://github.com/alexzielenski/ThemeEngine) - OS X App to edit compiled .car files
 - [splinesoft/MUDRammer](https://github.com/splinesoft/MUDRammer) - A Modern MUD Client for iPhone and iPad.
 - [blendbyte/Textual](https://github.com/blendbyte/Textual) - Textual is a native IRC client for macOS
 - [seemoo-lab/airdrop-keychain-extractor](https://github.com/seemoo-lab/airdrop-keychain-extractor) - Extracting Apple ID Validation Record, Certificate, and Key for AirDrop
@@ -2174,6 +2181,7 @@
 
 ## Python 
 
+- [mattvv/omarchy-mac](https://github.com/mattvv/omarchy-mac) - Omarchy-flavoured macOS desktop: AeroSpace tiling, SketchyBar panels, Solitude theme
 - [livlign/ccthemes](https://github.com/livlign/ccthemes) - A curated gallery of color themes for Claude Code.
 - [archesproject/arches](https://github.com/archesproject/arches) - Arches is a web platform for creating, managing, & visualizing geospatial data.  Arches was inspired by the needs of the Cultural Heritage community, particularly the widespread need of organizations 
 - [gramps-project/gramps](https://github.com/gramps-project/gramps) - Source code for Gramps Genealogical program
@@ -3681,6 +3689,7 @@
 
 ## Swift 
 
+- [luckymarmot/ThemeKit](https://github.com/luckymarmot/ThemeKit) - macOS theming library
 - [the-tin-app/the_tin](https://github.com/the-tin-app/the_tin) - A free, open source Pokémon TCG collector app — for collectors, by collectors.
 - [ProducerGuy/ThermalForge](https://github.com/ProducerGuy/ThermalForge) - Free Apple fan control, open source, for Apple Silicon Macs (M1, M2, M3, M4, M5, M6): Mac mini, MacBook, MacBook Pro, Mac Studio, iMac. Menu bar app + CLI with live temps and Homebrew install. Alterna
 - [apple/swift-ntp](https://github.com/apple/swift-ntp) - Swift NTP library using Swift NIO. Provides an NTPClient.
